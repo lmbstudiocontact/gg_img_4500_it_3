@@ -1,0 +1,95 @@
+{
+  "english": "same",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "một thứ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "như nhau",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "giống nhau",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "một thứ",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "cũng cách ấy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cũng thế",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chữ giống nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "identical; not different.",
+      "definitions_ex_en": "she was saying the same thing over and over",
+      "definitions_ex_vn": "Cô ấy đã nói điều tương tự lặp đi lặp lại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of an identical type; exactly similar.",
+      "definitions_ex_en": "they all wore the same clothes",
+      "definitions_ex_vn": "tất cả họ mặc quần áo giống nhau",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the same thing as something previously mentioned.",
+      "definitions_ex_en": "I'll resign and encourage everyone else to do the same",
+      "definitions_ex_vn": "Tôi sẽ từ chức và khuyến khích mọi người khác làm như vậy",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "(chiefly in formal or legal use) the person or thing just mentioned.",
+      "definitions_ex_en": "sighted sub, sank same",
+      "definitions_ex_vn": "Sub SUB, chìm cùng",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "similarly; in the same way.",
+      "definitions_ex_en": "treating women the same as men",
+      "definitions_ex_vn": "đối xử với phụ nữ giống như đàn ông",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "variant spelling of Sami.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335701_a23b37f33e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335701_a4a3999b83_o.png",
+      "id_image": "same_2248099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690894_b5dfe867ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690894_2903b2e73e_o.png",
+      "id_image": "same_4045022"
+    }
+  ]
+}

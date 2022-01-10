@@ -1,0 +1,73 @@
+{
+  "english": "shoulder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bả vai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bờ vai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mống để đở vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần của đồi lồi ra như vai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vác lên vai",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the upper joint of the human arm and the part of the body between this and the neck.",
+      "definitions_ex_en": "I was carrying a bag over my shoulder",
+      "definitions_ex_vn": "Tôi đang mang một cái túi trên vai tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of something resembling a shoulder in shape, position, or function.",
+      "definitions_ex_en": "the shoulder of a pulley",
+      "definitions_ex_vn": "vai của một ròng rọc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a paved strip alongside a road for stopping on in an emergency.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put (something heavy) over one's shoulder or shoulders to carry.",
+      "definitions_ex_en": "we shouldered our crippling backpacks and set off slowly up the hill",
+      "definitions_ex_vn": "Chúng tôi gánh vác ba lô tê liệt của chúng tôi và đặt từ từ lên trên đồi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "push (someone or something) out of one's way with one's shoulder.",
+      "definitions_ex_en": "she shouldered him brusquely aside",
+      "definitions_ex_vn": "Cô gánh vác anh sang một bên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697699_0b8a14a351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697699_7aeb9ac330_o.png",
+      "id_image": "shoulder_2417963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387447_80afdf73c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387447_0bb3099467_o.png",
+      "id_image": "shoulder_5726774"
+    }
+  ]
+}

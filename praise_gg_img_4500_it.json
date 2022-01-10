@@ -1,0 +1,46 @@
+{
+  "english": "praise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ca tụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời khen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời khen ngợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ca ngợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khen tụng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "express warm approval or admiration of.",
+      "definitions_ex_en": "we can't praise Chris enough—he did a brilliant job",
+      "definitions_ex_vn": "Chúng ta không thể khen ngợi Chris đủ, anh ta đã làm một công việc tuyệt vời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the expression of approval or admiration for someone or something.",
+      "definitions_ex_en": "the audience was full of praise for the whole production",
+      "definitions_ex_vn": "Khán giả đầy lời khen ngợi cho toàn bộ sản xuất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445728_67777eb178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445728_799d430554_o.png",
+      "id_image": "praise_5521213"
+    }
+  ]
+}

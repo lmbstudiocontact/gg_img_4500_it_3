@@ -1,0 +1,75 @@
+{
+  "english": "rifle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khe lòng súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khía của lòng súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn bằng súng trường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rạch khe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rạch khía",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xử bắn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gun, especially one fired from shoulder level, having a long spirally grooved barrel intended to make a bullet spin and thereby have greater accuracy over a long distance.",
+      "definitions_ex_en": "a hunting rifle",
+      "definitions_ex_vn": "một khẩu súng săn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make spiral grooves in (a gun or its barrel or bore) to make a bullet spin and thereby have greater accuracy over a long distance.",
+      "definitions_ex_en": "there are four basic ways to rifle a gun barrel",
+      "definitions_ex_vn": "Có bốn cách cơ bản để súng trường súng bắn súng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit, throw, or kick (a ball or puck) hard and straight.",
+      "definitions_ex_en": "he rifled a hard, rising shot from just inside the blue line",
+      "definitions_ex_vn": "Anh ta thốt ra một cú sút xa, trỗi dậy từ bên trong đường màu xanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "search through something in a hurried way in order to find or steal something.",
+      "definitions_ex_en": "she rifled through the cassette tapes",
+      "definitions_ex_vn": "Cô ấy thốt ra qua băng cassette",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346811_0ca6b12a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346811_91fb40d52a_o.png",
+      "id_image": "rifle_2495769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461583_5279835bbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461583_aed977eb66_o.png",
+      "id_image": "rifle_5322294"
+    }
+  ]
+}

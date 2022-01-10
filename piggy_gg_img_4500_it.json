@@ -1,0 +1,39 @@
+{
+  "english": "piggy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "heo con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "heo nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(used by or when talking to children) a pig or piglet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "resembling a pig, especially in features or appetite.",
+      "definitions_ex_en": "three pairs of little piggy eyes",
+      "definitions_ex_vn": "Ba đôi mắt heo nhỏ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084745_4ed3382e41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084745_8f72d55879_o.png",
+      "id_image": "piggy_6303518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347401_8f875dd344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347401_c9c09e0bdd_o.png",
+      "id_image": "piggy_812881"
+    }
+  ]
+}

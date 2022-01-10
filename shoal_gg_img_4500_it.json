@@ -1,0 +1,58 @@
+{
+  "english": "shoal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không sâu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cạn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chổ nước cạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám đômg",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bớt sâu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large number of fish swimming together.",
+      "definitions_ex_en": "a shoal of bream",
+      "definitions_ex_vn": "một shoal của bream",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area of shallow water, especially as a navigational hazard.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of fish) form shoals.",
+      "definitions_ex_en": "these fish can safely be released to shoal with most adult species",
+      "definitions_ex_vn": "Những con cá này có thể được phát hành một cách an toàn cho Shoal với hầu hết các loài trưởng thành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of water) become shallower.",
+      "definitions_ex_en": "the water shoals reasonably gently, and the swimming is safe",
+      "definitions_ex_vn": "những bãi nước nhẹ nhàng một cách hợp lý, và bơi lội an toàn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388972_de94e8e165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388972_430f6e372c_o.png",
+      "id_image": "shoal_3937715"
+    }
+  ]
+}

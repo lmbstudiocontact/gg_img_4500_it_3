@@ -1,0 +1,156 @@
+{
+  "english": "report",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thanh danh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh tiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự báo cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tường thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin tức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ báo cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản báo cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng nổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản phúc trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin đồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "báo cáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều tra và viết phóng sự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kể lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tin đồn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tường trình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuật lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trần thuật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình diện",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give a spoken or written account of something that one has observed, heard, done, or investigated.",
+      "definitions_ex_en": "the representative reported a decline in milk and meat production",
+      "definitions_ex_vn": "Người đại diện đã báo cáo sự suy giảm về sản xuất sữa và thịt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "present oneself formally as having arrived at a particular place or as ready to do something.",
+      "definitions_ex_en": "Stewart is to report to a probation office on Monday",
+      "definitions_ex_vn": "Stewart là báo cáo cho một văn phòng quản chế vào thứ Hai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be responsible to (a superior or supervisor).",
+      "definitions_ex_en": "he reports to the chairman of the committee",
+      "definitions_ex_vn": "Ông báo cáo với Chủ tịch Ủy ban",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an account given of a particular matter, especially in the form of an official document, after thorough investigation or consideration by an appointed person or body.",
+      "definitions_ex_en": "the chairman's annual report",
+      "definitions_ex_vn": "Báo cáo hàng năm của Chủ tịch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of information that is unsupported by firm evidence and that the speaker feels may or may not be true.",
+      "definitions_ex_en": "reports were circulating that the chairman was about to resign",
+      "definitions_ex_vn": "Các báo cáo đã lưu hành rằng Chủ tịch sắp từ chức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden loud noise of or like an explosion or gunfire.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an employee who is supervised by another employee.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the way in which someone or something is regarded; reputation.",
+      "definitions_ex_en": "whatsoever things are lovely and of good report",
+      "definitions_ex_vn": "bất cứ điều gì đáng yêu và của báo cáo tốt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678249_fbd947f6b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678249_03ef9e37d4_o.png",
+      "id_image": "report_1312289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678194_44e07abbf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678194_35aeb069bf_o.png",
+      "id_image": "report_1402116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059850_9ce3f7c045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059850_db840df9fe_o.png",
+      "id_image": "report_413669"
+    }
+  ]
+}

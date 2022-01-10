@@ -1,0 +1,85 @@
+{
+  "english": "pouch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túi đựng tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ túi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho tiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "may áo phồng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngậm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phồng miệng lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small bag or other flexible receptacle, typically carried in a pocket or attached to a belt.",
+      "definitions_ex_en": "a tobacco pouch",
+      "definitions_ex_vn": "một túi thuốc lá.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pocket-like abdominal receptacle in which marsupials carry their young during lactation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put into a pouch.",
+      "definitions_ex_en": "he stopped, pouched his tickets, and plodded on",
+      "definitions_ex_vn": "Anh dừng lại, túi vé, và dồn vào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (part of a garment) hang like a pouch.",
+      "definitions_ex_en": "the muslin is lightly pouched over the belt",
+      "definitions_ex_vn": "Muslin được túi nhẹ trên vành đai",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447023_34aa62510a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447023_9a02395bf5_o.png",
+      "id_image": "pouch_1037916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376712_82e1519338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376712_4931705121_o.png",
+      "id_image": "pouch_5362148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331931_6d38db94c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331931_0aae3771c1_o.png",
+      "id_image": "pouch_5485741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376822_4357b8bedc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376822_b949bebbbb_o.png",
+      "id_image": "pouch_649073"
+    }
+  ]
+}

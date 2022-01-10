@@ -1,0 +1,50 @@
+{
+  "english": "revenue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huê lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợi tức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thâu nhập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền huê hồng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "income, especially when of a company or organization and of a substantial nature.",
+      "definitions_ex_en": "traders have lost $10,000 in revenue since the traffic scheme was implemented",
+      "definitions_ex_vn": "Các thương nhân đã mất 10.000 đô la doanh thu do chương trình giao thông đã được thực hiện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348656_a0216821e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348656_f9653977c2_o.png",
+      "id_image": "revenue_3798624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085900_be3523a639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085900_50302febfa_o.png",
+      "id_image": "revenue_4524098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703289_e5cbb8c1a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703289_7b01dc83cf_o.png",
+      "id_image": "revenue_4577278"
+    }
+  ]
+}

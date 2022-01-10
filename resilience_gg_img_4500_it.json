@@ -1,0 +1,48 @@
+{
+  "english": "resilience",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự dản ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giật lùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hủy bỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the capacity to recover quickly from difficulties; toughness.",
+      "definitions_ex_en": "the often remarkable resilience of so many British institutions",
+      "definitions_ex_vn": "khả năng phục hồi thường đáng chú ý của rất nhiều tổ chức của Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ability of a substance or object to spring back into shape; elasticity.",
+      "definitions_ex_en": "nylon is excellent in wearability and resilience",
+      "definitions_ex_vn": "nylon là tuyệt vời trong khả năng hao sắc và khả năng phục hồi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396742_27370a39b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396742_6563934b5c_o.png",
+      "id_image": "resilience_4412688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466458_0aa523b888_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466458_a1e93ba6ac_o.png",
+      "id_image": "resilience_5181963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396687_fe5e26a922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396687_e860e9c343_o.png",
+      "id_image": "resilience_5331749"
+    }
+  ]
+}

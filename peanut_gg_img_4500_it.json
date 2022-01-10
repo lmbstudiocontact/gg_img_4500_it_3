@@ -1,0 +1,55 @@
+{
+  "english": "peanut",
+  "list_translation_mean": [
+    {
+      "translate_mean": "củ lạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu phộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đậu phọng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the oval seed of a South American plant, widely roasted and salted and eaten as a snack.",
+      "definitions_ex_en": "a bag of dry-roasted peanuts",
+      "definitions_ex_vn": "một túi đậu phộng rang khô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the plant of the pea family that bears the peanut, which develops in pods that ripen underground. It is widely cultivated, especially in the southern US, and large quantities are used to make oil or animal feed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a paltry thing or amount, especially a very small amount of money.",
+      "definitions_ex_en": "he pays peanuts",
+      "definitions_ex_vn": "Anh ấy trả tiền đậu phộng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "small pieces of Styrofoam used for packing material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439993_17f20a556f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439993_404ddaa098_o.png",
+      "id_image": "peanut_4278309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324926_869f975fef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324926_31247cd144_o.png",
+      "id_image": "peanut_4391589"
+    }
+  ]
+}

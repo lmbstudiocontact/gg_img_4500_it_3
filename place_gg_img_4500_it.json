@@ -1,0 +1,93 @@
+{
+  "english": "place",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa phương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xếp chổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular position or point in space.",
+      "definitions_ex_en": "the monastery was a peaceful place",
+      "definitions_ex_vn": "Tu viện là một nơi yên bình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a portion of space available or designated for or being used by someone.",
+      "definitions_ex_en": "they hurried to their places at the table",
+      "definitions_ex_vn": "Họ vội vã đến nơi của họ tại bàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a position in a sequence or series, typically one ordered on the basis of merit.",
+      "definitions_ex_en": "his score left him in ninth place",
+      "definitions_ex_vn": "điểm số của anh ấy để anh ấy ở nơi thứ chín",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in place names) a square or a short street.",
+      "definitions_ex_en": "our new restaurant is in Hilliard Place",
+      "definitions_ex_vn": "Nhà hàng mới của chúng tôi ở Hilliard Place",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put in a particular position.",
+      "definitions_ex_en": "a newspaper had been placed beside my plate",
+      "definitions_ex_vn": "Một tờ báo đã được đặt bên cạnh tấm của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "find a home or employment for.",
+      "definitions_ex_en": "the children were placed with foster parents",
+      "definitions_ex_vn": "Những đứa trẻ được đặt với cha mẹ nuôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "identify or classify as being of a specified type or as holding a specified position in a sequence or hierarchy.",
+      "definitions_ex_en": "a survey placed the company 13th for achievement",
+      "definitions_ex_vn": "Một cuộc khảo sát đã đặt công ty thứ 13 để đạt được thành tích",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344211_5962414a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344211_61a4f934a1_o.png",
+      "id_image": "place_1692037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344191_6faf709780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344191_c31bb9b5ed_o.png",
+      "id_image": "place_5744807"
+    }
+  ]
+}

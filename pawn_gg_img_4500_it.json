@@ -1,0 +1,65 @@
+{
+  "english": "pawn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con chốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ để thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầm đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thế đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm đồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thế đồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a chess piece of the smallest size and value. A pawn moves one square forward along its file if unobstructed (or two on the first move), or one square diagonally forward when making a capture. Each player begins with eight pawns on the second rank, and can promote a pawn to become any other piece (typically a queen) if it reaches the opponent's end of the board.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an object left as security for money lent.",
+      "definitions_ex_en": "the bank did lend money upon pawns at low interest",
+      "definitions_ex_vn": "Ngân hàng đã cho vay tiền khi cầm đồ với lãi suất thấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deposit (an object) with a pawnbroker as security for money lent.",
+      "definitions_ex_en": "I pawned the necklace to cover the loan",
+      "definitions_ex_vn": "Tôi cầm đồ vòng cổ để trả cho khoản vay",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063370_5399b6bac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063370_eb325f896e_o.png",
+      "id_image": "pawn_1141811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681504_d083be2aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681504_2325efb157_o.png",
+      "id_image": "pawn_3490275"
+    }
+  ]
+}

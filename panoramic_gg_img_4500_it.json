@@ -1,0 +1,34 @@
+{
+  "english": "panoramic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ cảnh nhìn bao quát",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a view or picture) with a wide view surrounding the observer; sweeping.",
+      "definitions_ex_en": "on a clear day there are panoramic views",
+      "definitions_ex_vn": "Vào một ngày rõ ràng có tầm nhìn toàn cảnh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379947_34736a735d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379947_02bc7a334e_o.png",
+      "id_image": "panoramic_1266646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334896_a694c96ef7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334896_85a3741e21_o.png",
+      "id_image": "panoramic_2005135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380007_f8c6d2a2c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380007_f9bbaec562_o.png",
+      "id_image": "panoramic_764506"
+    }
+  ]
+}

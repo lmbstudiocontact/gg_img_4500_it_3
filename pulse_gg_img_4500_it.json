@@ -1,0 +1,93 @@
+{
+  "english": "pulse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rung động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rhythmical throbbing of the arteries as blood is propelled through them, typically as felt in the wrists or neck.",
+      "definitions_ex_en": "the doctor found a faint pulse",
+      "definitions_ex_vn": "Bác sĩ tìm thấy một xung mờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single vibration or short burst of sound, electric current, light, or other wave.",
+      "definitions_ex_en": "a pulse generator",
+      "definitions_ex_vn": "một máy phát xung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the central point of energy and organization in an area or activity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a measured amount of an isotopic label given to a culture of cells.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the edible seeds of various leguminous plants, for example chickpeas, lentils, and beans.",
+      "definitions_ex_en": "use pulses such as peas and lentils to eke out meat dishes",
+      "definitions_ex_vn": "Sử dụng các xung như đậu Hà Lan và đậu lăng để khai thác các món thịt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "throb rhythmically; pulsate.",
+      "definitions_ex_en": "a knot of muscles at the side of his jaw pulsed",
+      "definitions_ex_vn": "một nút cơ ở bên cạnh hàm của mình xung",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085225_6cbf9188ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085225_1386b0e9c3_o.png",
+      "id_image": "pulse_1347298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702664_05dff4d87f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702664_757138ee87_o.png",
+      "id_image": "pulse_205917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392787_eba07382d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392787_ed0aaaab19_o.png",
+      "id_image": "pulse_2660225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085180_5aebce6a08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085180_fc59e99e0d_o.png",
+      "id_image": "pulse_6371038"
+    }
+  ]
+}

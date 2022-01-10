@@ -1,0 +1,142 @@
+{
+  "english": "plane",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phi cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây dương đông ngô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái bào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường hầm ở mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trình độ học thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt phẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bằng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bằng phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bào gổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi du lịch bằng phi cơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bằng mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phẳng gổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lướt trên mặt nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat surface on which a straight line joining any two points on it would wholly lie.",
+      "definitions_ex_en": "the horizontal plane",
+      "definitions_ex_vn": "mặt phẳng ngang.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a level of existence, thought, or development.",
+      "definitions_ex_en": "everything is connected on the spiritual plane",
+      "definitions_ex_vn": "Tất cả mọi thứ được kết nối trên mặt phẳng tâm linh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an airplane.",
+      "definitions_ex_en": "a plane crash",
+      "definitions_ex_vn": "một vụ rơi máy bay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool consisting of a block with a projecting steel blade, used to smooth a wooden or other surface by paring shavings from it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tall spreading tree of the northern hemisphere, with maple-like leaves and bark that peels in uneven patches.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "completely level or flat.",
+      "definitions_ex_en": "a plane surface",
+      "definitions_ex_vn": "một bề mặt phẳng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a bird or an airborne object) soar without moving the wings; glide.",
+      "definitions_ex_en": "a bird planed down toward the water below",
+      "definitions_ex_vn": "một con chim lăn lộn về phía nước bên dưới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "travel in an airplane.",
+      "definitions_ex_en": "I had planed into the large air terminal at Los Angeles",
+      "definitions_ex_vn": "Tôi đã lên kế hoạch vào bến khí lớn tại Los Angeles",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "smooth (wood or other material) with a plane.",
+      "definitions_ex_en": "plane the edges of the wood to a smooth finish",
+      "definitions_ex_vn": "Máy bay các cạnh của gỗ để kết thúc mịn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698914_5c02fb7103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698914_e59f84670f_o.png",
+      "id_image": "plane_191542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458373_7fc8e4b046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458373_29b3bb39d5_o.png",
+      "id_image": "plane_1949326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343706_9441e8fa03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343706_e7502afec4_o.png",
+      "id_image": "plane_386462"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "ranch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi nuôi thú vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nuôi súc vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trại nuôi súc vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có trại nuôi nuôi súc vật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large farm, especially in the western US and Canada, where cattle or other animals are bred and raised.",
+      "definitions_ex_en": "a beef cattle ranch",
+      "definitions_ex_vn": "trang trại gia súc thịt bò",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of thick white salad dressing made with sour cream or buttermilk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "run a ranch.",
+      "definitions_ex_en": "they farmed and ranched in North Dakota",
+      "definitions_ex_vn": "họ nuôi và trang trại ở Bắc Dakota",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694224_79eb08a11a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694224_31167de5f1_o.png",
+      "id_image": "ranch_123637"
+    }
+  ]
+}

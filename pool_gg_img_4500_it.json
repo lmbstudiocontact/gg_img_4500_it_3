@@ -1,0 +1,89 @@
+{
+  "english": "pool",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ sâu ở sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ bơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ tắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vốn chung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vũng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vũng nước đọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để chung vốn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small area of still water, typically one formed naturally.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a supply of vehicles or goods available for use when needed.",
+      "definitions_ex_en": "the oldest vehicle in the motor pool",
+      "definitions_ex_vn": "chiếc xe lâu đời nhất trong bể bơi động cơ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a form of billiards in which the object is to pocket all the balls with a cue ball. There are many versions of the game, e.g. straight pool or eight ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of contestants who compete against each other in a tournament for the right to advance to the next round.",
+      "definitions_ex_en": "the sides in Pool A",
+      "definitions_ex_vn": "Các cạnh trong hồ bơi a",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrangement, illegal in many countries, between competing parties to fix prices or rates and share business in order to eliminate competition.",
+      "definitions_ex_en": "pool arrangements by the competing networks reduce individual costs",
+      "definitions_ex_vn": "Sắp xếp hồ bơi của các mạng cạnh tranh giảm chi phí cá nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of water or another liquid) form a pool on the ground or another surface.",
+      "definitions_ex_en": "the oil pooled behind the quay walls, escaping slowly into the river",
+      "definitions_ex_vn": "Dầu gảy sau những bức tường Quay, trốn thoát từ từ xuống sông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of two or more people or organizations) put (money or other assets) into a common fund.",
+      "definitions_ex_en": "they entered a contract to pool any gains and invest them profitably",
+      "definitions_ex_vn": "Họ đã nhập một hợp đồng để mang lại bất kỳ lợi ích nào và đầu tư họ có lãi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072920_51d96d38dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072920_804a5393d5_o.png",
+      "id_image": "pool_1403345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072895_deaf72d681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072895_7c50a8782b_o.png",
+      "id_image": "pool_4052543"
+    }
+  ]
+}

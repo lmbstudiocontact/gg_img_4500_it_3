@@ -1,0 +1,73 @@
+{
+  "english": "pearl",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trân châu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục xương ở chân hưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạt ngọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc trai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ốc xà cừ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột trai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mò ngọc trai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vớt hột trai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xay nát lúa mạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hard, lustrous spherical mass, typically white or bluish-gray, formed within the shell of a pearl oyster or other bivalve mollusk and highly prized as a gem.",
+      "definitions_ex_en": "a linen garment decorated with pearls",
+      "definitions_ex_vn": "một bộ quần áo vải lanh trang trí với ngọc trai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing of great rarity and worth.",
+      "definitions_ex_en": "these things are pearls amidst the everyday",
+      "definitions_ex_vn": "Những thứ này là ngọc trai giữa hàng ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form drops resembling pearls.",
+      "definitions_ex_en": "raindrops pearled on water-soaked windowpanes",
+      "definitions_ex_vn": "Những hạt mưa được chiếu sáng trên các cửa sổ ngâm nước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679844_65292a6ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679844_004a594c6d_o.png",
+      "id_image": "pearl_2439448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061605_64c065cc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061605_8a93911452_o.png",
+      "id_image": "pearl_443916"
+    }
+  ]
+}

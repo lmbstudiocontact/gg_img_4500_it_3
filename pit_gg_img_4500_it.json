@@ -1,0 +1,153 @@
+{
+  "english": "pit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa ngục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hang thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân đá gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị trường chứng khoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân ngồi xem hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "huyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn lủng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn mòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ xuống hố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có thẹo mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lủng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rổ mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thả ra sân đá nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn thủng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large hole in the ground.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hollow or indentation in a surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area at the side of a track where race cars are serviced and refueled.",
+      "definitions_ex_en": "he had a flat tire when he came into the pits",
+      "definitions_ex_vn": "Anh ta có một lốp xe phẳng khi anh ta vào hố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an orchestra pit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of the floor of an exchange in which a particular stock or commodity is traded, typically by open outcry.",
+      "definitions_ex_en": "pooled commodity funds liquidated positions in the corn and soybean pits",
+      "definitions_ex_vn": "Các quỹ hàng hóa được tổng hợp các vị trí thanh lý trong các hố ngô và đậu tương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an enclosure in which animals are made to fight.",
+      "definitions_ex_en": "a bear pit",
+      "definitions_ex_vn": "một hố gấu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "set someone or something in conflict or competition with.",
+      "definitions_ex_en": "a chance to pit herself against him",
+      "definitions_ex_vn": "một cơ hội để hố với anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a hollow or indentation in the surface of.",
+      "definitions_ex_en": "rain poured down, pitting the bare earth",
+      "definitions_ex_vn": "Mưa đổ xuống, vỗ đất trần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "drive a race car into the pits for fuel or maintenance.",
+      "definitions_ex_en": "he pitted on lap 36 with sudden engine trouble",
+      "definitions_ex_vn": "Anh ta đổ xô vào Lap 36 với sự cố động cơ đột ngột",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699959_38552f7131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699959_dd90e67c5d_o.png",
+      "id_image": "pit_4293890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459603_d0d7f508d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459603_be68bc9202_o.png",
+      "id_image": "pit_4294192"
+    }
+  ]
+}

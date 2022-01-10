@@ -1,0 +1,28 @@
+{
+  "english": "seaman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lính thủy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy thủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who works as a sailor, especially one below the rank of officer.",
+      "definitions_ex_en": "merchant seamen",
+      "definitions_ex_vn": "Seamen Merchant.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680284_9dea1f2b4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680284_3921b296ff_o.png",
+      "id_image": "seaman_4010436"
+    }
+  ]
+}

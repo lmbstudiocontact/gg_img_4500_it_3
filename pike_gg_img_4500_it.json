@@ -1,0 +1,78 @@
+{
+  "english": "pike",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây lao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cá chó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái cuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường cái lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái cúp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đâm bằng chĩa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm bằng ngọn giáo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long-bodied predatory freshwater fish with a pointed snout and large teeth, of both North America and Eurasia.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an infantry weapon with a pointed steel or iron head on a long wooden shaft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a position in diving or gymnastics in which the body is bent at the waist but the legs remain straight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "kill or thrust (someone) through with a pike.",
+      "definitions_ex_en": "many prisoners were taken out and piked",
+      "definitions_ex_vn": "Nhiều tù nhân đã được đưa ra ngoài và piked",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347171_531529d052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347171_2399ee890a_o.png",
+      "id_image": "pike_311594"
+    }
+  ]
+}

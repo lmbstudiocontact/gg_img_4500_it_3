@@ -1,0 +1,131 @@
+{
+  "english": "seal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "niêm phong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt hải cẩu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấm ngưới nào nói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn hải cẩu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng kín lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dấu niêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống hải cẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng giấy niêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng vải niêm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device or substance that is used to join two things together so as to prevent them from coming apart or to prevent anything from passing between them.",
+      "definitions_ex_en": "blue smoke from the exhaust suggests worn valve seals",
+      "definitions_ex_vn": "khói xanh từ khí thải gợi ý niêm phong van mòn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of wax, lead, or other material with an individual design stamped into it, attached to a document to show that it has come from the person who claims to have issued it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing regarded as a confirmation or guarantee of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the obligation on a priest not to divulge anything said during confession.",
+      "definitions_ex_en": "I was told under the seal",
+      "definitions_ex_vn": "Tôi đã nói dưới con dấu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fish-eating aquatic mammal with a streamlined body and feet developed as flippers, that returns to land to breed or rest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of an elite force within the US Navy, specializing in guerrilla warfare and counterinsurgency.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten or close securely.",
+      "definitions_ex_en": "he folded it, sealed the envelope, and walked to the mailbox",
+      "definitions_ex_vn": "Anh ta gập nó, bịt kín phong bì, và đi bộ đến hộp thư",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "apply a nonporous coating to (a surface) to make it impervious.",
+      "definitions_ex_en": "seal the finish with a satin varnish",
+      "definitions_ex_vn": "Niêm phong kết thúc với một vecni satin",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fry (food) briefly in hot fat to prevent it from losing too much of its moisture during subsequent cooking.",
+      "definitions_ex_en": "heat the oil and seal the lamb on both sides",
+      "definitions_ex_vn": "Đun nóng dầu và niêm phong con chiên ở cả hai bên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "conclude, establish, or secure (something) definitively, excluding the possibility of reversal or loss.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fix a piece of wax or lead stamped with a design to (a document) to authenticate it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440343_5718654b49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440343_1c1fab4bd6_o.png",
+      "id_image": "seals_1401083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062230_13d06345b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062230_a5f892a314_o.png",
+      "id_image": "seal_184333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680509_7da4d27d0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680509_81ce7cd843_o.png",
+      "id_image": "seal_2445326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680474_f091342ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680474_6c26fd3383_o.png",
+      "id_image": "seal_5018461"
+    }
+  ]
+}

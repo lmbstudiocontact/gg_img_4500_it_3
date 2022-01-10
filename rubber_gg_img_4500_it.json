@@ -1,0 +1,85 @@
+{
+  "english": "rubber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục gôm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục tẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ để chùi dơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đấm bóp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dụng cụ làm bằng cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dụng bằng cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dùng để lau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tough elastic polymeric substance made from the latex of a tropical plant or synthetically.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a contest consisting of a series of successive matches (typically three or five) between the same sides or people in tennis, cricket, and other games.",
+      "definitions_ex_en": "the opening rubber of Britain's Davis Cup tie against Argentina",
+      "definitions_ex_vn": "Cao su mở đầu của Davis Cup Cà vạt chống lại Argentina",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695674_b991693eea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695674_575faf58eb_o.png",
+      "id_image": "rubber_1589262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077585_944373f6a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077585_b1f5983558_o.png",
+      "id_image": "rubber_3944332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340276_946ff5dba9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340276_fa992f6e17_o.png",
+      "id_image": "rubber_5234023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077510_f8a9a0dc9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077510_47a0b1e696_o.png",
+      "id_image": "rubber_5848636"
+    }
+  ]
+}

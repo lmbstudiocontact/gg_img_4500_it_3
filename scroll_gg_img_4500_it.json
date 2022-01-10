@@ -1,0 +1,57 @@
+{
+  "english": "scroll",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộn giấy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a roll of parchment or paper for writing or painting on.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the facility which moves a display on a computer screen in order to view new material.",
+      "definitions_ex_en": "if scroll is enabled, the window scrolls down",
+      "definitions_ex_vn": "Nếu cuộn được bật, cửa sổ cuộn xuống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move displayed text or graphics in a particular direction on a computer screen in order to view different parts of them.",
+      "definitions_ex_en": "she scrolled through her file",
+      "definitions_ex_vn": "Cô ấy cuộn qua tập tin của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to move like paper rolling or unrolling.",
+      "definitions_ex_en": "the wind scrolled back the uppermost layer of loose dust",
+      "definitions_ex_vn": "Gió cuộn lại lớp bụi lỏng lẻo nhất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441323_50d2ffec57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441323_87638b9894_o.png",
+      "id_image": "scroll_1010045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681389_a473e8700a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681389_b56da599a6_o.png",
+      "id_image": "scroll_1450108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441373_6ac273172c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441373_78e18ff304_o.png",
+      "id_image": "scroll_225760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326291_5969631ca1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326291_6ea4b1ac22_o.png",
+      "id_image": "scroll_3646022"
+    }
+  ]
+}

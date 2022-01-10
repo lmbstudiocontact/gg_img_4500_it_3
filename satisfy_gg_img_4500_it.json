@@ -1,0 +1,48 @@
+{
+  "english": "satisfy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghe theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho tin theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thỏa mản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tròn nhiệm vụ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vui lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuyết phục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả nợ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "meet the expectations, needs, or desires of (someone).",
+      "definitions_ex_en": "I have never been satisfied with my job",
+      "definitions_ex_vn": "Tôi chưa bao giờ hài lòng với công việc của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333996_a729db5b27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333996_ab7cbd497f_o.png",
+      "id_image": "satisfy_4795838"
+    }
+  ]
+}

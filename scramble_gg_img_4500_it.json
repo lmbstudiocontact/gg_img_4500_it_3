@@ -1,0 +1,74 @@
+{
+  "english": "scramble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chen lấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xô đẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xô đẩy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet.",
+      "definitions_ex_en": "we scrambled over the wet boulders",
+      "definitions_ex_vn": "Chúng tôi tranh giành những tảng đá ẩm ướt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "order (a fighter aircraft or its pilot) to take off immediately in an emergency or for action.",
+      "definitions_ex_en": "the Hurricanes were scrambled again, this time meeting Italian fighters",
+      "definitions_ex_vn": "Những cơn bão đã bị tranh giành một lần nữa, lần này gặp gỡ các máy bay chiến đấu Ý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (something) jumbled or muddled.",
+      "definitions_ex_en": "maybe the alcohol has scrambled his brains",
+      "definitions_ex_vn": "Có lẽ rượu đã tranh giành bộ não của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a quarterback) run around with the ball behind the line of scrimmage while looking for an open receiver.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a difficult or hurried clamber up or over something.",
+      "definitions_ex_en": "an undignified scramble over the wall",
+      "definitions_ex_vn": "một cuộc tranh giành không bị đánh giá trên tường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disordered mixture of things.",
+      "definitions_ex_en": "the program produced a scramble of the letters of the alphabet",
+      "definitions_ex_vn": "Chương trình tạo ra một sự tranh giành của các chữ cái của bảng chữ cái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064895_918e31dfe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064895_940be1bb11_o.png",
+      "id_image": "scramble_4882869"
+    }
+  ]
+}

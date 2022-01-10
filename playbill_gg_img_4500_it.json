@@ -1,0 +1,33 @@
+{
+  "english": "playbill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biểu ngữ quảng cáo vở kịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy quảng cáo tuồng hát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a poster announcing a theatrical performance.",
+      "definitions_ex_en": "her name occupied third place in the playbills",
+      "definitions_ex_vn": "Tên cô chiếm vị trí thứ ba trong các playbills",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696569_65f65811bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696569_e8359416a6_o.png",
+      "id_image": "playbill_2519189"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456163_995e991e78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456163_0e400d2b51_o.png",
+      "id_image": "playbill_4090133"
+    }
+  ]
+}

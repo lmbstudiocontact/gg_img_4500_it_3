@@ -1,0 +1,70 @@
+{
+  "english": "portfolio",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bìa giấy đựng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chức tổng trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túi đựng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large, thin, flat case for loose sheets of paper such as drawings or maps.",
+      "definitions_ex_en": "under his arm he carried a large portfolio of drawings",
+      "definitions_ex_vn": "dưới cánh tay anh, anh mang một danh mục lớn về bản vẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a range of investments held by a person or organization.",
+      "definitions_ex_en": "better returns on its investment portfolio",
+      "definitions_ex_vn": "lợi nhuận tốt hơn trên danh mục đầu tư của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the position and duties of a minister of state or a member of a cabinet.",
+      "definitions_ex_en": "he took on the Foreign Affairs portfolio",
+      "definitions_ex_vn": "Anh ấy đã tham gia vào danh mục đầu tư đối ngoại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to, denoting, or engaged in an employment pattern that involves a succession of short-term contracts and part-time work, rather than the more traditional model of a long-term single job.",
+      "definitions_ex_en": "portfolio careers allow women to balance work with family",
+      "definitions_ex_vn": "Danh mục đầu tư Nghề nghiệp cho phép phụ nữ cân bằng công việc với gia đình",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334681_b6467c064e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334681_0fd12dd83e_o.png",
+      "id_image": "portfolio_1096152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449648_604f385aac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449648_bd34fe1b29_o.png",
+      "id_image": "portfolio_1907425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071600_1c69dc574c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071600_0932943ced_o.png",
+      "id_image": "portfolio_2345295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689684_97172481be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689684_2644e9f7e6_o.png",
+      "id_image": "portfolio_3365880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379662_d6c2877c3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379662_832329b292_o.png",
+      "id_image": "portfolio_683511"
+    }
+  ]
+}

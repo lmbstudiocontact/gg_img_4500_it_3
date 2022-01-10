@@ -1,0 +1,45 @@
+{
+  "english": "reproduction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chép lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mô phỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phiền thực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sanh sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sao lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of making a copy of something.",
+      "definitions_ex_en": "the cost of color reproduction in publication is high",
+      "definitions_ex_vn": "Chi phí tái tạo màu sắc trong ấn phẩm là cao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437718_0026509705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437718_e6b367bb4e_o.png",
+      "id_image": "reproduction_1373948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677514_c602fe5479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677514_d13a325517_o.png",
+      "id_image": "reproduction_2597692"
+    }
+  ]
+}

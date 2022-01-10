@@ -1,0 +1,44 @@
+{
+  "english": "portrait",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân dung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders.",
+      "definitions_ex_en": "a portrait of George III",
+      "definitions_ex_vn": "một bức chân dung của George III",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a page, book, or illustration, or the manner in which it is set or printed) higher than it is wide.",
+      "definitions_ex_en": "you can print landscape and portrait pages in the same document",
+      "definitions_ex_vn": "Bạn có thể in các trang ngang và dọc trong cùng một tài liệu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379387_89ea6a6bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379387_8a59b7a25c_o.png",
+      "id_image": "portrait_1193515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379337_137fba95b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379337_ac0b405757_o.png",
+      "id_image": "portrait_1256407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071480_8c51180807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071480_e39d259e39_o.png",
+      "id_image": "portrait_807838"
+    }
+  ]
+}

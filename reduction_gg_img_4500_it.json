@@ -1,0 +1,103 @@
+{
+  "english": "reduction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho nắn bớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chỉnh phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giãm giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giãm thuế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giáng cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khử oc xy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm cho mõng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm cho nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sụt cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sụt giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or fact of making a specified thing smaller or less in amount, degree, or size.",
+      "definitions_ex_en": "talks on arms reduction",
+      "definitions_ex_vn": "Nói về giảm cánh tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that is made smaller or less in size or amount.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of remedying a dislocation or fracture by returning the affected part of the body to its normal position.",
+      "definitions_ex_en": "we must see if the fracture requires reduction",
+      "definitions_ex_vn": "Chúng ta phải xem nếu gãy xương cần giảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process or result of reducing or being reduced.",
+      "definitions_ex_en": "the reaction is limited to reduction to the hydrocarbon",
+      "definitions_ex_vn": "Phản ứng được giới hạn giảm xuống hydrocarbon",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "substitution of a sound which requires less muscular effort to articulate.",
+      "definitions_ex_en": "the process of vowel reduction",
+      "definitions_ex_vn": "Quá trình giảm nguyên âm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687774_bd8e02990a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687774_8fe9349c3f_o.png",
+      "id_image": "reduction_2620418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447758_0b17cd1c2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447758_5a5d014437_o.png",
+      "id_image": "reduction_2911733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377507_e0bc3be645_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377507_61862df006_o.png",
+      "id_image": "reduction_2911734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332646_248118d36a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332646_092452354d_o.png",
+      "id_image": "reduction_3063595"
+    }
+  ]
+}

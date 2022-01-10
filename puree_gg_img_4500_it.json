@@ -1,0 +1,40 @@
+{
+  "english": "puree",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bột nhuyễn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a smooth, creamy substance made of liquidized or crushed fruit or vegetables.",
+      "definitions_ex_en": "stir in the tomato puree",
+      "definitions_ex_vn": "Khuấy trong cà chua xay nhuyễn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a puree of (fruit or vegetables).",
+      "definitions_ex_en": "puree the potatoes through the sieve",
+      "definitions_ex_vn": "xay nhuyễn khoai tây qua rây",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391947_0f560a8e3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391947_7fe80501c0_o.png",
+      "id_image": "puree_1580482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346931_d8c90db471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346931_e7a373e04e_o.png",
+      "id_image": "puree_1580491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461768_6bdfa9f712_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461768_8422aeb283_o.png",
+      "id_image": "puree_2504180"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "reactionary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phản động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phản tiến hóa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phản ứng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or a set of views) opposing political or social liberalization or reform.",
+      "definitions_ex_en": "reactionary attitudes toward women's rights",
+      "definitions_ex_vn": "Thái độ phản ứng đối với quyền của phụ nữ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a reactionary person.",
+      "definitions_ex_en": "he was later to become an extreme reactionary",
+      "definitions_ex_vn": "anh ấy đã trở thành một phản ứng cực đoan",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074115_a17ca5b69a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074115_d833a832be_o.png",
+      "id_image": "reactionary_2473153"
+    }
+  ]
+}

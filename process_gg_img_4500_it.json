@@ -1,0 +1,104 @@
+{
+  "english": "process",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách in bản điều sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bành trướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát triển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến triển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trát đòi đi hầu tòa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "in lại một bản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiện người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a series of actions or steps taken in order to achieve a particular end.",
+      "definitions_ex_en": "military operations could jeopardize the peace process",
+      "definitions_ex_vn": "Các hoạt động quân sự có thể gây nguy hiểm cho quá trình hòa bình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a summons or writ requiring a person to appear in court.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a natural appendage or outgrowth on or in an organism, such as a protuberance on a bone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "perform a series of mechanical or chemical operations on (something) in order to change or preserve it.",
+      "definitions_ex_en": "the various stages in processing the wool",
+      "definitions_ex_vn": "các giai đoạn khác nhau trong việc chế biến len",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "walk or march in procession.",
+      "definitions_ex_en": "they processed down the aisle",
+      "definitions_ex_vn": "họ đã xử lý lối đi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322966_3ba1ec8f83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322966_c25aa31cb2_o.png",
+      "id_image": "process_1605297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059660_d440454894_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059660_3a2bb26719_o.png",
+      "id_image": "process_2733478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367937_99aeb397ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367937_1af682c5c3_o.png",
+      "id_image": "process_296930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059620_03ab6b0d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059620_4e82fde26f_o.png",
+      "id_image": "process_4391691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678124_615cb71425_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678124_ac92270bff_o.png",
+      "id_image": "process_860483"
+    }
+  ]
+}

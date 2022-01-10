@@ -1,0 +1,47 @@
+{
+  "english": "replacement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đặt lại chổ củ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấp vỏ xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay thế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of replacing someone or something.",
+      "definitions_ex_en": "the replacement of religion by poetry",
+      "definitions_ex_vn": "sự thay thế tôn giáo của thơ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323401_25a0ca8f23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323401_b9f6df7fa7_o.png",
+      "id_image": "replacement_2666809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060200_647532c73e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060200_c5eb38c0d9_o.png",
+      "id_image": "replacement_4866732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368272_5aa9717441_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368272_bfdb59fb2a_o.png",
+      "id_image": "replacement_5060046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678514_6f97548a6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678514_dcdafb0702_o.png",
+      "id_image": "replacement_5351617"
+    }
+  ]
+}

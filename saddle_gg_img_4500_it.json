@@ -1,0 +1,85 @@
+{
+  "english": "saddle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "yên xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đèo núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khớp thịt lưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần lưng của trừu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật gì giống cái yên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yên ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yên xe đạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để vật gì trên lưng ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắng yên ngựa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a seat fastened on the back of a horse or other animal for riding, typically made of leather and raised at the front and rear.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a low part of a ridge between two higher points or peaks.",
+      "definitions_ex_en": "follow the road which goes across the saddle between two tors",
+      "definitions_ex_vn": "đi theo con đường đi qua yên giữa hai tors",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shaped support on which a cable, wire, or pipe rests.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lower part of the back in a mammal or fowl, especially when distinct in shape or marking.",
+      "definitions_ex_en": "feathers at the rear of a rooster's saddle",
+      "definitions_ex_vn": "lông ở phía sau yên xe của một con gà trống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put a saddle on (a horse).",
+      "definitions_ex_en": "he was in the stable saddling up his horse",
+      "definitions_ex_vn": "anh ta đang ở trong chuồng ngựa của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337781_505ed6d199_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337781_9db249dbdd_o.png",
+      "id_image": "saddle_2464823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452688_26b7b917b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452688_04df462e46_o.png",
+      "id_image": "saddle_878991"
+    }
+  ]
+}

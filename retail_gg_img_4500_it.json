@@ -1,0 +1,76 @@
+{
+  "english": "retail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giá bám lẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng hóa bán lẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bán lẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "truyền rao tin tức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán lẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền rao",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sale of goods to the public in relatively small quantities for use or consumption rather than for resale.",
+      "definitions_ex_en": "the product's retail price",
+      "definitions_ex_vn": "Giá bán lẻ của sản phẩm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "being sold by retail or at a retail price.",
+      "definitions_ex_en": "it is not yet available retail",
+      "definitions_ex_vn": "Nó chưa có sẵn lẻ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "sell (goods) to the public by retail.",
+      "definitions_ex_en": "the difficulties in retailing the new products",
+      "definitions_ex_vn": "những khó khăn trong việc bán lẻ các sản phẩm mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "relate or repeat (a story) in detail.",
+      "definitions_ex_en": "his inimitable way of retailing a diverting anecdote",
+      "definitions_ex_vn": "cách không thể bắt chước của mình để bán lẻ một giai thoại chuyển hướng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349616_e6a08cf707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349616_69df9c29b0_o.png",
+      "id_image": "retail_1353752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704269_090367bc2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704269_f7e3d3e370_o.png",
+      "id_image": "retail_2037284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464268_cfeb84805b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464268_2075c8af6c_o.png",
+      "id_image": "retail_6206766"
+    }
+  ]
+}

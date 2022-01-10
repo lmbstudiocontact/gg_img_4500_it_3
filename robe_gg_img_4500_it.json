@@ -1,0 +1,55 @@
+{
+  "english": "robe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo dài choàng ở ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "da thú dùng để đậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng phục trong sở làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "y phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "choàng áo ngoài",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, loose outer garment.",
+      "definitions_ex_en": "a young man in a fez and ragged robe",
+      "definitions_ex_vn": "một chàng trai trẻ trong một chiếc áo choàng Fez và rách rưới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clothe in a robe or long, loose outer garment.",
+      "definitions_ex_en": "the Chamberlain robed the king on coronation day",
+      "definitions_ex_vn": "Chamberlain đã cướp nhà vua vào ngày đăng quang",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459338_e648601c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459338_8f709e122d_o.png",
+      "id_image": "robe_2597558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459328_be8ff6035f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459328_2bee12b6e5_o.png",
+      "id_image": "robe_3943665"
+    }
+  ]
+}

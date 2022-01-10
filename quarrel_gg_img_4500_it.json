@@ -1,0 +1,67 @@
+{
+  "english": "quarrel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao cắt hột xoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cải lẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ tên có nỏ đầu vuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao đục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cải lẩy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heated argument or disagreement, typically about a trivial issue and between people who are usually on good term.",
+      "definitions_ex_en": "she made the mistake of picking a quarrel with John",
+      "definitions_ex_vn": "Cô đã phạm sai lầm khi chọn một cuộc cãi vã với John",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short, heavy, square-headed arrow or bolt used in a crossbow or arbalest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small, diamond-shaped pane of glass as used in lattice windows.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have a heated argument or disagreement.",
+      "definitions_ex_en": "stop quarreling with your sister",
+      "definitions_ex_vn": "Ngừng cãi nhau với em gái của bạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344836_a7e0fdc328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344836_21b71c7750_o.png",
+      "id_image": "quarrel_3220652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389702_2a4163d29a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389702_d856f10917_o.png",
+      "id_image": "quarrel_4763127"
+    }
+  ]
+}

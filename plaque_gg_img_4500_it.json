@@ -1,0 +1,48 @@
+{
+  "english": "plaque",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huy chương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "huân bài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm bản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an ornamental tablet, typically of metal, porcelain, or wood, that is fixed to a wall or other surface in commemoration of a person or event.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sticky deposit on teeth in which bacteria proliferate.",
+      "definitions_ex_en": "plaque around gum margins can lead to gingivitis",
+      "definitions_ex_vn": "mảng bám quanh lề kẹo cao su có thể dẫn đến viêm nướu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small, distinct, typically raised patch or region resulting from local damage or deposition of material, such as a fatty deposit on an artery wall in atherosclerosis or a site of localized damage of brain tissue in Alzheimer's disease.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697489_2895327552_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697489_b25a2300bd_o.png",
+      "id_image": "plaque_1471807"
+    }
+  ]
+}

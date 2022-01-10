@@ -1,0 +1,96 @@
+{
+  "english": "rear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đuôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng cuối cùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hậu quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần ở sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở phía sau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở sau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng dựng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giáo dục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuôi nấng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây dựng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the back part of something, especially a building or vehicle.",
+      "definitions_ex_en": "the kitchen door at the rear of the house",
+      "definitions_ex_vn": "cánh cửa bếp ở phía sau của ngôi nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "at the back.",
+      "definitions_ex_en": "the car's rear window",
+      "definitions_ex_vn": "cửa sổ phía sau của xe",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "bring up and care for (a child) until they are fully grown, especially in a particular manner or place.",
+      "definitions_ex_en": "he was born and reared in New York City",
+      "definitions_ex_vn": "Ông sinh ra và nuôi dưỡng tại thành phố New York",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a horse or other animal) raise itself upright on its hind legs.",
+      "definitions_ex_en": "the horse reared in terror",
+      "definitions_ex_vn": "Con ngựa nuôi trong khủng bố",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381682_03205bd7d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381682_c23f9407be_o.png",
+      "id_image": "rear_1230008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336631_66654c300e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336631_3eed7610fa_o.png",
+      "id_image": "rear_1743655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336601_2bf30403a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336601_66708b848b_o.png",
+      "id_image": "rear_2418915"
+    }
+  ]
+}

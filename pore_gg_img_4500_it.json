@@ -1,0 +1,50 @@
+{
+  "english": "pore",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ham mê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị hấp dẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩ ngợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "say đắm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "suy nghĩ nhiều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lổ chân lông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a minute opening in a surface, especially the skin or integument of an organism, through which gases, liquids, or microscopic particles can pass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be absorbed in the reading or study of.",
+      "definitions_ex_en": "Heather spent hours poring over cookbooks",
+      "definitions_ex_vn": "Heather dành hàng giờ qua sách dạy nấu ăn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072200_b1d49c2347_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072200_55de44bd70_o.png",
+      "id_image": "pore_4148607"
+    }
+  ]
+}

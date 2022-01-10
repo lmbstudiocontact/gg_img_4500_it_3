@@ -1,0 +1,51 @@
+{
+  "english": "pollution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bẩn thỉu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ô uế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dơ dáy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dơ bẩn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+      "definitions_ex_en": "the level of pollution in the air is rising",
+      "definitions_ex_vn": "Mức độ ô nhiễm trong không khí đang tăng lên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336541_48c03f5596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336541_453f9cea85_o.png",
+      "id_image": "pollution_2333636"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073485_92f7046be6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073485_8bc99781ed_o.png",
+      "id_image": "pollution_2333750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073465_c5261e1562_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073465_6c9a6030a5_o.png",
+      "id_image": "pollution_2687721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381472_bcbc5fdb5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381472_d8508f5903_o.png",
+      "id_image": "pollution_4814907"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "pedestrian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi bằng chân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khách bộ hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chạy bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chạy đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi bộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person walking along a road or in a developed area.",
+      "definitions_ex_en": "the road is so dangerous pedestrians avoid it",
+      "definitions_ex_vn": "Con đường rất nguy hiểm cho người đi bộ tránh nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lacking inspiration or excitement; dull.",
+      "definitions_ex_en": "disenchantment with their present, pedestrian lives",
+      "definitions_ex_vn": "bất mãn với cuộc sống hiện tại, người đi bộ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439048_7739250009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439048_df12f92eca_o.png",
+      "id_image": "pedestrian_1056246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679099_70006f63a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679099_2d421fb35b_o.png",
+      "id_image": "pedestrian_1138114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324016_836e2e8fdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324016_2deaafa71f_o.png",
+      "id_image": "pedestrian_631700"
+    }
+  ]
+}

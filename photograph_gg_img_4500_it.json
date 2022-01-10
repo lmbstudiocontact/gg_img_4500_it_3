@@ -1,0 +1,53 @@
+{
+  "english": "photograph",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chụp hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chụp hình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a picture made using a camera, in which an image is focused onto film or other light-sensitive material and then made visible and permanent by chemical treatment, or stored digitally.",
+      "definitions_ex_en": "a photograph of her father",
+      "definitions_ex_vn": "một bức ảnh của cha cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take a photograph of.",
+      "definitions_ex_en": "she has photographed all of the major ballet companies worldwide",
+      "definitions_ex_vn": "Cô đã chụp ảnh tất cả các công ty ba lê lớn trên toàn thế giới",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349511_4cecbeff5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349511_dcaa6421a7_o.png",
+      "id_image": "photograph_238303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394262_63fee50f9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394262_7f19bc8161_o.png",
+      "id_image": "photograph_238322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464133_4f17d0fccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464133_6af36afb0e_o.png",
+      "id_image": "photograph_238348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086645_979c000cca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086645_3ae5f3e7c9_o.png",
+      "id_image": "photograph_238350"
+    }
+  ]
+}

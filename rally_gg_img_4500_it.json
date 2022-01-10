@@ -1,0 +1,118 @@
+{
+  "english": "rally",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhóm lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấy lại sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tụ tập lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tập hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế giểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chế nhạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhóm lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tập hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo về phía nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vững lòng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phấn khởi lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy lại sức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy lại tinh thần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhạo báng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of troops) come together again in order to continue fighting after a defeat or dispersion.",
+      "definitions_ex_en": "De Montfort's troops rallied and drove back the king's infantry",
+      "definitions_ex_vn": "Đội quân De Montfort đã tập hợp và lái xe trở lại bộ binh của nhà vua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "recover or cause to recover in health, spirits, or poise.",
+      "definitions_ex_en": "she floundered for a moment, then rallied again",
+      "definitions_ex_vn": "Cô lúng túng trong giây lát, rồi lại tan chiều",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "drive in a rally.",
+      "definitions_ex_en": "we're driving off to Spain to rally",
+      "definitions_ex_vn": "Chúng tôi đang lái xe đến Tây Ban Nha để tập hợp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject (someone) to good-humored ridicule; tease.",
+      "definitions_ex_en": "he rallied her on the length of her pigtail",
+      "definitions_ex_vn": "Anh ta tập hợp cô ấy về chiều dài của bím tóc của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a mass meeting of people making a political protest or showing support for a cause.",
+      "definitions_ex_en": "a rally attended by around 100,000 people",
+      "definitions_ex_vn": "một cuộc biểu tình tham gia khoảng 100.000 người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a competition for motor vehicles in which they are driven a long distance over public roads or rough terrain, typically in stages and through checkpoints.",
+      "definitions_ex_en": "a rally driver",
+      "definitions_ex_vn": "một người lái xe tập trung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quick or marked recovery after a reverse or a period of weakness.",
+      "definitions_ex_en": "the market staged a late rally",
+      "definitions_ex_vn": "Thị trường dàn dựng một cuộc biểu tình muộn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in tennis and other racket sports) an extended exchange of strokes between players.",
+      "definitions_ex_en": "a rally of more than three strokes was a rarity",
+      "definitions_ex_vn": "một cuộc biểu tình của nhiều hơn ba nét là một sự hiếm có",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454243_12e326d170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454243_5934ea2f1c_o.png",
+      "id_image": "rally_2529729"
+    }
+  ]
+}

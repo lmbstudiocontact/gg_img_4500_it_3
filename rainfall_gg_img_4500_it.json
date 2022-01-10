@@ -1,0 +1,28 @@
+{
+  "english": "rainfall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự mưa xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận mưa rào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fall of rain.",
+      "definitions_ex_en": "wildebeest sense distant rainfall",
+      "definitions_ex_vn": "Lượng mưa xa hoang dã",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339821_d8e810a0e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339821_0ce1d5acc8_o.png",
+      "id_image": "rainfall_2402805"
+    }
+  ]
+}

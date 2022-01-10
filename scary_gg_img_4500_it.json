@@ -1,0 +1,32 @@
+{
+  "english": "scary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghê sợ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kinh khủng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhút nhát",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "frightening; causing fear.",
+      "definitions_ex_en": "a scary movie",
+      "definitions_ex_vn": "một bộ phim đáng sợ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068620_4f64d15e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068620_3e86016697_o.png",
+      "id_image": "scary_218277"
+    }
+  ]
+}

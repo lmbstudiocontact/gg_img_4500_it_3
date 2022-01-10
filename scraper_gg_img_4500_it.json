@@ -1,0 +1,58 @@
+{
+  "english": "scraper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái cạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái nạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kéo vĩ cầm dở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà quyền thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm đệm để chùi giầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dùng để cạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tool or device used for scraping, especially for removing dirt, paint, ice, or other unwanted matter from a surface.",
+      "definitions_ex_en": "a wallpaper scraper",
+      "definitions_ex_vn": "một cái giấy dán tường",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683009_c014ab8bcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683009_2a7ea8f767_o.png",
+      "id_image": "scraper_164333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372647_d4b3f6d084_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372647_bedd76487a_o.png",
+      "id_image": "scraper_387742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372602_cfd2e4d444_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372602_1259139229_o.png",
+      "id_image": "scraper_4728085"
+    }
+  ]
+}

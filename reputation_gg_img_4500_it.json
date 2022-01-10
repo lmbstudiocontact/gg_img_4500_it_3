@@ -1,0 +1,34 @@
+{
+  "english": "reputation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "danh tiếng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the beliefs or opinions that are generally held about someone or something.",
+      "definitions_ex_en": "his reputation was tarnished by allegations that he had taken bribes",
+      "definitions_ex_vn": "danh tiếng của ông bị mờ nhạt bởi những cáo buộc rằng ông đã lấy hối lộ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677439_e2b5568d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677439_1b2e1e3b13_o.png",
+      "id_image": "reputation_2132560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322301_ca7688b010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322301_f703347b73_o.png",
+      "id_image": "reputation_2720867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059120_9887ff79b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059120_19d37d7f4d_o.png",
+      "id_image": "reputation_4675015"
+    }
+  ]
+}

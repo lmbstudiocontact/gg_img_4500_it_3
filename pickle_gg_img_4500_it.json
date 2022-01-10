@@ -1,0 +1,64 @@
+{
+  "english": "pickle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dưa leo chua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ chua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ dầm giấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước xốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để dành trong giấm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để dành trong muối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngâm trong nước muối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a difficult or messy situation.",
+      "definitions_ex_en": "I am in a pickle",
+      "definitions_ex_vn": "Tôi đang ở trong một dưa chua",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "preserve (food or other perishable items) in vinegar, brine, or a similar solution.",
+      "definitions_ex_en": "chunks of green tomatoes pickled in brine",
+      "definitions_ex_vn": "khối cà chua xanh ngâm trong nước muối",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085580_471c92750a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085580_fb70d05625_o.png",
+      "id_image": "pickle_1411022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393142_6b47960960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393142_02b5ea869f_o.png",
+      "id_image": "pickle_5588946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085610_4b0cdc0891_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085610_78314dae1b_o.png",
+      "id_image": "pickle_933232"
+    }
+  ]
+}

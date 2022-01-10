@@ -1,0 +1,38 @@
+{
+  "english": "relational",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có bà con",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có liên hệ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "concerning the way in which two or more people or things are connected.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443313_7d64232ac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443313_07eef3fa52_o.png",
+      "id_image": "relational_2620632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328251_423a1de177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328251_e7a483813f_o.png",
+      "id_image": "relational_2758751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372962_9950cc0820_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372962_4a09283f3f_o.png",
+      "id_image": "relational_3043559"
+    }
+  ]
+}

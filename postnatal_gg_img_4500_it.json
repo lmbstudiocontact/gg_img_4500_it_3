@@ -1,0 +1,29 @@
+{
+  "english": "postnatal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lúc sanh đẻ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, relating to, characteristic of, or denoting the period after childbirth.",
+      "definitions_ex_en": "postnatal care",
+      "definitions_ex_vn": "Chăm sóc hậu sản",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333206_812149971d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333206_5a23e43662_o.png",
+      "id_image": "postnatal_1466253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070045_f8199d8dc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070045_1ca867a92c_o.png",
+      "id_image": "postnatal_4215466"
+    }
+  ]
+}

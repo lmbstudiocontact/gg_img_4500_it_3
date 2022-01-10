@@ -1,0 +1,42 @@
+{
+  "english": "population",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ở một nơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trú ngụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổng cộng nhân số",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "all the inhabitants of a particular town, area, or country.",
+      "definitions_ex_en": "the island has a population of about 78,000",
+      "definitions_ex_vn": "hòn đảo có dân số khoảng 78.000",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690704_c2bf7dbe23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690704_184c1d8db9_o.png",
+      "id_image": "population_3382581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380567_0834226a7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380567_baf568a30a_o.png",
+      "id_image": "population_5175233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690744_86c894129f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690744_931dd61c57_o.png",
+      "id_image": "population_649167"
+    }
+  ]
+}

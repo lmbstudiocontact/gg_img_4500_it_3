@@ -1,0 +1,285 @@
+{
+  "english": "pass",
+  "list_translation_mean": [
+    {
+      "translate_mean": "qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trôi qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi ngang qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sang qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bài tiết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt kịp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không chia lời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không ngừng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyên án",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo kịp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biến mất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi qua trước mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thi đậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy mau hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận một thí sinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thông qua một đạo luật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chấp thuận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho lưu hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "qua không dừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt lên trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuyển giao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đậu vấn đáp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường trong núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xoi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đưa banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy phép",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or cause to move in a specified direction.",
+      "definitions_ex_en": "he passed through towns and villages",
+      "definitions_ex_vn": "Anh đi qua các thị trấn và làng mạc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go past or across; leave behind or on one side in proceeding.",
+      "definitions_ex_en": "the two vehicles had no room to pass each other",
+      "definitions_ex_vn": "Hai phương tiện không có chỗ để vượt qua nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of time or a point in time) elapse; go by.",
+      "definitions_ex_en": "the day and night passed slowly",
+      "definitions_ex_vn": "ngày và đêm trôi qua chậm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "transfer (something) to someone, especially by handing or bequeathing it to the next person in a series.",
+      "definitions_ex_en": "your letter has been passed to Mr. Rich for action",
+      "definitions_ex_vn": "Thư của bạn đã được truyền cho ông Rich cho hành động",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a candidate) be successful in (an examination, test, or course).",
+      "definitions_ex_en": "she passed her driving test",
+      "definitions_ex_vn": "Cô ấy đã vượt qua bài kiểm tra lái xe của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a legislative or other official body) approve or put into effect (a proposal or law) by voting on it.",
+      "definitions_ex_en": "the bill was passed despite fierce opposition",
+      "definitions_ex_vn": "Dự luật đã được thông qua bất chấp sự phản đối khốc liệt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pronounce (a judgment or judicial sentence).",
+      "definitions_ex_en": "passing judgment on these crucial issues",
+      "definitions_ex_vn": "vượt qua sự phán xét về những vấn đề quan trọng này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "discharge (something, especially urine or feces) from the body.",
+      "definitions_ex_en": "frequency of passing urine",
+      "definitions_ex_vn": "Tần suất đi tiểu xuyên qua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "forgo one's turn in a game or an offered opportunity.",
+      "definitions_ex_en": "we pass on dessert and have coffee",
+      "definitions_ex_vn": "Chúng tôi đi qua món tráng miệng và uống cà phê",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or instance of moving past or through something.",
+      "definitions_ex_en": "repeated passes with the swipe card",
+      "definitions_ex_vn": "lặp đi lặp lại với thẻ quẹt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a successful completion of an examination or course.",
+      "definitions_ex_en": "a 100 percent pass rate",
+      "definitions_ex_vn": "Tỷ lệ vượt qua 100%",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a card, ticket, or permit giving authorization for the holder to enter or have access to a place, form of transportation, or event.",
+      "definitions_ex_en": "a bus pass",
+      "definitions_ex_vn": "một chuyến xe buýt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in football, soccer, hockey, and other games) an act of throwing, kicking, or hitting the ball or puck to another player on the same team.",
+      "definitions_ex_en": "his cross-field pass to Giggs",
+      "definitions_ex_vn": "Cánh đồng chéo của anh ấy đến Giggs",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amorous or sexual advance made to someone.",
+      "definitions_ex_en": "she made a pass at Stephen",
+      "definitions_ex_vn": "Cô ấy đã đi qua tại Stephen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a state or situation of a specified, usually bad or difficult, nature.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of refraining from bidding during the auction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a route over or through mountains.",
+      "definitions_ex_en": "the pass over the mountain was open again after the snows",
+      "definitions_ex_vn": "Đường chuyền trên núi đã mở một lần nữa sau khi tuyết rơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "said when one does not know the answer to a question, for example in a quizzing game.",
+      "definitions_ex_en": "to the enigmatic question we answered “Pass.”",
+      "definitions_ex_vn": "cho câu hỏi bí ẩn mà chúng tôi đã trả lời \"Pass\".",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "passenger.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "passim.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "passive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445408_7bd85eeed0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445408_6f01cbdf99_o.png",
+      "id_image": "pass_589871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375082_262733e5b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375082_d698198852_o.png",
+      "id_image": "pass_6080089"
+    }
+  ]
+}

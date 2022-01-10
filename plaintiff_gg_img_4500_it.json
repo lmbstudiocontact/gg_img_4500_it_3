@@ -1,0 +1,33 @@
+{
+  "english": "plaintiff",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thưa kiện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who brings a case against another in a court of law.",
+      "definitions_ex_en": "the plaintiff commenced an action for damages",
+      "definitions_ex_vn": "Nguyên đơn bắt đầu một hành động cho các thiệt hại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458703_b13e94e2ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458703_d5bf30a085_o.png",
+      "id_image": "plaintiff_1566626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388812_f3b3856375_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388812_a493f4d7f1_o.png",
+      "id_image": "plaintiff_1781238"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "sheep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con cừu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trừu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a domesticated ruminant animal with a thick woolly coat and (typically only in the male) curving horns. It is kept in flocks for its wool or meat, and is proverbial for its tendency to follow others in the flock.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who is too easily influenced or led.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person regarded as a protected follower of God.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700959_751b2db023_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700959_5aef93458c_o.png",
+      "id_image": "sheep_124375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345886_6f20920857_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345886_7cc7a6b7a2_o.png",
+      "id_image": "sheep_194983"
+    }
+  ]
+}

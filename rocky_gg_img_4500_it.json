@@ -1,0 +1,56 @@
+{
+  "english": "rocky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "còn yếu kém",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có nhiều đá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có nhiều đá sỏi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống như đá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không có kinh nghiệm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không vững",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consisting or full of rock or rocks.",
+      "definitions_ex_en": "a rocky crag above the village",
+      "definitions_ex_vn": "một rocky crag phía trên làng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "tending to rock or shake; unsteady.",
+      "definitions_ex_en": "older types of sash windows are a bit rocky",
+      "definitions_ex_vn": "Các loại cửa sổ sash cũ hơn là một bit đá",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "difficult and full of obstacles or problems.",
+      "definitions_ex_en": "the marriage seemingly got off to a rocky start",
+      "definitions_ex_vn": "Cuộc hôn nhân dường như đã bắt đầu một khởi đầu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699034_11300e622a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699034_0f013f80f9_o.png",
+      "id_image": "rocky_327427"
+    }
+  ]
+}

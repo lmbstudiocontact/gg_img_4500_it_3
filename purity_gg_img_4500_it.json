@@ -1,0 +1,36 @@
+{
+  "english": "purity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không pha",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tinh khiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính trong sạch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "freedom from adulteration or contamination.",
+      "definitions_ex_en": "the purity of our drinking water",
+      "definitions_ex_vn": "sự tinh khiết của nước uống của chúng tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346861_b3c08d3238_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346861_c1bcbb0485_o.png",
+      "id_image": "purity_334207"
+    }
+  ]
+}

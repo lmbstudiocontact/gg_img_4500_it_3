@@ -1,0 +1,34 @@
+{
+  "english": "predator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ăn cướp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cướp bóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an animal that naturally preys on others.",
+      "definitions_ex_en": "wolves are major predators of rodents",
+      "definitions_ex_vn": "Wolves là những kẻ săn mồi lớn của loài gặm nhấm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or group that ruthlessly exploits others.",
+      "definitions_ex_en": "a website frequented by sexual predators",
+      "definitions_ex_vn": "Một trang web thường xuyên được săn mồi tình dục",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445043_c25b5768db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445043_9944c7c25d_o.png",
+      "id_image": "predator_892732"
+    }
+  ]
+}

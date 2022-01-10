@@ -1,0 +1,58 @@
+{
+  "english": "protection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chế độ bảo vệ mậu dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy thông hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự che chở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phòng vệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of protecting, or the state of being protected.",
+      "definitions_ex_en": "the B vitamins give protection against infection",
+      "definitions_ex_vn": "Vitamin B cho sự bảo vệ chống nhiễm trùng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704584_74a33f1e88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704584_4d77b64761_o.png",
+      "id_image": "protection_1149027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464593_5809d40807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464593_eb637562b2_o.png",
+      "id_image": "protection_1689325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394727_be9c5f36d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394727_59dd282c52_o.png",
+      "id_image": "protection_2688412"
+    }
+  ]
+}

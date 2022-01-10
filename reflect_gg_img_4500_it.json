@@ -1,0 +1,58 @@
+{
+  "english": "reflect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiếu lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩ ngợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dội lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "suy nghĩ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a surface or body) throw back (heat, light, or sound) without absorbing it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "think deeply or carefully about.",
+      "definitions_ex_en": "he reflected with sadness on the unhappiness of his marriage",
+      "definitions_ex_vn": "Anh ta phản ánh với nỗi buồn về sự bất hạnh của cuộc hôn nhân của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an action or situation) bring credit or discredit to the relevant parties.",
+      "definitions_ex_en": "the incident reflects badly on the operating practices of the airlines",
+      "definitions_ex_vn": "Vụ việc phản ánh tồi tệ về các thực hành vận hành của các hãng hàng không",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376612_e93da85896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376612_1fccb777e3_o.png",
+      "id_image": "reflect_4427713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686849_8d9d498ace_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686849_aa589cc10b_o.png",
+      "id_image": "reflect_6315721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686904_962088b4d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686904_d3507113fb_o.png",
+      "id_image": "reflect_705350"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "english": "reorganize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sửa sang lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉnh đốn lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "change the way in which (something) is organized.",
+      "definitions_ex_en": "we have to reorganize the entire workload",
+      "definitions_ex_vn": "Chúng tôi phải tổ chức lại toàn bộ khối lượng công việc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061190_b944654357_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061190_06f2d713d4_o.png",
+      "id_image": "reorganize_3663515"
+    }
+  ]
+}

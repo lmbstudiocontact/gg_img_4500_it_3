@@ -1,0 +1,61 @@
+{
+  "english": "problem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài toán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khó khăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vấn đề",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome.",
+      "definitions_ex_en": "they have financial problems",
+      "definitions_ex_vn": "Họ có vấn đề tài chính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an inquiry starting from given conditions to investigate or demonstrate a fact, result, or law.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678524_7b2c6b1ab2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678524_4ab28c031c_o.png",
+      "id_image": "problem_1924432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438403_38a24dbcf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438403_914320f863_o.png",
+      "id_image": "problem_2643530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060010_4b146e9d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060010_c40758dd44_o.png",
+      "id_image": "problem_6040652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060145_c1acb3ed6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060145_8630c93558_o.png",
+      "id_image": "problem_860478"
+    }
+  ]
+}

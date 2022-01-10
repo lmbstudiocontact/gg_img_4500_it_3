@@ -1,0 +1,50 @@
+{
+  "english": "pork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về thịt heo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thịt heo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the flesh of a pig used as food, especially when uncured.",
+      "definitions_ex_en": "roast pork",
+      "definitions_ex_vn": "thịt lợn nướng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for pork barrel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stuff oneself with food; overeat.",
+      "definitions_ex_en": "I porked out on the roast pig",
+      "definitions_ex_vn": "Tôi lợn ra trên lợn nướng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450243_9118e635f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450243_037273b36b_o.png",
+      "id_image": "pork_1411019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335211_7eb3bf5e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335211_e2f543f60c_o.png",
+      "id_image": "pork_3005107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335191_a5c8c83fcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335191_441b67282b_o.png",
+      "id_image": "pork_5038170"
+    }
+  ]
+}

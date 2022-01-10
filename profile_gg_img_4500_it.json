@@ -1,0 +1,84 @@
+{
+  "english": "profile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nét mặt nhìn một bên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trắc diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trắc đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạm theo trắc diện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiện một bên mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẽ theo mặt bên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an outline of something, especially a person's face, as seen from one side.",
+      "definitions_ex_en": "the man turned and she caught his profile",
+      "definitions_ex_vn": "Người đàn ông quay lại và cô bắt được hồ sơ của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short article giving a description of a person or organization.",
+      "definitions_ex_en": "a profile of a Texas tycoon",
+      "definitions_ex_vn": "một hồ sơ của một TEXAS TYCOON",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the extent to which a person or organization attracts public notice.",
+      "definitions_ex_en": "raising the profile of women in industry",
+      "definitions_ex_vn": "nâng cao hồ sơ của phụ nữ trong ngành",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a graphical or other representation of information relating to particular characteristics of something, recorded in quantified form.",
+      "definitions_ex_en": "the blood profiles of cancer patients",
+      "definitions_ex_vn": "hồ sơ máu của bệnh nhân ung thư",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "describe (a person or organization, especially a public figure) in a short article.",
+      "definitions_ex_en": "he was to profile each candidate",
+      "definitions_ex_vn": "Anh ấy là hồ sơ mỗi ứng cử viên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "represent in outline from one side.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676434_73034633f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676434_4211f50182_o.png",
+      "id_image": "profile_1098778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058100_e084036ce3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058100_c9775b5334_o.png",
+      "id_image": "profile_2058243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366227_bf2390bbf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366227_6548fe0dde_o.png",
+      "id_image": "profile_4542145"
+    }
+  ]
+}

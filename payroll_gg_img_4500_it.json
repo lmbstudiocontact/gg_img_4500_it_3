@@ -1,0 +1,33 @@
+{
+  "english": "payroll",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng phát lương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lương bổng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a list of a company's employees and the amount of money they are to be paid.",
+      "definitions_ex_en": "there are just three employees on the payroll",
+      "definitions_ex_vn": "Chỉ có ba nhân viên trong bảng lương",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370542_1ff744c3ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370542_d1ec2a59bf_o.png",
+      "id_image": "payroll_1924596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325716_9b59e8d011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325716_c51c91d3a2_o.png",
+      "id_image": "payroll_2910488"
+    }
+  ]
+}

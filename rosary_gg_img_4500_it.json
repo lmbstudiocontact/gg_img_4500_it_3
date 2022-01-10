@@ -1,0 +1,34 @@
+{
+  "english": "rosary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tràng hạt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in the Roman Catholic Church) a form of devotion in which five (or fifteen) decades of Hail Marys are repeated, each decade preceded by an Our Father and followed by a Glory Be.",
+      "definitions_ex_en": "the congregation said the rosary",
+      "definitions_ex_vn": "hội chúng nói chuỗi tràng hạt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079680_18650ffe69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079680_179fc92f1a_o.png",
+      "id_image": "rosary_2781197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697394_e07829aee2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697394_818b160fa1_o.png",
+      "id_image": "rosary_5003010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697359_ea7f5b2863_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697359_52940f33dd_o.png",
+      "id_image": "rosary_5426145"
+    }
+  ]
+}

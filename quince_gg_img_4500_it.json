@@ -1,0 +1,40 @@
+{
+  "english": "quince",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trái mộc qua",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hard, acid pear-shaped fruit used in preserves or as flavoring.",
+      "definitions_ex_en": "quince jelly",
+      "definitions_ex_vn": "Jelly Jelly.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the shrub or small tree that bears the quince fruit, native to western Asia.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698259_83507573de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698259_2854d79f9d_o.png",
+      "id_image": "quince_1135525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342991_9f4a1d8a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342991_64aee10305_o.png",
+      "id_image": "quince_2358311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698189_d852450f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698189_271426c0ec_o.png",
+      "id_image": "quince_3944237"
+    }
+  ]
+}

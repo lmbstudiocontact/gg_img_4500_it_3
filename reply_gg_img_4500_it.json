@@ -1,0 +1,48 @@
+{
+  "english": "reply",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu đáp trả lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đáp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lời đáp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "say something in response to something someone has said.",
+      "definitions_ex_en": "he was gone before we could reply to his last remark",
+      "definitions_ex_vn": "ông đã đi trước khi chúng ta có thể trả lời nhận xét cuối cùng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a verbal or written answer.",
+      "definitions_ex_en": "I received a reply from the firm's managing director",
+      "definitions_ex_vn": "Tôi đã nhận được một câu trả lời từ Giám đốc điều hành của công ty",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678444_11241e525c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678444_6cdb6cf95c_o.png",
+      "id_image": "reply_2921218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059955_cd7fda197e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059955_7ea6850e80_o.png",
+      "id_image": "reply_4542244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368042_811ae71015_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368042_85e4a4e30e_o.png",
+      "id_image": "reply_5511724"
+    }
+  ]
+}

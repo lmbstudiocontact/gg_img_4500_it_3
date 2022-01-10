@@ -1,0 +1,44 @@
+{
+  "english": "preservation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bảo tồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự để dành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đề phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gìn giữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự duy trì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dự phòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of preserving something.",
+      "definitions_ex_en": "the preservation of the city's green spaces",
+      "definitions_ex_vn": "sự bảo tồn của không gian xanh của thành phố",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327946_4105e83c72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327946_1b25d0278c_o.png",
+      "id_image": "preservation_3906472"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "english": "scratch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tình cờ làm việc gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đường rạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quào bằng móng tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu sột soạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết cào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết trầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn sơ qua một vấn đề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kẻ đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm trầy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "score or mark the surface of (something) with a sharp or pointed object.",
+      "definitions_ex_en": "the car's paintwork was battered and scratched",
+      "definitions_ex_vn": "Vùng sơn của chiếc xe đã bị đánh đập và bị trầy xước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cancel or strike out (writing) with a pen or pencil.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play a record using the scratch technique.",
+      "definitions_ex_en": "he raps and scratches simultaneously to dazzling effect",
+      "definitions_ex_vn": "anh ta rap và trầy xước đồng thời đến hiệu ứng rực rỡ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a mark or wound made by scratching.",
+      "definitions_ex_en": "the scratches on her arm were throbbing",
+      "definitions_ex_vn": "những vết trầy xước trên cánh tay của cô ấy đang nhói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a technique, used especially in rap music, of stopping a record by hand and moving it back and forth to give a rhythmic scratching effect.",
+      "definitions_ex_en": "a scratch mix",
+      "definitions_ex_vn": "một hỗn hợp đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the starting point in a handicap for a competitor receiving no odds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "money.",
+      "definitions_ex_en": "he was working to get some scratch together",
+      "definitions_ex_vn": "anh ấy đã làm việc để có được một số vết xước với nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "assembled or made from whatever is available, and so unlikely to be of the highest quality.",
+      "definitions_ex_en": "at least two vessels set sail with scratch crews",
+      "definitions_ex_vn": "Ít nhất hai tàu đặt buồm với phi hành đoàn đầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a sports competitor or event) with no handicap given.",
+      "definitions_ex_en": "he was a scratch player at many courses",
+      "definitions_ex_vn": "Ông là một cầu thủ đầu tại nhiều khóa học",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682819_4c5166201e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682819_e2d1c2eecd_o.png",
+      "id_image": "scratch_2372956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372397_a60cfb47b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372397_d5656834a5_o.png",
+      "id_image": "scratch_4243236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372372_f085e484cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372372_761b82bd09_o.png",
+      "id_image": "scratch_5052400"
+    }
+  ]
+}

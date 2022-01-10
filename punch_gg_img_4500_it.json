@@ -1,0 +1,99 @@
+{
+  "english": "punch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây giùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú đấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giùi để tống chốt sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy giùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú thoi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy khoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giùi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strike with the fist.",
+      "definitions_ex_en": "she punched him in the face and ran off",
+      "definitions_ex_vn": "Cô ấy đấm vào mặt anh ấy và chạy ra khỏi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "press (a button or key on a machine).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pierce a hole in (metal, paper, leather, etc.) with or as though with a punch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a blow with the fist.",
+      "definitions_ex_en": "he reeled under the well-aimed punch",
+      "definitions_ex_vn": "Anh ta quay cuồng dưới cú đấm nhằm mục đích",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device or machine for making holes in materials such as paper, leather, metal, and plaster.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool or machine for impressing a design or stamping a die on a material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a drink made with fruit juices, soda, spices, and sometimes liquor, typically served in small cups from a large bowl.",
+      "definitions_ex_en": "we sat drinking our rum punch",
+      "definitions_ex_vn": "Chúng tôi ngồi uống rượu rum của chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a grotesque, hook-nosed, humpbacked buffoon, the chief male character of the Punch and Judy show. Punch is the English variant of a stock character derived ultimately from Italian commedia dell'arte.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392692_a4b5679cd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392692_8957b43c8b_o.png",
+      "id_image": "punch_1754044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462533_5655d25bee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462533_a4d426656f_o.png",
+      "id_image": "punch_2121104"
+    }
+  ]
+}

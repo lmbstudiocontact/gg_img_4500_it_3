@@ -1,0 +1,38 @@
+{
+  "english": "pasty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống paste",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chất paste",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thịt thú rừng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person's face) unhealthily pale.",
+      "definitions_ex_en": "a pasty complexion",
+      "definitions_ex_vn": "một nước da nhão",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or like paste.",
+      "definitions_ex_en": "a pasty mixture",
+      "definitions_ex_vn": "một hỗn hợp nhão",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443703_a16fa5aed9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443703_d7b37348ed_o.png",
+      "id_image": "pasty_641890"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "patient",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiên nhẩn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhẩn nại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bịnh nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bịnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious.",
+      "definitions_ex_en": "be patient, your time will come",
+      "definitions_ex_vn": "Hãy kiên nhẫn, thời gian của bạn sẽ đến",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person receiving or registered to receive medical treatment.",
+      "definitions_ex_en": "many patients in the hospital were more ill than she was",
+      "definitions_ex_vn": "nhiều bệnh nhân trong bệnh viện bị bệnh nhiều hơn cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the semantic role of a noun phrase denoting something that is affected or acted upon by the action of a verb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064430_b63859716a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064430_1b294136de_o.png",
+      "id_image": "patient_2454801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442718_091eef64b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442718_fbfdfde391_o.png",
+      "id_image": "patient_5278459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372492_fe220b2452_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372492_36ced291b8_o.png",
+      "id_image": "patient_706192"
+    }
+  ]
+}

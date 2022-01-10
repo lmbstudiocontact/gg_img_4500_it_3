@@ -1,0 +1,50 @@
+{
+  "english": "shrug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự nhún vai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhún vai",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "raise (one's shoulders) slightly and momentarily to express doubt, ignorance, or indifference.",
+      "definitions_ex_en": "Jimmy looked inquiringly at Pete, who shrugged his shoulders",
+      "definitions_ex_vn": "Jimmy nhìn vào Pete, người nhún vai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or instance of shrugging one's shoulders.",
+      "definitions_ex_en": "she gave him a dismissive shrug",
+      "definitions_ex_vn": "Cô ấy đã cho anh ta một cái nhún nhún",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a woman's close-fitting cardigan or jacket, cut short at the front and back so that only the arms and shoulders are covered.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696484_c06806f6ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696484_7c7c730906_o.png",
+      "id_image": "shrug_5773066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341201_7ea6943aa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341201_4479332ce6_o.png",
+      "id_image": "shrug_5906038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078550_2ea8080389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078550_dd305e6c77_o.png",
+      "id_image": "shrug_6001186"
+    }
+  ]
+}

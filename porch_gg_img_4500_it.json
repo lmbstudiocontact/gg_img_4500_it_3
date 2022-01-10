@@ -1,0 +1,32 @@
+{
+  "english": "porch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngỏ đi vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a covered shelter projecting in front of the entrance of a building.",
+      "definitions_ex_en": "the north porch of Hereford Cathedral",
+      "definitions_ex_vn": "Khu nhà phía Bắc của Nhà thờ Hereford",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072285_6a4a25d75a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072285_82d78a0d13_o.png",
+      "id_image": "porch_1698766"
+    }
+  ]
+}

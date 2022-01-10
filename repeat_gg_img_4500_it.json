@@ -1,0 +1,82 @@
+{
+  "english": "repeat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu dùng cho khúc nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc phục tấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phục xướng của bạn nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng yêu cầu xin hát lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xin diển lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đọc thuộc lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lặp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mách lẻo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuật lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhắc lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "say again something one has already said.",
+      "definitions_ex_en": "“Are you hurt?” he repeated",
+      "definitions_ex_vn": "\"Bạn đang bị tổn thương?\"",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "do (something) again, either once or a number of times.",
+      "definitions_ex_en": "earlier experiments were to be repeated on a far larger scale",
+      "definitions_ex_vn": "Các thí nghiệm trước đó được lặp lại ở quy mô lớn hơn nhiều",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an action, event, or other thing that occurs or is done again.",
+      "definitions_ex_en": "the final will be a repeat of last year",
+      "definitions_ex_vn": "cuối cùng sẽ là một sự lặp lại của năm ngoái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323776_58c61e5679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323776_4c8bdfbc50_o.png",
+      "id_image": "repeat_1622705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323726_b2f6fdd0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323726_747f84834b_o.png",
+      "id_image": "repeat_3120741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438773_51cc1ef2c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438773_f5d0ccbc9b_o.png",
+      "id_image": "repeat_5072368"
+    }
+  ]
+}

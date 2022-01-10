@@ -1,0 +1,59 @@
+{
+  "english": "shower",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trận mưa rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi sen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổ xuống như mưa rào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trút xuống như mưa rào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a brief and usually light fall of rain, hail, sleet, or snow.",
+      "definitions_ex_en": "a day of sunny spells and scattered showers",
+      "definitions_ex_vn": "Một ngày của những câu thần chú đầy nắng và vòi hoa sen rải rác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an enclosure in which a person stands under a spray of water to wash.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a mass of small things) fall or be thrown in a shower.",
+      "definitions_ex_en": "bits of broken glass showered over me",
+      "definitions_ex_vn": "Bits của kính vỡ tắm trên tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wash oneself in a shower.",
+      "definitions_ex_en": "she showered and went down to breakfast",
+      "definitions_ex_vn": "Cô ấy tắm và đi xuống ăn sáng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697294_0574fa4918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697294_b99c19ee12_o.png",
+      "id_image": "shower_167937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456898_65b93afa73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456898_170e70f38f_o.png",
+      "id_image": "shower_817753"
+    }
+  ]
+}

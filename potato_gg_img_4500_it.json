@@ -1,0 +1,35 @@
+{
+  "english": "potato",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoai tây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a starchy plant tuber which is one of the most important food crops, cooked and eaten as a vegetable.",
+      "definitions_ex_en": "roasted potatoes",
+      "definitions_ex_vn": "khoai tây nướng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the plant of the nightshade family that produces the potato tubers on underground runners.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377777_04902168e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377777_5be72e2b69_o.png",
+      "id_image": "potato_1292465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069760_d94fb5f667_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069760_7c14e78043_o.png",
+      "id_image": "potato_2333938"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "rider",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều khoản thêm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoạn văn thêm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người biểu diển cởi ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cỡi ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi xe đạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi xe hơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is riding or who can ride something, especially a horse, bicycle, motorcycle, or snowboard.",
+      "definitions_ex_en": "two riders approached the cottage",
+      "definitions_ex_vn": "Hai người đi đến gần nhà tranh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a condition or proviso added to something already said or decreed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small weight positioned on the beam of a balance for fine adjustment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701824_bfb960ea95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701824_5f744f1882_o.png",
+      "id_image": "rider_1960954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084310_233b0a6d6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084310_e6528cda05_o.png",
+      "id_image": "rider_5050416"
+    }
+  ]
+}

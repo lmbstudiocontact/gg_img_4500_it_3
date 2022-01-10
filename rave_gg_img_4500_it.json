@@ -1,0 +1,79 @@
+{
+  "english": "rave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đổ quạu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mê sảng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói sảng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổi sóng lớn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát cáu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi mạnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "talk wildly or incoherently, as if one were delirious or insane.",
+      "definitions_ex_en": "Nancy's having hysterics and raving about a ghost",
+      "definitions_ex_vn": "Nancy có sự cuồng loạn và say sưa về một con ma",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "speak or write about someone or something with great enthusiasm or admiration.",
+      "definitions_ex_en": "New York's theater critics raved about the acting",
+      "definitions_ex_vn": "Các nhà phê bình nhà hát của New York đã ra mắt về diễn xuất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attend or take part in a rave (party).",
+      "definitions_ex_en": "they used to rave together—then they started working together",
+      "definitions_ex_vn": "họ đã từng phát cuồng, sau đó họ bắt đầu làm việc cùng nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an extremely enthusiastic recommendation or appraisal.",
+      "definitions_ex_en": "their recent tour received rave reviews",
+      "definitions_ex_vn": "Chuyến lưu diễn gần đây của họ nhận được đánh giá Rave",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lively party or gathering involving dancing and drinking.",
+      "definitions_ex_en": "their annual fancy-dress rave",
+      "definitions_ex_vn": "trang phục ưa thích hàng năm của họ rave",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rail of a cart.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074585_8b1b1471fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074585_9ddeb8a931_o.png",
+      "id_image": "rave_1809877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382542_dfbbe0e2b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382542_b713fe29ff_o.png",
+      "id_image": "rave_2132581"
+    }
+  ]
+}

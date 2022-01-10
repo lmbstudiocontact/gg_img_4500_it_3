@@ -1,0 +1,39 @@
+{
+  "english": "percussion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dội lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "musical instruments played by striking with the hand or with a handheld or pedal-operated stick or beater, or by shaking, including drums, cymbals, xylophones, gongs, bells, and rattles.",
+      "definitions_ex_en": "percussion instruments",
+      "definitions_ex_vn": "nhạc cụ gõ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the striking of one solid object with or against another with some degree of force.",
+      "definitions_ex_en": "the clattering percussion of objects striking the walls and the shutters",
+      "definitions_ex_vn": "bộ gõ của các vật thể đánh vào các bức tường và cửa chớp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676099_f6d52c0093_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676099_cc100d1cff_o.png",
+      "id_image": "percussion_4457239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320961_d90ed79c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320961_b2b497d4eb_o.png",
+      "id_image": "percussion_5391309"
+    }
+  ]
+}

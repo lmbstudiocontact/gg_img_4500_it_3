@@ -1,0 +1,64 @@
+{
+  "english": "riser",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mặt trời mọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dấy loạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người được thăng chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật đăm chồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giá tăng lên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who habitually gets out of bed at a particular time of the morning.",
+      "definitions_ex_en": "late risers always exasperate early risers",
+      "definitions_ex_vn": "Risers muộn luôn bực tức dậy sớm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vertical section between the treads of a staircase.",
+      "definitions_ex_en": "make risers low and treads deep",
+      "definitions_ex_vn": "làm cho riser thấp và giẫm sâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vertical pipe for the upward flow of liquid or gas.",
+      "definitions_ex_en": "this pressure carries water through the risers to the upper floors",
+      "definitions_ex_vn": "Áp lực này mang nước qua những người dậy ở các tầng trên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a low platform on a stage or in an auditorium, used to give greater prominence to a speaker or performer.",
+      "definitions_ex_en": "he fell backwards off the riser",
+      "definitions_ex_vn": "Anh ngã lùi ra khỏi riser",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strip of webbing joining the harness and the rigging lines of a parachute or paraglider.",
+      "definitions_ex_en": "constantly adjust the risers to keep the wing overhead",
+      "definitions_ex_vn": "liên tục điều chỉnh các riser để giữ trên đầu cánh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083075_ca83ab1c1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083075_3d70b89f3b_o.png",
+      "id_image": "riser_2240470"
+    }
+  ]
+}

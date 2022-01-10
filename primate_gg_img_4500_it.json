@@ -1,0 +1,30 @@
+{
+  "english": "primate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tổng giáo chủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the chief bishop or archbishop of a province.",
+      "definitions_ex_en": "the primate of Poland",
+      "definitions_ex_vn": "linh trưởng Ba Lan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mammal of an order that includes the lemurs, bushbabies, tarsiers, marmosets, monkeys, apes, and humans. They are distinguished by having hands, feet that are similar to hands, and forward-facing eyes, and, with the exception of humans, are typically agile tree-dwellers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680919_d82a879cc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680919_70fbff2183_o.png",
+      "id_image": "primate_2049798"
+    }
+  ]
+}

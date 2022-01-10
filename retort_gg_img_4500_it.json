@@ -1,0 +1,81 @@
+{
+  "english": "retort",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời cải lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời đáp lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời trả lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cất bằng bình pha lê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chưng bằng bình pha lê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vặn trả lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đáp lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "say something in answer to a remark or accusation, typically in a sharp, angry, or wittily incisive manner.",
+      "definitions_ex_en": "“No need to be rude,” retorted Isabel",
+      "definitions_ex_vn": "\"Không cần phải thô lỗ,\" Retorted Isabel",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "repay (an insult or injury).",
+      "definitions_ex_en": "it was now his time to retort the humiliation",
+      "definitions_ex_vn": "Bây giờ là thời gian của anh ấy để vặn lại sự sỉ nhục",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "heat in a retort in order to separate or purify.",
+      "definitions_ex_en": "the raw shale is retorted at four crude oil works",
+      "definitions_ex_vn": "Đá phiến thô được vặn lại tại bốn công trình dầu thô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sharp, angry, or wittily incisive reply to a remark.",
+      "definitions_ex_en": "she opened her mouth to make a suitably cutting retort",
+      "definitions_ex_vn": "Cô mở miệng để tạo ra một lần cắt lại phù hợp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a container or furnace for carrying out a chemical process on a large or industrial scale.",
+      "definitions_ex_en": "gas was made by baking coal in airtight retorts",
+      "definitions_ex_vn": "Gas được sản xuất bằng than nướng trong Retorts Airtight",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086485_5f24011c3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086485_a68669b98b_o.png",
+      "id_image": "retort_2050382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463873_6021c1ee3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463873_d364d7a928_o.png",
+      "id_image": "retort_5332582"
+    }
+  ]
+}

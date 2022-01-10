@@ -1,0 +1,24 @@
+{
+  "english": "role",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vai tuồng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an actor's part in a play, movie, etc.",
+      "definitions_ex_en": "Dietrich's role as a wife in war-torn Paris",
+      "definitions_ex_vn": "Vai trò của Dietrich là một người vợ trong War-Torn Paris",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458403_73461e896a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458403_5495b448a0_o.png",
+      "id_image": "role_1412282"
+    }
+  ]
+}

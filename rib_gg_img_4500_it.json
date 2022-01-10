@@ -1,0 +1,117 @@
+{
+  "english": "rib",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đàn bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường rạch của vỏ hến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường rạch vỏ hàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gân cánh côn trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gân của lưng sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gân lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gổ để chống tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luống cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạch của cánh chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để chống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xương sườn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cày thành luống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chống đở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of a series of slender curved bones articulated in pairs to the spine (twelve pairs in humans), protecting the thoracic cavity and its organs.",
+      "definitions_ex_en": "he had several broken ribs",
+      "definitions_ex_vn": "anh ấy có một số xương sườn bị gãy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long raised piece of stronger or thicker material across a surface or through a structure, and typically serving to support or strengthen it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vein of a leaf (especially the midrib) or an insect's wing.",
+      "definitions_ex_en": "a spinach-type leaf with red ribs",
+      "definitions_ex_vn": "một lá rau bina với xương sườn đỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a combination of alternate knit (plain) and purl stitches producing a ridged, slightly elastic fabric, used especially for the cuffs and bottom edges of sweaters.",
+      "definitions_ex_en": "knit twenty rows of rib",
+      "definitions_ex_vn": "đan hai mươi hàng sườn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small open boat with a fiberglass hull and inflatable rubber sides.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark with or form into raised bands or ridges.",
+      "definitions_ex_en": "the road ahead was ribbed with furrows of slush",
+      "definitions_ex_vn": "Con đường phía trước đã bị xáo trộn với những luống trượt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tease good-naturedly.",
+      "definitions_ex_en": "the first time I appeared in the outfit I was ribbed mercilessly",
+      "definitions_ex_vn": "Lần đầu tiên tôi xuất hiện trong bộ trang phục tôi bị rạn có thể không thương tiếc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084930_023aa14910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084930_0b9b906bd0_o.png",
+      "id_image": "rib_2540955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702344_ae8864b45f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702344_aaf4066c7c_o.png",
+      "id_image": "rib_4829181"
+    }
+  ]
+}

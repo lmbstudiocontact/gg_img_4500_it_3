@@ -1,0 +1,120 @@
+{
+  "english": "school",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "môn phái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngành học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng thi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "triết học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường mẫu giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường tiểu học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường trung học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho đi học",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dạy dổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dạy học",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an institution for educating children.",
+      "definitions_ex_en": "Ryder's children did not go to school at all",
+      "definitions_ex_vn": "Trẻ em của Ryder không đi học cả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any institution at which instruction is given in a particular discipline.",
+      "definitions_ex_en": "a dancing school",
+      "definitions_ex_vn": "một trường nhảy múa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people, particularly writers, artists, or philosophers, sharing the same or similar ideas, methods, or style.",
+      "definitions_ex_en": "the Frankfurt school of critical theory",
+      "definitions_ex_vn": "Trường Lý thuyết quan trọng của Frankfurt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large group of fish or sea mammals.",
+      "definitions_ex_en": "a school of dolphins",
+      "definitions_ex_vn": "một trường cá heo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send to school; educate.",
+      "definitions_ex_en": "he was schooled in Boston",
+      "definitions_ex_vn": "anh ấy đã học ở Boston",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of fish or sea mammals) form a large group.",
+      "definitions_ex_en": "gray snapper schooled in shallow lagoons",
+      "definitions_ex_vn": "Snapper màu xám đi học ở đầm phá nông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445298_421eda6f6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445298_8bc75b1448_o.png",
+      "id_image": "school_1010715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445338_877270b811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445338_8ec784c245_o.png",
+      "id_image": "school_203234"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067175_3fe9a41dd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067175_22e0e5872f_o.png",
+      "id_image": "school_2532684"
+    }
+  ]
+}

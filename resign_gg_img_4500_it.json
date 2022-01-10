@@ -1,0 +1,58 @@
+{
+  "english": "resign",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bỏ bổn phận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ hy vọng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ quyền lợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký hợp đồng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký tên lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ khước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xin thôi việc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "voluntarily leave a job or other position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "accept that something undesirable cannot be avoided.",
+      "definitions_ex_en": "she resigned herself to a lengthy session",
+      "definitions_ex_vn": "cô ấy đã từ chức một phiên dài",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089245_097f5436b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089245_f160062998_o.png",
+      "id_image": "resign_1886833"
+    }
+  ]
+}

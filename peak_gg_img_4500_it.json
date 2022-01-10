@@ -1,0 +1,87 @@
+{
+  "english": "peak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỏm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chóp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưỡi trai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu nhọn của yên xe đạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hao mòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "suy yếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở nên suy nhược",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dựng thẳng trục buồm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the pointed top of a mountain.",
+      "definitions_ex_en": "the snowy peaks rose against the blue of a cloudless sky",
+      "definitions_ex_vn": "Những đỉnh tuyết rơi trên nền trời không mây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reach a highest point, either of a specified value or at a specified time.",
+      "definitions_ex_en": "its popularity peaked in the 1940s",
+      "definitions_ex_vn": "mức độ phổ biến của nó đạt đến đỉnh điểm vào những năm 1940",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decline in health and spirits; waste away.",
+      "definitions_ex_en": "she sat all day, peaking and pining, at the fire-side",
+      "definitions_ex_vn": "Cô ngồi cả ngày, đạt đỉnh và ghim, ở phía bếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "greatest; maximum.",
+      "definitions_ex_en": "he did not expect to be anywhere near peak fitness until Christmas",
+      "definitions_ex_vn": "anh ta không mong đợi ở bất cứ nơi nào gần đỉnh cao cho đến Giáng sinh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680194_df54f7f0df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680194_df69ea7e46_o.png",
+      "id_image": "peak_1655129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325071_9972699a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325071_59236c9f91_o.png",
+      "id_image": "peak_980766"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "scallop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con ngao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con sò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt trong con sò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nấu thịt trong vỏ ngao",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an edible bivalve mollusk with a ribbed fan-shaped shell. Scallops swim by rapidly opening and closing the shell valves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of a series of convex rounded projections forming an ornamental edging cut in material or worked in lace or knitting in imitation of the edge of a scallop shell.",
+      "definitions_ex_en": "an intricate design of vees and scallops",
+      "definitions_ex_vn": "một thiết kế phức tạp của ve và sò điệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for escalope.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ornament (an edge or material) with scallops.",
+      "definitions_ex_en": "the beaded lace overlay scalloped the neckline of the dress",
+      "definitions_ex_vn": "Lớp phủ ren đính cườm sò điệp đường viền cổ áo của chiếc váy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bake with milk or a sauce.",
+      "definitions_ex_en": "the potatoes were scalloped with green peppers, onions, and herbs",
+      "definitions_ex_vn": "Khoai tây được sò điệp với ớt xanh, hành tây và thảo mộc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447773_b40a911934_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447773_a1317a0cdd_o.png",
+      "id_image": "scallop_2243632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447733_7bf2d74966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447733_3a38b0c1da_o.png",
+      "id_image": "scallop_6158125"
+    }
+  ]
+}

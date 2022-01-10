@@ -1,0 +1,36 @@
+{
+  "english": "providence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự dành dụm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lo trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dự phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tạo hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the protective care of God or of nature as a spiritual power.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394222_78774f3d10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394222_c7c4cb030a_o.png",
+      "id_image": "providence_3804847"
+    }
+  ]
+}

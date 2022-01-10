@@ -1,0 +1,50 @@
+{
+  "english": "recount",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đếm lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kể lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuật lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "tell someone about something; give an account of an event or experience.",
+      "definitions_ex_en": "I recounted the tale to Steve",
+      "definitions_ex_vn": "Tôi kể lại câu chuyện với Steve",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "count again.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or instance of giving an account of an event or experience.",
+      "definitions_ex_en": "one woman's recount of a prolonged battle with “huge centipedes.”",
+      "definitions_ex_vn": "Một cuộc chiến kéo dài của một người phụ nữ với những con rết lớn.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of counting something again, especially votes in an election.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379052_5f18f64ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379052_e435bfe946_o.png",
+      "id_image": "recount_5979033"
+    }
+  ]
+}

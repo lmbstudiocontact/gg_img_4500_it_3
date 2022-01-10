@@ -1,0 +1,43 @@
+{
+  "english": "radiograph",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh quang tuyến x",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quang tuyến x",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chụp ảnh bằng quang tuyến x",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an image produced on a sensitive plate or film by X-rays, gamma rays, or similar radiation, and typically used in medical examination.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "produce an image of (something) on a sensitive plate or film by X-rays, gamma rays, or similar radiation.",
+      "definitions_ex_en": "the samples were stored at -20 degrees before being radiographed",
+      "definitions_ex_vn": "Các mẫu được lưu trữ ở -20 độ trước khi được xạ hóa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341036_12891235e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341036_218c4e822f_o.png",
+      "id_image": "radiograph_5715127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386022_b67b19a4fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386022_85b943abeb_o.png",
+      "id_image": "radiograph_6036796"
+    }
+  ]
+}

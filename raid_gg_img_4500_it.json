@@ -1,0 +1,64 @@
+{
+  "english": "raid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc xét hỏi bắt bớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự công kích thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vây bắt thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xét thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bố ráp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "công kích thình lình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét bắt thình lình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét nhà",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden attack on an enemy by troops, aircraft, or other armed forces in warfare.",
+      "definitions_ex_en": "a bombing raid",
+      "definitions_ex_vn": "một vụ đánh bom raid.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "conduct a raid on.",
+      "definitions_ex_en": "officers raided thirty homes yesterday",
+      "definitions_ex_vn": "Cán bộ đột kích ba mươi ngôi nhà ngày hôm qua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "redundant array of independent (or inexpensive) disks, a system for providing greater capacity, faster access, and security against data corruption by spreading data across several disk drives.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455493_6a2f609af5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455493_2f4d216c19_o.png",
+      "id_image": "raid_750592"
+    }
+  ]
+}

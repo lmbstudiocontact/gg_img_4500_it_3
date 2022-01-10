@@ -1,0 +1,43 @@
+{
+  "english": "peek",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếng chim kêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng chuột kêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu chít chít",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "look quickly, typically in a furtive manner.",
+      "definitions_ex_en": "faces peeked from behind the curtains",
+      "definitions_ex_vn": "Khuôn mặt nhìn trộm từ phía sau rèm cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a quick or furtive look.",
+      "definitions_ex_en": "she sneaked a peek at the map",
+      "definitions_ex_vn": "Cô lén lút nhìn vào bản đồ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438718_1e263a9cc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438718_3eed719698_o.png",
+      "id_image": "peek_214529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438693_9daea108fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438693_55d153c251_o.png",
+      "id_image": "peek_5238587"
+    }
+  ]
+}

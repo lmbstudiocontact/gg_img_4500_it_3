@@ -1,0 +1,47 @@
+{
+  "english": "shipment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàng hóa chở trên tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cất hàng hóa xuống tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đem hàng hóa xuống tàu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of shipping goods.",
+      "definitions_ex_en": "logs waiting for shipment",
+      "definitions_ex_vn": "Đăng nhập chờ lô hàng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459403_fd93543136_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459403_cc2234f22a_o.png",
+      "id_image": "shipment_2463867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389522_9b83ff053e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389522_32883fe8d2_o.png",
+      "id_image": "shipment_2947568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459363_b3ca122a8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459363_1051fcbaa3_o.png",
+      "id_image": "shipment_4003661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344536_dc0ac8ba52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344536_aa06f042ee_o.png",
+      "id_image": "shipment_4829638"
+    }
+  ]
+}

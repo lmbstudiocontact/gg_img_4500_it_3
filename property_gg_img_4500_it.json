@@ -1,0 +1,70 @@
+{
+  "english": "property",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất động sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc tánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở hửu chủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính chất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing or things belonging to someone; possessions collectively.",
+      "definitions_ex_en": "she wanted Oliver and his property out of her house",
+      "definitions_ex_vn": "Cô muốn Oliver và tài sản của mình ra khỏi nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an attribute, quality, or characteristic of something.",
+      "definitions_ex_en": "the property of heat to expand metal at uniform rates",
+      "definitions_ex_vn": "tài sản của nhiệt để mở rộng kim loại với tốc độ đồng đều",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465413_d3eaa63033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465413_e6e77f7741_o.png",
+      "id_image": "property_2590602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088000_f98df72b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088000_09ebf297aa_o.png",
+      "id_image": "property_4827587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705384_38392604ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705384_4855c7800e_o.png",
+      "id_image": "property_5928184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087950_d495859b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087950_4734a22c8c_o.png",
+      "id_image": "property_5928220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087920_531a7f790e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087920_6c22e78105_o.png",
+      "id_image": "property_5928283"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "prediction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự nói trước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing predicted; a forecast.",
+      "definitions_ex_en": "a prediction that the Greeks would destroy the Persian empire",
+      "definitions_ex_vn": "một dự đoán rằng người Hy Lạp sẽ phá hủy Đế quốc Ba Tư",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329916_1fcc46b778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329916_29f9d48c72_o.png",
+      "id_image": "prediction_1622702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444853_ac0a80f0a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444853_befc6f97cd_o.png",
+      "id_image": "prediction_1998601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684774_ae405889b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684774_47c7784ae4_o.png",
+      "id_image": "prediction_2037173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329791_13beaf070e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329791_902ca0008b_o.png",
+      "id_image": "prediction_4882559"
+    }
+  ]
+}

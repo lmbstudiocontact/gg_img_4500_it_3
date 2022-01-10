@@ -1,0 +1,56 @@
+{
+  "english": "safety",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi an toàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự an ninh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự an toàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng an toàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng chắc chắn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the condition of being protected from or unlikely to cause danger, risk, or injury.",
+      "definitions_ex_en": "they should leave for their own safety",
+      "definitions_ex_vn": "họ nên để lại sự an toàn của chính họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a defensive back who normally is positioned well behind the line of scrimmage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074550_614c99cfe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074550_bd017462a3_o.png",
+      "id_image": "safety_1998603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382517_200f1b96e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382517_56d5befc35_o.png",
+      "id_image": "safety_3684402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337451_6fdfe77ba8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337451_687b974e36_o.png",
+      "id_image": "safety_5939776"
+    }
+  ]
+}

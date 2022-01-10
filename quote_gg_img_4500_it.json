@@ -1,0 +1,80 @@
+{
+  "english": "quote",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẫn chứng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chĩ rỏ tên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói rỏ tên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viện dẫn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "repeat or copy out (a group of words from a text or speech), typically with an indication that one is not the original author or speaker.",
+      "definitions_ex_en": "he quoted a passage from the Psalms",
+      "definitions_ex_vn": "anh ta trích dẫn một đoạn từ các thánh vịnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give someone (the estimated price of a job or service).",
+      "definitions_ex_en": "the agent quoted him a fare of $180",
+      "definitions_ex_vn": "Đại lý đã trích dẫn cho anh ta một giá vé $ 180",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give (a company) a quotation or listing on a stock exchange.",
+      "definitions_ex_en": "an organization that is quoted on the Stock Exchange",
+      "definitions_ex_vn": "một tổ chức được trích dẫn trên thị trường chứng khoán",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a quotation from a text or speech.",
+      "definitions_ex_en": "a quote from Wordsworth",
+      "definitions_ex_vn": "một trích dẫn từ Wordsworth",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quotation giving the estimated cost for a particular job or service.",
+      "definitions_ex_en": "quotes from different insurance companies",
+      "definitions_ex_vn": "trích dẫn từ các công ty bảo hiểm khác nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a price offered by a broker for the sale or purchase of a stock or other security.",
+      "definitions_ex_en": "quotes for North Sea Brent were rising",
+      "definitions_ex_vn": "Báo giá cho North Sea Brent đang tăng lên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387537_abf7d4db59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387537_07bcf3b834_o.png",
+      "id_image": "quote_1484621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810118400_9a868ac631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810118400_0ac98a5b81_o.png",
+      "id_image": "quote_1484949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697674_f82257cc16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697674_d10a37fa85_o.png",
+      "id_image": "quote_1624547"
+    }
+  ]
+}

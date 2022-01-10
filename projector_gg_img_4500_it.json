@@ -1,0 +1,56 @@
+{
+  "english": "projector",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy chiếu tia sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kế hoạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trù hoạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trù liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dự định",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an object that is used to project rays of light, especially an apparatus with a system of lenses for projecting slides or film onto a screen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who plans and sets up a project or enterprise.",
+      "definitions_ex_en": "he was a tobacco-grower and projector",
+      "definitions_ex_vn": "Ông là một người trồng thuốc lá và máy chiếu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706104_105e3731d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706104_9e372f04fe_o.png",
+      "id_image": "projector_170612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466173_7c9ba5ac19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466173_b21f6f099f_o.png",
+      "id_image": "projector_470145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706059_7156b634f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706059_e3fff9339e_o.png",
+      "id_image": "projector_480681"
+    }
+  ]
+}

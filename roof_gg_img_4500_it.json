@@ -1,0 +1,64 @@
+{
+  "english": "roof",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mui xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mái nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trần của hầm mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho trú ngụ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lợp mái nhà",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the structure forming the upper covering of a building or vehicle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with a roof.",
+      "definitions_ex_en": "the yard had been roughly roofed over with corrugated iron",
+      "definitions_ex_vn": "Sân đã gần gục trên sắt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342741_479573d4cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342741_4a2fed99a3_o.png",
+      "id_image": "roof_1207146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387807_bd1aa8a42c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387807_29c5425e68_o.png",
+      "id_image": "roof_252740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387787_eb0f2597df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387787_a404a394d4_o.png",
+      "id_image": "roof_313074"
+    }
+  ]
+}

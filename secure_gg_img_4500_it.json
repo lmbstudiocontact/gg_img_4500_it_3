@@ -1,0 +1,81 @@
+{
+  "english": "secure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bền chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vững bền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vững chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chiếm những chổ tốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để vào nơi chắc chắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gắn chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm một thành phố kiên cố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhốt vào nơi chắc chắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thế đồ để bảo đãm nợ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fixed or fastened so as not to give way, become loose, or be lost.",
+      "definitions_ex_en": "check to ensure that all nuts and bolts are secure",
+      "definitions_ex_vn": "Kiểm tra để đảm bảo rằng tất cả các loại hạt và bu lông đều an toàn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "fix or attach (something) firmly so that it cannot be moved or lost.",
+      "definitions_ex_en": "pins secure the handle to the main body",
+      "definitions_ex_vn": "chân bảo vệ tay cầm vào cơ thể chính",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438473_8ae912b3e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438473_6cfc7bc2ab_o.png",
+      "id_image": "secure_3360347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438458_82d9f2b21a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438458_70ab8a8127_o.png",
+      "id_image": "secure_3979391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060165_f1a5a3ce20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060165_44aa316380_o.png",
+      "id_image": "secure_3979395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060235_fb8b3a579b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060235_7b28ab80e3_o.png",
+      "id_image": "secure_958686"
+    }
+  ]
+}

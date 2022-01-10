@@ -1,0 +1,80 @@
+{
+  "english": "scrub",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn chải có lông ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bụi rậm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không ra gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chùi rửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chùi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "rub (someone or something) hard so as to clean them, typically with a brush and water.",
+      "definitions_ex_en": "he had to scrub the floor",
+      "definitions_ex_vn": "anh phải chà sàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of scrubbing something or someone.",
+      "definitions_ex_en": "give the floor a good scrub",
+      "definitions_ex_vn": "cho sàn một chà tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a semiabrasive cosmetic lotion applied to the face or body in order to cleanse the skin.",
+      "definitions_ex_en": "don't use facial scrubs if your skin is sensitive",
+      "definitions_ex_vn": "Đừng sử dụng tẩy tế bào chết nếu da của bạn nhạy cảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for scrub suit.",
+      "definitions_ex_en": "Bill emerged from the delivery room in green scrubs",
+      "definitions_ex_vn": "Bill xuất hiện từ phòng giao hàng trong chà xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "vegetation consisting mainly of brushwood or stunted forest growth.",
+      "definitions_ex_en": "a desert plain dotted with scrub",
+      "definitions_ex_vn": "một đơn giản sa mạc rải rác với chà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting a shrubby or small form of a plant.",
+      "definitions_ex_en": "scrub apple trees",
+      "definitions_ex_vn": "chà cây táo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441198_942bc03876_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441198_1c1f001122_o.png",
+      "id_image": "scrub_3378694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063030_0cce15a47e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063030_05d5b2ea16_o.png",
+      "id_image": "scrub_4200449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062965_87551dccdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062965_6c5da96d6f_o.png",
+      "id_image": "scrub_4236934"
+    }
+  ]
+}

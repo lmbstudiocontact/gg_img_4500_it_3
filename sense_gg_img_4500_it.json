@@ -1,0 +1,96 @@
+{
+  "english": "sense",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cãm giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giác quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ổn kiện của tinh thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phán đoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tri giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý nghĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cãm giác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cãm thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiểu rỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a faculty by which the body perceives an external stimulus; one of the faculties of sight, smell, hearing, taste, and touch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a feeling that something is the case.",
+      "definitions_ex_en": "she had the sense of being a political outsider",
+      "definitions_ex_vn": "cô ấy có cảm giác trở thành một người ngoài chính trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sane and realistic attitude to situations and problems.",
+      "definitions_ex_en": "he earned respect by the good sense he showed at meetings",
+      "definitions_ex_vn": "Anh ấy đã đạt được sự tôn trọng bởi ý thức tốt mà anh ấy đã thể hiện tại các cuộc họp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a way in which an expression or a situation can be interpreted; a meaning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a property (e.g. direction of motion) distinguishing a pair of objects, quantities, effects, etc. which differ only in that each is the reverse of the other.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "perceive by a sense or senses.",
+      "definitions_ex_en": "with the first frost, they could sense a change in the days",
+      "definitions_ex_vn": "với sương giá đầu tiên, họ có thể cảm nhận được sự thay đổi trong những ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a machine or similar device) detect.",
+      "definitions_ex_en": "an optical fiber senses a current flowing in a conductor",
+      "definitions_ex_vn": "một sợi quang cảm nhận một dòng chảy trong một dây dẫn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394917_9a6e228a3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394917_5b10c1039a_o.png",
+      "id_image": "sense_2503758"
+    }
+  ]
+}

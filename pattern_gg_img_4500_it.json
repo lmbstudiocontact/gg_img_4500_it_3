@@ -1,0 +1,108 @@
+{
+  "english": "pattern",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình vẻ kiểu trang sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm theo kiểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm theo khuôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang hoàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang sức bằng hình vẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm theo mẫu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang trí",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a repeated decorative design.",
+      "definitions_ex_en": "a neat blue herringbone pattern",
+      "definitions_ex_vn": "Một mô hình xương cá màu xanh gọn gàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a model or design used as a guide in needlework and other crafts.",
+      "definitions_ex_en": "make a pattern for the zigzag edge",
+      "definitions_ex_vn": "Tạo một mẫu cho viền zigzag",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an example for others to follow.",
+      "definitions_ex_en": "he set the pattern for subsequent study",
+      "definitions_ex_vn": "anh ấy đặt mẫu cho nghiên cứu tiếp theo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decorate with a repeated design.",
+      "definitions_ex_en": "he was sitting on a soft carpet patterned in rich colors",
+      "definitions_ex_vn": "anh ta đang ngồi trên một tấm thảm mềm có màu sắc phong phú",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give a regular or intelligible form to.",
+      "definitions_ex_en": "the brain not only receives information, but interprets and patterns it",
+      "definitions_ex_vn": "Bộ não không chỉ nhận được thông tin, mà diễn giải và mô hình nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327331_3316844712_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327331_7e3723a7f4_o.png",
+      "id_image": "pattern_256686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682429_247dc7538a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682429_8330121a07_o.png",
+      "id_image": "pattern_2927863"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371962_72cc7a2c7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371962_9ec855a0f6_o.png",
+      "id_image": "pattern_4301585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442238_f58ecb49e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442238_09b985815b_o.png",
+      "id_image": "pattern_5620447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327111_f48de45a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327111_cf1ce4a6d0_o.png",
+      "id_image": "pattern_5939563"
+    }
+  ]
+}

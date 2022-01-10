@@ -1,0 +1,78 @@
+{
+  "english": "path",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường công danh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường củ rích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường đi luôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường mòn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xoay của quỉ đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vận hành của sao",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a way or track laid down for walking or made by continual treading.",
+      "definitions_ex_en": "the path continues alongside the river for half a mile",
+      "definitions_ex_vn": "Con đường tiếp tục dọc theo dòng sông trong nửa dặm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pathological.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "pathology.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "denoting a practitioner of curative treatment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "denoting a person who suffers from a disease.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328196_3a2af57f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328196_c7e93d7763_o.png",
+      "id_image": "path_2491545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443233_180b00a9f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443233_8126ae2e09_o.png",
+      "id_image": "path_5228669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065045_99e544e00d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065045_31ec3c401f_o.png",
+      "id_image": "path_781603"
+    }
+  ]
+}

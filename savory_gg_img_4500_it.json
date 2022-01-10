@@ -1,0 +1,64 @@
+{
+  "english": "savory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngon",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cay hoặc mặn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có hương vị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có mùi vị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "loại rau có mùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ rau thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây gia vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "món ăn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of food) belonging to the category that is salty or spicy rather than sweet.",
+      "definitions_ex_en": "fresh pineapple is useful in savory as well as in sweet dishes",
+      "definitions_ex_vn": "Dứa tươi rất hữu ích trong mủ cũng như trong các món ngọt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "morally wholesome or acceptable.",
+      "definitions_ex_en": "everyone knew it was a front for less savory operations",
+      "definitions_ex_vn": "Mọi người đều biết đó là một mặt trận cho các hoạt động ít mặn hơn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an aromatic plant of the mint family, used as a culinary herb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333371_09f7de5c88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333371_191aaa6936_o.png",
+      "id_image": "savory_4139368"
+    }
+  ]
+}

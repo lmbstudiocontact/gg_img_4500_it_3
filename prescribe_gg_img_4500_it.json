@@ -1,0 +1,32 @@
+{
+  "english": "prescribe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "qui định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền lịnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a medical practitioner) advise and authorize the use of (a medicine or treatment) for someone, especially in writing.",
+      "definitions_ex_en": "Dr. Greene prescribed magnesium sulfate",
+      "definitions_ex_vn": "Tiến sĩ Greene quy định Magiê Sulfate",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443533_ed2ba95929_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443533_859a7f42e5_o.png",
+      "id_image": "prescribe_1407906"
+    }
+  ]
+}

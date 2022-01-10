@@ -1,0 +1,29 @@
+{
+  "english": "porcelain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ kiểu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a white vitrified translucent ceramic; china.",
+      "definitions_ex_en": "a porcelain bowl",
+      "definitions_ex_vn": "một bát sứ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335461_81e6732163_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335461_63c2d772ef_o.png",
+      "id_image": "porcelain_2448771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690619_370efb790f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690619_48750edf82_o.png",
+      "id_image": "porcelain_5627051"
+    }
+  ]
+}

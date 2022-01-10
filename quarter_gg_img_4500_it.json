@@ -1,0 +1,152 @@
+{
+  "english": "quarter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng 25 xu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "góc tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hông sau của chiếc tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một khắc đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra làm bốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia ra làm tư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gia hình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm dấu con thú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xé thây một tội nhân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng quân",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of four equal or corresponding parts into which something is or can be divided.",
+      "definitions_ex_en": "she cut each apple into quarters",
+      "definitions_ex_vn": "Cô ấy cắt từng quả táo thành quý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one fourth of a pound (avoirdupois, equal to 4 ounces).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the haunches or hindquarters of a horse.",
+      "definitions_ex_en": "they have strong, muscular quarters",
+      "definitions_ex_vn": "họ có khu cơ bắp mạnh mẽ, mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of a town or city having a specific character or use.",
+      "definitions_ex_en": "it is a beautiful port city with a fascinating medieval quarter",
+      "definitions_ex_vn": "Đó là một thành phố cảng xinh đẹp với một khu phố thời trung cổ hấp dẫn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the direction of one of the points of the compass, especially as a direction from which the wind blows.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rooms or lodgings, especially those allocated to people in military or domestic service.",
+      "definitions_ex_en": "the servants' quarters",
+      "definitions_ex_vn": "quý của người hầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pity or mercy shown toward an enemy or opponent who is in one's power.",
+      "definitions_ex_en": "the riot squad gave no quarter",
+      "definitions_ex_vn": "Squad bạo loạn đã cho không có quý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of four or more roughly equal divisions of a shield separated by vertical and horizontal lines.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "divide into four equal or corresponding parts.",
+      "definitions_ex_en": "peel and quarter the bananas",
+      "definitions_ex_vn": "Gọt vỏ và quý chuối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be stationed or lodged in a specified place.",
+      "definitions_ex_en": "many were quartered in tents",
+      "definitions_ex_vn": "Nhiều người được xếp hàng trong lều",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "range over or traverse (an area) in every direction.",
+      "definitions_ex_en": "we watched a pair of kingfishers quartering the river looking for minnows",
+      "definitions_ex_vn": "Chúng tôi đã xem một cặp cá bói cá khu vực sông đang tìm kiếm minnows",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "display (different coats of arms) in quarters of a shield, especially to show arms inherited from heiresses who have married into the bearer's family.",
+      "definitions_ex_en": "Edward III quartered the French royal arms with his own",
+      "definitions_ex_vn": "Edward III quý tay hoàng gia Pháp với chính mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699804_f7253b7afd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699804_cf49445c4b_o.png",
+      "id_image": "quarter_1827304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459453_a2cedcaf21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459453_541b0c5aa0_o.png",
+      "id_image": "quarter_1827305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496653_f359799f09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496653_f139290fe0_o.png",
+      "id_image": "quarter_3103224"
+    }
+  ]
+}

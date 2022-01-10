@@ -1,0 +1,30 @@
+{
+  "english": "rectangular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thẳng góc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "denoting or shaped like a rectangle.",
+      "definitions_ex_en": "a neat rectangular area",
+      "definitions_ex_vn": "một khu vực hình chữ nhật gọn gàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "placed or having parts placed at right angles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688799_35b71c831b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688799_9ef04d46d4_o.png",
+      "id_image": "rectangular_306855"
+    }
+  ]
+}

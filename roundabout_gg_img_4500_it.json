@@ -1,0 +1,64 @@
+{
+  "english": "roundabout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khúc khuỹu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quẹo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "áo ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ngoặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nói quanh co",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ quẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng rào chung quanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a close-fitting, waist-length jacket worn by men and boys.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "not following a short direct route; circuitous.",
+      "definitions_ex_en": "we need to take a roundabout route to throw off any pursuit",
+      "definitions_ex_vn": "Chúng ta cần đi theo một tuyến đường vòng để ném bất kỳ sự theo đuổi nào",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341241_c3c51e3d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341241_c09b265296_o.png",
+      "id_image": "roundabout_1434832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456023_1359810021_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456023_d2ff70e6cc_o.png",
+      "id_image": "roundabout_1581880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696414_0aa1fe6159_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696414_83c9b65d19_o.png",
+      "id_image": "roundabout_3752004"
+    }
+  ]
+}

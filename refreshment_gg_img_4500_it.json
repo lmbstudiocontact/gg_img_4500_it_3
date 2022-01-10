@@ -1,0 +1,48 @@
+{
+  "english": "refreshment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự mát mẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghĩ ngợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tỉnh dưởng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light snack or drink, especially one provided in a public place or at a public event.",
+      "definitions_ex_en": "light refreshments are available",
+      "definitions_ex_vn": "Giải khát nhẹ có sẵn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the giving of fresh mental or physical strength or energy.",
+      "definitions_ex_en": "hobbies and vacations are for refreshment and recreation",
+      "definitions_ex_vn": "Sở thích và kỳ nghỉ là để giải trí và giải trí",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067575_6048281d2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067575_d88f04a478_o.png",
+      "id_image": "refreshment_311812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685784_80ae9a8ebf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685784_932712616b_o.png",
+      "id_image": "refreshment_334123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067505_3edf97ca91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067505_715ca4f7d5_o.png",
+      "id_image": "refreshment_395714"
+    }
+  ]
+}

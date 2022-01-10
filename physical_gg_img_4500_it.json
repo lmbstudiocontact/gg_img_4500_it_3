@@ -1,0 +1,57 @@
+{
+  "english": "physical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về vật chất",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the body as opposed to the mind.",
+      "definitions_ex_en": "a whole range of physical and mental challenges",
+      "definitions_ex_vn": "một loạt các thách thức về thể chất và tinh thần",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to things perceived through the senses as opposed to the mind; tangible or concrete.",
+      "definitions_ex_en": "pleasant physical environments",
+      "definitions_ex_vn": "môi trường thể chất dễ chịu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to physics or the operation of natural forces generally.",
+      "definitions_ex_en": "physical laws",
+      "definitions_ex_vn": "Luật pháp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a medical examination to determine a person's bodily fitness.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463798_619f66dbdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463798_f750d1a838_o.png",
+      "id_image": "physical_1813488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086325_9f3e9da571_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086325_6402270c91_o.png",
+      "id_image": "physical_2718110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086295_6fa87b8d2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086295_c9bdd07af6_o.png",
+      "id_image": "physical_2885288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393777_73540172d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393777_b8a80a3855_o.png",
+      "id_image": "physical_3527121"
+    }
+  ]
+}

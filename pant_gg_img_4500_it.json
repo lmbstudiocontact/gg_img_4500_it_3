@@ -1,0 +1,55 @@
+{
+  "english": "pant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi thở hổn hển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại quần tây dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đập mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hồi hộp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phập phòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thở hảo hển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "breathe with short, quick breaths, typically from exertion or excitement.",
+      "definitions_ex_en": "he was panting when he reached the top",
+      "definitions_ex_vn": "Anh ấy đã thở hổn hển khi lên đỉnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a short, quick breath.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689979_ea35ed8cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689979_40cf342b8f_o.png",
+      "id_image": "pant_3043360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689959_d7a146a778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689959_9e8e78941f_o.png",
+      "id_image": "pant_5507633"
+    }
+  ]
+}

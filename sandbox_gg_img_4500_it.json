@@ -1,0 +1,49 @@
+{
+  "english": "sandbox",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình đựng cát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộp đựng cát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn bằng cát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a testing environment in a computer system in which new or untested software can be run securely.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tropical American tree whose seed cases were formerly used to hold sand for blotting ink.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "isolate (a piece of software) so that it can access only certain resources, programs, and files within a computer system.",
+      "definitions_ex_en": "the apps you install on your device are sandboxed",
+      "definitions_ex_vn": "Các ứng dụng bạn cài đặt trên thiết bị của bạn là hộp cát",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380247_4986fc511e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380247_3bd9c4fcc1_o.png",
+      "id_image": "sandbox_1588847"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072110_869b401247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072110_1c9838cf89_o.png",
+      "id_image": "sandbox_1742378"
+    }
+  ]
+}

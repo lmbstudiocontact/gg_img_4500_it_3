@@ -1,0 +1,48 @@
+{
+  "english": "pivot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lắp vào trục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoay quanh trục",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the central point, pin, or shaft on which a mechanism turns or oscillates.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "turn on or as if on a pivot.",
+      "definitions_ex_en": "he swung around, pivoting on his heel",
+      "definitions_ex_vn": "Anh vung xung quanh, xoay quanh gót chân",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389422_c02fff1295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389422_ab0d975088_o.png",
+      "id_image": "pivot_1070262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344441_ac8176d70f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344441_731c5d04ea_o.png",
+      "id_image": "pivot_2240461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699514_29fd4b89d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699514_1191a16c0d_o.png",
+      "id_image": "pivot_4234486"
+    }
+  ]
+}

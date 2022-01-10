@@ -1,0 +1,45 @@
+{
+  "english": "productive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giàu tưởng tượng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phì nhiêu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phong phú",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sản xuất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sanh sản",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "producing or able to produce large amounts of goods, crops, or other commodities.",
+      "definitions_ex_en": "the most productive employees",
+      "definitions_ex_vn": "nhân viên hiệu quả nhất",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437113_8320fbd6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437113_7e750b68d7_o.png",
+      "id_image": "productive_2753156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321906_477db7200d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321906_a4e4566e84_o.png",
+      "id_image": "productive_5230564"
+    }
+  ]
+}

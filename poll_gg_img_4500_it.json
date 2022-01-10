@@ -1,0 +1,103 @@
+{
+  "english": "poll",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bầu cử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biểu quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đầu phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi bầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ phiếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ thăm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cắt tóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi bầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hớt tóc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of voting in an election.",
+      "definitions_ex_en": "the country went to the polls on March 10",
+      "definitions_ex_vn": "Đất nước đã đi đến các cuộc thăm dò vào ngày 10 tháng 3",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's head.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "record the opinion or vote of.",
+      "definitions_ex_en": "focus groups in which customers are polled about merchandise preferences",
+      "definitions_ex_vn": "Nhóm tập trung mà khách hàng được thăm dò ý kiến về sở thích hàng hóa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "check the status of (a measuring device, part of a computer, or a node in a network), especially as part of a repeated cycle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut the horns off (an animal, especially a young cow).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381952_25252c07e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381952_f44283f841_o.png",
+      "id_image": "poll_1902215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381912_9494158655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381912_f0cab7889c_o.png",
+      "id_image": "poll_2164295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451698_71281c4c18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451698_15f5e2e0e2_o.png",
+      "id_image": "poll_2388936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336926_ee57519ae0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336926_1ed03c8268_o.png",
+      "id_image": "poll_281389"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "rebound",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bị văng ngược lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nẩy lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dội lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dội lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nẩy lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "văng ngược lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bounce back through the air after hitting a hard surface or object.",
+      "definitions_ex_en": "his shot hammered into the post and rebounded across the goal",
+      "definitions_ex_vn": "cú sút của anh ta đập vào bài viết và hồi phục qua khung thành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "past and past participle of rebind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in sporting contexts) a ball or shot that bounces back after striking a hard surface.",
+      "definitions_ex_en": "he blasted the rebound into the net",
+      "definitions_ex_vn": "Anh ta nổ tung sự phục hồi vào lưới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451438_90bbf68f0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451438_31caa9af44_o.png",
+      "id_image": "rebound_4647371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691769_ceb8837b04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691769_f4e6b3d738_o.png",
+      "id_image": "rebound_4647377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691759_cb138147a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691759_63e8cf9353_o.png",
+      "id_image": "rebound_5526405"
+    }
+  ]
+}

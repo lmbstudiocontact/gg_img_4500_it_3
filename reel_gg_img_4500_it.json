@@ -1,0 +1,119 @@
+{
+  "english": "reel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cần quay cuốn chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cần quay cuốn thừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "guồng quay tơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối khiêu vũ quay rất mau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi lảo đảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi loạng choạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn tơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo tơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu sè sè",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quay cuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấn chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khiêu vũ quay cuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lảo đảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "loạng choạng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cylinder on which film, wire, thread, or other flexible materials can be wound.",
+      "definitions_ex_en": "a cotton reel",
+      "definitions_ex_vn": "một cuộn bông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lively Scottish or Irish folk dance.",
+      "definitions_ex_en": "we put on the record player and danced reels",
+      "definitions_ex_vn": "Chúng tôi đặt trên cầu thủ kỷ lục và nhảy múa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wind a line onto a reel by turning the reel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lose one's balance and stagger or lurch violently.",
+      "definitions_ex_en": "he punched Connolly in the ear, sending him reeling",
+      "definitions_ex_vn": "Anh ta đấm vào tai, khiến anh ta quay cuồng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "dance a reel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069215_bbb7665f63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069215_726cf222ba_o.png",
+      "id_image": "reel_2570181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332406_392c1c1591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332406_a759c060a9_o.png",
+      "id_image": "reel_3109451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332391_1baca960ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332391_8c5321c0ed_o.png",
+      "id_image": "reel_3786166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332351_a802b813b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332351_aa1a898dae_o.png",
+      "id_image": "reel_3879894"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "refuse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ cặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ không giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ vô dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bác bỏ lời yêu cầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bác đơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cự tuyệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đúc lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ khước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "indicate or show that one is not willing to do something.",
+      "definitions_ex_en": "I refused to answer",
+      "definitions_ex_vn": "Tôi đã từ chối trả lời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "matter thrown away or rejected as worthless; trash.",
+      "definitions_ex_en": "heaps of refuse",
+      "definitions_ex_vn": "hàng đống từ chối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685179_7b31e8fba0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685179_014187f50a_o.png",
+      "id_image": "refuse_4633904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330111_b766134ca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330111_840b6f6a4a_o.png",
+      "id_image": "refuse_4633912"
+    }
+  ]
+}

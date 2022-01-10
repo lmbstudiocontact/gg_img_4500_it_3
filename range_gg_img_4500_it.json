@@ -1,0 +1,147 @@
+{
+  "english": "range",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo phe bên nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi khắp nơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi dọc theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khoảng cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng đất súc vật ăn cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sắp hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lò bếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tầm bắn của súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một dãy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một hàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the area of variation between upper and lower limits on a particular scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of different things of the same general type.",
+      "definitions_ex_en": "the area offers a wide range of activities for the tourist",
+      "definitions_ex_vn": "Khu vực này cung cấp một loạt các hoạt động cho khách du lịch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the distance within which something can be reached or perceived.",
+      "definitions_ex_en": "something lurked just beyond her range of vision",
+      "definitions_ex_vn": "một cái gì đó ẩn giấu ngay ngoài tầm nhìn của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a line or series of mountains or hills.",
+      "definitions_ex_en": "the coastal ranges of the northwest",
+      "definitions_ex_vn": "Các phạm vi ven biển của Tây Bắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large area of open land for grazing or hunting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electric or gas stove with several burners and one or more ovens.",
+      "definitions_ex_en": "a wood-burning kitchen range",
+      "definitions_ex_vn": "một phạm vi bếp đốt gỗ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a course of masonry extending from end to end at one height.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the direction or position in which something lies.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "vary or extend between specified limits.",
+      "definitions_ex_en": "patients whose ages ranged from 13 to 25 years",
+      "definitions_ex_vn": "Bệnh nhân có độ tuổi dao động từ 13 đến 25 tuổi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place or arrange in a row or rows or in a specified order or manner.",
+      "definitions_ex_en": "a table with half a dozen chairs ranged around it",
+      "definitions_ex_vn": "một cái bàn với một nửa tá ghế dao động xung quanh nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person or animal) travel or wander over a wide area.",
+      "definitions_ex_en": "patrols ranged thousands of miles deep into enemy territory",
+      "definitions_ex_vn": "tuần tra dao động hàng ngàn dặm sâu vào lãnh thổ của kẻ thù",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "obtain the range of a target by adjustment after firing past it or short of it, or by the use of radar or laser equipment.",
+      "definitions_ex_en": "radar-type transmissions which appeared to be ranging on our convoys",
+      "definitions_ex_vn": "Truyền loại radar dường như nằm trong đoàn xe của chúng tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339046_8610661eb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339046_d6a9285b42_o.png",
+      "id_image": "range_3899682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339001_46d68b6fd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339001_5141ebb999_o.png",
+      "id_image": "range_5261275"
+    }
+  ]
+}

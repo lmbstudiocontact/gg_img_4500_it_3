@@ -1,0 +1,35 @@
+{
+  "english": "shack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lều",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a roughly built hut or cabin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move in or live with someone as a lover.",
+      "definitions_ex_en": "they won't believe I've shacked up with someone so good-looking",
+      "definitions_ex_vn": "Họ sẽ không tin rằng tôi đã lùm dáng với một người rất đẹp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702699_38b547f9c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702699_8280697bd2_o.png",
+      "id_image": "shack_509823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462803_0343281126_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462803_7ec02f8850_o.png",
+      "id_image": "shack_5256919"
+    }
+  ]
+}

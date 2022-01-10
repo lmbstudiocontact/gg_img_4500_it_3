@@ -1,0 +1,61 @@
+{
+  "english": "rocket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hỏa tiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "pháo thăng thiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ cây ăn như rau xà lách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay vọt thẳng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắn hỏa tiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vọt tới mau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents, used typically as a firework or signal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an amount, price, etc.) increase very rapidly and suddenly.",
+      "definitions_ex_en": "sales of milk in supermarkets are rocketing",
+      "definitions_ex_vn": "Bán sữa trong siêu thị là tên lửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attack with rocket-propelled missiles.",
+      "definitions_ex_en": "the city was rocketed and bombed from the air",
+      "definitions_ex_vn": "Thành phố đã bị vấy động và ném bom từ không trung",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344051_ba08843259_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344051_5fbdf9f404_o.png",
+      "id_image": "rocket_166379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344036_65055ba810_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344036_7bdb605436_o.png",
+      "id_image": "rocket_203221"
+    }
+  ]
+}

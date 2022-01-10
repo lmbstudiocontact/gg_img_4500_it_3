@@ -1,0 +1,41 @@
+{
+  "english": "refuge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ trốn tránh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi trú ẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho người nào trú ẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn tránh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a condition of being safe or sheltered from pursuit, danger, or trouble.",
+      "definitions_ex_en": "he was forced to take refuge in the French embassy",
+      "definitions_ex_vn": "anh ta bị buộc phải lánh nạn trong Đại sứ quán Pháp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685439_716a4ef471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685439_cfe623dd2e_o.png",
+      "id_image": "refuge_3122418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330351_2310b5db97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330351_93460cdf40_o.png",
+      "id_image": "refuge_354510"
+    }
+  ]
+}

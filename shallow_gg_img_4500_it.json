@@ -1,0 +1,44 @@
+{
+  "english": "shallow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không sâu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chổ cạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cạn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of little depth.",
+      "definitions_ex_en": "serve the noodles in a shallow bowl",
+      "definitions_ex_vn": "Phục vụ mì trong một cái bát nông",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an area of the sea, a lake, or a river where the water is not very deep.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of the sea, a lake, or a river) become less deep over time or in a particular place.",
+      "definitions_ex_en": "the boat ground to a halt where the water shallowed",
+      "definitions_ex_vn": "ngọn thuyền dừng lại nơi nước cạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392422_d5dc7f4c58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392422_24ee753da5_o.png",
+      "id_image": "shallow_4745395"
+    }
+  ]
+}

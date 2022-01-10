@@ -1,0 +1,35 @@
+{
+  "english": "rhino",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rhinoceros.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to the nose.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085150_37855f40a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085150_f23b3424a2_o.png",
+      "id_image": "rhino_1392812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702499_a56fee26c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702499_110651fb60_o.png",
+      "id_image": "rhino_3069176"
+    }
+  ]
+}

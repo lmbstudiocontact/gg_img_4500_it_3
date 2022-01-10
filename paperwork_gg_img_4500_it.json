@@ -1,0 +1,38 @@
+{
+  "english": "paperwork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấy báo cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy kê khai công việc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "routine work involving written documents such as forms, records, or letters.",
+      "definitions_ex_en": "I need to catch up on some paperwork",
+      "definitions_ex_vn": "Tôi cần phải bắt kịp một số giấy tờ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334081_fc46407f96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334081_9a645b9acb_o.png",
+      "id_image": "paperwork_2419650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689134_b86aa0a01a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689134_0dd9f27d22_o.png",
+      "id_image": "paperwork_3653585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378887_a8d1456b06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378887_5f5e1f9d2a_o.png",
+      "id_image": "paperwork_5902618"
+    }
+  ]
+}

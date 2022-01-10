@@ -1,0 +1,69 @@
+{
+  "english": "resistance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điện trở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức cản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức chống lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chống cự",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the refusal to accept or comply with something; the attempt to prevent something by action or argument.",
+      "definitions_ex_en": "she put up no resistance to being led away",
+      "definitions_ex_vn": "Cô ấy không chịu được sự kháng cự được dẫn dắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ability not to be affected by something, especially adversely.",
+      "definitions_ex_en": "some of us have a lower resistance to cold than others",
+      "definitions_ex_vn": "Một số người trong chúng ta có khả năng lạnh thấp hơn những người khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the impeding, slowing, or stopping effect exerted by one material thing on another.",
+      "definitions_ex_en": "air resistance would need to be reduced by streamlining",
+      "definitions_ex_vn": "Kháng không khí sẽ cần phải được giảm bằng cách tinh giản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the degree to which a substance or device opposes the passage of an electric current, causing energy dissipation. Ohm's law resistance (measured in ohms) is equal to the voltage divided by the current.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088955_f4a267a742_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088955_ae918a0c6e_o.png",
+      "id_image": "resistance_1772523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396502_7343f7a505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396502_b3051751c7_o.png",
+      "id_image": "resistance_1772526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088870_0d91703781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088870_505ba1534d_o.png",
+      "id_image": "resistance_2529744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706184_2c4f04dd12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706184_dc157ddd36_o.png",
+      "id_image": "resistance_6303517"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "english": "part",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rời ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân phối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không trọn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "từng phần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bộ phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dự vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ phụ tùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ thay thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một bên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "những đoạn của bài văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần thân thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vai tuồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần đồ vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vai trò",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece or segment of something such as an object, activity, or period of time, which combined with other pieces makes up the whole.",
+      "definitions_ex_en": "divide the circle into three equal parts",
+      "definitions_ex_vn": "Chia vòng tròn thành ba phần bằng nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "some but not all of something.",
+      "definitions_ex_en": "the painting tells only part of the story",
+      "definitions_ex_vn": "Bức tranh chỉ kể một phần của câu chuyện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a character as represented in a play or movie; a role played by an actor or actress.",
+      "definitions_ex_en": "she played a lot of leading parts",
+      "definitions_ex_vn": "cô ấy đã chơi rất nhiều phần hàng đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the contribution made by someone or something to an action or situation.",
+      "definitions_ex_en": "he played a key part in ending the revolt",
+      "definitions_ex_vn": "Anh ấy đã chơi một phần quan trọng trong việc kết thúc cuộc nổi dậy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "abilities.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of two things) move away from each other.",
+      "definitions_ex_en": "his lips parted in a smile",
+      "definitions_ex_vn": "đôi môi của anh ấy chia tay trong một nụ cười",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "to some extent; partly (often used to contrast different parts of something).",
+      "definitions_ex_en": "the city is now part slum, part consumer paradise",
+      "definitions_ex_vn": "Thành phố hiện đang là một phần của khu ổ chuột, một phần thiên đường tiêu dùng",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068090_530cc2268c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068090_1a53409dda_o.png",
+      "id_image": "part_5605897"
+    }
+  ]
+}

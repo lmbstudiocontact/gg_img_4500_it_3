@@ -1,0 +1,51 @@
+{
+  "english": "scissor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây kéo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cut (something) with scissors.",
+      "definitions_ex_en": "pages scissored out of a magazine",
+      "definitions_ex_vn": "Các trang đã chơi từ một tạp chí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move (one's legs) back and forth in a way resembling the action of scissors.",
+      "definitions_ex_en": "he was still hanging on, scissoring his legs uselessly",
+      "definitions_ex_vn": "Anh ta vẫn đang treo trên, cắt bỏ đôi chân của mình một cách vô dụng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "see scissors.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374547_c221b5dd9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374547_0b05db106d_o.png",
+      "id_image": "scissor_1685451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329876_0575a67c3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329876_a6d991db86_o.png",
+      "id_image": "scissor_4637270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329836_c68e1d980e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329836_698a19b000_o.png",
+      "id_image": "scissor_6093453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444768_ee243c6c9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444768_d0fcd87ee0_o.png",
+      "id_image": "scissor_6347076"
+    }
+  ]
+}

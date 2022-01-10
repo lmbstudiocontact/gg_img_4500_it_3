@@ -1,0 +1,47 @@
+{
+  "english": "saffron",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vàng nghệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cây khương hoàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây nghệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghệ tây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an orange-yellow flavoring, food coloring, and dye made from the dried stigmas of a crocus.",
+      "definitions_ex_en": "saffron buns",
+      "definitions_ex_vn": "Buns Saffron",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an autumn-flowering crocus with reddish-purple flowers, native to warmer regions of Eurasia. Enormous numbers of flowers are required to produce a small quantity of the large red stigmas used for the spice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692729_64d6c4a12f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692729_eddeddfa6c_o.png",
+      "id_image": "saffron_4139311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074440_168f8d52df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074440_ebf92f2297_o.png",
+      "id_image": "saffron_5930619"
+    }
+  ]
+}

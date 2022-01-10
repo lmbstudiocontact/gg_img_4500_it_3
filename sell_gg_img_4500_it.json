@@ -1,0 +1,69 @@
+{
+  "english": "sell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự lừa gạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lừa phỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa gạt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give or hand over (something) in exchange for money.",
+      "definitions_ex_en": "they had sold the car",
+      "definitions_ex_vn": "họ đã bán xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "persuade someone of the merits of.",
+      "definitions_ex_en": "he sold the idea of making a film about Tchaikovsky",
+      "definitions_ex_vn": "Ông đã bán ý tưởng làm một bộ phim về Tchaikovsky",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "trick or deceive (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of selling or attempting to sell something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395582_82232a010a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395582_9ba1330a60_o.png",
+      "id_image": "sell_1610418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087975_c7351f74b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087975_3341d131fc_o.png",
+      "id_image": "sell_3163293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350816_44513ea8e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350816_e6388a1493_o.png",
+      "id_image": "sell_5141650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465313_b162bb60f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465313_db10e29d89_o.png",
+      "id_image": "sell_6385216"
+    }
+  ]
+}

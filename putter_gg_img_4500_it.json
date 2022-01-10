@@ -1,0 +1,46 @@
+{
+  "english": "putter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đặt câu hỏi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a golf club designed for use in putting, typically with a flat-faced head.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a golfer considered in terms of putting ability.",
+      "definitions_ex_en": "you'll need to be a good putter to break par",
+      "definitions_ex_vn": "Bạn sẽ cần phải là một putter giỏi để phá vỡ mệnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move with or make a rapid intermittent sound.",
+      "definitions_ex_en": "barges puttered slowly through the water",
+      "definitions_ex_vn": "xà lan đặt từ từ qua nước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083950_98d35f1773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083950_b1a7d9907c_o.png",
+      "id_image": "putter_2364509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461263_6da7821510_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461263_93a9c6f80a_o.png",
+      "id_image": "putter_4283900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083880_3582ba6574_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083880_65a47cac4a_o.png",
+      "id_image": "putter_6288944"
+    }
+  ]
+}

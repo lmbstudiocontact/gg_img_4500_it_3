@@ -1,0 +1,52 @@
+{
+  "english": "rivet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đinh tán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chăm chú nhìn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết chặt tình bạn bè",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán bù lon",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán đinh tán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short metal pin or bolt for holding together two plates of metal, its headless end being beaten out or pressed down when in place.",
+      "definitions_ex_en": "a rectangular plate containing an iron rivet",
+      "definitions_ex_vn": "một tấm hình chữ nhật có chứa một đinh tán sắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "join or fasten (plates of metal) with a rivet or rivets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hold (someone or something) fast so as to make them incapable of movement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389992_1c11b4dba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389992_6bc2db649d_o.png",
+      "id_image": "rivet_1638543"
+    }
+  ]
+}

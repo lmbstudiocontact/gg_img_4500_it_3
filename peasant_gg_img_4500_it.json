@@ -1,0 +1,33 @@
+{
+  "english": "peasant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người nhà quê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở đồng ruộng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a poor farmer of low social status who owns or rents a small piece of land for cultivation (chiefly in historical use or with reference to subsistence farming in poorer countries).",
+      "definitions_ex_en": "peasants left the farms to work in industry",
+      "definitions_ex_vn": "Nông dân rời các trang trại để làm việc trong ngành công nghiệp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324456_4f3b0e2d2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324456_4c62b17ae3_o.png",
+      "id_image": "peasant_2456101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679599_6baf6c551b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679599_e69d7db4aa_o.png",
+      "id_image": "peasant_3154476"
+    }
+  ]
+}

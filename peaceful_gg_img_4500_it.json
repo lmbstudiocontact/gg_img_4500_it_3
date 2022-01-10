@@ -1,0 +1,35 @@
+{
+  "english": "peaceful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "yên ổn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "free from disturbance; tranquil.",
+      "definitions_ex_en": "everything was so quiet and peaceful in the early morning",
+      "definitions_ex_vn": "Mọi thứ đều rất yên tĩnh và yên bình vào sáng sớm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not involving war or violence.",
+      "definitions_ex_en": "there were no violent incidents reported and it was a peaceful protest",
+      "definitions_ex_vn": "Không có sự cố bạo lực được báo cáo và đó là một cuộc biểu tình hòa bình",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062225_1bcfb978e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062225_cc069da561_o.png",
+      "id_image": "peaceful_2529696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062165_2f70a7790c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062165_b8f536b4f4_o.png",
+      "id_image": "peaceful_4601210"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "english": "replay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chơi lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "diển lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "play back (a recording on tape, video, or film).",
+      "definitions_ex_en": "he could stop the tape and replay it whenever he wished",
+      "definitions_ex_vn": "Anh ta có thể ngăn chặn băng và phát lại nó bất cứ khi nào anh ta muốn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "repeat (something, especially an event or sequence of events).",
+      "definitions_ex_en": "she replayed in her mind every detail of the night before",
+      "definitions_ex_vn": "Cô phát lại trong tâm trí của mình từng chi tiết về đêm hôm trước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the playing again of a section of a recording, especially so as to be able to watch an incident more closely.",
+      "definitions_ex_en": "clouds can be studied in speeded-up replay",
+      "definitions_ex_vn": "Mây có thể được nghiên cứu trong phát lại tốc độ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an occurrence which closely follows the pattern of a previous event.",
+      "definitions_ex_en": "a replay of last summer's civil disturbance",
+      "definitions_ex_vn": "một phát lại của sự xáo trộn dân sự mùa hè năm ngoái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368167_555b448c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368167_32161caf3b_o.png",
+      "id_image": "replay_2368478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060050_47df6b60dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060050_7acebddbc3_o.png",
+      "id_image": "replay_679403"
+    }
+  ]
+}

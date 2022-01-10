@@ -1,0 +1,50 @@
+{
+  "english": "parachute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái dù bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây dù để nhảy từ phi cơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cloth canopy which fills with air and allows a person or heavy object attached to it to descend slowly when dropped from an aircraft, or which is released from the rear of an aircraft on landing to act as a brake.",
+      "definitions_ex_en": "the savior of many pilots has been the parachute",
+      "definitions_ex_vn": "vị cứu tinh của nhiều phi công là chiếc dù",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "drop or cause to drop from an aircraft by parachute.",
+      "definitions_ex_en": "airborne units parachuted in to secure the airport",
+      "definitions_ex_vn": "Đơn vị trên không bỏ qua để bảo đảm sân bay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "appoint or be appointed in an emergency or from outside the existing hierarchy.",
+      "definitions_ex_en": "an old crony of the CEO was controversially parachuted into the job",
+      "definitions_ex_vn": "Một anh thảo cũ của CEO đã gây tranh cãi trong công việc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070615_9f51a97e63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070615_f1d651ccec_o.png",
+      "id_image": "parachute_1485078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333676_25265dd984_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333676_a4b093b162_o.png",
+      "id_image": "parachute_1487559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333661_6413800999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333661_1a017976af_o.png",
+      "id_image": "parachute_4146379"
+    }
+  ]
+}

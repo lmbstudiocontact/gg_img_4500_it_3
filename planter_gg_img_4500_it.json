@@ -1,0 +1,53 @@
+{
+  "english": "planter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chôn cất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người có âm mưa lường gạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đóng cọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trồng cây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a manager or owner of a plantation.",
+      "definitions_ex_en": "sugar planters",
+      "definitions_ex_vn": "Người trồng đường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a decorative container in which plants are grown.",
+      "definitions_ex_en": "hanging baskets, tubs, and planters",
+      "definitions_ex_vn": "Giỏ treo, bồn tắm và cây trồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a machine or person that plants seeds, bulbs, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697749_41e8e31514_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697749_767edf5a50_o.png",
+      "id_image": "planter_2853243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697804_d4a34cdcf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697804_55f6b5f369_o.png",
+      "id_image": "planter_517603"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "prohibition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lịnh cấm của tòa án",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cấm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of forbidding something, especially by law.",
+      "definitions_ex_en": "they argue that prohibition of drugs will always fail",
+      "definitions_ex_vn": "Họ tranh luận rằng việc cấm thuốc sẽ luôn thất bại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the prevention by law of the manufacture and sale of alcohol, especially in the US between 1920 and 1933.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436043_6bca85b61e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436043_87ee63e3f4_o.png",
+      "id_image": "prohibition_2707411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320876_fb94123bd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320876_ab90e2c09d_o.png",
+      "id_image": "prohibition_394539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675894_52044376fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675894_9cc7430096_o.png",
+      "id_image": "prohibition_4866944"
+    }
+  ]
+}

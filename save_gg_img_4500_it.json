@@ -1,0 +1,126 @@
+{
+  "english": "save",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bắt banh lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cần kiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chận banh lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiết kiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không kể",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "trừ ra",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "bảo tồn danh dự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cứu mạng người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tránh khỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để dành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để tiết kiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để vật qua một bên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "keep safe or rescue (someone or something) from harm or danger.",
+      "definitions_ex_en": "she saved a boy from drowning",
+      "definitions_ex_vn": "Cô ấy đã cứu một cậu bé khỏi chết đuối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "keep and store up (something, especially money) for future use.",
+      "definitions_ex_en": "she had never been able to save much from her salary",
+      "definitions_ex_vn": "Cô chưa bao giờ có thể cứu được nhiều từ tiền lương của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "keep (data) by moving a copy to a storage location, especially from memory.",
+      "definitions_ex_en": "save it to a new file",
+      "definitions_ex_vn": "Lưu nó vào một tập tin mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "avoid the need to use up or spend (money, time, or other resources).",
+      "definitions_ex_en": "save $20 on a new camcorder",
+      "definitions_ex_vn": "Tiết kiệm $ 20 trên một máy quay mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prevent an opponent from scoring (a goal or point) in a game or from winning (the game).",
+      "definitions_ex_en": "the powerful German saved three match points",
+      "definitions_ex_vn": "Người Đức mạnh mẽ đã lưu ba điểm trận đấu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance of a relief pitcher saving a game.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of saving data to a storage location, usually the hard drive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "other than; except for.",
+      "definitions_ex_en": "no one needed to know save herself",
+      "definitions_ex_vn": "không ai cần phải tự cứu mình",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "except.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "conjunction"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378467_aa56ef73fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378467_d5e5048314_o.png",
+      "id_image": "save_2997223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378552_360636c83f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378552_be68768f8b_o.png",
+      "id_image": "save_333777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378507_be36b7dc84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378507_cde0ece95c_o.png",
+      "id_image": "save_364146"
+    }
+  ]
+}

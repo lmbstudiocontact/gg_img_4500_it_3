@@ -1,0 +1,54 @@
+{
+  "english": "plastic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể nắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể nặn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về phép tạo hình",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a synthetic material made from a wide range of organic polymers such as polyethylene, PVC, nylon, etc., that can be molded into shape while soft and then set into a rigid or slightly elastic form.",
+      "definitions_ex_en": "bottles can be made from a variety of plastics",
+      "definitions_ex_vn": "Chai có thể được làm từ nhiều loại nhựa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "made of plastic.",
+      "definitions_ex_en": "plastic bottles",
+      "definitions_ex_vn": "chai nhựa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a substance or material) easily shaped or molded.",
+      "definitions_ex_en": "rendering the material more plastic",
+      "definitions_ex_vn": "Kết xuất vật liệu nhiều nhựa hơn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342066_18250c2760_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342066_062e4641dd_o.png",
+      "id_image": "plastic_1889993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079400_3aaa371727_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079400_20f1884b92_o.png",
+      "id_image": "plastic_1996983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079380_904cc34e85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079380_d6e7475105_o.png",
+      "id_image": "plastic_4201885"
+    }
+  ]
+}

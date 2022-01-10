@@ -1,0 +1,70 @@
+{
+  "english": "radio",
+  "list_translation_mean": [
+    {
+      "translate_mean": "radio",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ảnh quang tuyến x",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy vô tuyến điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát thanh bằng vô tuyến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the transmission and reception of electromagnetic waves of radio frequency, especially those carrying sound messages.",
+      "definitions_ex_en": "cellular phones are linked by radio rather than wires",
+      "definitions_ex_vn": "Điện thoại di động được liên kết bởi đài phát thanh chứ không phải dây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "communicate or send a message by radio.",
+      "definitions_ex_en": "the pilot radioed for help",
+      "definitions_ex_vn": "Phi công bị phát quang để được giúp đỡ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting radio waves or broadcasting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "connected with rays, radiation, or radioactivity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "belonging to the radius in conjunction with some other part.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696464_70f19452a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696464_0289e56c7c_o.png",
+      "id_image": "radio_125135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078570_1f2845d505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078570_ca603781d4_o.png",
+      "id_image": "radio_387384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341176_d6f4c0b7f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341176_43b71bebf2_o.png",
+      "id_image": "radio_387416"
+    }
+  ]
+}

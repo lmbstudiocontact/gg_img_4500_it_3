@@ -1,0 +1,40 @@
+{
+  "english": "showcase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thùng đựng đồ trang sức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a glass case used for displaying articles in a store or museum.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "exhibit; display.",
+      "definitions_ex_en": "the albums showcase his production skills",
+      "definitions_ex_vn": "Các album giới thiệu các kỹ năng sản xuất của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457033_8fc2cdfb81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457033_9c540f8350_o.png",
+      "id_image": "showcase_1581049"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697349_ca385d72f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697349_05cee6aeec_o.png",
+      "id_image": "showcase_4176297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079545_0db38a2556_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079545_d6f8e5c52c_o.png",
+      "id_image": "showcase_6316716"
+    }
+  ]
+}

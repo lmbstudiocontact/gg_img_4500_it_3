@@ -1,0 +1,69 @@
+{
+  "english": "refer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ám chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh rớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói bóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhắm vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tham khảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình đơn cho người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viện dẩn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "mention or allude to.",
+      "definitions_ex_en": "the reports of the commission are often referred to in the media",
+      "definitions_ex_vn": "Các báo cáo của Ủy ban thường được đề cập trong các phương tiện truyền thông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass a matter to (another body, typically one with more authority or expertise) for a decision.",
+      "definitions_ex_en": "disagreement arose and the issue was referred back to the Executive Committee",
+      "definitions_ex_vn": "Sự bất đồng phát sinh và vấn đề đã được gọi lại cho Ban chấp hành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "trace or attribute something to (someone or something) as a cause or source.",
+      "definitions_ex_en": "the God to whom he habitually referred his highest inspirations",
+      "definitions_ex_vn": "Thiên Chúa mà anh ta thường xuyên giới thiệu cảm hứng cao nhất của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687299_8d6357f3cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687299_55dc0fd566_o.png",
+      "id_image": "refer_5822077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447283_f375479ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447283_e4436f8b82_o.png",
+      "id_image": "refer_5860850"
+    }
+  ]
+}

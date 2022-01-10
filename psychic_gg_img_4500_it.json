@@ -1,0 +1,50 @@
+{
+  "english": "psychic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về linh hồn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tâm linh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tâm thần",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or denoting faculties or phenomena that are apparently inexplicable by natural laws, especially involving telepathy or clairvoyance.",
+      "definitions_ex_en": "psychic powers",
+      "definitions_ex_vn": "sức mạnh tâm linh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the soul or mind.",
+      "definitions_ex_en": "he dulled his psychic pain with gin",
+      "definitions_ex_vn": "Anh ta làm mờ đau tâm lý với gin",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a bid that deliberately misrepresents the bidder's hand, in order to mislead the opponents.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person considered or claiming to have psychic powers; a medium.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349131_90330de50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349131_6d47e16679_o.png",
+      "id_image": "psychic_5039268"
+    }
+  ]
+}

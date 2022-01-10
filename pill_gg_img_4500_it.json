@@ -1,0 +1,81 @@
+{
+  "english": "pill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "banh quần vợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạn súng đại bác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viên thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viên thuốc dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viên thuốc tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cướp bóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cướp phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh hỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh rớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thi rớt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small round mass of solid medicine to be swallowed whole.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of knitted fabric) form small balls of fluff on its surface.",
+      "definitions_ex_en": "synthetics can pill but otherwise wear fairly well",
+      "definitions_ex_vn": "Synthetics có thể uống nhưng nếu không hãy mặc khá tốt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461793_a8c5e4d4ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461793_cffa2e92e6_o.png",
+      "id_image": "pill_197881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701809_934f453249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701809_8590aaf542_o.png",
+      "id_image": "pill_2688338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346911_8f307c123d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346911_77f48e84a9_o.png",
+      "id_image": "pill_2950116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346866_28cac88466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346866_477c297378_o.png",
+      "id_image": "pill_2992063"
+    }
+  ]
+}

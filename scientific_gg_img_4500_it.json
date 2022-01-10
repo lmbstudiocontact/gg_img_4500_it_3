@@ -1,0 +1,47 @@
+{
+  "english": "scientific",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiến thức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về khoa học",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về trí thức",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "based on or characterized by the methods and principles of science.",
+      "definitions_ex_en": "the scientific study of earthquakes",
+      "definitions_ex_vn": "nghiên cứu khoa học về động đất",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685114_8533c94737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685114_50d37ee6d9_o.png",
+      "id_image": "scientific_1917567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685049_6607785b5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685049_e8b9f96edd_o.png",
+      "id_image": "scientific_2587040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066795_c9c2fa2a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066795_d54b88cf00_o.png",
+      "id_image": "scientific_4507198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066760_ca0ddd0077_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066760_f35e31be44_o.png",
+      "id_image": "scientific_5345555"
+    }
+  ]
+}

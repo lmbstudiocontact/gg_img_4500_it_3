@@ -1,0 +1,84 @@
+{
+  "english": "puddle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ao nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất sét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vũng dầu trên đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vũng nước trên đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đập nóng sắt nung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giẫm bùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đục nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nổi bùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lội bùn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small pool of liquid, especially of rainwater on the ground.",
+      "definitions_ex_en": "splashing through deep puddles",
+      "definitions_ex_vn": "bắn tung tóe qua những vũng nước sâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clay and sand mixed with water and used as a watertight covering for embankments.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wet or cover (a surface) with water, especially rainwater.",
+      "definitions_ex_en": "the cobbles under our feet were wet and puddled",
+      "definitions_ex_vn": "những viên đá cuội dưới chân chúng ta ướt sũng và vũng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "line (a hole) with puddle.",
+      "definitions_ex_en": "he dug and puddled a large pond",
+      "definitions_ex_vn": "anh ta đào và vũng nước lớn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085690_b9ecdecae4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085690_e5b8e3f9aa_o.png",
+      "id_image": "puddle_3217087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463198_0b21e9b0bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463198_e42975457c_o.png",
+      "id_image": "puddle_3217089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085650_53312d98f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085650_d9517666f5_o.png",
+      "id_image": "puddle_6255798"
+    }
+  ]
+}

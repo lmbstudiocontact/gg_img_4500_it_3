@@ -1,0 +1,66 @@
+{
+  "english": "remedy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dược phẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương pháp cứu chửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc men",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho tốt hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa chửa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a medicine or treatment for a disease or injury.",
+      "definitions_ex_en": "herbal remedies for aches and pains",
+      "definitions_ex_vn": "biện pháp khắc thảo thảo dược cho đau nhức và đau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the margin within which coins as minted may differ from the standard fineness and weight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "set right (an undesirable situation).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370832_04822ca541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370832_fff6b5382c_o.png",
+      "id_image": "remedy_1347254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440938_2fba43f1f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440938_3627ba2029_o.png",
+      "id_image": "remedy_4005663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326086_cb8e37da6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326086_88b6264ae1_o.png",
+      "id_image": "remedy_673551"
+    }
+  ]
+}

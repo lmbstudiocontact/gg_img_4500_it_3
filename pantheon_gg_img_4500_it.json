@@ -1,0 +1,40 @@
+{
+  "english": "pantheon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of particularly respected, famous, or important people.",
+      "definitions_ex_en": "the pantheon of the all-time greats",
+      "definitions_ex_vn": "pantheon của những người vĩ đại mọi thời đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "all the gods of a people or religion collectively.",
+      "definitions_ex_en": "the deities of the Hindu pantheon",
+      "definitions_ex_vn": "Các vị thần của Hindu Pantheon",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689874_fb75d5c5fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689874_d3314ce8e9_o.png",
+      "id_image": "pantheon_1201813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379712_a813896ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379712_23ca1c3d40_o.png",
+      "id_image": "pantheon_1373385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449888_65ba6013cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449888_d3dbaef2ae_o.png",
+      "id_image": "pantheon_533491"
+    }
+  ]
+}

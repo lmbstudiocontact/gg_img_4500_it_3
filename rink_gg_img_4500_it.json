@@ -1,0 +1,34 @@
+{
+  "english": "rink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoảng nước đá đông lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi trên băng nước đá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an enclosed area of ice for skating, ice hockey, or curling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a team in curling or lawn bowling.",
+      "definitions_ex_en": "he helped his rink to win by 35 shots to 4",
+      "definitions_ex_vn": "Anh ấy đã giúp sân chơi của mình để giành được 35 bức ảnh lên 4",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346161_3ab6509e62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346161_de3aba0c54_o.png",
+      "id_image": "rink_1891960"
+    }
+  ]
+}

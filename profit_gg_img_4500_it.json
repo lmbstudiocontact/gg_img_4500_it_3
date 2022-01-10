@@ -1,0 +1,67 @@
+{
+  "english": "profit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số tiền lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợi ích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có lời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có lợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lợi dụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem lợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được lời",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a financial gain, especially the difference between the amount earned and the amount spent in buying, operating, or producing something.",
+      "definitions_ex_en": "pretax profits",
+      "definitions_ex_vn": "Lợi nhuận trước thuế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "obtain a financial advantage or benefit, especially from an investment.",
+      "definitions_ex_en": "the only people to profit from the entire episode were the lawyers",
+      "definitions_ex_vn": "người duy nhất thu lợi từ toàn bộ tập phim là luật sư",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436573_b64c456500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436573_77d875b78a_o.png",
+      "id_image": "profit_2112449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676349_86b9017098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676349_b42c7ac3f5_o.png",
+      "id_image": "profit_2615113"
+    }
+  ]
+}

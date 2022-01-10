@@ -1,0 +1,48 @@
+{
+  "english": "seesaw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chơi đu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưỡng lự giữa hai ý kiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cái đu của trẻ con",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long plank balanced in the middle on a fixed support, on each end of which children sit and swing up and down by pushing the ground alternately with their feet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "change rapidly and repeatedly from one position, situation, or condition to another and back again.",
+      "definitions_ex_en": "the market seesawed as rumors spread of an imminent cabinet reshuffle",
+      "definitions_ex_vn": "Thị trường được nhìn thấy như những tin đồn lan rộng của một tổ chức lại tủ sắp xảy ra",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323101_3c1227a0e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323101_13428e4bc9_o.png",
+      "id_image": "seesaw_1138467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367972_b75879dc5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367972_ba614f5f87_o.png",
+      "id_image": "seesaw_1588849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323081_3502d03dfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323081_0f87751d73_o.png",
+      "id_image": "seesaw_1787539"
+    }
+  ]
+}

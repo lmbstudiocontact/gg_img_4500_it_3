@@ -1,0 +1,103 @@
+{
+  "english": "scope",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bề dài của dây neo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiếng soi bọng đái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "năng lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phạm vi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trình độ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the extent of the area or subject matter that something deals with or to which it is relevant.",
+      "definitions_ex_en": "we widened the scope of our investigation",
+      "definitions_ex_vn": "Chúng tôi mở rộng phạm vi điều tra của chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the opportunity or possibility to do or deal with something.",
+      "definitions_ex_en": "the scope for major change is always limited by political realities",
+      "definitions_ex_vn": "Phạm vi cho sự thay đổi lớn luôn bị giới hạn bởi thực tế chính trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a telescope, microscope, or other device having a name ending in -scope.",
+      "definitions_ex_en": "infrared night scopes",
+      "definitions_ex_vn": "Phạm vi đêm hồng ngoại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the length of cable extended when a ship rides at anchor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the range of the effect of an operator such as a quantifier or conjunction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "assess or investigate (something).",
+      "definitions_ex_en": "they'd scoped out their market",
+      "definitions_ex_vn": "Họ đã phá vỡ thị trường của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting an instrument for observing, viewing, or examining.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444168_e7302a6cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444168_0a254a0fd0_o.png",
+      "id_image": "scope_2621314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329186_44b04e9ca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329186_043a6c2cff_o.png",
+      "id_image": "scope_2721292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444063_235e12f0bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444063_228a909c53_o.png",
+      "id_image": "scope_3335741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065895_8ab850d76b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065895_4f98822dfb_o.png",
+      "id_image": "scope_6433937"
+    }
+  ]
+}

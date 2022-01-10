@@ -1,0 +1,24 @@
+{
+  "english": "participation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự tham gia",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of taking part in something.",
+      "definitions_ex_en": "participation in church activities",
+      "definitions_ex_vn": "Tham gia vào các hoạt động của nhà thờ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375987_e6d541b263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375987_0de4de1c1a_o.png",
+      "id_image": "participation_2191222"
+    }
+  ]
+}

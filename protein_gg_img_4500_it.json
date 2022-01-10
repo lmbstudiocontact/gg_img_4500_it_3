@@ -1,0 +1,34 @@
+{
+  "english": "protein",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất hóa học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of a class of nitrogenous organic compounds that consist of large molecules composed of one or more long chains of amino acids and are an essential part of all living organisms, especially as structural components of body tissues such as muscle, hair, collagen, etc., and as enzymes and antibodies.",
+      "definitions_ex_en": "a protein found in wheat",
+      "definitions_ex_vn": "một protein được tìm thấy trong lúa mì",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349741_6aefa1f13c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349741_55ed62bcd1_o.png",
+      "id_image": "protein_2860858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087045_8758368ea9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087045_23ea53f68c_o.png",
+      "id_image": "protein_334140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349776_dcb0cc815f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349776_545d92252e_o.png",
+      "id_image": "protein_886876"
+    }
+  ]
+}

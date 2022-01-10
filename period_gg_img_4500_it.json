@@ -1,0 +1,71 @@
+{
+  "english": "period",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chu kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a length or portion of time.",
+      "definitions_ex_en": "he had long periods of depression",
+      "definitions_ex_vn": "anh ấy đã có thời gian dài trầm cảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the interval of time between successive occurrences of the same state in an oscillatory or cyclic phenomenon, such as a mechanical vibration, an alternating current, a variable star, or an electromagnetic wave.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flow of blood and other material from the lining of the uterus, occurring in nonpregnant women at intervals of about 28 days between puberty and menopause and typically lasting for a few days.",
+      "definitions_ex_en": "she's got her period",
+      "definitions_ex_vn": "Cô ấy có thời gian của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of elements occupying an entire horizontal row in the periodic table.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complex sentence, especially one consisting of several clauses, constructed as part of a formal speech or oration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "belonging to or characteristic of a past historical time, especially in style or design.",
+      "definitions_ex_en": "a splendid selection of period furniture",
+      "definitions_ex_vn": "Một lựa chọn tuyệt vời của đồ nội thất thời kỳ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365462_7befbcc5d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365462_35189b1220_o.png",
+      "id_image": "period_4277930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320491_4ce173a9f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320491_f40f3c2820_o.png",
+      "id_image": "period_5746612"
+    }
+  ]
+}

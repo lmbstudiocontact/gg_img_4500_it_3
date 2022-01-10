@@ -1,0 +1,24 @@
+{
+  "english": "risky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "may rủi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "full of the possibility of danger, failure, or loss.",
+      "definitions_ex_en": "it was much too risky to try to disarm him",
+      "definitions_ex_vn": "Nó quá rủi ro để cố gắng giải giáp anh ta",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345271_16c90a5ff2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345271_24b38c84f1_o.png",
+      "id_image": "risky_1877101"
+    }
+  ]
+}

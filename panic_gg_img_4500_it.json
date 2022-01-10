@@ -1,0 +1,72 @@
+{
+  "english": "panic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đột nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kinh khũng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm hoảng hốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sợ hải",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sudden uncontrollable fear or anxiety, often causing wildly unthinking behavior.",
+      "definitions_ex_en": "she hit him in panic",
+      "definitions_ex_vn": "Cô ấy đánh anh ta trong hoảng loạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of cereal and fodder grasses related to millet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "feel or cause to feel panic.",
+      "definitions_ex_en": "the crowd panicked and stampeded for the exit",
+      "definitions_ex_vn": "Đám đông hoảng loạn và đóng dấu cho lối ra",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380327_0163988b30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380327_4d65dd3c15_o.png",
+      "id_image": "panic_1316897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690454_e38e30fda8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690454_1a83e30ee7_o.png",
+      "id_image": "panic_213324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072160_578cce5dae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072160_7ae9407212_o.png",
+      "id_image": "panic_4897063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450228_94b3a61dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450228_8de7302547_o.png",
+      "id_image": "panic_5266102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690359_9dacc29781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690359_2da7eb8b4e_o.png",
+      "id_image": "panic_5705051"
+    }
+  ]
+}

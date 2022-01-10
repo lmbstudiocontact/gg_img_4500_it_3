@@ -1,0 +1,47 @@
+{
+  "english": "parchment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấy da dê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy da làm để in",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy da trừu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a stiff, flat, thin material made from the prepared skin of an animal and used as a durable writing surface in ancient and medieval times.",
+      "definitions_ex_en": "he borrowed a quill and a piece of parchment",
+      "definitions_ex_vn": "anh ta mượn một quill và một mảnh giấy da",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332731_22eceb8a81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332731_8dc3ee914d_o.png",
+      "id_image": "parchment_1553791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447728_ea5d520111_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447728_7639791617_o.png",
+      "id_image": "parchment_2858842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447683_c3a5986ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447683_ba9f141b9a_o.png",
+      "id_image": "parchment_3317537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069430_673780668c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069430_818794baee_o.png",
+      "id_image": "parchment_5327120"
+    }
+  ]
+}

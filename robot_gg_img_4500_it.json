@@ -1,0 +1,43 @@
+{
+  "english": "robot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về người máy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người rô bô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially in science fiction) a machine resembling a human being and able to replicate certain human movements and functions automatically.",
+      "definitions_ex_en": "the robot closed the door behind us",
+      "definitions_ex_vn": "robot đóng cánh cửa phía sau chúng ta",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for crawler.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699614_d215735e8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699614_73450ac73d_o.png",
+      "id_image": "robot_191244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344476_2668ac87a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344476_660a4c11b9_o.png",
+      "id_image": "robot_191531"
+    }
+  ]
+}

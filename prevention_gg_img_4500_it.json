@@ -1,0 +1,38 @@
+{
+  "english": "prevention",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ngăn cản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phòng ngừa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of stopping something from happening or arising.",
+      "definitions_ex_en": "crime prevention",
+      "definitions_ex_vn": "Phòng chống tội phạm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326821_26cc17f709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326821_2b77f0a24f_o.png",
+      "id_image": "prevention_2869041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371502_b79632b25a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371502_d3f3bff716_o.png",
+      "id_image": "prevention_4413165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371462_4181e4bfc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371462_27cdf9f4c3_o.png",
+      "id_image": "prevention_5714929"
+    }
+  ]
+}

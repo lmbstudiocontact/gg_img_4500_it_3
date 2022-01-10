@@ -1,0 +1,65 @@
+{
+  "english": "ribbon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dãi đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây băng có màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiến dài và mõng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầm cương ngựa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, narrow strip of fabric, used for tying something or for decoration.",
+      "definitions_ex_en": "the tiny pink ribbons in her hair",
+      "definitions_ex_vn": "những dải ruy nhỏ màu hồng trên tóc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, narrow strip.",
+      "definitions_ex_en": "slice the peppers into ribbons lengthwise",
+      "definitions_ex_vn": "cắt ớt vào ruy băng theo chiều dọc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "extend or move in a long, narrow strip like a ribbon.",
+      "definitions_ex_en": "miles of concrete ribboned behind the bus",
+      "definitions_ex_vn": "dặm bê tông bê tông phía sau xe buýt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702304_2b027b46af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702304_2841640356_o.png",
+      "id_image": "ribbon_1357111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347571_810a6746f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347571_cd0f934fbc_o.png",
+      "id_image": "ribbon_532028"
+    }
+  ]
+}

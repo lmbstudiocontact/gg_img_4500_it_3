@@ -1,0 +1,120 @@
+{
+  "english": "shade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "che",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho bóng bức tranh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều hòa các sắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho mớ tối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trùm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vong linh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "âm phủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chụp đèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một chút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc thái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hơi khác nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vong hồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóng của tranh ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóng tối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "comparative darkness and coolness caused by shelter from direct sunlight.",
+      "definitions_ex_en": "sitting in the shade",
+      "definitions_ex_vn": "Ngồi trong bóng râm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a color, especially with regard to how light or dark it is or as distinguished from one nearly like it.",
+      "definitions_ex_en": "various shades of blue",
+      "definitions_ex_vn": "sắc thái khác nhau của màu xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lampshade.",
+      "definitions_ex_en": "a small lamp with a crimson shade",
+      "definitions_ex_vn": "một chiếc đèn nhỏ với một màu đỏ thẫm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ghost.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "screen from direct light.",
+      "definitions_ex_en": "she shaded her eyes against the sun",
+      "definitions_ex_vn": "Cô che mắt chống lại mặt trời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "darken or color (an illustration or diagram) with parallel pencil lines or a block of color.",
+      "definitions_ex_en": "she shaded in the outline of a chimney",
+      "definitions_ex_vn": "Cô tô bóng trong phác thảo của một ống khói",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a slight reduction in the amount, rate, or price of.",
+      "definitions_ex_en": "banks may shade the margin over base rate they charge customers",
+      "definitions_ex_vn": "Các ngân hàng có thể che khuất biên so với lãi suất cơ bản mà họ tính phí cho khách hàng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702629_095c2f32c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702629_3cdbf1525d_o.png",
+      "id_image": "shade_2130697"
+    }
+  ]
+}

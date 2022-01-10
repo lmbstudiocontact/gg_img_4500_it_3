@@ -1,0 +1,53 @@
+{
+  "english": "selection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chọn lựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lựa chọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tuyển chọn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or fact of carefully choosing someone or something as being the best or most suitable.",
+      "definitions_ex_en": "such men decided the selection of candidates",
+      "definitions_ex_vn": "Những người đàn ông như vậy đã quyết định tuyển chọn các ứng cử viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a process in which environmental or genetic influences determine which types of organism thrive better than others, regarded as a factor in evolution.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395737_91353d6620_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395737_a0438b4be8_o.png",
+      "id_image": "selection_165011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705539_cb2042bb16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705539_463ccbb635_o.png",
+      "id_image": "selection_3645318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088105_f4344f3880_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088105_2101e1a96b_o.png",
+      "id_image": "selection_3645485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350986_7a642e7586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350986_307e429334_o.png",
+      "id_image": "selection_6092338"
+    }
+  ]
+}

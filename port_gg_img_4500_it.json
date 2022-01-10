@@ -1,0 +1,115 @@
+{
+  "english": "port",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bến tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hải cảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạn lái của tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu porto",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thái độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ dạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bồng súng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quay qua phía trái",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a town or city with a harbor where ships load or unload, especially one where customs officers are stationed.",
+      "definitions_ex_en": "the French port of Toulon",
+      "definitions_ex_vn": "Cảng Pháp của Toulon",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strong, sweet, typically dark red fortified wine, originally from Portugal, typically drunk as a dessert wine.",
+      "definitions_ex_en": "they settled down to a final glass of port",
+      "definitions_ex_vn": "họ định cư xuống một ly cổng cuối cùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the side of a ship or aircraft that is on the left when one is facing forward.",
+      "definitions_ex_en": "the ferry was listing to port",
+      "definitions_ex_vn": "Phà đã liệt kê đến cảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an opening in the side of a ship for boarding or loading.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a socket in a computer network into which a device can be plugged.",
+      "definitions_ex_en": "a communications port for optional cellular and other wireless modules",
+      "definitions_ex_vn": "một cổng thông tin liên lạc cho các mô-đun không dây di động và các mô-đun không dây khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the position required by an order to port a rifle or other weapon.",
+      "definitions_ex_en": "Parker had his rifle at the port",
+      "definitions_ex_vn": "Parker đã có súng trường của mình tại cảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's carriage or bearing.",
+      "definitions_ex_en": "she has the proud port of a princess",
+      "definitions_ex_vn": "cô ấy có cảng tự hào của một công chúa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a transfer of software from one system or machine to another.",
+      "definitions_ex_en": "the first port of a commercial database to this operating system",
+      "definitions_ex_vn": "Cổng đầu tiên của cơ sở dữ liệu thương mại cho hệ điều hành này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "turn (a ship or its helm) to port.",
+      "definitions_ex_en": "the yacht immediately raised all sail and ported her helm",
+      "definitions_ex_vn": "Du thuyền ngay lập tức giơ tất cả buồm và chuyển chiếc mũ bảo hiểm của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "transfer (software) from one system or machine to another.",
+      "definitions_ex_en": "the software can be ported to an IBM RS/6000",
+      "definitions_ex_vn": "Phần mềm có thể được chuyển sang IBM RS / 6000",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380067_8215608a5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380067_40bac66471_o.png",
+      "id_image": "port_1201819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335046_7e83aaf521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335046_607c11c015_o.png",
+      "id_image": "port_403165"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "english": "play",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chơi đùa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chơi thể thao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuyển vận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh bài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lóng lánh ánh sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách chuyển vận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoạt động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lóng lánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vận dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò chơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
+      "definitions_ex_en": "the children were playing outside",
+      "definitions_ex_vn": "Những đứa trẻ đang chơi bên ngoài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take part in (a sport).",
+      "definitions_ex_en": "I play softball and tennis",
+      "definitions_ex_vn": "Tôi chơi bóng mềm và tennis",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "represent (a character) in a theatrical performance or a film.",
+      "definitions_ex_en": "she played Ophelia",
+      "definitions_ex_vn": "Cô chơi Ophelia.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "perform on (a musical instrument).",
+      "definitions_ex_en": "we heard someone playing a harmonica",
+      "definitions_ex_vn": "Chúng tôi nghe ai đó chơi kèn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move lightly and quickly, so as to appear and disappear; flicker.",
+      "definitions_ex_en": "a smile played about her lips",
+      "definitions_ex_vn": "Một nụ cười chơi về đôi môi của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow (a fish) to exhaust itself pulling against a line before reeling it in.",
+      "definitions_ex_en": "no fisherman ever played a bonita more carefully or with greater wile",
+      "definitions_ex_vn": "Không có ngư dân từng chơi một bonita cẩn thận hơn hoặc với Greater Wile",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "activity engaged in for enjoyment and recreation, especially by children.",
+      "definitions_ex_en": "a child at play may use a stick as an airplane",
+      "definitions_ex_vn": "Một đứa trẻ khi chơi có thể sử dụng một cây gậy như một chiếc máy bay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the conducting of an athletic match or contest.",
+      "definitions_ex_en": "rain interrupted the second day's play",
+      "definitions_ex_vn": "Mưa ngắt lời chơi thứ hai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dramatic work for the stage or to be broadcast.",
+      "definitions_ex_en": "the actors put on a new play",
+      "definitions_ex_vn": "Các diễn viên mặc một vở kịch mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the space in or through which a mechanism can or does move.",
+      "definitions_ex_en": "the steering rack was loose, and there was a little play",
+      "definitions_ex_vn": "giá đỡ lái bị lỏng lẻo, và có một chút chơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "light and constantly changing movement.",
+      "definitions_ex_en": "the artist exploits the play of light across the surface",
+      "definitions_ex_vn": "Các nghệ sĩ khai thác lối chơi ánh sáng trên bề mặt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386442_e988be2b53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386442_309f628a03_o.png",
+      "id_image": "play_3590560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386397_fb3b6ccd89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386397_db3acde4bd_o.png",
+      "id_image": "play_6381520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341451_fc21d7cde4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341451_27285fb938_o.png",
+      "id_image": "play_814147"
+    }
+  ]
+}

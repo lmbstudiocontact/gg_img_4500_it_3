@@ -1,0 +1,59 @@
+{
+  "english": "parent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "căn nguyên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ba má",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cành lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cha mẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẫu quốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn gốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a father or mother.",
+      "definitions_ex_en": "the parents of the bride",
+      "definitions_ex_vn": "cha mẹ của cô dâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be or act as a parent to (a child).",
+      "definitions_ex_en": "all children are special to those who parent them",
+      "definitions_ex_vn": "tất cả trẻ em đều đặc biệt với những người cha mẹ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687549_26bec75ac7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687549_af65f5ceb7_o.png",
+      "id_image": "parent_6306179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377327_3c555d977c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377327_e1723da80a_o.png",
+      "id_image": "parent_6306230"
+    }
+  ]
+}

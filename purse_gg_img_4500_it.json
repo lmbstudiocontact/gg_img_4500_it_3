@@ -1,0 +1,74 @@
+{
+  "english": "purse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóp nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ trong cùng hang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công khố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túi xách phụ nữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ tiền vào túi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cau mày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhíu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(with reference to the lips) pucker or contract, typically to express disapproval or irritation.",
+      "definitions_ex_en": "Marianne took a glance at her reflection and pursed her lips disgustedly",
+      "definitions_ex_vn": "Marianne liếc nhìn sự phản chiếu của cô và mím môi kinh tởm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461563_79c30a1c4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461563_6bcac5bc8b_o.png",
+      "id_image": "purse_1213242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391692_4e41d87495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391692_8b979043ec_o.png",
+      "id_image": "purse_1648827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701559_bc262d3e3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701559_ac4615e88a_o.png",
+      "id_image": "purse_3207417"
+    }
+  ]
+}

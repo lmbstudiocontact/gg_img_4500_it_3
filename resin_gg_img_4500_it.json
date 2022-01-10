@@ -1,0 +1,48 @@
+{
+  "english": "resin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhựa cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhựa thông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấy nhựa cây",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sticky flammable organic substance, insoluble in water, exuded by some trees and other plants (notably fir and pine).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rub or treat with resin.",
+      "definitions_ex_en": "resining the granite fills in the fissures and helps strengthen the stone",
+      "definitions_ex_vn": "Resining các granit lấp đầy trong các khe nứt và giúp tăng cường đá",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396667_91b3a2aa9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396667_b3f810cba9_o.png",
+      "id_image": "resin_2332680"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809735909_4470d54300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809735909_6f6272064e_o.png",
+      "id_image": "resin_2472765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396632_8cdbc3ddda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396632_2fc2624392_o.png",
+      "id_image": "resin_2534831"
+    }
+  ]
+}

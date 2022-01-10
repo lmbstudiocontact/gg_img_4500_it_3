@@ -1,0 +1,118 @@
+{
+  "english": "show",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đưa ra cho xem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lộ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỏ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "buổi diễn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chưng bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơ hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bày ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc triển lãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phô trương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "allow or cause (something) to be visible.",
+      "definitions_ex_en": "a white blouse will show the blood",
+      "definitions_ex_vn": "Một chiếc áo trắng sẽ cho thấy máu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "display or allow to be perceived (a quality, emotion, or characteristic).",
+      "definitions_ex_en": "it was Frank's turn to show his frustration",
+      "definitions_ex_vn": "Đến lượt Frank đã thể hiện sự thất vọng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "demonstrate or prove.",
+      "definitions_ex_en": "experts say this shows the benefit of regular inspections",
+      "definitions_ex_vn": "Các chuyên gia nói rằng điều này cho thấy lợi ích của việc kiểm tra thường xuyên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a spectacle or display, typically an impressive one.",
+      "definitions_ex_en": "spectacular shows of bluebells",
+      "definitions_ex_vn": "Chương trình ngoạn mục của Bluebells",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a play or other stage performance, especially a musical.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an outward appearance or display of a quality or feeling.",
+      "definitions_ex_en": "Joanie was frightened of any show of affection",
+      "definitions_ex_vn": "Joanie sợ hãi về bất kỳ chương trình nào về tình cảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a discharge of blood and mucus from the vagina at the onset of labor or menstruation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697484_8eedd095ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697484_a483d6435a_o.png",
+      "id_image": "show_1082656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387262_86926ff27a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387262_f395ea4b4b_o.png",
+      "id_image": "show_1624393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457058_1c9626fc5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457058_88f977cf63_o.png",
+      "id_image": "show_4647083"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "polish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước láng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dùng đánh cho bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dùng đánh cho láng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh cho láng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh cho sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bóng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make the surface of (something) smooth and shiny by rubbing it.",
+      "definitions_ex_en": "she unloaded the dishwasher and polished the glasses",
+      "definitions_ex_vn": "Cô ấy dỡ máy rửa chén và đánh bóng kính",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a substance used to give something a smooth and shiny surface when rubbed in.",
+      "definitions_ex_en": "furniture polish",
+      "definitions_ex_vn": "Đồ nội thất Ba Lan.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the West Slavic language of Poland.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to Poland, its inhabitants, or their language.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452453_1ebbaf5d18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452453_4ab39b3a92_o.png",
+      "id_image": "polish_2052443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452373_49380096c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452373_322d91816d_o.png",
+      "id_image": "polish_2107193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692814_ec691f9c94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692814_db904bef79_o.png",
+      "id_image": "polish_2670694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337506_7ac38f9cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337506_9de43c511e_o.png",
+      "id_image": "polish_2670828"
+    }
+  ]
+}

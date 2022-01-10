@@ -1,0 +1,94 @@
+{
+  "english": "protest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cam đoan",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cự tuyệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phản đối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quả quyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự chống lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cự tuyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kháng nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự không nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phản đối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phản kháng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a statement or action expressing disapproval of or objection to something.",
+      "definitions_ex_en": "the Hungarian team lodged an official protest",
+      "definitions_ex_vn": "Đội Hungary nộp một cuộc biểu tình chính thức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a written declaration, typically by a notary public, that a bill has been presented and payment or acceptance refused.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "express an objection to what someone has said or done.",
+      "definitions_ex_en": "she wouldn't let him pay, and he didn't protest",
+      "definitions_ex_vn": "Cô sẽ không để anh trả tiền, và anh không phản đối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "declare (something) firmly and emphatically in the face of stated or implied doubt or in response to an accusation.",
+      "definitions_ex_en": "“I'm not being coy!” Lucy protested",
+      "definitions_ex_vn": "\"Tôi không là COO!\"",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "write or obtain a protest in regard to (a bill).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394482_04929305f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394482_28a0272a6c_o.png",
+      "id_image": "protest_2388939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704354_0aaab0a64a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704354_30071445d9_o.png",
+      "id_image": "protest_2925803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349661_dee3680265_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349661_1886ed347e_o.png",
+      "id_image": "protest_4144575"
+    }
+  ]
+}

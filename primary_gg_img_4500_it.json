@@ -1,0 +1,117 @@
+{
+  "english": "primary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "căn nguyên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "căn bản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về nguyên thủy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trước hết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đầu tiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguyên nhân đầu tiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần cơ bản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of chief importance; principal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "earliest in time or order.",
+      "definitions_ex_en": "the primary stage of their political education",
+      "definitions_ex_vn": "giai đoạn chính của giáo dục chính trị của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not derived from, caused by, or based on anything else; original.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an organic compound) having its functional group located on a carbon atom which is bonded to no more than one other carbon atom.",
+      "definitions_ex_en": "a primary alcohol",
+      "definitions_ex_vn": "một rượu nguyên sinh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or relating to organisms that produce organic compounds from simple substances such as water and carbon dioxide, typically by photosynthesis.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting the input side of a device using electromagnetic induction, especially in a transformer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "former term for Paleozoic.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(in the US) a preliminary election to appoint delegates to a party conference or to select the candidates for a principal, especially presidential, election.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a primary color.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Primary or Paleozoic era.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the US) run against (the current holder of a political office) in the preliminary election a party uses to select its candidate for the general election.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370632_e6b09fbabe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370632_44793e0e68_o.png",
+      "id_image": "primary_2473147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325796_2c8e04c1b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325796_1b08efd309_o.png",
+      "id_image": "primary_2758741"
+    }
+  ]
+}

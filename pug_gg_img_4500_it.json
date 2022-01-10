@@ -1,0 +1,93 @@
+{
+  "english": "pug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con khỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu chân cọp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất sét nhào làm gạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất sét nhồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại chó lùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại chó nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhồi đất sét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo dấu chân cọp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dog of a dwarf breed like a bulldog with a broad flat nose and deeply wrinkled face.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "loam or clay mixed and worked into a soft, plastic condition without air pockets for making bricks or pottery.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a boxer.",
+      "definitions_ex_en": "a come-from-nowhere pug gets a shot at the heavyweight title",
+      "definitions_ex_vn": "Một Pug đến từ hư không bị bắn vào tiêu đề nặng ký",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the footprint of an animal.",
+      "definitions_ex_en": "I saw the pug marks of the tigress in the soft earth",
+      "definitions_ex_vn": "Tôi thấy những vết pug của con hổ trong trái đất mềm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prepare (clay) by working into a soft condition, typically in a machine with rotating blades.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pack (a space) with pug, sawdust, or other material in order to deaden sound or make something fireproof.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "track (an animal) by its footprints.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348311_b89283dcb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348311_7061675650_o.png",
+      "id_image": "pug_1820881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348286_d3f553ba5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348286_720a345da0_o.png",
+      "id_image": "pug_3002911"
+    }
+  ]
+}

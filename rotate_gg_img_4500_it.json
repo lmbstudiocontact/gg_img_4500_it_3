@@ -1,0 +1,50 @@
+{
+  "english": "rotate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "luân phiên nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoay quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay phiên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giống hình bánh xe",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or cause to move in a circle around an axis or center.",
+      "definitions_ex_en": "the wheel continued to rotate",
+      "definitions_ex_vn": "Bánh xe tiếp tục xoay",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341806_7a5e17d3af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341806_527a00e2a1_o.png",
+      "id_image": "rotate_219657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386817_1560d3fc7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386817_8c68092cf8_o.png",
+      "id_image": "rotate_3646027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456603_6b483008dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456603_eb1b45d0cf_o.png",
+      "id_image": "rotate_4542652"
+    }
+  ]
+}

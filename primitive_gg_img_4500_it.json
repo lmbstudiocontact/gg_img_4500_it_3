@@ -1,0 +1,111 @@
+{
+  "english": "primitive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xưa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ban sơ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chất phác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cổ lổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về ngữ căn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cũ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đầu tiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguyên thủy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buổi sơ khai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ nguyên thủy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to, denoting, or preserving the character of an early stage in the evolutionary or historical development of something.",
+      "definitions_ex_en": "primitive mammals",
+      "definitions_ex_vn": "động vật có vú nguyên thủy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a quality or style that offers an extremely basic level of comfort, convenience, or efficiency.",
+      "definitions_ex_en": "the accommodations at the camp were a bit primitive",
+      "definitions_ex_vn": "chỗ ở tại trại hơi nguyên thủy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not developed or derived from anything else.",
+      "definitions_ex_en": "the primitive material of the universe",
+      "definitions_ex_vn": "vật liệu nguyên thủy của vũ trụ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a part or structure) in the first or early stage of formation or growth; rudimentary.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person belonging to a preliterate, nonindustrial society.",
+      "definitions_ex_en": "reports of travelers and missionaries described contemporary primitives",
+      "definitions_ex_vn": "Báo cáo về khách du lịch và nhà truyền giáo mô tả các nguyên thủy đương đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pre-Renaissance painter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a word, base, or root from which another is historically derived.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440663_d62f505d7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440663_b26f2d1b92_o.png",
+      "id_image": "primitive_2604879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680699_153526b0b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680699_0fd6f8cbcf_o.png",
+      "id_image": "primitive_2604886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440593_52f4901e0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440593_751049059b_o.png",
+      "id_image": "primitive_2604889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370347_3cf723d20d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370347_177b5ce744_o.png",
+      "id_image": "primitive_4744284"
+    }
+  ]
+}

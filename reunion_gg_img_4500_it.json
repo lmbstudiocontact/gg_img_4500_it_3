@@ -1,0 +1,32 @@
+{
+  "english": "reunion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đoàn tựu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự họp lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhóm họp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instance of two or more people coming together again after a period of separation.",
+      "definitions_ex_en": "she had a tearful reunion with her parents",
+      "definitions_ex_vn": "Cô đã một cuộc hội ngộ nước mắt với cha mẹ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086155_b445d785bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086155_273167253d_o.png",
+      "id_image": "reunion_567509"
+    }
+  ]
+}

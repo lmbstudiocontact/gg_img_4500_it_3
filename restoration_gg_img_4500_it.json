@@ -1,0 +1,39 @@
+{
+  "english": "restoration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hoàn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of returning something to a former owner, place, or condition.",
+      "definitions_ex_en": "the restoration of Andrew's sight",
+      "definitions_ex_vn": "sự phục hồi thị lực của Andrew",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the return of a hereditary monarch to a throne, a head of state to government, or a regime to power.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464883_c1b38a6433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464883_25fb7a6573_o.png",
+      "id_image": "restoration_4127121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350266_8e464e1b34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350266_8d0bd43bff_o.png",
+      "id_image": "restoration_5714958"
+    }
+  ]
+}

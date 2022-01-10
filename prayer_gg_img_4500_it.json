@@ -1,0 +1,49 @@
+{
+  "english": "prayer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kinh cầu nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời thỉnh nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cầu khẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cầu nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khẩn nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người xin",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a solemn request for help or expression of thanks addressed to God or an object of worship.",
+      "definitions_ex_en": "I'll say a prayer for him",
+      "definitions_ex_vn": "Tôi sẽ nói một lời cầu nguyện cho anh ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067285_c146bc0c9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067285_5ceb5d1071_o.png",
+      "id_image": "prayer_2759663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445393_35309c12ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445393_2ce9dd5836_o.png",
+      "id_image": "prayer_5826105"
+    }
+  ]
+}

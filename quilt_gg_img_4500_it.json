@@ -1,0 +1,51 @@
+{
+  "english": "quilt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "may chăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dồn bông gòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết nhiều miếng lại một",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhồi bông gòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mền đắp chân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a warm bed covering made of padding enclosed between layers of fabric and kept in place by lines of stitching, typically applied in a decorative design.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "join together (layers of fabric or padding) with lines of stitching to form a warm bed covering or garment, or for decorative effect.",
+      "definitions_ex_en": "we quilted the covers with parallel lines of stitching",
+      "definitions_ex_vn": "Chúng tôi quilted the cover với các đường khâu song song",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080555_bd2d3cfa8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080555_1b6d39c451_o.png",
+      "id_image": "quilt_1337907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343071_8b2e99570d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343071_8d47cc188d_o.png",
+      "id_image": "quilt_3467770"
+    }
+  ]
+}

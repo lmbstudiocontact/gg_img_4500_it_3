@@ -1,0 +1,74 @@
+{
+  "english": "plaster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hồ để dán tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thạch cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc dán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đắp thạch cao lên vết thương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đắp thuốc dán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tô hồ lên tường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trét lên tường",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a soft mixture of lime with sand or cement and water for spreading on walls, ceilings, or other structures to form a smooth hard surface when dried.",
+      "definitions_ex_en": "strip away the plaster to expose the bare brick",
+      "definitions_ex_vn": "tước bỏ thạch cao để lộ gạch trần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (a wall, ceiling, or other structure) with plaster.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697379_7bd1bbfdb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697379_8f99599d1e_o.png",
+      "id_image": "plaster_194898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456988_275e5fb327_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456988_f84879733a_o.png",
+      "id_image": "plaster_4850978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387127_e78908766a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387127_d66ce5dfc9_o.png",
+      "id_image": "plaster_5180490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697299_02aaeda67a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697299_5b27b3857d_o.png",
+      "id_image": "plaster_5767777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387092_c59ee1ccdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387092_9e88ec92c6_o.png",
+      "id_image": "plaster_6009235"
+    }
+  ]
+}

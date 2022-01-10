@@ -1,0 +1,120 @@
+{
+  "english": "pin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim găm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái chốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái ngạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim gút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng chốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "găm bằng kim gút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghim bằng kim gút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tra chốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xỏ chốt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin piece of metal with a sharp point at one end and a round head at the other, used especially for fastening pieces of cloth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a metal projection from a plug or an integrated circuit which makes an electrical connection with a socket or another part of a circuit.",
+      "definitions_ex_en": "a three-pin plug",
+      "definitions_ex_vn": "một phích cắm ba pin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stick with a flag placed in a hole to mark the hole's position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in bowling) one of a set of bottle-shaped wooden pieces that are arranged in an upright position at the end of a lane in order to be toppled by a rolling ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's legs.",
+      "definitions_ex_en": "she was very nimble on her pins",
+      "definitions_ex_vn": "Cô ấy rất nhanh nhẹn trên chân của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an attack on a piece or pawn which is thereby pinned.",
+      "definitions_ex_en": "the pin of the black queen by the white rook",
+      "definitions_ex_vn": "ghim của nữ hoàng màu đen của tân binh trắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an identifying number allocated to an individual by a bank or other organization and used for validating electronic transactions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attach or fasten with a pin or pins in a specified position.",
+      "definitions_ex_en": "her hair was pinned back",
+      "definitions_ex_vn": "Tóc cô được ghim lại",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701349_db4bcb938b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701349_6d588dd802_o.png",
+      "id_image": "pin_595735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346471_56d9d4e9b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346471_d280621474_o.png",
+      "id_image": "pin_684449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461198_d207f3188e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461198_b8a7bbd592_o.png",
+      "id_image": "pin_709383"
+    }
+  ]
+}

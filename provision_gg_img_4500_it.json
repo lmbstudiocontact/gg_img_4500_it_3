@@ -1,0 +1,90 @@
+{
+  "english": "provision",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều khoản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cung cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đề phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sắp đặt trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa soạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dự bị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dự phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấp dưỡng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cung cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp tế",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of providing or supplying something for use.",
+      "definitions_ex_en": "new contracts for the provision of services",
+      "definitions_ex_vn": "Hợp đồng mới cho việc cung cấp dịch vụ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amount or thing supplied or provided.",
+      "definitions_ex_en": "low levels of social provision",
+      "definitions_ex_vn": "mức độ dự phòng xã hội thấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a condition or requirement in a legal document.",
+      "definitions_ex_en": "a key provision in civil rights law",
+      "definitions_ex_vn": "một điều khoản chính trong luật dân quyền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an appointment to a benefice, especially directly by the Pope rather than by the patron, and originally before it became vacant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "supply with food, drink, or equipment, especially for a journey.",
+      "definitions_ex_en": "civilian contractors were responsible for provisioning these armies",
+      "definitions_ex_vn": "Các nhà thầu dân sự có trách nhiệm cung cấp các đội quân này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "set aside an amount in an organization's accounts for a known liability.",
+      "definitions_ex_en": "financial institutions have to provision against loan losses",
+      "definitions_ex_vn": "Các tổ chức tài chính phải cung cấp chống lại tổn thất cho vay",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703974_d2f9ce0e2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703974_fb31d68fa7_o.png",
+      "id_image": "provision_2104134"
+    }
+  ]
+}

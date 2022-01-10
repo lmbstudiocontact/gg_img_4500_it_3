@@ -1,0 +1,39 @@
+{
+  "english": "pistachio",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quả hồ trăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái cây hồ trăn tử",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the edible pale green seed of an Asian tree.",
+      "definitions_ex_en": "pistachio ice cream",
+      "definitions_ex_vn": "Pistachio Ice Cream",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the evergreen tree of the cashew family that produces this nut, with small brownish-green flowers and reddish wrinkled fruit borne in heavy clusters. It is widely cultivated, especially in the US and around the Mediterranean.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344946_b738634d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344946_7b7c171e9e_o.png",
+      "id_image": "pistachio_1112958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344921_eb68ef52fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344921_c98941f1f6_o.png",
+      "id_image": "pistachio_4366696"
+    }
+  ]
+}

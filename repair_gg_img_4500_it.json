@@ -1,0 +1,104 @@
+{
+  "english": "repair",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bồi thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi đến nơi nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự năng tới lui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa chửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa sang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tu bổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vãng lai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi đến một nơi nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tu bổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa chửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa lổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa sang",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fix or mend (a thing suffering from damage or a fault).",
+      "definitions_ex_en": "faulty electrical appliances should be repaired by an electrician",
+      "definitions_ex_vn": "Thiết bị điện bị lỗi nên được sửa chữa bởi một thợ điện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go to (a place), especially in company.",
+      "definitions_ex_en": "we repaired to the tranquility of a nearby cafe",
+      "definitions_ex_vn": "Chúng tôi đã sửa chữa sự yên tĩnh của một quán cà phê gần đó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of fixing or mending something.",
+      "definitions_ex_en": "the truck was beyond repair",
+      "definitions_ex_vn": "Xe tải vượt quá sửa chữa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "frequent or habitual visiting of a place.",
+      "definitions_ex_en": "she exhorted repair to the church",
+      "definitions_ex_vn": "Cô hô hào sửa chữa nhà thờ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439278_21d42c39d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439278_dfcfc5fb8b_o.png",
+      "id_image": "repair_1207155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061075_4891d171f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061075_744d1516a0_o.png",
+      "id_image": "repair_4772180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061040_3e7af205f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061040_3e9a55c1af_o.png",
+      "id_image": "repair_5060384"
+    }
+  ]
+}

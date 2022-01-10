@@ -1,0 +1,127 @@
+{
+  "english": "reverse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đảo ngược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghịch lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bề trái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho xe lui lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều trái ngược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều vận rủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt sau của tờ giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng đánh trái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghịch chiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thất bại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trái chiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đảo ngược",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hủy bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khiêu vũ xoay tròn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thủ tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lộn xộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lộn ngược",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move backward.",
+      "definitions_ex_en": "the truck reversed into the back of a bus",
+      "definitions_ex_vn": "chiếc xe tải đảo ngược vào mặt sau của một chiếc xe buýt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "going in or turned toward the direction opposite to that previously stated.",
+      "definitions_ex_en": "the trend appears to be going in the reverse direction",
+      "definitions_ex_vn": "Xu hướng dường như đang đi theo hướng ngược lại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a complete change of direction or action.",
+      "definitions_ex_en": "the growth actuates a reverse of photosynthesis",
+      "definitions_ex_vn": "Sự tăng trưởng có tính hành động ngược lại quang hợp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the opposite or contrary to that previously stated.",
+      "definitions_ex_en": "he didn't feel homesick—quite the reverse",
+      "definitions_ex_vn": "anh ta không cảm thấy nhớ nhà, khá ngược lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an adverse change of fortune; a setback or defeat.",
+      "definitions_ex_en": "the team suffered its heaviest reverse of the season",
+      "definitions_ex_vn": "Đội đã chịu đựng sự đảo ngược nặng nề nhất của mùa giải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the opposite side or face to the observer.",
+      "definitions_ex_en": "the address is given on the reverse of this leaflet",
+      "definitions_ex_vn": "Địa chỉ được đưa ra trên mặt trái của tờ rơi này",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703249_736ebfe56c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703249_77cf54dfcc_o.png",
+      "id_image": "reverse_2620728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085780_a2fc4f70fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085780_5727799b9e_o.png",
+      "id_image": "reverse_5869874"
+    }
+  ]
+}

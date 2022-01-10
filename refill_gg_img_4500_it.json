@@ -1,0 +1,47 @@
+{
+  "english": "refill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứa cho đầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đồ cho đầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho đầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rót cho đầy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fill (a container) again.",
+      "definitions_ex_en": "she paused and refilled her glass with wine before going on",
+      "definitions_ex_vn": "Cô dừng lại và đổ đầy ly với rượu trước khi tiếp tục",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of filling a container again.",
+      "definitions_ex_en": "he proffered his glass for a refill",
+      "definitions_ex_vn": "Anh ấy đã tìm kiếm ly của mình để nạp tiền",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376882_48e1105667_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376882_46e7ba82be_o.png",
+      "id_image": "refill_2621876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068755_0ae9b95f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068755_e653342242_o.png",
+      "id_image": "refill_4413666"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "platter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dỉa bàn ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dĩa đựng cơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dỉa đựng thịt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large flat dish or plate, typically oval or circular in shape, used for serving food.",
+      "definitions_ex_en": "arrange the fruit on a serving platter",
+      "definitions_ex_vn": "sắp xếp trái cây trên một đĩa phục vụ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the rotating metal disk forming the turntable of a record player.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078940_eb183a38e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078940_07e590f42f_o.png",
+      "id_image": "platter_259184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456373_8cc8a1baca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456373_f008236cca_o.png",
+      "id_image": "platter_5707220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456338_02941ce71b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456338_3b24c52d39_o.png",
+      "id_image": "platter_6118294"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "passion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ái tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơn giận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối yêu đương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi thống khổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khát vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phẩn nộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh ham mê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh say mê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình yêu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strong and barely controllable emotion.",
+      "definitions_ex_en": "a man of impetuous passion",
+      "definitions_ex_vn": "một người đàn ông của niềm đam mê bốc đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the suffering and death of Jesus.",
+      "definitions_ex_en": "meditations on the Passion of Christ",
+      "definitions_ex_vn": "Thiền về niềm đam mê của Chúa Kitô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374777_90737255c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374777_cfa84f841c_o.png",
+      "id_image": "passion_1935509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330081_f5a1e6809f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330081_18bec7d33c_o.png",
+      "id_image": "passion_4729366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374867_1564e1d29a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374867_09d22fcc94_o.png",
+      "id_image": "passion_536902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066960_2a25e434ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066960_ff54f5f4a4_o.png",
+      "id_image": "passion_552429"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "english": "pick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xoi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cuốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm chuyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khoét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lựa chọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cái cuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái cúp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa hái quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần lựa kỷ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái đập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chọn lựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hái trái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhặt lên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take hold of and remove (a flower, fruit, or vegetable) from where it is growing.",
+      "definitions_ex_en": "I went to pick some flowers for Jenny's room",
+      "definitions_ex_vn": "Tôi đã đi hái một ít hoa cho phòng của Jenny",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "choose (someone or something) from a number of alternatives, typically after careful thought.",
+      "definitions_ex_en": "maybe I picked the wrong career after all",
+      "definitions_ex_vn": "Có lẽ tôi đã chọn sai sự nghiệp sau tất cả",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (a hole) in fabric by pulling at it with one's fingers.",
+      "definitions_ex_en": "she picked a hole in her tights",
+      "definitions_ex_vn": "Cô nhặt một cái lỗ trong quần của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pluck the strings of (a guitar or banjo).",
+      "definitions_ex_en": "people were singing and picking guitars",
+      "definitions_ex_vn": "Mọi người đang hát và hái guitar",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or the right of selecting something from among a group of alternatives.",
+      "definitions_ex_en": "take your pick from our extensive menu",
+      "definitions_ex_vn": "Hãy chọn từ thực đơn phong phú của chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of blocking or screening a defensive player from the ball handler, allowing an open shot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool consisting of a long handle set at right angles in the middle of a curved iron or steel bar with a point at one end and a chisel edge or point at the other, used for breaking up hard ground or rock.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instrument for picking.",
+      "definitions_ex_en": "an ebony hair pick",
+      "definitions_ex_vn": "Chọn tóc mun",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085870_d5536675d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085870_5ca2ea5127_o.png",
+      "id_image": "pick_1403900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085840_4e67ba2f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085840_446c29dccb_o.png",
+      "id_image": "pick_1660019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463378_5fdb919286_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463378_eb9c5650b0_o.png",
+      "id_image": "pick_499251"
+    }
+  ]
+}

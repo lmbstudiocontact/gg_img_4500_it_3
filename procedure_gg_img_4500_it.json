@@ -1,0 +1,50 @@
+{
+  "english": "procedure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phương cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủ tục tố tụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an established or official way of doing something.",
+      "definitions_ex_en": "the police are now reviewing procedures",
+      "definitions_ex_vn": "Cảnh sát đang xem xét các thủ tục",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438243_c823c72d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438243_de3ba8fe23_o.png",
+      "id_image": "procedure_2519438"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323136_cf4168b1c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323136_a3318ec43a_o.png",
+      "id_image": "procedure_2752868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059810_6726f36424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059810_c6f7554bf0_o.png",
+      "id_image": "procedure_4252302"
+    }
+  ]
+}

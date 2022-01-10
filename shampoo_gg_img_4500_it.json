@@ -1,0 +1,48 @@
+{
+  "english": "shampoo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dầu gội đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc gội đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gội đầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a liquid preparation containing detergent or soap for washing the hair.",
+      "definitions_ex_en": "he smelt clean, of soap and shampoo",
+      "definitions_ex_vn": "Anh ta smelt sạch, xà phòng và dầu gội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wash or clean (something, especially the hair) with shampoo.",
+      "definitions_ex_en": "Dolly was sitting in the bath shampooing her hair",
+      "definitions_ex_vn": "Dolly đang ngồi trong bồn tắm gội đầu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462153_ab15ca5ecf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462153_6480827b29_o.png",
+      "id_image": "shampoo_4157623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392352_883f2b2837_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392352_6e2ed62ee8_o.png",
+      "id_image": "shampoo_4310660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462078_db6fc71532_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462078_c0551de0a9_o.png",
+      "id_image": "shampoo_6075408"
+    }
+  ]
+}

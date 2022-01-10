@@ -1,0 +1,89 @@
+{
+  "english": "parallel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "song song",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "như nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tương đồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đường song song",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự so sánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vĩ tuyến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để song song",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho đồng bộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "so sánh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of lines, planes, surfaces, or objects) side by side and having the same distance continuously between them.",
+      "definitions_ex_en": "parallel lines never meet",
+      "definitions_ex_vn": "Đường song song không bao giờ gặp nhau",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person or thing that is similar or analogous to another.",
+      "definitions_ex_en": "a challenge that has no parallel in peacetime this century",
+      "definitions_ex_vn": "một thách thức không có song song trong thời bình thời gian này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the imaginary parallel circles of constant latitude on the earth's surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "two parallel lines (‖) as a reference mark.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of something extending in a line) be side by side with (something extending in a line), always keeping the same distance.",
+      "definitions_ex_en": "a big concrete gutter that paralleled the road",
+      "definitions_ex_vn": "một máng xối bê tông lớn song song với con đường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333236_ac3b7a42d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333236_a93c768bbf_o.png",
+      "id_image": "parallel_5376858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333201_291f3ff548_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333201_c75ddd1df5_o.png",
+      "id_image": "parallel_5967429"
+    }
+  ]
+}

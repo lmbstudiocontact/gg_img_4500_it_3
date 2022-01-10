@@ -1,0 +1,34 @@
+{
+  "english": "paramedic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về thông số",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person trained to give emergency medical care to people who are injured or ill, typically in a setting outside of a hospital.",
+      "definitions_ex_en": "all ambulances were manned by a nurse or paramedic and a driver",
+      "definitions_ex_vn": "tất cả các xe cứu thương đã được quản lý bởi một y tá hoặc nhân viên y tế và một người lái xe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378047_144664f325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378047_5846a2cbcd_o.png",
+      "id_image": "paramedic_2231095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448188_d253638cd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448188_47836ab1b6_o.png",
+      "id_image": "paramedic_4310331"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448138_805ae287c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448138_8142af1b98_o.png",
+      "id_image": "paramedic_6036785"
+    }
+  ]
+}

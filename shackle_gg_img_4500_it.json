@@ -1,0 +1,48 @@
+{
+  "english": "shackle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái còng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái khoen của dây xích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng đeo tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "còng lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pair of fetters connected together by a chain, used to fasten a prisoner's wrists or ankles together.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a metal link, typically U-shaped, closed by a bolt, used to secure a chain or rope to something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "chain with shackles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462768_9557abbbbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462768_e4a0237bfc_o.png",
+      "id_image": "shackle_1401419"
+    }
+  ]
+}

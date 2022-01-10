@@ -1,0 +1,106 @@
+{
+  "english": "position",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thái độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị trí mẫu âm của vần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt vào vị trí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để vào chổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place where someone or something is located or has been put.",
+      "definitions_ex_en": "the distress call had given the ship's position",
+      "definitions_ex_vn": "Cuộc gọi đau khổ đã đưa ra vị trí của con tàu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular way in which someone or something is placed or arranged.",
+      "definitions_ex_en": "he moved himself into a reclining position",
+      "definitions_ex_vn": "Anh tự di chuyển mình vào một vị trí ngả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a situation or set of circumstances, especially one that affects one's power to act.",
+      "definitions_ex_en": "the company's financial position is grim",
+      "definitions_ex_vn": "Tình hình tài chính của công ty là nghiệt ngã",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's point of view or attitude toward something.",
+      "definitions_ex_en": "I’ll never accept his position on censorship",
+      "definitions_ex_vn": "Tôi sẽ không bao giờ chấp nhận vị trí của mình về kiểm duyệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an investor's net holdings in one or more markets at a particular time; the status of an individual or institutional trader's open contracts.",
+      "definitions_ex_en": "traders were covering short positions",
+      "definitions_ex_vn": "Thương nhân đã bao gồm các vị trí ngắn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a proposition laid down or asserted; a tenet or assertion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put or arrange (someone or something) in a particular place or way.",
+      "definitions_ex_en": "he pulled out a chair and positioned it between them",
+      "definitions_ex_vn": "Anh ta rút ra một cái ghế và định vị nó giữa chúng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689199_e66c6cf192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689199_fbfaac673c_o.png",
+      "id_image": "position_1284363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379017_d15f55d87d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379017_ebe0547205_o.png",
+      "id_image": "position_169487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334101_6da49c94cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334101_19aafb30a7_o.png",
+      "id_image": "position_4463713"
+    }
+  ]
+}

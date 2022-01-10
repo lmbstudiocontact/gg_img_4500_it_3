@@ -1,0 +1,150 @@
+{
+  "english": "register",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy ghi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biên vào sổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầu chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đăng bộ xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ghi tên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sắp chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trình diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầu chứng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đăng bộ xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình diện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vào sổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi tên vào sổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vô sổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an official list or record, for example of births, marriages, and deaths, of shipping, or of historic places.",
+      "definitions_ex_en": "a membership register",
+      "definitions_ex_vn": "một sổ đăng ký thành viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular part of the range of a voice or instrument.",
+      "definitions_ex_en": "his voice moved up a register",
+      "definitions_ex_vn": "giọng anh di chuyển lên một sổ đăng ký",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a variety of a language or a level of usage, as determined by degree of formality and choice of vocabulary, pronunciation, and syntax, according to the communicative purpose, social context, and social status of the user.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the exact correspondence of the position of color components in a printed positive.",
+      "definitions_ex_en": "it was reproduced in full color but unfortunately out of register",
+      "definitions_ex_vn": "nó được sao chép đầy đủ màu sắc nhưng không may ra khỏi sổ đăng ký",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in electronic devices) a location in a store of data, used for a specific purpose and with quick access time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an adjustable plate for widening or narrowing an opening and regulating a draft, especially in a fire grate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of a number of bands or sections into which a design is divided.",
+      "definitions_ex_en": "the central register shows a Roman Emperor on horseback",
+      "definitions_ex_vn": "Đăng ký trung tâm cho thấy một hoàng đế La Mã trên lưng ngựa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "enter or record on an official list or directory.",
+      "definitions_ex_en": "the vessel is registered as Liberian",
+      "definitions_ex_vn": "Tàu được đăng ký là Liberian",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an instrument) detect and show (a reading) automatically.",
+      "definitions_ex_en": "the electroscope was too insensitive to register the tiny changes",
+      "definitions_ex_vn": "Electroscope quá nhạy cảm với việc đăng ký những thay đổi nhỏ xíu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "express or convey (an opinion or emotion).",
+      "definitions_ex_en": "I wish to register an objection",
+      "definitions_ex_vn": "Tôi muốn đăng ký phản đối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "correspond or cause to correspond exactly in position.",
+      "definitions_ex_en": "they are adjusted until the impressions register",
+      "definitions_ex_vn": "chúng được điều chỉnh cho đến khi đăng ký ấn tượng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066735_415d445d4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066735_d1f9bd9609_o.png",
+      "id_image": "register_2417841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066705_05c99cd96a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066705_999b1f63d5_o.png",
+      "id_image": "register_3410318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066665_ef74091450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066665_80d74f6d90_o.png",
+      "id_image": "register_5216779"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "presenter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người được chỉ định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giới thiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tặng quà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who formally presents an award or honor to someone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443213_163b0c2a4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443213_cf28819de3_o.png",
+      "id_image": "presenter_1680838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328111_2da1af97fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328111_0612306109_o.png",
+      "id_image": "presenter_2736299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064805_1652f25b06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064805_e9ee8ec138_o.png",
+      "id_image": "presenter_4751930"
+    }
+  ]
+}

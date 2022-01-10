@@ -1,0 +1,104 @@
+{
+  "english": "reduce",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gầy mòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giãm giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giáng cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khử oc xy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho nhỏ lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mõng bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ngắn bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm suy nhược",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tuyệt vọng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thành nhỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sụt giá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make smaller or less in amount, degree, or size.",
+      "definitions_ex_en": "the need for businesses to reduce costs",
+      "definitions_ex_vn": "Nhu cầu cho các doanh nghiệp giảm chi phí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring someone or something to (a lower or weaker state, condition, or role).",
+      "definitions_ex_en": "she has been reduced to near poverty",
+      "definitions_ex_vn": "Cô đã được giảm xuống gần nghèo đói",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "change a substance to (a different or more basic form).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to combine chemically with hydrogen.",
+      "definitions_ex_en": "hydrogen for reducing the carbon dioxide",
+      "definitions_ex_vn": "hydro để giảm carbon dioxide",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "restore (a dislocated part) to its proper position by manipulation or surgery.",
+      "definitions_ex_en": "Joe's reducing a dislocated thumb",
+      "definitions_ex_vn": "Joe's giảm một ngón tay cái bị trật khớp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "besiege and capture (a town or fortress).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069735_8dbd903eb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069735_79850a2e61_o.png",
+      "id_image": "reduce_1891346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332916_be22e090e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332916_8e9ede27ee_o.png",
+      "id_image": "reduce_5068508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332896_86742b36bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332896_72aaf4cd69_o.png",
+      "id_image": "reduce_6092197"
+    }
+  ]
+}

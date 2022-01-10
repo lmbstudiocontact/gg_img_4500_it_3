@@ -1,0 +1,74 @@
+{
+  "english": "rotten",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hư",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồi bại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mắc bịnh có sán trong gan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thúi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thúi nát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trụy lạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "suffering from decay.",
+      "definitions_ex_en": "rotten eggs",
+      "definitions_ex_vn": "trứng thối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very bad.",
+      "definitions_ex_en": "she was a rotten cook",
+      "definitions_ex_vn": "cô ấy là một đầu bếp thối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to an extreme degree; very much.",
+      "definitions_ex_en": "your mother said that I spoiled you rotten",
+      "definitions_ex_vn": "Mẹ của bạn nói rằng tôi đã làm hỏng bạn thối",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078905_ee1f1d151b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078905_f2e42d3d24_o.png",
+      "id_image": "rotten_4172831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386512_3c8143c99f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386512_1ca6227528_o.png",
+      "id_image": "rotten_5256354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386487_81d6115958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386487_34c7076fd6_o.png",
+      "id_image": "rotten_5671101"
+    }
+  ]
+}

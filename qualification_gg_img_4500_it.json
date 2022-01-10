@@ -1,0 +1,80 @@
+{
+  "english": "qualification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khả năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "năng lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho rằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dè dặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gọi là",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hạn chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhận định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài năng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quality or accomplishment that makes someone suitable for a particular job or activity.",
+      "definitions_ex_en": "only one qualification required—a fabulous sense of humor",
+      "definitions_ex_vn": "Chỉ có một trình độ chuyên môn cần thiết - một khiếu hài hước tuyệt vời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or fact of qualifying or being eligible for something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a statement or assertion that makes another less absolute.",
+      "definitions_ex_en": "this important qualification needs to be remembered when interpreting the results",
+      "definitions_ex_vn": "Trình độ chuyên môn quan trọng này cần được ghi nhớ khi diễn giải kết quả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the attribution of a quality to a word, especially a noun.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460378_a0e9872d88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460378_75decb2ac8_o.png",
+      "id_image": "qualification_2292250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390602_edea7fb4a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390602_0d43086024_o.png",
+      "id_image": "qualification_2727697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082975_e6e305a8c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082975_8bd9a4a85d_o.png",
+      "id_image": "qualification_2867425"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "ranger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỵ binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính cảnh binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi lang thang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi vẩn vơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viên kiểm lâm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a keeper of a park, forest, or area of countryside.",
+      "definitions_ex_en": "park rangers",
+      "definitions_ex_vn": "kiểm lâm viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a body of armed men.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that wanders or ranges over a particular area or domain.",
+      "definitions_ex_en": "rangers of the mountains",
+      "definitions_ex_vn": "Rangers of the Mountains",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338971_bae6693b00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338971_54fb952f94_o.png",
+      "id_image": "ranger_1909990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383852_0913b7a96b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383852_8e02d9381f_o.png",
+      "id_image": "ranger_6036767"
+    }
+  ]
+}

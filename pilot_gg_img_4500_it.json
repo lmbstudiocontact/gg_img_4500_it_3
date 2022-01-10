@@ -1,0 +1,95 @@
+{
+  "english": "pilot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phi công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dẩn tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hoa tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lái phi cơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lái tàu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who operates the flying controls of an aircraft.",
+      "definitions_ex_en": "a strike by local airline pilots",
+      "definitions_ex_vn": "một cuộc đình công của phi công hãng hàng không địa phương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a television program made to test audience reaction with a view to the production of a series.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unmodulated reference signal transmitted with another signal for the purposes of control or synchronization.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for cowcatcher.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for pilot light (sense 1).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "done as an experiment or test before introducing something more widely.",
+      "definitions_ex_en": "a two-year pilot study",
+      "definitions_ex_vn": "một nghiên cứu thí điểm hai năm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "act as a pilot of (an aircraft or ship).",
+      "definitions_ex_en": "he piloted the helicopter from Paris to Deauville",
+      "definitions_ex_vn": "Ông đã thí điểm máy bay trực thăng từ Paris đến Deauville",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "test (a plan, project, etc.) before introducing it more widely.",
+      "definitions_ex_en": "other schools were piloting such courses",
+      "definitions_ex_vn": "Các trường khác đã lái các khóa học như vậy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084060_3f652cf9e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084060_345972713a_o.png",
+      "id_image": "pilot_1983300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084045_f4f973691e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084045_841205b3ed_o.png",
+      "id_image": "pilot_4251422"
+    }
+  ]
+}

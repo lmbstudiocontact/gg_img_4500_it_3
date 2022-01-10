@@ -1,0 +1,85 @@
+{
+  "english": "qualify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "coi là",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định danh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định tính chất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gọi là",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giảm bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạn chế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hình dung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa đổi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be entitled to a particular benefit or privilege by fulfilling a necessary condition.",
+      "definitions_ex_en": "they do not qualify for compensation payments",
+      "definitions_ex_vn": "họ không đủ điều kiện nhận thanh toán bồi thường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become officially recognized as a practitioner of a particular profession or activity by satisfying the relevant conditions or requirements, typically by undertaking a course of study and passing examinations.",
+      "definitions_ex_en": "I've only just qualified",
+      "definitions_ex_vn": "Tôi chỉ có đủ điều kiện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (a statement or assertion) less absolute; add reservations to.",
+      "definitions_ex_en": "she felt obliged to qualify her first short answer",
+      "definitions_ex_vn": "cô cảm thấy có nghĩa vụ phải đủ điều kiện câu trả lời ngắn đầu tiên của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a word or phrase) attribute a quality to (another word, especially a preceding noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460233_b7f25cf4c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460233_c67b8ae518_o.png",
+      "id_image": "qualify_2132547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345416_09ea311bb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345416_9ccbddeefb_o.png",
+      "id_image": "qualify_4310167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082830_b7c1d13913_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082830_4978dc6446_o.png",
+      "id_image": "qualify_4497212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345331_1526ea72c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345331_298c3cf3ec_o.png",
+      "id_image": "qualify_5572386"
+    }
+  ]
+}

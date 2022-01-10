@@ -1,0 +1,28 @@
+{
+  "english": "publisher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người xuất bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà phát hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or company that prepares and issues books, journals, music, or other works for sale.",
+      "definitions_ex_en": "the publishers of Vogue",
+      "definitions_ex_vn": "Các nhà xuất bản Vogue",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393412_801e4e00a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393412_f787baf9c3_o.png",
+      "id_image": "publisher_2450941"
+    }
+  ]
+}

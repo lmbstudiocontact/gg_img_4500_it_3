@@ -1,0 +1,39 @@
+{
+  "english": "peppermint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạc hà cay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi rau húng cây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the aromatic leaves of a plant of the mint family, or an essential oil obtained from them, used as a flavoring in food.",
+      "definitions_ex_en": "peppermint creams",
+      "definitions_ex_vn": "Kem bạc hà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cultivated Old World plant which yields peppermint leaves or oil.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436698_83eb2cf71c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436698_eab72c8995_o.png",
+      "id_image": "peppermint_1087459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676544_8c166272ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676544_33349d7bc1_o.png",
+      "id_image": "peppermint_5304689"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "sharpener",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ dùng để mài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ mài cho bén",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or device that makes something sharp.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701394_1ac184e42e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701394_cd3a02668f_o.png",
+      "id_image": "sharpener_1428730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461253_b47ef6ac18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461253_74c7bd85bd_o.png",
+      "id_image": "sharpener_1442795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391492_c68f4c1a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391492_6b31f33d5c_o.png",
+      "id_image": "sharpener_420277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461338_18eae7d5fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461338_55850662d9_o.png",
+      "id_image": "sharpener_546661"
+    }
+  ]
+}

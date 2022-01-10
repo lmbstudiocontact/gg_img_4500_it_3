@@ -1,0 +1,83 @@
+{
+  "english": "promote",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gây rối loạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gây sự phản ứng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gây dựng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuyến khích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm quảng cáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nâng đở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sáng lập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thăng cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thăng chức",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "further the progress of (something, especially a cause, venture, or aim); support or actively encourage.",
+      "definitions_ex_en": "some regulation is still required to promote competition",
+      "definitions_ex_vn": "Một số quy định vẫn được yêu cầu để thúc đẩy cạnh tranh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "advance or raise (someone) to a higher position or rank.",
+      "definitions_ex_en": "she was promoted to General Manager",
+      "definitions_ex_vn": "Cô được thăng chức đến Tổng Giám đốc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "act as a promoter of (a catalyst).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088600_1b0bb0f602_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088600_7ef8c4fc17_o.png",
+      "id_image": "promote_1610441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351506_255bc2b2ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351506_82d339aeec_o.png",
+      "id_image": "promote_2311674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705864_1b91a4d264_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705864_92ebd1f690_o.png",
+      "id_image": "promote_4047866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396037_da41fcb9f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396037_73606218e9_o.png",
+      "id_image": "promote_5265031"
+    }
+  ]
+}

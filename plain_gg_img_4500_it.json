@@ -1,0 +1,133 @@
+{
+  "english": "plain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân minh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bằng phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giản dị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không phiền phức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không rườm rà",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngay thẳng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngay thật",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "than phiền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not decorated or elaborate; simple or ordinary in character.",
+      "definitions_ex_en": "good plain food",
+      "definitions_ex_vn": "thực phẩm sạch",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) having no pretensions; not remarkable or special.",
+      "definitions_ex_en": "a plain, honest man with no nonsense about him",
+      "definitions_ex_vn": "Một người đàn ông trung thực, trung thực không có gì vô nghĩa về anh ta",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "easy to perceive or understand; clear.",
+      "definitions_ex_en": "the advantages were plain to see",
+      "definitions_ex_vn": "những lợi thế là đơn giản để xem",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) not beautiful or attractive.",
+      "definitions_ex_en": "the dark-haired, rather plain woman",
+      "definitions_ex_vn": "Người phụ nữ tóc đen, khá đơn giản",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "sheer; simple (used for emphasis).",
+      "definitions_ex_en": "the main problem is just plain exhaustion",
+      "definitions_ex_vn": "Vấn đề chính chỉ là kiệt sức đơn giản",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or relating to a type of knitting stitch produced by putting the needle through the front of each stitch from left to right.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "clearly; unequivocally (used for emphasis).",
+      "definitions_ex_en": "perhaps the youth was just plain stupid",
+      "definitions_ex_vn": "Có lẽ tuổi trẻ chỉ đơn giản là ngu ngốc",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a large area of flat land with few trees.",
+      "definitions_ex_en": "the coastal plain",
+      "definitions_ex_vn": "Đồng bằng ven biển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mourn or lament.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344016_f2c231b487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344016_7dc9e65afa_o.png",
+      "id_image": "plain_1076353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388887_5d8ddd232d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388887_1b9c76dbee_o.png",
+      "id_image": "plain_3788664"
+    }
+  ]
+}

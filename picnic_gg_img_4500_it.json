@@ -1,0 +1,44 @@
+{
+  "english": "picnic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi chơi picnic",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cuộc đi chơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an outing or occasion that involves taking a packed meal to be eaten outdoors.",
+      "definitions_ex_en": "we swam and went on picnics",
+      "definitions_ex_vn": "Chúng tôi bơi và đi dã ngoại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have or take part in a picnic.",
+      "definitions_ex_en": "in summer they picnicked on the beach",
+      "definitions_ex_vn": "Vào mùa hè, họ đã bỏ qua trên bãi biển",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702814_ed3dc00d7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702814_d121907899_o.png",
+      "id_image": "picnic_1142694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348166_77257c817c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348166_ae8b894304_o.png",
+      "id_image": "picnic_769632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702864_d0c49d7197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702864_d5847c3ccd_o.png",
+      "id_image": "picnic_978391"
+    }
+  ]
+}

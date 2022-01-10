@@ -1,0 +1,157 @@
+{
+  "english": "short",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gần đây",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngắn ngủi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tóm lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngắc lời người nào",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngừng lại thình lình",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "âm ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần ngắn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "measuring a small distance from end to end.",
+      "definitions_ex_en": "short dark hair",
+      "definitions_ex_vn": "mái tóc đen ngắn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lasting or taking a small amount of time.",
+      "definitions_ex_en": "visiting London for a short break",
+      "definitions_ex_vn": "Tham quan London để nghỉ ngắn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relatively small in extent.",
+      "definitions_ex_en": "a short speech",
+      "definitions_ex_vn": "một bài phát biểu ngắn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a vowel) categorized as short with regard to quality and length (e.g. in standard British English the vowel /ʊ/ in good is short as distinct from the long vowel /uː/ in food ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) terse; uncivil.",
+      "definitions_ex_en": "he was often sharp and rather short with her",
+      "definitions_ex_vn": "anh ấy thường sắc nét và khá ngắn với cô ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of odds or a chance) reflecting or representing a high level of probability.",
+      "definitions_ex_en": "they have been backed at short odds to win thousands of pounds",
+      "definitions_ex_vn": "họ đã được hỗ trợ trong các tỷ lệ cược ngắn để giành được hàng ngàn bảng Anh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of pastry) containing a high proportion of fat to flour and therefore crumbly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(chiefly in sport) at, to, or over a relatively small distance.",
+      "definitions_ex_en": "you go deep and you go short",
+      "definitions_ex_vn": "bạn đi sâu và bạn đi ngắn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a short film as opposed to a feature film.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short sound such as a short signal in Morse code or a short vowel or syllable.",
+      "definitions_ex_en": "her call was two longs and a short",
+      "definitions_ex_vn": "cuộc gọi của cô ấy là hai dài và một ngắn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short circuit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who sells short.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mixture of bran and coarse flour.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short-circuit or cause to short-circuit.",
+      "definitions_ex_en": "the electrical circuit had shorted out",
+      "definitions_ex_vn": "Mạch điện đã rút ngắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sell (stocks or other securities or commodities) in advance of acquiring them, with the aim of making a profit when the price falls.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698194_129b52fccf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698194_e741fb52a9_o.png",
+      "id_image": "short_184060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387922_118d44d610_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387922_6efc303f9a_o.png",
+      "id_image": "short_2405662"
+    }
+  ]
+}

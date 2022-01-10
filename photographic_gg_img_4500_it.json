@@ -1,0 +1,24 @@
+{
+  "english": "photographic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuật chụp hình",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or resembling photographs.",
+      "definitions_ex_en": "high-tech digital photographic equipment",
+      "definitions_ex_vn": "Thiết bị chụp ảnh kỹ thuật số công nghệ cao",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704009_d78b7e54c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704009_f598ffb86b_o.png",
+      "id_image": "photographic_223235"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "relay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chuyển vận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tạm ngưng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trể lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of people or animals engaged in a task or activity for a fixed period of time and then replaced by a similar group.",
+      "definitions_ex_en": "the wagons were pulled by relays of horses",
+      "definitions_ex_vn": "các toa xe được kéo bởi rơle của ngựa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electrical device, typically incorporating an electromagnet, which is activated by a current or signal in one circuit to open or close another circuit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device to receive, reinforce, and retransmit a broadcast or program.",
+      "definitions_ex_en": "TV transmitters and relay stations",
+      "definitions_ex_vn": "Máy phát TV và trạm chuyển tiếp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "receive and pass on (information or a message).",
+      "definitions_ex_en": "she intended to relay everything she had learned",
+      "definitions_ex_vn": "Cô ấy dự định chuyển tiếp mọi thứ cô ấy đã học",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lay again or differently.",
+      "definitions_ex_en": "they plan to relay about half a mile of the track",
+      "definitions_ex_vn": "Họ có kế hoạch chuyển tiếp khoảng nửa dặm của đường đua",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327321_09dcce797c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327321_0d19569c7d_o.png",
+      "id_image": "relay_5200827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682434_dda61698ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682434_f515d8dc8b_o.png",
+      "id_image": "relay_5542150"
+    }
+  ]
+}

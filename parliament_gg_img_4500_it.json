@@ -1,0 +1,44 @@
+{
+  "english": "parliament",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghị viện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in the UK) the highest legislature, consisting of the sovereign, the House of Lords, and the House of Commons.",
+      "definitions_ex_en": "the Secretary of State will lay proposals before Parliament",
+      "definitions_ex_vn": "Bộ trưởng Ngoại giao sẽ đặt đề xuất trước Quốc hội",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686974_e8f2972959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686974_8c56be39ff_o.png",
+      "id_image": "parliament_1410741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686949_0ff3e23236_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686949_f29fc21e96_o.png",
+      "id_image": "parliament_1927670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686914_2c5b308488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686914_d29103f2d6_o.png",
+      "id_image": "parliament_2424197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686894_8877ea244b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686894_1efd276263_o.png",
+      "id_image": "parliament_4457249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068495_518dbbc23e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068495_6a511f2a04_o.png",
+      "id_image": "parliament_4498495"
+    }
+  ]
+}

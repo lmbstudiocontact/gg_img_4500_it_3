@@ -1,0 +1,65 @@
+{
+  "english": "rod",
+  "list_translation_mean": [
+    {
+      "translate_mean": "roi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ bơm săng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đơn vị đo bề dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dương vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin straight bar, especially of wood or metal.",
+      "definitions_ex_en": "concrete walls reinforced with steel rods",
+      "definitions_ex_vn": "Tường bê tông gia cố bằng thanh thép",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fishing rod.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light-sensitive cell of one of the two types present in large numbers in the retina of the eye, responsible mainly for monochrome vision in poor light.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081185_be50201f91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081185_5f66e5e34a_o.png",
+      "id_image": "rod_1403892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458473_f7201ef6ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458473_c3e6cf5f3e_o.png",
+      "id_image": "rod_1600598"
+    }
+  ]
+}

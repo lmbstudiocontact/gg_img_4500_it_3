@@ -1,0 +1,71 @@
+{
+  "english": "salute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách chào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chào cớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cung kính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chào bằng cái hôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chào theo nhà binh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa gươm lên chào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa tay lên chào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho chú ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vang dội",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gesture of respect, homage, or polite recognition or acknowledgment, especially one made to or by a person when arriving or departing.",
+      "definitions_ex_en": "he raises his arms in a triumphant salute",
+      "definitions_ex_vn": "Anh giơ tay vào một cuộc chiến thắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a formal salute to.",
+      "definitions_ex_en": "don't you usually salute a superior officer?",
+      "definitions_ex_vn": "Bạn không thường chào một sĩ quan cao cấp?",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335776_725057b1f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335776_47ff3b8b80_o.png",
+      "id_image": "salute_1000394"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072760_592bc489f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072760_3d9be53b5c_o.png",
+      "id_image": "salute_599540"
+    }
+  ]
+}

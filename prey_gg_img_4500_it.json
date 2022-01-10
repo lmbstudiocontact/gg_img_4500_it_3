@@ -1,0 +1,46 @@
+{
+  "english": "prey",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắt làm mồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt nhử mồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại mảnh cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mồi thú vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm mồi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an animal that is hunted and killed by another for food.",
+      "definitions_ex_en": "the kestrel is ready to pounce on unsuspecting prey",
+      "definitions_ex_vn": "Kestrel đã sẵn sàng để vọt lên con mồi không nghi ngờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hunt and kill for food.",
+      "definitions_ex_en": "small birds that prey on insect pests",
+      "definitions_ex_vn": "những con chim nhỏ mà con mồi trên côn trùng gây hại",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326531_09f6b438f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326531_a8833fbc0a_o.png",
+      "id_image": "prey_2911130"
+    }
+  ]
+}

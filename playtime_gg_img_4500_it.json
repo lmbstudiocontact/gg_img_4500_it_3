@@ -1,0 +1,28 @@
+{
+  "english": "playtime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giờ chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giờ nghĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "time for play or recreation.",
+      "definitions_ex_en": "they chant their tables before playtime",
+      "definitions_ex_vn": "họ hô vang bàn của họ trước giờ chơi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078005_b35e5d488f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078005_744e80d8cd_o.png",
+      "id_image": "playtime_1702342"
+    }
+  ]
+}

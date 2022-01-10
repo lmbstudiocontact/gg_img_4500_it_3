@@ -1,0 +1,48 @@
+{
+  "english": "recession",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ thụt vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lỏm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rút đi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters.",
+      "definitions_ex_en": "the country is in the depths of a recession",
+      "definitions_ex_vn": "Đất nước này ở độ sâu của một cuộc suy thoái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of receding; motion away from an observer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335741_c5226f21de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335741_a32bbd61d4_o.png",
+      "id_image": "recession_2925730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335696_218bf70784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335696_fef1a1b94d_o.png",
+      "id_image": "recession_6159973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072610_0416ea2ea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072610_99eedf7f13_o.png",
+      "id_image": "recession_6203060"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "progressive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấp tiến",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lủy tiến",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiến tới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người cấp tiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người theo chủ nghĩa tiến bộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "happening or developing gradually or in stages; proceeding step by step.",
+      "definitions_ex_en": "a progressive decline in popularity",
+      "definitions_ex_vn": "một sự suy giảm tiến bộ phổ biến",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a group, person, or idea) favoring or implementing social reform or new, liberal ideas.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting an aspect or tense of a verb that expresses an action in progress, e.g. am writing, was writing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a card game or dance) involving a series of sections for which participants successively change place or relative position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "engaging in or constituting forward motion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person advocating or implementing social reform or new, liberal ideas.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a progressive tense or aspect.",
+      "definitions_ex_en": "the present progressive",
+      "definitions_ex_vn": "thì hiên tại tiếp diễn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of a set of proofs of color work, showing all the colors separately and the cumulative effect of overprinting them.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676069_c1e1bfbf26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676069_8932f573ac_o.png",
+      "id_image": "progressive_2617782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320956_4c884c12f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320956_6be1c9339c_o.png",
+      "id_image": "progressive_5230471"
+    }
+  ]
+}

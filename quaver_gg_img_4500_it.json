@@ -1,0 +1,55 @@
+{
+  "english": "quaver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "móc đơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ca run",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự run của tiếng đàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự run của tiếng nói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rung một nốt nhạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếng nói run",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person's voice) shake or tremble in speaking, typically through nervousness or emotion.",
+      "definitions_ex_en": "his voice quavered with rage",
+      "definitions_ex_vn": "Giọng nói của anh Quả cầu với cơn thịnh nộ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a shake or tremble in a person's voice.",
+      "definitions_ex_en": "it was impossible to hide the slight quaver in her voice",
+      "definitions_ex_vn": "Không thể che giấu một chút queraver trong giọng nói của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699559_43495f31d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699559_9ed12d0209_o.png",
+      "id_image": "quaver_1864045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389417_8e457c6a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389417_3ef9dc11b7_o.png",
+      "id_image": "quaver_366494"
+    }
+  ]
+}

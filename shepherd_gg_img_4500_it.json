@@ -1,0 +1,49 @@
+{
+  "english": "shepherd",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trông nom",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "người chăn trừu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sao thái bạch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who tends and rears sheep.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tend (sheep) as a shepherd.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "guide or direct in a particular direction.",
+      "definitions_ex_en": "we were shepherded around with great ceremony",
+      "definitions_ex_vn": "Chúng tôi đã chăn sâu thẳm với buổi lễ tuyệt vời",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390142_c8f97faa3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390142_d4a1b0406f_o.png",
+      "id_image": "shepherd_1983425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390112_c8d602f1cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390112_8e43e0252e_o.png",
+      "id_image": "shepherd_4033077"
+    }
+  ]
+}

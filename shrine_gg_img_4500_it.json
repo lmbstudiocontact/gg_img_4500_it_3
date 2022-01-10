@@ -1,0 +1,53 @@
+{
+  "english": "shrine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rương đựng thành tích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place regarded as holy because of its associations with a divinity or a sacred person or relic, marked by a building or other construction.",
+      "definitions_ex_en": "the medieval pilgrim route to the shrine of St. James",
+      "definitions_ex_vn": "Tuyến đường hành hương thời trung cổ đến đền thờ Thánh James",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "enshrine.",
+      "definitions_ex_en": "a goddess shrined in every tree",
+      "definitions_ex_vn": "Một nữ thần nghẹn ngào trong mỗi cây",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386472_78a2c73c19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386472_67b6e3e7ee_o.png",
+      "id_image": "shrine_1775659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456263_95e55c5bb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456263_f1cfbbc051_o.png",
+      "id_image": "shrine_3605329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456343_16c205a10e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456343_3cddaf48fb_o.png",
+      "id_image": "shrine_410211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386392_b023850c9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386392_2e254eb437_o.png",
+      "id_image": "shrine_4470261"
+    }
+  ]
+}

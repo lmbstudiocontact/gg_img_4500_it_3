@@ -1,0 +1,86 @@
+{
+  "english": "row",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc cải nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dãy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng ghế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời khiển trách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời la mắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luống đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chèo xuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chở bằng thuyền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi chơi bằng xuồng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a number of people or things in a more or less straight line.",
+      "definitions_ex_en": "her villa stood in a row of similar ones",
+      "definitions_ex_vn": "Biệt thự của cô đứng trong một hàng tương tự",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a period of rowing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "propel (a boat) with oars.",
+      "definitions_ex_en": "out in the bay a small figure was rowing a rubber dinghy",
+      "definitions_ex_vn": "trong vịnh một hình nhỏ đang chèo một xuồng cao su",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340606_53058f05be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340606_43bb642d28_o.png",
+      "id_image": "row_3603654"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078015_21631db3e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078015_8b4311f248_o.png",
+      "id_image": "row_391242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340656_aa7245b1fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340656_a0419cd7ba_o.png",
+      "id_image": "row_708627"
+    }
+  ]
+}

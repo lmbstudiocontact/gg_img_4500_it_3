@@ -1,0 +1,60 @@
+{
+  "english": "research",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự khảo cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghiên cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tìm kiếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tìm tòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sưu tầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm tòi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+      "definitions_ex_en": "we are fighting meningitis by raising money for medical research",
+      "definitions_ex_vn": "Chúng tôi đang chiến đấu với viêm màng não bằng cách tăng tiền cho nghiên cứu y tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "investigate systematically.",
+      "definitions_ex_en": "she has spent the last five years researching her people's history",
+      "definitions_ex_vn": "Cô đã dành năm năm qua để nghiên cứu lịch sử nhân dân của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058965_bc6ab21ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058965_9fb76804c6_o.png",
+      "id_image": "research_1032124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437383_8914f3fe7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437383_3fa00531a8_o.png",
+      "id_image": "research_1671644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058970_202ee9321f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058970_3cd90b83a7_o.png",
+      "id_image": "research_901046"
+    }
+  ]
+}

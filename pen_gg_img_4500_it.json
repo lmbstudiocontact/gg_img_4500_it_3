@@ -1,0 +1,111 @@
+{
+  "english": "pen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lông chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bút mực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây bút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồn điền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng đất nhỏ nuôi bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viết mực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chim thiên nga mái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất nuôi súc vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngòi bút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảo thơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết bằng viết mực",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instrument for writing or drawing with ink, typically consisting of a metal nib or ball, or a nylon tip, fitted into a metal or plastic holder.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the tapering cartilaginous internal shell of a squid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small enclosure in which sheep, pigs, cattle, or other domestic animals are kept.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a female swan.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "write or compose.",
+      "definitions_ex_en": "he had not penned a line to Lizzie in three years",
+      "definitions_ex_vn": "Anh ta đã không áp dụng một dòng để lizzie trong ba năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put or keep (an animal) in a pen.",
+      "definitions_ex_en": "it was the practice to pen the sheep for clipping",
+      "definitions_ex_vn": "đó là thực hành để bút cừu để cắt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "International Association of Poets, Playwrights, Editors, Essayists, and Novelists.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "Peninsula.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367932_ba4c854011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367932_0d3fe28bb1_o.png",
+      "id_image": "pen_164336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678134_4a890af186_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678134_ac42b655b9_o.png",
+      "id_image": "pen_4172613"
+    }
+  ]
+}

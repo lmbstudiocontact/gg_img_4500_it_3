@@ -1,0 +1,38 @@
+{
+  "english": "precaution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự dự phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đề phòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a measure taken in advance to prevent something dangerous, unpleasant, or inconvenient from happening.",
+      "definitions_ex_en": "he had taken the precaution of seeking legal advice",
+      "definitions_ex_vn": "Ông đã đề phòng tìm kiếm lời khuyên pháp lý",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067095_4d3a2d1fcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067095_6581b10650_o.png",
+      "id_image": "precaution_6237665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330186_fe63120710_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330186_cb9ee1ece3_o.png",
+      "id_image": "precaution_6237683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445143_8920d542e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445143_5c409da6da_o.png",
+      "id_image": "precaution_6237704"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "profanity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều xúc phạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chưởi rủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính chất bất kính",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "blasphemous or obscene language.",
+      "definitions_ex_en": "an outburst of profanity",
+      "definitions_ex_vn": "sự bùng nổ thô tục",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321626_198244b0d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321626_46b6409d7e_o.png",
+      "id_image": "profanity_1685877"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "scrabble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sờ soạng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "scratch or grope around with one's fingers to find, collect, or hold on to something.",
+      "definitions_ex_en": "she scrabbled at the grassy slope, desperate for a firm grip",
+      "definitions_ex_vn": "Cô scrabbled ở độ dốc cỏ, tuyệt vọng cho một nắm chắc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of scratching or scrambling for something.",
+      "definitions_ex_en": "he heard the scrabble of claws behind him",
+      "definitions_ex_vn": "Anh nghe thấy tiếng vuốt vuốt đằng sau anh.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a board game in which players use lettered tiles to create words in a crossword fashion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328191_2598634451_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328191_e6d926616f_o.png",
+      "id_image": "scrabble_1707252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372922_6521d142cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372922_10a912efe2_o.png",
+      "id_image": "scrabble_3274133"
+    }
+  ]
+}

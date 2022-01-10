@@ -1,0 +1,95 @@
+{
+  "english": "pump",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy bơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự toan dò xét người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc bơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bơm nước lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bơm nước ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mechanical device using suction or pressure to raise or move liquids, compress gases, or force air into inflatable objects such as tires.",
+      "definitions_ex_en": "a gas pump",
+      "definitions_ex_vn": "một máy bơm xăng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an active transport mechanism in living cells by which specific ions are moved through the cell membrane against a concentration gradient.",
+      "definitions_ex_en": "the bacterium's sodium pump",
+      "definitions_ex_vn": "Bơm natri của vi khuẩn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a woman's plain, lightweight shoe that has a low-cut upper, no fastening, and typically a medium heel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "force (liquid, gas, etc.) to move by or as if by means of a pump.",
+      "definitions_ex_en": "the blood is pumped around the body",
+      "definitions_ex_vn": "Máu được bơm xung quanh cơ thể",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "draw (milk) from the breast using a breast pump, typically in order to feed a baby by means of a bottle.",
+      "definitions_ex_en": "she struggled with pumping enough milk",
+      "definitions_ex_vn": "Cô vật lộn với việc bơm đủ sữa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fill (something such as a tire or balloon) with liquid or gas using a pump.",
+      "definitions_ex_en": "I pumped the tires and oiled the chain",
+      "definitions_ex_vn": "Tôi bơm lốp xe và bôi dầu chuỗi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move vigorously up and down.",
+      "definitions_ex_en": "we had to pump the handle like mad",
+      "definitions_ex_vn": "Chúng tôi đã phải bơm tay cầm như điên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "try to elicit information from (someone) by persistent questioning.",
+      "definitions_ex_en": "she began to pump her friend for details",
+      "definitions_ex_vn": "Cô bắt đầu bơm bạn mình để biết chi tiết",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462633_bbf9af311a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462633_224afdc993_o.png",
+      "id_image": "pump_1055052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347846_2381f9166f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347846_7500713067_o.png",
+      "id_image": "pump_923843"
+    }
+  ]
+}

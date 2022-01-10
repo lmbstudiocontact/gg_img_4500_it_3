@@ -1,0 +1,52 @@
+{
+  "english": "photo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chụp hình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a photograph.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take a photograph of.",
+      "definitions_ex_en": "do we wait till you've had him photoed?",
+      "definitions_ex_vn": "Chúng ta phải đợi cho đến khi bạn đã chụp ảnh?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "relating to light.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "relating to photography.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349611_e9119ec5e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349611_a98a9e3be8_o.png",
+      "id_image": "photo_529259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349591_be4c80f265_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349591_14ecacf178_o.png",
+      "id_image": "photo_648202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086775_910007037a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086775_b3bbeb7ded_o.png",
+      "id_image": "photo_779091"
+    }
+  ]
+}

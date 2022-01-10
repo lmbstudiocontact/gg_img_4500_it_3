@@ -1,0 +1,93 @@
+{
+  "english": "rich",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đắt tiền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đẹp đẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giàu có",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lộng lẫy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phì nhiêu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rất buồn cười",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tráng lệ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having a great deal of money or assets; wealthy.",
+      "definitions_ex_en": "every day the gap between the rich and the poor widens",
+      "definitions_ex_vn": "mỗi ngày khoảng cách giữa người giàu và người nghèo mở rộng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "plentiful; abundant.",
+      "definitions_ex_en": "the nation’s rich and diverse wildlife",
+      "definitions_ex_vn": "Động vật hoang dã phong phú và đa dạng của quốc gia",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "producing a large quantity of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a color, sound, smell, etc.) pleasantly deep or strong.",
+      "definitions_ex_en": "his rich bass voice",
+      "definitions_ex_vn": "giọng nói bass giàu của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "interesting because full of diversity or complexity.",
+      "definitions_ex_en": "what a full, rich life you lead!",
+      "definitions_ex_vn": "Thật là một cuộc sống đầy đủ, phong phú bạn dẫn đầu!",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a remark) causing ironic amusement or indignation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "containing a large amount of something specified.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462008_3d806a9c65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462008_404892878b_o.png",
+      "id_image": "rich_1674930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084650_b2efd68f4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084650_78cac12857_o.png",
+      "id_image": "rich_983008"
+    }
+  ]
+}

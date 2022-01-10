@@ -1,0 +1,63 @@
+{
+  "english": "sacrifice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hy sinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bán lổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cúng tế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự bán lổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giết để cúng tế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hy sinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hy sinh vật để cúng tế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật hy sinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of slaughtering an animal or person or surrendering a possession as an offering to God or to a divine or supernatural figure.",
+      "definitions_ex_en": "they offer sacrifices to the spirits",
+      "definitions_ex_vn": "Họ cung cấp sự hy sinh cho các linh hồn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "offer or kill as a religious sacrifice.",
+      "definitions_ex_en": "the goat was sacrificed at the shrine",
+      "definitions_ex_vn": "con dê đã hy sinh tại đền thờ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452813_1656d3aff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452813_a2ebcf8229_o.png",
+      "id_image": "sacrifice_5521210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382887_43be83897c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382887_1dcbe08394_o.png",
+      "id_image": "sacrifice_5521294"
+    }
+  ]
+}

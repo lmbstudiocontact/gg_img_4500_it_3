@@ -1,0 +1,30 @@
+{
+  "english": "pickpocket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người móc túi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who steals from people's pockets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "steal from the pockets of (someone).",
+      "definitions_ex_en": "she stopped in New Orleans where she skillfully pickpocketed tourists",
+      "definitions_ex_vn": "Cô dừng lại ở New Orleans, nơi cô khéo léo đón khách du lịch",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085500_9f9633ddae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085500_207d021d2b_o.png",
+      "id_image": "pickpocket_4321377"
+    }
+  ]
+}

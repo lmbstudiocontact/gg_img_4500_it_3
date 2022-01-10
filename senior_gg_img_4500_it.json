@@ -1,0 +1,48 @@
+{
+  "english": "senior",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lâu nhứt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lớn tuổi hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người làm lâu nhứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sinh viên năm cuối cùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or for older or more experienced people.",
+      "definitions_ex_en": "senior citizens",
+      "definitions_ex_vn": "Công dân cao cấp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "holding a high and authoritative position.",
+      "definitions_ex_en": "he is a senior Finance Ministry official",
+      "definitions_ex_vn": "Ông là một quan chức Bộ Tài chính cấp cao",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who is a specified number of years older than someone else.",
+      "definitions_ex_en": "she was only two years his senior",
+      "definitions_ex_vn": "cô ấy chỉ hai năm tuổi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087390_42d9457899_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087390_c341767605_o.png",
+      "id_image": "senior_5256035"
+    }
+  ]
+}

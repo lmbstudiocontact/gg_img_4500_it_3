@@ -1,0 +1,45 @@
+{
+  "english": "shaker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người làm rung",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container used for mixing ingredients by shaking.",
+      "definitions_ex_en": "a cocktail shaker",
+      "definitions_ex_vn": "một shaker cocktail",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of an American religious sect, the United Society of Believers in Christ's Second Coming, established in England c. 1750 and living simply in celibate mixed communities.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347636_5bda731a88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347636_692d138862_o.png",
+      "id_image": "shaker_2040899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084935_5d822dde2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084935_a0334469a8_o.png",
+      "id_image": "shaker_2041210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392522_d4be21da80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392522_f29f2e55be_o.png",
+      "id_image": "shaker_3416744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462438_6083a22194_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462438_e800b0b86e_o.png",
+      "id_image": "shaker_804658"
+    }
+  ]
+}

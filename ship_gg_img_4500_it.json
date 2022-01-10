@@ -1,0 +1,96 @@
+{
+  "english": "ship",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xếp hàng xuống tàu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a vessel larger than a boat for transporting people or goods by sea.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a romantic pairing between two characters in a fictional series, often one that is supported or portrayed by fans rather than depicted in the series itself.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "transport (goods or people) on a ship.",
+      "definitions_ex_en": "the wounded soldiers were shipped home",
+      "definitions_ex_vn": "Những người lính bị thương đã được vận chuyển về nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a boat) take in (water) over the side.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take (oars) from the oarlocks and lay them inside a boat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "support or have a particular interest in a romantic pairing between two characters in a fictional series, often when this relationship is one portrayed by fans rather than depicted in the series itself.",
+      "definitions_ex_en": "I'm still shipping for Edward/Hermione",
+      "definitions_ex_vn": "Tôi vẫn đang vận chuyển cho Edward / Hermione",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "forming nouns denoting a quality or condition.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "forming nouns denoting status, office, or honor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "forming nouns denoting a skill in a certain capacity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "forming nouns denoting the collective individuals of a group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389627_d6dacbe6be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389627_1564c29241_o.png",
+      "id_image": "ship_168275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699769_9b92c3b502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699769_2b7dbbe6a1_o.png",
+      "id_image": "ship_240655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699719_cccde70d8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699719_e094d621fe_o.png",
+      "id_image": "ship_538259"
+    }
+  ]
+}

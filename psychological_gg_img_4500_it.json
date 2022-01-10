@@ -1,0 +1,29 @@
+{
+  "english": "psychological",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về tâm lý học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, affecting, or arising in the mind; related to the mental and emotional state of a person.",
+      "definitions_ex_en": "the victim had sustained physical and psychological damage",
+      "definitions_ex_vn": "Nạn nhân đã duy trì thiệt hại về thể chất và tâm lý",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703764_feb1d5bf7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703764_67e52ce4d5_o.png",
+      "id_image": "psychology_2201606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349081_7cd4988232_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349081_8f187b7285_o.png",
+      "id_image": "psychology_552436"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "production",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sản phẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đưa ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo dài của một đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sản xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trình bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tác phẫm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of making or manufacturing from components or raw materials, or the process of being so manufactured.",
+      "definitions_ex_en": "the production of chemical weapons",
+      "definitions_ex_vn": "Sản xuất vũ khí hóa học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of or financial and administrative management involved in making a movie, play, or record.",
+      "definitions_ex_en": "the movie was still in production",
+      "definitions_ex_vn": "Bộ phim vẫn còn sản xuất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437293_66a5f5b423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437293_06264ba899_o.png",
+      "id_image": "production_1610499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366982_80afdd9ebe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366982_8b2fd9c1f2_o.png",
+      "id_image": "production_2082214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437223_517f1fa3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437223_d2cb8f74d5_o.png",
+      "id_image": "production_4401445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677049_7c0c52e980_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677049_51c7bf76df_o.png",
+      "id_image": "production_6348185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058925_816020f729_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058925_f459810894_o.png",
+      "id_image": "production_875313"
+    }
+  ]
+}

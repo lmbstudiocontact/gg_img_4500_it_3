@@ -1,0 +1,38 @@
+{
+  "english": "puppet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình múa rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bù nhìn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a movable model of a person or animal that is used in entertainment and is typically moved either by strings controlled from above or by a hand inside it.",
+      "definitions_ex_en": "a puppet show",
+      "definitions_ex_vn": "một chương trình múa rối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392377_82686b806e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392377_47c839a8bb_o.png",
+      "id_image": "puppet_320470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392342_6e967858a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392342_755b3a02f9_o.png",
+      "id_image": "puppet_320480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347311_8aff21642b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347311_bd9a25b789_o.png",
+      "id_image": "puppet_5578266"
+    }
+  ]
+}

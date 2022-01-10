@@ -1,0 +1,28 @@
+{
+  "english": "paroxysm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cực điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ bộc phát của bịnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden attack or violent expression of a particular emotion or activity.",
+      "definitions_ex_en": "a paroxysm of weeping",
+      "definitions_ex_vn": "một paroxysm của khóc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068410_5c9eb17e7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068410_7ea2a91014_o.png",
+      "id_image": "paroxysm_3998108"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "placard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cáo thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy thông báo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ yến thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán cáo thị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a poster or sign for public display, either fixed to a wall or carried during a demonstration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with placards.",
+      "definitions_ex_en": "they were placarding the town with posters",
+      "definitions_ex_vn": "họ đã định vị thị trấn với áp phích",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081680_cd0cd95715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081680_24e9b2a447_o.png",
+      "id_image": "placard_2529701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699354_9ea2d49620_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699354_ff65acb1e6_o.png",
+      "id_image": "placard_4901813"
+    }
+  ]
+}

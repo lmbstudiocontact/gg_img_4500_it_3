@@ -1,0 +1,34 @@
+{
+  "english": "shellfish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "động vật có vỏ cứng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an aquatic shelled mollusk (e.g. an oyster or cockle) or crustacean (e.g. a crab or shrimp), especially one that is edible.",
+      "definitions_ex_en": "this species is harmful to marine shellfish",
+      "definitions_ex_vn": "Loài này có hại cho động vật có vỏ biển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390397_d7024ff2cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390397_2300c936dc_o.png",
+      "id_image": "shellfish_1674570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345361_8785c26eae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345361_cf400876ab_o.png",
+      "id_image": "shellfish_1900782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082880_072399524e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082880_f10ea3748e_o.png",
+      "id_image": "shellfish_883526"
+    }
+  ]
+}

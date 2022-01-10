@@ -1,0 +1,29 @@
+{
+  "english": "saleswoman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phụ nữ bán hàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman whose job involves selling or promoting commercial products.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336461_962931c759_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336461_59632753b2_o.png",
+      "id_image": "saleswoman_1581051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381502_fcc2ba8bdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381502_55b8778068_o.png",
+      "id_image": "saleswoman_560270"
+    }
+  ]
+}

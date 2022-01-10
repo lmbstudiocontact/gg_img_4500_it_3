@@ -1,0 +1,50 @@
+{
+  "english": "passionate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể giận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay tức giận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kịch liệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nóng nảy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dử dội",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "showing or caused by strong feelings or a strong belief.",
+      "definitions_ex_en": "passionate pleas for help",
+      "definitions_ex_vn": "cầu xin đam mê để được giúp đỡ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330031_6fa6378ce1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330031_7949cf5e15_o.png",
+      "id_image": "passionate_2617776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330006_4f3ff63bd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330006_c05a4ced42_o.png",
+      "id_image": "passionate_4158008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374632_60f150083b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374632_d0064cde5b_o.png",
+      "id_image": "passionate_5230548"
+    }
+  ]
+}

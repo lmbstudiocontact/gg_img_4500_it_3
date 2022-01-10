@@ -1,0 +1,72 @@
+{
+  "english": "queue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoàn người nối nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn xe nối nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọn tóc thắt bín sau đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nối đuôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp hàng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a list of data items, commands, etc., stored so as to be retrievable in a definite order, usually the order of insertion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a braid of hair worn at the back.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange in a queue.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698844_89ed6656f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698844_e8fa3febec_o.png",
+      "id_image": "queue_1042110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698804_81a2fd2c67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698804_c0bb3f2469_o.png",
+      "id_image": "queue_2132503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388547_609c688613_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388547_e23c239925_o.png",
+      "id_image": "queue_2949719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388487_526c003b9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388487_5fa470c856_o.png",
+      "id_image": "queue_4223181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458413_0f5cb586ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458413_76a5fec704_o.png",
+      "id_image": "queue_659366"
+    }
+  ]
+}

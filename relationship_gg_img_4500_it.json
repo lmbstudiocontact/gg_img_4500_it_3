@@ -1,0 +1,42 @@
+{
+  "english": "relationship",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quan hệ thân tộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình bà con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình thông gia",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the way in which two or more concepts, objects, or people are connected, or the state of being connected.",
+      "definitions_ex_en": "the study will assess the relationship between unemployment and political attitudes",
+      "definitions_ex_vn": "Nghiên cứu sẽ đánh giá mối quan hệ giữa thất nghiệp và thái độ chính trị",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064765_5b2c3abe32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064765_fe0b14d571_o.png",
+      "id_image": "relationship_1001208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683059_f2d4e7807e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683059_5226bc4fb5_o.png",
+      "id_image": "relationship_1924427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683019_b89135a398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683019_8c444db56d_o.png",
+      "id_image": "relationship_2753149"
+    }
+  ]
+}

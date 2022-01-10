@@ -1,0 +1,76 @@
+{
+  "english": "rust",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một thứ bịnh của lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rỉ sét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho sét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho sét rỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rỉ sét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a reddish- or yellowish-brown flaky coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture.",
+      "definitions_ex_en": "paint protects your car from rust",
+      "definitions_ex_vn": "Sơn bảo vệ xe của bạn khỏi rỉ sét",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fungal disease of plants which results in reddish or brownish patches.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a reddish-brown color.",
+      "definitions_ex_en": "his rust-colored hair",
+      "definitions_ex_vn": "mái tóc rỉ sét của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be affected with rust.",
+      "definitions_ex_en": "the blades had rusted away",
+      "definitions_ex_vn": "Các lưỡi dao đã rỉ sét đi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453643_8513ca1932_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453643_40852f97fa_o.png",
+      "id_image": "rust_5660155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075640_74cff592fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075640_ff2a60786b_o.png",
+      "id_image": "rust_5825229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693724_912f512eb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693724_481103b79f_o.png",
+      "id_image": "rust_5931427"
+    }
+  ]
+}

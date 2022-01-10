@@ -1,0 +1,43 @@
+{
+  "english": "reflective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghĩ ngợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phản chiếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "suy nghĩ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "providing a reflection; capable of reflecting light or other radiation.",
+      "definitions_ex_en": "reflective glass",
+      "definitions_ex_vn": "Kính phản quang",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or characterized by deep thought; thoughtful.",
+      "definitions_ex_en": "a quiet, reflective, astute man",
+      "definitions_ex_vn": "Một người đàn ông yên tĩnh, phản chiếu, sắc sảo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331551_2673874616_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331551_b75fb3db54_o.png",
+      "id_image": "reflective_5376488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376227_5d92c79909_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376227_19bbf39d7b_o.png",
+      "id_image": "reflective_5830508"
+    }
+  ]
+}

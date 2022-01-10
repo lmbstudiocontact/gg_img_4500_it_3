@@ -1,0 +1,48 @@
+{
+  "english": "pulley",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái róc rách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái ròng rọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kéo bằng ròng rọc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a wheel with a grooved rim around which a cord passes. It acts to change the direction of a force applied to the cord and is chiefly used (typically in combination) to raise heavy weights.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hoist with a pulley.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392982_34be802960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392982_99bb172109_o.png",
+      "id_image": "pulley_2825522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348061_0bd233a549_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348061_bb6e13a4d5_o.png",
+      "id_image": "pulley_3317606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462873_9b1f73971b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462873_e3b463c693_o.png",
+      "id_image": "pulley_4760804"
+    }
+  ]
+}

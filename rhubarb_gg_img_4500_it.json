@@ -1,0 +1,40 @@
+{
+  "english": "rhubarb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đại hoàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the thick leaf stalks of a cultivated plant of the dock family, which are reddish or green and eaten as a fruit after cooking.",
+      "definitions_ex_en": "rhubarb pie",
+      "definitions_ex_vn": "đại hoàng Pie",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the large-leaved Eurasian plant which produces rhubarb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462543_41b2fa3c71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462543_31382cd377_o.png",
+      "id_image": "rhubarb_1135529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702449_03312d1cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702449_88bc49b876_o.png",
+      "id_image": "rhubarb_5779674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462478_131760b68a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462478_5b32fabe3d_o.png",
+      "id_image": "rhubarb_6108757"
+    }
+  ]
+}

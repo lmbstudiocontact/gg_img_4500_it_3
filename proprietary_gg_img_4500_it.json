@@ -1,0 +1,50 @@
+{
+  "english": "proprietary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuệc về tài sản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về người sở hửu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chủ bất động sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa chủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giới chủ nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền sở hửu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to an owner or ownership.",
+      "definitions_ex_en": "the company has a proprietary right to the property",
+      "definitions_ex_vn": "Công ty có quyền sở hữu đối với tài sản",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an owner; proprietor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465143_0520bd0241_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465143_7d37f32b43_o.png",
+      "id_image": "proprietary_2471425"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "puzzle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu đố lắp hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bối rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khó xử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lúng túng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vấn đề khó giải quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khó nghĩ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khó xử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bối rối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lúng túng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause (someone) to feel confused because they cannot understand or make sense of something.",
+      "definitions_ex_en": "one remark he made puzzled me",
+      "definitions_ex_vn": "Một nhận xét anh ấy làm tôi bối rối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a game, toy, or problem designed to test ingenuity or knowledge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391337_2058601417_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391337_7e7eeca983_o.png",
+      "id_image": "puzzle_296931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461138_2e6b424fbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461138_f44d5c95ab_o.png",
+      "id_image": "puzzle_515784"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461093_654b5361f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461093_d886dcd6ea_o.png",
+      "id_image": "puzzle_868648"
+    }
+  ]
+}

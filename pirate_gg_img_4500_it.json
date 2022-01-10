@@ -1,0 +1,48 @@
+{
+  "english": "pirate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kẻ ăn cướp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngụy tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nghề ăn cướp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngụy tạo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who attacks and robs ships at sea.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "use or reproduce (another's work) for profit without permission, usually in contravention of patent or copyright.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rob or plunder (a ship).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082495_e80505a930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082495_8b1e8b9cd1_o.png",
+      "id_image": "pirate_475430"
+    }
+  ]
+}

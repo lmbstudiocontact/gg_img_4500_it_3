@@ -1,0 +1,56 @@
+{
+  "english": "restitution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hoàn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hồi phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả lại vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở lại hình củ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở lại nguyên hình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the restoration of something lost or stolen to its proper owner.",
+      "definitions_ex_en": "the ANC had demanded the restitution of land seized from black people",
+      "definitions_ex_vn": "ANC đã yêu cầu sự bồi thường đất bị thu giữ từ người da đen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "recompense for injury or loss.",
+      "definitions_ex_en": "he was ordered to pay $6,000 in restitution",
+      "definitions_ex_vn": "Ông được lệnh phải trả 6.000 đô la để bồi thường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the restoration of something to its original state.",
+      "definitions_ex_en": "restitution of the damaged mucosa",
+      "definitions_ex_vn": "bồi thường niêm mạc bị hư hại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464943_64e0249a6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464943_fac2c107b5_o.png",
+      "id_image": "restitution_5201994"
+    }
+  ]
+}

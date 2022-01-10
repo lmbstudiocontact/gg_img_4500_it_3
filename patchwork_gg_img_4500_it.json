@@ -1,0 +1,29 @@
+{
+  "english": "patchwork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "việc vá lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "needlework in which small pieces of cloth in different designs, colors, or textures are sewn together.",
+      "definitions_ex_en": "a quilt of patchwork",
+      "definitions_ex_vn": "một cái chắp vá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683624_d823ba6cc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683624_d537fdbc7c_o.png",
+      "id_image": "patchwork_2133960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373227_4cdceaef91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373227_d8ed82b4d2_o.png",
+      "id_image": "patchwork_6306788"
+    }
+  ]
+}

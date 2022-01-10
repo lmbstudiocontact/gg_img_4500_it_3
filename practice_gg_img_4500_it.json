@@ -1,0 +1,120 @@
+{
+  "english": "practice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm mưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phong tục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao thiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kinh nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự luyện tập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thực hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tập quán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tập tục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói quen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm một nghề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lường gạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tập luyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng quen",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the actual application or use of an idea, belief, or method, as opposed to theories relating to it.",
+      "definitions_ex_en": "the principles and practice of teaching",
+      "definitions_ex_vn": "các nguyên tắc và thực hành giảng dạy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the customary, habitual, or expected procedure or way of doing of something.",
+      "definitions_ex_en": "current nursing practice",
+      "definitions_ex_vn": "Thực hành điều dưỡng hiện tại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "repeated exercise in or performance of an activity or skill so as to acquire or maintain proficiency in it.",
+      "definitions_ex_en": "it must have taken a lot of practice to become so fluent",
+      "definitions_ex_vn": "nó phải thực hành rất nhiều để trở nên thông thạo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "perform (an activity) or exercise (a skill) repeatedly or regularly in order to improve or maintain one's proficiency.",
+      "definitions_ex_en": "I need to practice my French",
+      "definitions_ex_vn": "Tôi cần thực hành tiếng Pháp của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carry out or perform (a particular activity, method, or custom) habitually or regularly.",
+      "definitions_ex_en": "we still practice some of these rituals today",
+      "definitions_ex_vn": "Chúng tôi vẫn thực hành một số trong những nghi thức này ngày hôm nay",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375622_e9af5522b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375622_c980dfb306_o.png",
+      "id_image": "practice_1466276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331021_7bfa106b5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331021_877c9dc11e_o.png",
+      "id_image": "practice_167835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375552_610aa5e509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375552_85b2c840e4_o.png",
+      "id_image": "practice_2832718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445833_cc641581b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445833_ae21bc7536_o.png",
+      "id_image": "practice_4171423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375497_6c959cf933_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375497_90aa38a9c3_o.png",
+      "id_image": "practice_4234498"
+    }
+  ]
+}

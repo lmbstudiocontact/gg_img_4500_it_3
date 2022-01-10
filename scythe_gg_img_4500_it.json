@@ -1,0 +1,48 @@
+{
+  "english": "scythe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lưỡi gặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưỡi hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt bằng lưỡi hái",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tool used for cutting crops such as grass or wheat, with a long curved blade at the end of a long pole attached to which are one or two short handles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut with a scythe.",
+      "definitions_ex_en": "the grass was scythed at regular intervals",
+      "definitions_ex_vn": "Cỏ đã bị trầy xỉ đều đặn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680879_c0300c2818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680879_581709cc19_o.png",
+      "id_image": "scythe_2034609"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440743_61f5aa702f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440743_d4ae3a796c_o.png",
+      "id_image": "scythe_4456627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325736_74081c7b12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325736_6b2b6530e7_o.png",
+      "id_image": "scythe_6193057"
+    }
+  ]
+}

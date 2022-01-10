@@ -1,0 +1,70 @@
+{
+  "english": "please",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm theo ý muốn của mình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thích ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vui lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vừa ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xin vui lòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause to feel happy and satisfied.",
+      "definitions_ex_en": "he arranged a fishing trip to please his son",
+      "definitions_ex_vn": "Anh ấy sắp xếp một chuyến đi câu cá để làm hài lòng con trai của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take only one's own wishes into consideration in deciding how to act or proceed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used in polite requests or questions.",
+      "definitions_ex_en": "please address letters to the Editor",
+      "definitions_ex_vn": "Vui lòng gửi thư cho biên tập viên",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077885_ee75668387_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077885_a79fc583fe_o.png",
+      "id_image": "please_5849437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695894_eb85cd02bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695894_628b9b0551_o.png",
+      "id_image": "please_599536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455438_7f68c9a5a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455438_2dfd962452_o.png",
+      "id_image": "please_6171972"
+    }
+  ]
+}

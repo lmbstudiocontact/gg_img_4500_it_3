@@ -1,0 +1,48 @@
+{
+  "english": "sharpen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuốt cho nhọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh dấu cao nữa âm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mài vật gì cho bén",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become sharp or sharper.",
+      "definitions_ex_en": "she sharpened her pencil",
+      "definitions_ex_vn": "Cô gọt bút chì",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "improve or cause to improve.",
+      "definitions_ex_en": "they've got to sharpen up in front of the goal",
+      "definitions_ex_vn": "Họ đã phải mài giũa trước khung thành",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701494_797bcefa84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701494_9dc3534e87_o.png",
+      "id_image": "sharpen_2280502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346596_cf16f969d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346596_ef3bdea2bf_o.png",
+      "id_image": "sharpen_4427902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701504_f075cf2073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701504_3786df5168_o.png",
+      "id_image": "sharpen_648411"
+    }
+  ]
+}

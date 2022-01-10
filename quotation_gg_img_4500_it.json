@@ -1,0 +1,54 @@
+{
+  "english": "quotation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoạn văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá hiện hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời giá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of words taken from a text or speech and repeated by someone other than the original author or speaker.",
+      "definitions_ex_en": "a quotation from Mark Twain",
+      "definitions_ex_vn": "một trích dẫn từ Mark Twain",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal statement setting out the estimated cost for a particular job or service.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a registration granted to a company enabling their shares to be officially listed and traded.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342611_ff010c23e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342611_3c92703b82_o.png",
+      "id_image": "quotation_4388554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387612_465f7500ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387612_41753b30bc_o.png",
+      "id_image": "quotation_4395071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387572_14a391fbfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387572_450034f85e_o.png",
+      "id_image": "quotation_4861375"
+    }
+  ]
+}

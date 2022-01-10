@@ -1,0 +1,34 @@
+{
+  "english": "restriction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hạn chế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a limiting condition or measure, especially a legal one.",
+      "definitions_ex_en": "planning restrictions on commercial development",
+      "definitions_ex_vn": "Hạn chế quy hoạch phát triển thương mại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464763_0d262513a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464763_28992f6e2b_o.png",
+      "id_image": "restriction_2529750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394887_7ac13a87a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394887_f17a31de77_o.png",
+      "id_image": "restriction_5138594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464728_d669b923ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464728_72c4b70570_o.png",
+      "id_image": "restriction_6121436"
+    }
+  ]
+}

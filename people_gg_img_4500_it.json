@@ -1,0 +1,84 @@
+{
+  "english": "people",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dân chúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dân tộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quốc dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiện dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thường dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm đông dân",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "human beings in general or considered collectively.",
+      "definitions_ex_en": "the earthquake killed 30,000 people",
+      "definitions_ex_vn": "Trận động đất đã giết chết 30.000 người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the men, women, and children of a particular nation, community, or ethnic group.",
+      "definitions_ex_en": "the native peoples of Canada",
+      "definitions_ex_vn": "những người bản địa của Canada",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the supporters or employees of a person in a position of power or authority.",
+      "definitions_ex_en": "I've had my people watching the house for some time now",
+      "definitions_ex_vn": "Tôi đã có người của tôi đang xem nhà một thời gian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a particular group of people) inhabit (an area or place).",
+      "definitions_ex_en": "an arid mountain region peopled by warring clans",
+      "definitions_ex_vn": "một khu vực núi khô cằn bởi các gia tộc chiến binh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436853_41926b4292_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436853_0985bc3d38_o.png",
+      "id_image": "people_1674958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366647_ec5c11a1f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366647_75dc85a0ce_o.png",
+      "id_image": "people_179672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436863_ae522d08d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436863_84cfc6e681_o.png",
+      "id_image": "people_875318"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "salvation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cứu vớt linh hồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gìn giử để tránh tai nạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "preservation or deliverance from harm, ruin, or loss.",
+      "definitions_ex_en": "they try to sell it to us as economic salvation",
+      "definitions_ex_vn": "họ cố gắng bán nó cho chúng tôi như sự cứu rỗi kinh tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deliverance from sin and its consequences, believed by Christians to be brought about by faith in Christ.",
+      "definitions_ex_en": "the Christian gospel of salvation for all mankind",
+      "definitions_ex_vn": "Tin Mừng Kitô giáo về sự cứu rỗi cho tất cả nhân loại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335751_ae4f95fee8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335751_9926e24e4b_o.png",
+      "id_image": "salvation_252068"
+    }
+  ]
+}

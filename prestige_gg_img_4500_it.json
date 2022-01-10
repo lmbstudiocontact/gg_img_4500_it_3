@@ -1,0 +1,29 @@
+{
+  "english": "prestige",
+  "list_translation_mean": [
+    {
+      "translate_mean": "uy danh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "widespread respect and admiration felt for someone or something on the basis of a perception of their achievements or quality.",
+      "definitions_ex_en": "he experienced a tremendous increase in prestige following his victory",
+      "definitions_ex_vn": "Ông đã trải qua một sự gia tăng to lớn trong uy tín theo chiến thắng của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682229_0ca719a4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682229_ba6618151e_o.png",
+      "id_image": "prestige_3053779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327016_0384ea638e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327016_7f80d887cd_o.png",
+      "id_image": "prestige_4062145"
+    }
+  ]
+}

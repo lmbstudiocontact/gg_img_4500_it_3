@@ -1,0 +1,84 @@
+{
+  "english": "ray",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cá đuối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia hy vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn tia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiếu tia",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of the lines in which light (and heat) may seem to stream from the sun or any luminous body, or pass through a small opening.",
+      "definitions_ex_en": "a ray of sunlight came through the window",
+      "definitions_ex_vn": "một tia nắng chiếu qua cửa sổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a set of straight lines passing through one point.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that is arranged radially.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a broad flat marine or freshwater fish with a cartilaginous skeleton, winglike pectoral fins, and a long slender tail. Many rays have venomous spines or electric organs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant of re2.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spread from or as if from a central point.",
+      "definitions_ex_en": "delicate lines rayed out at each corner of her eyes",
+      "definitions_ex_vn": "Những đường nét tinh tế trên mạng mắt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382372_61decd2e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382372_0db53fe914_o.png",
+      "id_image": "ray_1620443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692644_8e4611edc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692644_782f4dd820_o.png",
+      "id_image": "ray_1970229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382322_47085aa4fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382322_de8d05a85f_o.png",
+      "id_image": "ray_4717864"
+    }
+  ]
+}

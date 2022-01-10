@@ -1,0 +1,44 @@
+{
+  "english": "pitchfork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chĩa hai cán dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng chĩa để gắp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a farm tool with a long handle and sharp metal prongs, used especially for lifting hay.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lift with a pitchfork.",
+      "definitions_ex_en": "once mixed, the sticky mass is pitchforked up onto the walls",
+      "definitions_ex_vn": "một lần trộn, khối dính được tạo ra trên tường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081970_473f1de275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081970_d1d18d7663_o.png",
+      "id_image": "pitchfork_1658247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389447_322a7f824b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389447_d5c813d8a5_o.png",
+      "id_image": "pitchfork_207763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459318_bd50e55e6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459318_81d3523707_o.png",
+      "id_image": "pitchfork_842855"
+    }
+  ]
+}

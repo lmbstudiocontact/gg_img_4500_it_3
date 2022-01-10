@@ -1,0 +1,24 @@
+{
+  "english": "popcorn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắp rang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "corn of a variety with hard kernels that swell up and burst open with a pop when heated.",
+      "definitions_ex_en": "pop yourself some popcorn",
+      "definitions_ex_vn": "Pop cho mình một số bỏng ngô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690959_5afb2cdda3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690959_25f28b4093_o.png",
+      "id_image": "popcorn_863133"
+    }
+  ]
+}

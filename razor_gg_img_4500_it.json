@@ -1,0 +1,35 @@
+{
+  "english": "razor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao cạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instrument with a sharp blade or combination of blades, used to remove unwanted hair from the face or body.",
+      "definitions_ex_en": "an electric razor",
+      "definitions_ex_vn": "một dao cạo điện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut with a razor.",
+      "definitions_ex_en": "the tapered cut is razored to give movement",
+      "definitions_ex_vn": "vết cắt thon bị độc lập để chuyển động",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452103_5dc14d2033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452103_a18639f83e_o.png",
+      "id_image": "razor_1900940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337261_961568dc99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337261_cb756462b9_o.png",
+      "id_image": "razor_2446363"
+    }
+  ]
+}

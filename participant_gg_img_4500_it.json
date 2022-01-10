@@ -1,0 +1,29 @@
+{
+  "english": "participant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dự vào",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who takes part in something.",
+      "definitions_ex_en": "eager students would become firsthand participants in an archaeological exploration",
+      "definitions_ex_vn": "Học sinh háo hức sẽ trở thành người tham gia trực tiếp vào một cuộc thám hiểm khảo cổ học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686359_999396b426_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686359_050cde9dd0_o.png",
+      "id_image": "participant_5957132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446288_8dfd8d3d0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446288_ba3a71f8b5_o.png",
+      "id_image": "participant_6040649"
+    }
+  ]
+}

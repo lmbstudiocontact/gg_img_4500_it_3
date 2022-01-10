@@ -1,0 +1,60 @@
+{
+  "english": "precipitation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hấp tấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hối hả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kết tủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khinh suất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lật đật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thiếu suy nghĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vội vàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of precipitating a substance from a solution.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rain, snow, sleet, or hail that falls to the ground.",
+      "definitions_ex_en": "these convective processes produce cloud and precipitation",
+      "definitions_ex_vn": "Những quá trình đối lưu này tạo ra đám mây và kết tủa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the fact or quality of acting suddenly and rashly.",
+      "definitions_ex_en": "they were already regretting their precipitation",
+      "definitions_ex_vn": "họ đã hối hận vì sự kết tủa của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685189_0da14a2a6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685189_5333ee627d_o.png",
+      "id_image": "precipitation_5132998"
+    }
+  ]
+}

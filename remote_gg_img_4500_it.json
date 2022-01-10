@@ -1,0 +1,76 @@
+{
+  "english": "remote",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xa xôi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hẻo lánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vắng vẻ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a place) situated far from the main centers of population; distant.",
+      "definitions_ex_en": "a remote Oregon valley",
+      "definitions_ex_vn": "một thung lũng oregon từ xa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having very little connection with or relationship to.",
+      "definitions_ex_en": "the theory seems rather intellectual and remote from everyday experience",
+      "definitions_ex_vn": "Lý thuyết có vẻ khá trí tuệ và từ xa khỏi kinh nghiệm hàng ngày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a chance or possibility) unlikely to occur.",
+      "definitions_ex_en": "chances of a genuine and lasting peace become even more remote",
+      "definitions_ex_vn": "cơ hội của một hòa bình chính hãng và lâu dài trở nên xa xôi hơn nữa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) aloof and unfriendly in manner.",
+      "definitions_ex_en": "Maria seemed remote and patronizing",
+      "definitions_ex_vn": "Maria dường như xa xôi và bảo trợ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a device which can only be accessed by means of a network.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a remote control device.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062465_56d5dffc35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062465_c24c174d57_o.png",
+      "id_image": "remote_4170492"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325606_4677448bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325606_e4679350fe_o.png",
+      "id_image": "remote_4752482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370492_ed080ea26f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370492_49da5dd2b9_o.png",
+      "id_image": "remote_502587"
+    }
+  ]
+}

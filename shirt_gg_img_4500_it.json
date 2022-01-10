@@ -1,0 +1,33 @@
+{
+  "english": "shirt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo lót của đàn ông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo sơ mi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a garment for the upper body made of cotton or a similar fabric, with a collar, sleeves, and buttons down the front.",
+      "definitions_ex_en": "tonight he's smartly dressed in shirt and tie",
+      "definitions_ex_vn": "Tối nay anh ấy thông minh mặc áo sơ mi và cà vạt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389227_0202c16f29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389227_855ddee1ff_o.png",
+      "id_image": "shirt_191971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389192_493d4a015c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389192_4bb23cf634_o.png",
+      "id_image": "shirt_396153"
+    }
+  ]
+}

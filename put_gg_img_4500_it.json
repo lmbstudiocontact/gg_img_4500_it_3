@@ -1,0 +1,80 @@
+{
+  "english": "put",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ra khơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự liệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ném",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move to or place in a particular position.",
+      "definitions_ex_en": "I put my hand out toward her",
+      "definitions_ex_vn": "Tôi đưa tay về phía cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring into a particular state or condition.",
+      "definitions_ex_en": "they tried to put me at ease",
+      "definitions_ex_vn": "Họ đã cố gắng để tôi thoải mái",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "throw (a shot or weight) as an athletic sport.",
+      "definitions_ex_en": "she set a women's record by putting the shot 56' 7\"",
+      "definitions_ex_vn": "Cô đặt kỷ lục của phụ nữ bằng cách đưa cú sút 56 '7 \"",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a throw of a shot or weight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for put option.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701414_c09a68daf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701414_b3679d0bc4_o.png",
+      "id_image": "put_4151672"
+    }
+  ]
+}

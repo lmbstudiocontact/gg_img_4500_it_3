@@ -1,0 +1,46 @@
+{
+  "english": "renovation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự làm mới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nâng cao tinh thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa mới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay đổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of renovating a building.",
+      "definitions_ex_en": "this property is in need of complete renovation",
+      "definitions_ex_vn": "Khách sạn này đang cần cải tạo hoàn toàn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439928_a27485e93d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439928_803723e14d_o.png",
+      "id_image": "renovation_1028012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680009_7291a82a5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680009_d243246e94_o.png",
+      "id_image": "renovation_2991448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439858_a3a8fa0cbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439858_264bebd275_o.png",
+      "id_image": "renovation_4820751"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "english": "plumb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thẳng dây chì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngay thật",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thật",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cục chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt lại ngay ngắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đo bề sâu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thử độ ngay",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "measure (the depth of a body of water).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "test (an upright surface) to determine the vertical.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "install and connect water and drainage pipes in (a building or room).",
+      "definitions_ex_en": "the house could not be plumbed at all",
+      "definitions_ex_vn": "Ngôi nhà không thể bị căng thẳng chút nào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a plumb bob.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "exactly.",
+      "definitions_ex_en": "a bassoonist who sits plumb in the middle of the wind section",
+      "definitions_ex_vn": "một bassoonist ngồi thẳng ở giữa phần gió",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "vertically.",
+      "definitions_ex_en": "drapery fell from their human forms plumb down",
+      "definitions_ex_vn": "Drapery rơi xuống từ dạng người của họ căng thẳng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "vertical.",
+      "definitions_ex_en": "ensure that the baseboard is straight and plumb",
+      "definitions_ex_vn": "Đảm bảo rằng ván chân tường thẳng và thẳng đứng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077050_19e2ee2c18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077050_c65a5d5379_o.png",
+      "id_image": "plumb_3556115"
+    }
+  ]
+}

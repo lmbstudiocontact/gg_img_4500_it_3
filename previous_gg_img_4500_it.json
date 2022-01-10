@@ -1,0 +1,47 @@
+{
+  "english": "previous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành động gấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm gấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vội vàng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "existing or occurring before in time or order.",
+      "definitions_ex_en": "she looked tired after her exertions of the previous evening",
+      "definitions_ex_vn": "Cô ấy trông mệt mỏi sau những nỗ lực của cô ấy vào tối hôm trước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "overly hasty in acting or in drawing a conclusion.",
+      "definitions_ex_en": "I admit I may have been a bit previous",
+      "definitions_ex_vn": "Tôi thừa nhận tôi có thể đã có một chút trước đó",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063500_19f144cde1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063500_09d879acc6_o.png",
+      "id_image": "previous_5072322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441558_4b67bbae38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441558_649aafe3f9_o.png",
+      "id_image": "previous_5376901"
+    }
+  ]
+}

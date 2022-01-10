@@ -1,0 +1,107 @@
+{
+  "english": "pay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lương bổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền lương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng tiền phạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thanh toán nợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả góp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả nợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả tiền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give (someone) money that is due for work done, goods received, or a debt incurred.",
+      "definitions_ex_en": "he paid the locals to pick his coffee beans",
+      "definitions_ex_vn": "Anh ta trả tiền cho người dân địa phương để chọn hạt cà phê của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suffer a loss or other misfortune as a consequence of an action.",
+      "definitions_ex_en": "they paid for his impatience",
+      "definitions_ex_vn": "Họ đã trả tiền cho sự thiếu kiên nhẫn của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give or bestow (attention, respect, or a compliment) on (someone).",
+      "definitions_ex_en": "no one paid them any attention",
+      "definitions_ex_vn": "Không ai trả tiền cho họ bất kỳ sự chú ý nào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "seal (the deck or hull seams of a wooden ship) with pitch or tar to prevent leakage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the money paid to someone for regular work.",
+      "definitions_ex_en": "those working on contract may receive higher rates of pay",
+      "definitions_ex_vn": "Những người làm việc trong hợp đồng có thể nhận được mức lương cao hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063255_618045d093_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063255_7cca1c5e6e_o.png",
+      "id_image": "pay_4564993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371082_e8ea976f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371082_758839aa30_o.png",
+      "id_image": "pay_5849399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371032_927bb8fa90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371032_f9f95ffb98_o.png",
+      "id_image": "pay_6192511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063075_0d9affa0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063075_ea76d55e5b_o.png",
+      "id_image": "pay_6272570"
+    }
+  ]
+}

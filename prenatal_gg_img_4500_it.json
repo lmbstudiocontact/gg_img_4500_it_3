@@ -1,0 +1,28 @@
+{
+  "english": "prenatal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trước khi đẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trước khi sanh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "before birth; during or relating to pregnancy.",
+      "definitions_ex_en": "prenatal development",
+      "definitions_ex_vn": "phát triển tiền sản",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373557_e9cd3e7e4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373557_6f34af5407_o.png",
+      "id_image": "prenatal_1555962"
+    }
+  ]
+}

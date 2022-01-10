@@ -1,0 +1,39 @@
+{
+  "english": "premier",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trên hết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trước hết",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "first in importance, order, or position; leading.",
+      "definitions_ex_en": "Germany's premier rock band",
+      "definitions_ex_vn": "Ban nhạc rock hàng đầu của Đức",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a prime minister or other head of government.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444163_d972c4aabb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444163_00cdd551d0_o.png",
+      "id_image": "premier_395779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373862_75f2b6ef3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373862_a09a83233f_o.png",
+      "id_image": "premier_5571590"
+    }
+  ]
+}

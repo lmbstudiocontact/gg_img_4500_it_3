@@ -1,0 +1,39 @@
+{
+  "english": "podium",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khán đài đấu trường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small platform on which a person may stand to be seen by an audience, as when making a speech or conducting an orchestra.",
+      "definitions_ex_en": "he was at the podium facing an expectant conference crowd",
+      "definitions_ex_vn": "Anh ta đang ở bục phải đối mặt với một đám đông hội nghị mong đợi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076130_73d93fb31e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076130_0273f90ef6_o.png",
+      "id_image": "podium_1894453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454098_3bc4a868e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454098_a563072b90_o.png",
+      "id_image": "podium_257506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694219_80cd142649_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694219_e201f1680c_o.png",
+      "id_image": "podium_511364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454038_809fa9ab83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454038_63d4e2808e_o.png",
+      "id_image": "podium_863132"
+    }
+  ]
+}

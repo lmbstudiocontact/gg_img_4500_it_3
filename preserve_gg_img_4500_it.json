@@ -1,0 +1,60 @@
+{
+  "english": "preserve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khu đất dành riêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái cây ngâm với đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giử cho khỏi tan ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử gìn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mứt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuôi cá trong ao",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "maintain (something) in its original or existing state.",
+      "definitions_ex_en": "all records of the past were zealously preserved",
+      "definitions_ex_vn": "Tất cả các hồ sơ của quá khứ đã được bảo tồn nhiệt tình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "food made with fruit preserved in sugar, such as jam or marmalade.",
+      "definitions_ex_en": "home-made preserves",
+      "definitions_ex_vn": "bảo quản làm tại nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sphere of activity regarded as being reserved for a particular person or group.",
+      "definitions_ex_en": "the civil service became the preserve of the educated middle class",
+      "definitions_ex_vn": "Dịch vụ dân sự đã trở thành bảo tồn của tầng lớp trung lưu có học thức",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372552_47b3cabf47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372552_cd3fbc82e3_o.png",
+      "id_image": "preserve_4276021"
+    }
+  ]
+}

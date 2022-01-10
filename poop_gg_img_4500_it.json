@@ -1,0 +1,34 @@
+{
+  "english": "poop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phần sau lái tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sóng đập lên phía sau tàu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the aftermost and highest deck of a ship, especially in a sailing ship where it typically forms the roof of a cabin in the stern.",
+      "definitions_ex_en": "there on the poop stood Captain Meech",
+      "definitions_ex_vn": "Ở đó trên Poop đứng đội trưởng Meech",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a wave) break over the stern of (a ship), sometimes causing it to capsize.",
+      "definitions_ex_en": "carrying a high sea, we were badly pooped",
+      "definitions_ex_vn": "mang một biển cao, chúng tôi đã bị ị",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072835_dd0b7fdb75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072835_0c164be788_o.png",
+      "id_image": "poop_6419783"
+    }
+  ]
+}

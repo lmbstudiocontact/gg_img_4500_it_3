@@ -1,0 +1,58 @@
+{
+  "english": "pedestal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the base or support on which a statue, obelisk, or column is mounted.",
+      "definitions_ex_en": "a bronze bust on a marble pedestal",
+      "definitions_ex_vn": "một bức tượng bán thân bằng đồng trên bệ đá cẩm thạch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used in reference to a situation in which someone is greatly or uncritically admired.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "set or support on a pedestal.",
+      "definitions_ex_en": "a Venus stands pedestaled in an alcove",
+      "definitions_ex_vn": "Một venus đứng bệ trong một hẻm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679334_dfcd5ce09b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679334_69f5aa098b_o.png",
+      "id_image": "pedestal_1054096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324076_4da6f1b0f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324076_24b955a691_o.png",
+      "id_image": "pedestal_1554011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679254_43aa5680a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679254_dc9156e859_o.png",
+      "id_image": "pedestal_5706607"
+    }
+  ]
+}

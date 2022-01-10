@@ -1,0 +1,62 @@
+{
+  "english": "paste",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bột nhồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ dán tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhồi bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trộn lộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán bằng hồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thick, soft, moist substance typically produced by mixing dry ingredients with a liquid.",
+      "definitions_ex_en": "blend onions, sugar, and oil to a paste",
+      "definitions_ex_vn": "trộn hành, đường và dầu để dán",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "coat with paste.",
+      "definitions_ex_en": "when coating walls with fabric, paste the wall, not the fabric",
+      "definitions_ex_vn": "Khi phủ tường bằng vải, dán tường, không phải vải",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "beat or defeat severely.",
+      "definitions_ex_en": "he pasted the guy and tied his ankles together",
+      "definitions_ex_vn": "Anh dán chàng trai và buộc mắt cá chân của mình lại với nhau",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066070_8a520ee776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066070_3e251ac83e_o.png",
+      "id_image": "paste_2932791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373952_767a414b4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373952_75da04df49_o.png",
+      "id_image": "paste_3645904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684289_eb949f40f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684289_5d136bc8da_o.png",
+      "id_image": "paste_391316"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "english": "patch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đốm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng che con mắt đau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng giẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc dán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc dán trên vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm có vết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vá quần áo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of cloth or other material used to mend or strengthen a torn or weak point.",
+      "definitions_ex_en": "the jacket was of well-worn tweed with leather patches on the elbows",
+      "definitions_ex_vn": "Áo khoác có mái tóc giả được mặc tốt với các mảng da trên khuỷu tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of something marked out from the rest by a particular characteristic.",
+      "definitions_ex_en": "his hair was combed forward to hide a growing bald patch",
+      "definitions_ex_vn": "Tóc anh ta được chải về phía trước để che giấu một bản vá hói đang phát triển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small piece of ground, especially one used for gardening.",
+      "definitions_ex_en": "they spent Sundays digging their vegetable patch",
+      "definitions_ex_vn": "Họ đã dành chủ nhật đào vá rau của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a temporary electrical or telephone connection.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small piece of code inserted into a program to improve its functioning or to correct an error.",
+      "definitions_ex_en": "a program patch that fixes a bug",
+      "definitions_ex_vn": "một bản vá chương trình sửa lỗi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mend or strengthen (fabric or an item of clothing) by putting a piece of material over a hole or weak point in it.",
+      "definitions_ex_en": "her jeans were neatly patched",
+      "definitions_ex_vn": "Quần jean của cô được vá gọn gàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat someone's injuries or repair the damage to something, especially hastily.",
+      "definitions_ex_en": "they did their best to patch up the gaping wounds",
+      "definitions_ex_vn": "họ đã làm hết sức mình để vá những vết thương gaping",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "connect by a temporary electrical, radio, or telephonic connection.",
+      "definitions_ex_en": "Ralph had patched her through to the meeting by walkie-talkie",
+      "definitions_ex_vn": "Ralph đã vá cô ấy đến cuộc họp của Walkie-Talkie",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "correct, enhance, or modify (a routine or program) by inserting a patch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683734_f01afbbd0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683734_721c47b612_o.png",
+      "id_image": "patch_401554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065495_f0476093b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065495_02ff8b3657_o.png",
+      "id_image": "patch_4299245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065430_450dc6b816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065430_9e3f543a3c_o.png",
+      "id_image": "patch_4539324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065370_2ff98098f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065370_9307677df0_o.png",
+      "id_image": "patch_6147341"
+    }
+  ]
+}

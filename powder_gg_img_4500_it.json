@@ -1,0 +1,88 @@
+{
+  "english": "powder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bụi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn cho trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn thoa mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh phấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm thành bột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thoa phấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền thành bột",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fine, dry particles produced by the grinding, crushing, or disintegration of a solid substance.",
+      "definitions_ex_en": "crush the poppy seeds to a powder",
+      "definitions_ex_vn": "nghiền nát hạt anh túc vào bột",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "light, dry, newly fallen snow.",
+      "definitions_ex_en": "in Aspen, blue skies and good powder drew in record numbers",
+      "definitions_ex_vn": "Trong Aspen, bầu trời xanh và bột tốt thu âm trong số lượng kỷ lục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply powder to (the face or body).",
+      "definitions_ex_en": "she powdered her face and put on a dab of perfume",
+      "definitions_ex_vn": "Cô ấy làm đầy khuôn mặt của mình và mặc một loại nước hoa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reduce (a substance) to a powder by drying or crushing it.",
+      "definitions_ex_en": "then the rose petals are dried and powdered",
+      "definitions_ex_vn": "sau đó các cánh hoa hồng được sấy khô và bột",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446283_755ce0e2f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446283_14f0cd9f96_o.png",
+      "id_image": "powder_1411864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375992_689fe53a13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375992_f81fcdbd30_o.png",
+      "id_image": "powder_1941205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686364_0701a42cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686364_968d6d8945_o.png",
+      "id_image": "powder_342833"
+    }
+  ]
+}

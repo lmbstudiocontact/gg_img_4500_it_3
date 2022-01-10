@@ -1,0 +1,164 @@
+{
+  "english": "pile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lông tơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịnh trĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây cọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòi dom",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông tấm thãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây cột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây cừ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông trừu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây nọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt sấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt trái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một chồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chồng chất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chồng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để thành đống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng cọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng cột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng cừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng nọc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heap of things laid or lying one on top of another.",
+      "definitions_ex_en": "he placed the books in a neat pile",
+      "definitions_ex_vn": "Anh đặt những cuốn sách trong một đống gọn gàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large imposing building or group of buildings.",
+      "definitions_ex_en": "a Victorian Gothic pile",
+      "definitions_ex_vn": "một đống gothic Victoria",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a series of plates of dissimilar metals laid one on another alternately to produce an electric current.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a nuclear reactor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy beam or post driven vertically into the bed of a river, soft ground, etc., to support the foundations of a structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a triangular charge or ordinary formed by two lines meeting at an acute angle, usually pointing down from the top of the shield.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the soft projecting surface of a carpet or a fabric such as velvet or flannel, consisting of many small threads.",
+      "definitions_ex_en": "the thick pile of the new rugs",
+      "definitions_ex_vn": "đống dày của tấm thảm mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (things) one on top of another.",
+      "definitions_ex_en": "she piled all the groceries on the counter",
+      "definitions_ex_vn": "Cô ấy chồng chất tất cả các cửa hàng tạp hóa trên quầy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a group of people) get into or out of a vehicle or space in a disorganized manner.",
+      "definitions_ex_en": "ten of us piled into the minibus",
+      "definitions_ex_vn": "Mười chúng ta chất đống vào minibus",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "strengthen or support (a structure) with piles.",
+      "definitions_ex_en": "an earlier bridge may have been piled",
+      "definitions_ex_vn": "Một cây cầu trước đó có thể đã được chất đống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "furnish with a pile.",
+      "definitions_ex_en": "a thick-piled carpet",
+      "definitions_ex_vn": "một thảm cọc dày",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084600_ccc9a3ec18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084600_bab6897523_o.png",
+      "id_image": "pile_5392248"
+    }
+  ]
+}

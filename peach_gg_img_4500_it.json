@@ -1,0 +1,64 @@
+{
+  "english": "peach",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điềm chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a round stone fruit with juicy yellow flesh and downy pinkish-yellow skin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Chinese tree that bears peaches.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an exceptionally good or attractive person or thing.",
+      "definitions_ex_en": "what a peach of a shot!",
+      "definitions_ex_vn": "Thật là một quả đào của một shot!",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "inform on.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370202_55717d29da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370202_ea20213d97_o.png",
+      "id_image": "peach_258592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325231_07fb425e18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325231_0c769bd9f7_o.png",
+      "id_image": "peach_3735934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440298_a36166ecff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440298_2e276dcfbb_o.png",
+      "id_image": "peach_457794"
+    }
+  ]
+}

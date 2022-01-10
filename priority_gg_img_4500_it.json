@@ -1,0 +1,42 @@
+{
+  "english": "priority",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền ở trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền ưu tiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền hưởng trước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fact or condition of being regarded or treated as more important.",
+      "definitions_ex_en": "the safety of the country takes priority over any other matter",
+      "definitions_ex_vn": "sự an toàn của đất nước ưu tiên hơn bất kỳ vấn đề nào khác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439423_4bc0ed72ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439423_5b4a511181_o.png",
+      "id_image": "priority_5216828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439383_6f5a654cc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439383_630611ac4d_o.png",
+      "id_image": "priority_5230603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324286_9d4f087959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324286_10cf6e9f5c_o.png",
+      "id_image": "priority_5361629"
+    }
+  ]
+}

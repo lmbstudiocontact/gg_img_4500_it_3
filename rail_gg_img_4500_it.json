@@ -1,0 +1,117 @@
+{
+  "english": "rail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lan can",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao lơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chấn song sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường rầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gà nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng rào tòa án",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chở bằng xe lửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chưởi rủa om sòm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bar or series of bars, typically fixed on upright supports, serving as part of a fence or barrier or used to hang things on.",
+      "definitions_ex_en": "a curtain rail",
+      "definitions_ex_vn": "một rèm đường sắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a steel bar or continuous line of bars laid on the ground as one of a pair forming a railroad track.",
+      "definitions_ex_en": "trolley rails",
+      "definitions_ex_vn": "Đường ray xe đẩy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the edge of a surfboard or sailboard.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a horizontal piece in the frame of a paneled door or sash window.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a conductor which is maintained at a fixed potential and to which other parts of a circuit are connected.",
+      "definitions_ex_en": "the anode must be connected to the positive supply rail",
+      "definitions_ex_vn": "Anode phải được kết nối với đường sắt cung cấp tích cực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a secretive bird with drab gray and brown plumage, typically having a long bill and found in dense waterside vegetation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide or enclose (a space or place) with a rail or rails.",
+      "definitions_ex_en": "the altar is railed off from the nave",
+      "definitions_ex_vn": "Bàn thờ được lan ra từ Nave",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in windsurfing) sail the board on its edge, so that it is at a sharp angle to the surface of the water.",
+      "definitions_ex_en": "the more you pull down on the boom, the more you rail",
+      "definitions_ex_vn": "bạn càng kéo xuống bùng nổ, bạn càng nhiều đường sắt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "complain or protest strongly and persistently about.",
+      "definitions_ex_en": "he railed at human fickleness",
+      "definitions_ex_vn": "Anh ấy đã rời rạc với sự nhanh nhẹn của con người",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340476_b009914541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340476_2f51c28a65_o.png",
+      "id_image": "rail_1185491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077875_c84ef1e926_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077875_f123bd9b88_o.png",
+      "id_image": "rail_418309"
+    }
+  ]
+}

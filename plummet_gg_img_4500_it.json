@@ -1,0 +1,48 @@
+{
+  "english": "plummet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây cần câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây dò nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục chì",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fall or drop straight down at high speed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a steep and rapid fall or drop.",
+      "definitions_ex_en": "the bird has a circular display flight followed by an earthward plummet",
+      "definitions_ex_vn": "Con chim có một chuyến bay hiển thị hình tròn theo sau là một cú lao đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a plumb or plumb line.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694764_fafbfb2bff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694764_f72d723267_o.png",
+      "id_image": "plummet_1638523"
+    }
+  ]
+}

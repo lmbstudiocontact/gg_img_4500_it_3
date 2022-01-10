@@ -1,0 +1,43 @@
+{
+  "english": "responsive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể cảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đáp lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trả lời",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reacting quickly and positively.",
+      "definitions_ex_en": "a flexible service that is responsive to changing social and economic patterns",
+      "definitions_ex_vn": "Một dịch vụ linh hoạt đáp ứng các mô hình kinh tế xã hội thay đổi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "answering.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395352_5059824bf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395352_eeb55a981b_o.png",
+      "id_image": "responsive_2460232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350516_bc337c9254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350516_14550583e2_o.png",
+      "id_image": "responsive_5746567"
+    }
+  ]
+}

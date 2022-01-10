@@ -1,0 +1,43 @@
+{
+  "english": "playground",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sân chơi đùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân chơi thể thao",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an outdoor area provided for children to play in, especially at a school or public park.",
+      "definitions_ex_en": "I was playing football in the playground",
+      "definitions_ex_vn": "Tôi đang chơi bóng đá trong sân chơi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078370_1c8c44953b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078370_56aef90d5d_o.png",
+      "id_image": "playground_3480345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078325_92503d415b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078325_705d225a8d_o.png",
+      "id_image": "playground_3485813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078410_6993a6fe0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078410_22d92a036d_o.png",
+      "id_image": "playground_359991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696234_90fdb167a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696234_420613d7db_o.png",
+      "id_image": "playground_4598508"
+    }
+  ]
+}

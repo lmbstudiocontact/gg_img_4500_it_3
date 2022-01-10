@@ -1,0 +1,185 @@
+{
+  "english": "press",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đem in",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ấn lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cán giấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đông người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "siết lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tức khắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vặn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ép lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hối thúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "báo chí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà in",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ấn dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái gấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự in",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khẩn cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhận xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng cấp tốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or cause to move into a position of contact with something by exerting continuous physical force.",
+      "definitions_ex_en": "he pressed his face to the glass",
+      "definitions_ex_vn": "Anh ấn mặt vào kính",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "apply pressure to (something) to flatten, shape, or smooth it, typically by ironing.",
+      "definitions_ex_en": "she pressed her nicest blouse",
+      "definitions_ex_vn": "Cô ấn chiếc áo đẹp nhất của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "forcefully put forward (an opinion, claim, or course of action).",
+      "definitions_ex_en": "Rose did not press the point",
+      "definitions_ex_vn": "Rose đã không nhấn điểm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "raise (a specified weight) by first lifting it to shoulder height and then gradually pushing it upward above the head.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "try too hard to achieve distance with a shot, at the risk of inaccuracy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put (someone or something) to a specified use, especially as a temporary or makeshift measure.",
+      "definitions_ex_en": "many of these stones have been pressed into service as gateposts",
+      "definitions_ex_vn": "Nhiều người trong số những viên đá này đã được nhấn vào dịch vụ dưới dạng GatePosts",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a device for applying pressure to something in order to flatten or shape it or to extract juice or oil.",
+      "definitions_ex_en": "a flower press",
+      "definitions_ex_vn": "một máy ép hoa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a printing press.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "newspapers or journalists viewed collectively.",
+      "definitions_ex_en": "the press was notified",
+      "definitions_ex_vn": "Báo chí đã được thông báo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of pressing something.",
+      "definitions_ex_en": "the system summons medical help at the press of a button",
+      "definitions_ex_vn": "Hệ thống triệu tập trợ giúp y tế khi nhấn nút",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of raising a weight to shoulder height and then gradually pushing it above the head.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a forcible enlistment of men, especially for the navy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327551_17ff1661f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327551_d9243c91e6_o.png",
+      "id_image": "press_1484385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682624_cfe82c4b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682624_369ab22483_o.png",
+      "id_image": "press_3966817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372157_73ab73f9fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372157_16cb022908_o.png",
+      "id_image": "press_4151844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372122_34638f603e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372122_2e1a251a8a_o.png",
+      "id_image": "press_4542471"
+    }
+  ]
+}

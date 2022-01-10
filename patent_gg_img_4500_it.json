@@ -1,0 +1,77 @@
+{
+  "english": "patent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có bằng sáng chế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không ngẻn tắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bảo vệ quyền phát minh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a government authority or license conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention.",
+      "definitions_ex_en": "he took out a patent for an improved steam hammer",
+      "definitions_ex_vn": "Anh lấy ra một bằng sáng chế cho một búa hơi cải tiến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "patent leather.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "easily recognizable; obvious.",
+      "definitions_ex_en": "she was smiling with patent insincerity",
+      "definitions_ex_vn": "Cô ấy đang mỉm cười với sự nhầm lẫn bằng sáng chế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a vessel, duct, or aperture) open and unobstructed; failing to close.",
+      "definitions_ex_en": "the patient is usually left with a patent vessel",
+      "definitions_ex_vn": "Bệnh nhân thường được để lại một tàu bằng sáng chế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "made and marketed under a patent; proprietary.",
+      "definitions_ex_en": "patent milk powder",
+      "definitions_ex_vn": "Sữa bột sáng chế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "obtain a patent for (an invention).",
+      "definitions_ex_en": "an invention is not your own until it is patented",
+      "definitions_ex_vn": "một phát minh không phải của riêng bạn cho đến khi nó được cấp bằng sáng chế",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443448_366b4f5595_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443448_c48f975101_o.png",
+      "id_image": "patent_2361734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683514_db16729635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683514_1726d83d0d_o.png",
+      "id_image": "patent_3528898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065165_be5b91806e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065165_3112fc1125_o.png",
+      "id_image": "patent_4391616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373097_9b14797f59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373097_e7108d70fd_o.png",
+      "id_image": "patent_5352130"
+    }
+  ]
+}

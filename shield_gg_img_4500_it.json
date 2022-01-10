@@ -1,0 +1,59 @@
+{
+  "english": "shield",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái khiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật che chở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảo hộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "binh vực",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a broad piece of metal or another suitable material, held by straps or a handle attached on one side, used as a protection against blows or missiles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing providing protection.",
+      "definitions_ex_en": "a protective coating of grease provides a shield against abrasive dirt",
+      "definitions_ex_vn": "Một lớp phủ bảo vệ của dầu mỡ cung cấp một lá chắn chống lại bụi bẩn mài mòn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large rigid area of the earth's crust, typically of Precambrian rock, which has been unaffected by later orogenic episodes, e.g. the Canadian Shield.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "protect (someone or something) from a danger, risk, or unpleasant experience.",
+      "definitions_ex_en": "he pulled the cap lower to shield his eyes from the glare",
+      "definitions_ex_vn": "Anh ta kéo nắp dưới để che mắt khỏi ánh sáng chói",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459863_bd893de4c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459863_94f3362ed3_o.png",
+      "id_image": "shield_486972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389997_f091ea73ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389997_6539eda20f_o.png",
+      "id_image": "shield_649082"
+    }
+  ]
+}

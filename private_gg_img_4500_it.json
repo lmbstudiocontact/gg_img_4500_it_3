@@ -1,0 +1,87 @@
+{
+  "english": "private",
+  "list_translation_mean": [
+    {
+      "translate_mean": "riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "riêng tư",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bí mật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cá nhân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hẻo lánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kín",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vắng vẻ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "belonging to or for the use of one particular person or group of people only.",
+      "definitions_ex_en": "all bedrooms have private facilities",
+      "definitions_ex_vn": "Tất cả các phòng ngủ đều có tiện nghi riêng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) having no official or public role or position.",
+      "definitions_ex_en": "the paintings were sold to a private collector",
+      "definitions_ex_vn": "Những bức tranh đã được bán cho một nhà sưu tập tư nhân",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a service or industry) provided or owned by an individual or an independent, commercial company rather than by the government.",
+      "definitions_ex_en": "research projects carried out by private industry",
+      "definitions_ex_vn": "Các dự án nghiên cứu được thực hiện bởi ngành công nghiệp tư nhân",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a soldier of the lowest rank, in particular an enlisted person in the US Army or Marine Corps ranking below private first class.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for private parts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323861_93525fa7d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323861_48a6038f0c_o.png",
+      "id_image": "private_1163402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679029_f30dfe655c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679029_b9453e113f_o.png",
+      "id_image": "private_3231365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438843_cd5deae1f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438843_cb018243b9_o.png",
+      "id_image": "private_4428006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323716_9708790fcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323716_e356381a18_o.png",
+      "id_image": "private_5352157"
+    }
+  ]
+}

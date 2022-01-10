@@ -1,0 +1,68 @@
+{
+  "english": "purpose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều dự định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục đích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý muốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kế hoạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có ý định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dự định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trù liệu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the reason for which something is done or created or for which something exists.",
+      "definitions_ex_en": "the purpose of the meeting is to appoint a trustee",
+      "definitions_ex_vn": "Mục đích của cuộc họp là bổ nhiệm một ủy thác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have as one's intention or objective.",
+      "definitions_ex_en": "God has allowed suffering, even purposed it",
+      "definitions_ex_vn": "Chúa đã cho phép đau khổ, thậm chí có mục đích",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701664_48aed85906_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701664_2be98af4ea_o.png",
+      "id_image": "purpose_1432068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461628_352dfbab81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461628_41928c4afe_o.png",
+      "id_image": "purpose_4185707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701729_8fcd575e47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701729_43dde94fc9_o.png",
+      "id_image": "purpose_992638"
+    }
+  ]
+}

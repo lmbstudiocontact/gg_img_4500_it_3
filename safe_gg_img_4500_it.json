@@ -1,0 +1,80 @@
+{
+  "english": "safe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "an toàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thận trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô sự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không nguy hiểm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vững vàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tủ đựng đồ ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủ sắt cất đồ quí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "protected from or not exposed to danger or risk; not likely to be harmed or lost.",
+      "definitions_ex_en": "eggs remain in the damp sand, safe from marine predators",
+      "definitions_ex_vn": "Trứng vẫn còn trong cát ẩm, an toàn từ những kẻ săn mồi biển",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "based on good reasons or evidence and not likely to be proved wrong.",
+      "definitions_ex_en": "the verdict is safe and satisfactory",
+      "definitions_ex_vn": "Phán quyết là an toàn và thỏa đáng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "uninjured; with no harm done.",
+      "definitions_ex_en": "they had returned safe and sound",
+      "definitions_ex_vn": "Họ đã trở lại an toàn và âm thanh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a strong fireproof cabinet with a complex lock, used for the storage of valuables.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452508_7237089d63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452508_d6edf9a8ec_o.png",
+      "id_image": "safe_2867912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692869_647cb286b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692869_e79a38aeb3_o.png",
+      "id_image": "safe_3064162"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337566_6a879e5e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337566_d4bf03167a_o.png",
+      "id_image": "safe_5448593"
+    }
+  ]
+}

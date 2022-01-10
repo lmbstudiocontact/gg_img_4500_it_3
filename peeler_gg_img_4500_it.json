@@ -1,0 +1,33 @@
+{
+  "english": "peeler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bốc vỏ trái cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lột vỏ trái cây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device for removing the skin from fruit and vegetables.",
+      "definitions_ex_en": "a potato peeler",
+      "definitions_ex_vn": "một máy bóc vỏ khoai tây",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678684_6cf0c85e6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678684_a3d670002f_o.png",
+      "id_image": "peeler_259152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060260_4608911ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060260_5a3e7ab6cf_o.png",
+      "id_image": "peeler_904636"
+    }
+  ]
+}

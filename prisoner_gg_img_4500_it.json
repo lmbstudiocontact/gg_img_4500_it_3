@@ -1,0 +1,41 @@
+{
+  "english": "prisoner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bị giam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở tù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tù binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tù nhân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person legally held in prison as a punishment for crimes they have committed or while awaiting trial.",
+      "definitions_ex_en": "a prisoner serving a life sentence",
+      "definitions_ex_vn": "Một tù nhân phục vụ một câu về cuộc sống",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679279_20d6abc1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679279_2f67359b62_o.png",
+      "id_image": "prisoner_1396588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324091_ffd9943a4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324091_e804dfef20_o.png",
+      "id_image": "prisoner_372300"
+    }
+  ]
+}

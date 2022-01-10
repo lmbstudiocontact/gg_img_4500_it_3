@@ -1,0 +1,94 @@
+{
+  "english": "resort",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ hẹn gặp mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ lưu trú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhờ cậy đến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông cậy đến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "năng tới lui",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhờ đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trông cậy vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place that is a popular destination for vacations or recreation, or which is frequented for a particular purpose.",
+      "definitions_ex_en": "a seaside resort",
+      "definitions_ex_vn": "Khu nghỉ mát ven biển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of turning to and adopting a strategy or course of action, especially a disagreeable or undesirable one, so as to resolve a difficult situation.",
+      "definitions_ex_en": "territorial questions must not be settled by resort to violence",
+      "definitions_ex_vn": "Câu hỏi lãnh thổ không được giải quyết bởi Resort đến Bạo hành",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "turn to and adopt (a strategy or course of action, especially a disagreeable or undesirable one) so as to resolve a difficult situation.",
+      "definitions_ex_en": "the duke was prepared to resort to force if negotiation failed",
+      "definitions_ex_vn": "Công tước đã chuẩn bị để dùng đến vũ lực nếu đàm phán thất bại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go often or in large numbers to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351496_0ee83b1d2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351496_cf7654b557_o.png",
+      "id_image": "resort_2990570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088605_b8f2870cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088605_f63de0cac6_o.png",
+      "id_image": "resort_327424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465883_e99accc774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465883_c015d85d34_o.png",
+      "id_image": "resort_4336451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396032_36f7c455cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396032_2c92a2e5b3_o.png",
+      "id_image": "resort_5273660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705824_8b7008be89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705824_8934470a8d_o.png",
+      "id_image": "resort_6213559"
+    }
+  ]
+}

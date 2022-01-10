@@ -1,0 +1,72 @@
+{
+  "english": "scar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá anh vũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiểm trở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng đi lởm chởm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối ân hận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối thù hận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết sẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để lại vết thẹo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm có thẹo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành thẹo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mark left on the skin or within body tissue where a wound, burn, or sore has not healed completely and fibrous connective tissue has developed.",
+      "definitions_ex_en": "a faint scar ran the length of his left cheek",
+      "definitions_ex_vn": "một vết sẹo mờ nhạt chạy chiều dài của má trái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a steep high cliff or rock outcrop, especially of limestone.",
+      "definitions_ex_en": "high limestone scars bordered the road",
+      "definitions_ex_vn": "Sẹo đá vôi cao bao quanh đường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark with a scar or scars.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332246_8f4bacc7ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332246_99542d1227_o.png",
+      "id_image": "scar_5154849"
+    }
+  ]
+}

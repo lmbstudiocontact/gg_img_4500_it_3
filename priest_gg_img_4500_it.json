@@ -1,0 +1,50 @@
+{
+  "english": "priest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mục sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy tu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an ordained minister of the Catholic, Orthodox, or Anglican Church having the authority to perform certain rites and administer certain sacraments.",
+      "definitions_ex_en": "the priest celebrated mass at a small altar off the north transept",
+      "definitions_ex_vn": "Linh mục nổi tiếng hàng loạt tại một bàn thờ nhỏ ngoài khơi Bắc Transpt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mallet used to kill fish caught when angling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ordain to the priesthood.",
+      "definitions_ex_en": "he was made deacon in 1990 and priested in 1994",
+      "definitions_ex_vn": "Ông được sản xuất Deacon vào năm 1990 và linh mục vào năm 1994",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681059_ab762eeb08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681059_f2bf572802_o.png",
+      "id_image": "priest_4261534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681024_b29341a5d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681024_c6d46f3155_o.png",
+      "id_image": "priest_4530994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681104_02f2978099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681104_6c57572ff7_o.png",
+      "id_image": "priest_807694"
+    }
+  ]
+}

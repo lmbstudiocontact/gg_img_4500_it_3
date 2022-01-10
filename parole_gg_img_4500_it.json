@@ -1,0 +1,48 @@
+{
+  "english": "parole",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời danh dự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời hứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho tự do",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the release of a prisoner temporarily (for a special purpose) or permanently before the completion of a sentence, on the promise of good behavior.",
+      "definitions_ex_en": "he committed a burglary while on parole",
+      "definitions_ex_vn": "anh ấy đã phạm một vụ trộm trong khi tạm tha",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the actual linguistic behavior or performance of individuals, in contrast to the linguistic system of a community.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "release (a prisoner) on parole.",
+      "definitions_ex_en": "he was paroled after serving nine months of a two-year sentence",
+      "definitions_ex_vn": "anh ta bị tạm tha sau khi phục vụ chín tháng bản án hai năm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331776_794c26f147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331776_ecb6975f01_o.png",
+      "id_image": "parole_4458921"
+    }
+  ]
+}

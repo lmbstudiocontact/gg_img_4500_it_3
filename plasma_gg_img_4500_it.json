@@ -1,0 +1,47 @@
+{
+  "english": "plasma",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huyết tương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the colorless fluid part of blood, lymph, or milk, in which corpuscles or fat globules are suspended.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ionized gas consisting of positive ions and free electrons in proportions resulting in more or less no overall electric charge, typically at low pressures (as in the upper atmosphere and in fluorescent lamps) or at very high temperatures (as in stars and nuclear fusion reactors).",
+      "definitions_ex_en": "the current passed through a column of plasma",
+      "definitions_ex_vn": "dòng điện được truyền qua một cột huyết tương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dark green, translucent variety of quartz used in mosaic and for other decorative purposes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for cytoplasm or protoplasm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387247_4f1f25ca46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387247_43210c59a5_o.png",
+      "id_image": "plasma_1055056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697419_083f56fb29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697419_70de6b71a9_o.png",
+      "id_image": "plasma_4493120"
+    }
+  ]
+}

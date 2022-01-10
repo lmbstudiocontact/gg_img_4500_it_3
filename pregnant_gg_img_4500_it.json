@@ -1,0 +1,42 @@
+{
+  "english": "pregnant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có chửa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều ứng dụng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a woman or female animal) having a child or young developing in the uterus.",
+      "definitions_ex_en": "she was heavily pregnant with her second child",
+      "definitions_ex_vn": "Cô mang thai rất nhiều với đứa con thứ hai của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "full of meaning; significant or suggestive.",
+      "definitions_ex_en": "a pregnant pause",
+      "definitions_ex_vn": "Tạm dừng mang thai.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329471_9e566c13af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329471_a96ab687b6_o.png",
+      "id_image": "pregnant_4829651"
+    }
+  ]
+}

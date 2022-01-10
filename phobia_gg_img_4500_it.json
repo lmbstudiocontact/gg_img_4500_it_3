@@ -1,0 +1,48 @@
+{
+  "english": "phobia",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự kinh hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sợ hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sợ sệt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an extreme or irrational fear of or aversion to something.",
+      "definitions_ex_en": "he had a phobia about being under water",
+      "definitions_ex_vn": "Anh ta có một nỗi ám ảnh về việc dưới nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "extreme or irrational fear or dislike of a specified thing or group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464558_fee5d72357_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464558_a793aaf304_o.png",
+      "id_image": "phobia_4525546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087185_3bd797f154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087185_439beab91b_o.png",
+      "id_image": "phobia_555687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349861_8509e0eb9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349861_f25b9d9ed1_o.png",
+      "id_image": "phobia_6366045"
+    }
+  ]
+}

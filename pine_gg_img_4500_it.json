@@ -1,0 +1,56 @@
+{
+  "english": "pine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây thông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây tùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuộc về cây thông",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hao mòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiều tụy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an evergreen coniferous tree that has clusters of long needle-shaped leaves. Many kinds are grown for their soft timber, which is widely used for furniture and pulp, or for tar and turpentine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "suffer a mental and physical decline, especially because of a broken heart.",
+      "definitions_ex_en": "she thinks I am pining away from love",
+      "definitions_ex_vn": "Cô ấy nghĩ rằng tôi đang ghim ra khỏi tình yêu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346121_800514e778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346121_cdf88b050b_o.png",
+      "id_image": "pine_2033510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391107_5bbd21a7ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391107_00731e7e0b_o.png",
+      "id_image": "pine_4781777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346066_7f3893438c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346066_908aa4985d_o.png",
+      "id_image": "pine_6262934"
+    }
+  ]
+}

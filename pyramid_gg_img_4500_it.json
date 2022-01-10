@@ -1,0 +1,59 @@
+{
+  "english": "pyramid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình chóp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim tự tháp ở ai cập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm toán hình chóp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a monumental structure with a square or triangular base and sloping sides that meet in a point at the top, especially one built of stone as a royal tomb in ancient Egypt.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an object, shape, or arrangement in the form of a pyramid.",
+      "definitions_ex_en": "a pyramid of logs",
+      "definitions_ex_vn": "một kim tự tháp của các bản ghi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a system of financial growth achieved by a small initial investment, with subsequent investments being funded by using unrealized profits as collateral.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460858_e1b1d87d6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460858_6fa4d35f0a_o.png",
+      "id_image": "pyramid_1137529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460833_352c9c6693_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460833_2d40b3f064_o.png",
+      "id_image": "pyramid_1141814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390992_8031545be2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390992_deb983150e_o.png",
+      "id_image": "pyramid_1376908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460888_f3db316e2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460888_b0f51e9b11_o.png",
+      "id_image": "pyramid_780571"
+    }
+  ]
+}

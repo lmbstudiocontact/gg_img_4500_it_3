@@ -1,0 +1,38 @@
+{
+  "english": "passport",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấy thông hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộ chiếu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684749_5475b50d8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684749_ee71691fe6_o.png",
+      "id_image": "passport_169452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444703_0d4acdda46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444703_e13292b2b6_o.png",
+      "id_image": "passport_495969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374327_df6e017fb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374327_ab6c508a79_o.png",
+      "id_image": "passport_807674"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "salmon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như sắc thịt cá hồi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cá hồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cá hồi nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu da cam hồng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large edible fish that is a popular game fish, much prized for its pink flesh. Salmon mature in the sea but migrate to freshwater streams to spawn.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of fishes that resemble the true salmons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pale pinkish orange color.",
+      "definitions_ex_en": "cotton checked throw in cream and salmon pink",
+      "definitions_ex_vn": "Cotton kiểm tra ném vào kem và màu hồng cá hồi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336281_2d98b91494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336281_256e5ec19f_o.png",
+      "id_image": "salmon_2268978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451243_4ca29047d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451243_3840091c98_o.png",
+      "id_image": "salmon_311596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691639_0dbbc47567_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691639_ff511ce85e_o.png",
+      "id_image": "salmon_385165"
+    }
+  ]
+}

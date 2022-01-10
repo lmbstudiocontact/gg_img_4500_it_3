@@ -1,0 +1,49 @@
+{
+  "english": "pointer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây kim đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống chó săn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, thin piece of metal on a scale or dial which moves to indicate a figure or position.",
+      "definitions_ex_en": "if the pointer moves right, the wind is from the right",
+      "definitions_ex_vn": "Nếu con trỏ di chuyển phải, gió là từ bên phải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dog of a breed that on scenting game stands rigid looking toward it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693664_1b667e4f5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693664_9209279a80_o.png",
+      "id_image": "pointer_169456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338451_94e88558cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338451_ab187176f1_o.png",
+      "id_image": "pointer_178408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453403_b422bdaa74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453403_1b881c8b08_o.png",
+      "id_image": "pointer_2373819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075440_9a050dc0d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075440_1b42d99797_o.png",
+      "id_image": "pointer_3858340"
+    }
+  ]
+}

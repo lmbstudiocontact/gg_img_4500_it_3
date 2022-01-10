@@ -1,0 +1,46 @@
+{
+  "english": "pantomime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bắt chước bộ tịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đóng tuồng câm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự diển tả câm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuật diển bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuật ra bộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dramatic entertainment, originating in Roman mime, in which performers express meaning through gestures accompanied by music.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "express or represent (something) by extravagant and exaggerated mime.",
+      "definitions_ex_en": "the clown candidates pantomimed different emotions",
+      "definitions_ex_vn": "Các ứng cử viên chú hề lan can những cảm xúc khác nhau",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071570_9399c3554b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071570_cf287afc77_o.png",
+      "id_image": "pantomime_837205"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "pusher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bấm chuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người xô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who sells illegal drugs.",
+      "definitions_ex_en": "an underworld of drug pushers and thieves",
+      "definitions_ex_vn": "một thế giới ngầm của người đẩy ma túy và kẻ trộm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that pushes something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701454_142feafd81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701454_4d4ae73bf2_o.png",
+      "id_image": "pusher_5016415"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "english": "plug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bu di",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái nắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa già",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái núy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phích cắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái vặn của vòi nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tác phẫm khó bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú thoi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn một phát súng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bịt nút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đấm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm một cách khó nhọc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an obstruction blocking a hole, pipe, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device for making an electrical connection, especially between an appliance and a power supply, consisting of an insulated casing with metal pins that fit into holes in an outlet.",
+      "definitions_ex_en": "the cable is fitted with a two-pin plug",
+      "definitions_ex_vn": "Cáp được trang bị một phích cắm hai chân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of publicity promoting a product, event, or establishment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of tobacco cut from a larger cake for chewing.",
+      "definitions_ex_en": "they sold chewing tobacco in bars and plugs",
+      "definitions_ex_vn": "họ đã bán thuốc lá trong các quán bar và phích cắm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lure with one or more hooks attached.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for fireplug.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "block or fill in (a hole or cavity).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mention (a product, event, or establishment) publicly in order to promote it.",
+      "definitions_ex_en": "during the show he plugged his new record",
+      "definitions_ex_vn": "Trong buổi trình diễn, ông đã cắm kỷ lục mới của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077280_b418c46308_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077280_e0a0740e82_o.png",
+      "id_image": "plug_191957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340011_63a3dd072e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340011_61abcf8468_o.png",
+      "id_image": "plug_403024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695184_ca47ccc6ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695184_11f78ffee1_o.png",
+      "id_image": "plug_403182"
+    }
+  ]
+}

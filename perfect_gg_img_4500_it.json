@@ -1,0 +1,100 @@
+{
+  "english": "perfect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hòa âm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hòa hợp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn bị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn hảo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không có khuyết điểm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hoàn thiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho hoàn toàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho xong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hoàn hảo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.",
+      "definitions_ex_en": "life certainly isn't perfect at the moment",
+      "definitions_ex_vn": "Cuộc sống chắc chắn không hoàn hảo vào lúc này",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "absolute; complete (used for emphasis).",
+      "definitions_ex_en": "a perfect stranger",
+      "definitions_ex_vn": "một người lạ hoàn hảo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a number) equal to the sum of its positive divisors, e.g. the number 6, whose divisors (1, 2, 3) also add up to 6.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a tense) denoting a completed action or a state or habitual action that began in the past. The perfect tense is formed in English with have or has and the past participle, as in they have eaten and they have been eating (since dawn) ( present perfect ), they had eaten ( past perfect ), and they will have eaten ( future perfect ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a flower) having both stamens and carpels present and functional.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make (something) completely free from faults or defects, or as close to such a condition as possible.",
+      "definitions_ex_en": "he's busy perfecting his bowling technique",
+      "definitions_ex_vn": "Anh ấy bận rộn hoàn thiện kỹ thuật bowling của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the perfect tense.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436158_9c776c5d60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436158_a1e0266aef_o.png",
+      "id_image": "perfect_2166016"
+    }
+  ]
+}

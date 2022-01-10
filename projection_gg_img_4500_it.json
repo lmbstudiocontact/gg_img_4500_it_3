@@ -1,0 +1,80 @@
+{
+  "english": "projection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa cầu đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắn ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chiếu xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phóng ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trù hoạch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an estimate or forecast of a future situation or trend based on a study of present ones.",
+      "definitions_ex_en": "plans based on projections of slow but positive growth",
+      "definitions_ex_vn": "kế hoạch dựa trên dự đoán tăng trưởng chậm nhưng tích cực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the presentation of an image on a surface, especially a movie screen.",
+      "definitions_ex_en": "quality illustrations for overhead projection",
+      "definitions_ex_vn": "Hình minh họa chất lượng để chiếu trên cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the presentation or promotion of someone or something in a particular way.",
+      "definitions_ex_en": "the legal profession's projection of an image of altruism",
+      "definitions_ex_vn": "Dự báo nghề nghiệp của một hình ảnh của lòng vị tha",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that extends outward from something else.",
+      "definitions_ex_en": "the particle board covered all the sharp projections",
+      "definitions_ex_vn": "bảng hạt bao phủ tất cả các hình chiếu sắc nét",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of projecting a figure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the representation on a plane surface of any part of the surface of the earth or a celestial sphere.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466273_6b607a799c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466273_d42d742956_o.png",
+      "id_image": "projection_352285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466253_86dd028585_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466253_9f607183c2_o.png",
+      "id_image": "projection_395736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088800_d185586d3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088800_235acfd2e2_o.png",
+      "id_image": "projection_901051"
+    }
+  ]
+}

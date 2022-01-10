@@ -1,0 +1,103 @@
+{
+  "english": "plot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm mưu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mưu đồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát họa địa đồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cuộc âm mưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mảnh đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mưu đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình tiết của bản kịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plan made in secret by a group of people to do something illegal or harmful.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small piece of ground marked out for a purpose such as building or gardening.",
+      "definitions_ex_en": "a vegetable plot",
+      "definitions_ex_vn": "một âm mưu thực vật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a graph showing the relation between two variables.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "secretly make plans to carry out (an illegal or harmful action).",
+      "definitions_ex_en": "the two men are serving sentences for plotting a bomb campaign",
+      "definitions_ex_vn": "Hai người đàn ông đang phục vụ câu để vẽ một chiến dịch bom",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "devise the sequence of events in (a play, novel, movie, or similar work).",
+      "definitions_ex_en": "she would plot a chapter as she drove",
+      "definitions_ex_vn": "cô ấy sẽ vẽ một chương khi cô ấy lái xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mark (a route or position) on a chart.",
+      "definitions_ex_en": "he started to plot lines of ancient sites",
+      "definitions_ex_vn": "Anh bắt đầu vẽ những dòng của các trang web cổ xưa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455273_ab424ee71f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455273_cb2a4b7f98_o.png",
+      "id_image": "plot_4631620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695669_6d8e448344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695669_d5220a9f02_o.png",
+      "id_image": "plot_4631624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385247_1d50602753_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385247_c8b336155b_o.png",
+      "id_image": "plot_6348147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340286_b06ebc788a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340286_0298ac50d8_o.png",
+      "id_image": "plot_6348179"
+    }
+  ]
+}

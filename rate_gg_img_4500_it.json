@@ -1,0 +1,130 @@
+{
+  "english": "rate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "coi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia loại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khiển trách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngâm cho mềm ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quở mắng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rầy la",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được coi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được xem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân suất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự định giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sắp hạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỉ lệ số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tốc độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a measure, quantity, or frequency, typically one measured against some other quantity or measure.",
+      "definitions_ex_en": "the crime rate rose by 26 percent",
+      "definitions_ex_vn": "Tỷ lệ tội phạm tăng 26%",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fixed price paid or charged for something, especially goods or services.",
+      "definitions_ex_en": "advertising rates",
+      "definitions_ex_vn": "tỷ lệ quảng cáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "assign a standard or value to (something) according to a particular scale.",
+      "definitions_ex_en": "they were asked to rate their ability at different driving maneuvers",
+      "definitions_ex_vn": "Họ được yêu cầu đánh giá khả năng của họ tại các cuộc diễn tập lái xe khác nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "consider to be of a certain quality, standard, or rank.",
+      "definitions_ex_en": "the program has been rated a great success",
+      "definitions_ex_vn": "Chương trình đã được đánh giá một thành công lớn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "scold (someone) angrily.",
+      "definitions_ex_en": "he rated the young man soundly for his want of respect",
+      "definitions_ex_vn": "Ông đánh giá người đàn ông trẻ có vẻ muốn tôn trọng của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075195_f68ccf6dd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075195_bd3fba2613_o.png",
+      "id_image": "rate_1373278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338101_d5f99e54cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338101_cbb5208b6d_o.png",
+      "id_image": "rate_2358758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453013_a40671bf28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453013_9c3137bc9d_o.png",
+      "id_image": "rate_3712150"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "repetition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài học thuộc lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lập lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nói lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of repeating something that has already been said or written.",
+      "definitions_ex_en": "her comments are worthy of repetition",
+      "definitions_ex_vn": "Nhận xét của cô ấy xứng đáng là sự lặp lại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323546_c4f930baef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323546_39da1faa3e_o.png",
+      "id_image": "repetition_3079252"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "rejection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ cặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bác bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh rớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự từ chối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật bỏ ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the dismissing or refusing of a proposal, idea, etc.",
+      "definitions_ex_en": "the Union decided last night to recommend rejection of the offer",
+      "definitions_ex_vn": "Liên minh đã quyết định tối qua để đề nghị từ chối lời đề nghị",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443603_356c671674_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443603_fcba78e420_o.png",
+      "id_image": "rejection_3220658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683644_89f401053c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683644_916840faec_o.png",
+      "id_image": "rejection_3830642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443523_d9b70d6e19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443523_eeca01a1b9_o.png",
+      "id_image": "rejection_4201568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065315_00c0b267a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065315_dbef535063_o.png",
+      "id_image": "rejection_4412758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328431_2d80778c30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328431_eb195b92a6_o.png",
+      "id_image": "rejection_6040944"
+    }
+  ]
+}

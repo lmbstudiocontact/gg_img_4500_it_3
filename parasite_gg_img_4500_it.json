@@ -1,0 +1,29 @@
+{
+  "english": "parasite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ăn chực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an organism that lives in or on an organism of another species (its host) and benefits by deriving nutrients at the other's expense.",
+      "definitions_ex_en": "the parasite attaches itself to the mouths of fishes",
+      "definitions_ex_vn": "ký sinh trùng gắn vào miệng cá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069810_86e8373c5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069810_5ee500297e_o.png",
+      "id_image": "parasite_4092758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377737_bb962c397b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377737_9b85ae914d_o.png",
+      "id_image": "parasite_5266675"
+    }
+  ]
+}

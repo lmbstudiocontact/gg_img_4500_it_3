@@ -1,0 +1,48 @@
+{
+  "english": "professor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giáo đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "môn đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tín đô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a teacher of the highest rank in a college or university.",
+      "definitions_ex_en": "Professor Goodwin",
+      "definitions_ex_vn": "Giáo sư Goodwin.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who affirms a faith in or allegiance to something.",
+      "definitions_ex_en": "the professors of true religion",
+      "definitions_ex_vn": "các giáo sư tôn giáo thực sự",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321366_93302894b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321366_d21f1765ba_o.png",
+      "id_image": "professor_4061233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436623_e9d555aa18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436623_4ac565417c_o.png",
+      "id_image": "professor_4135781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366272_48a2bef2c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366272_9ed6e89722_o.png",
+      "id_image": "professor_6032237"
+    }
+  ]
+}

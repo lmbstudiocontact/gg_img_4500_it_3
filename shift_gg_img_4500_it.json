@@ -1,0 +1,95 @@
+{
+  "english": "shift",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ca làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời thoái thác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi chiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi giống cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng mưu mẹo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay đổi ý kiến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or cause to move from one place to another, especially over a small distance.",
+      "definitions_ex_en": "I shift the weight back to the other leg",
+      "definitions_ex_vn": "Tôi chuyển trọng lượng trở lại chân kia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a slight change in position, direction, or tendency.",
+      "definitions_ex_en": "a shift in public opinion",
+      "definitions_ex_vn": "một sự thay đổi của dư luận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of two or more recurring periods in which different groups of workers do the same jobs in relay.",
+      "definitions_ex_en": "the night shift",
+      "definitions_ex_vn": "ca làm việc đêm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a woman's straight unwaisted dress.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ingenious or devious device or stratagem.",
+      "definitions_ex_en": "the thousand shifts and devices of which Hannibal was a master",
+      "definitions_ex_vn": "hàng ngàn ca và thiết bị mà Hannibal là một bậc thầy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459678_8a095b6954_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459678_bee60630f0_o.png",
+      "id_image": "shift_1898739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389762_9883251656_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389762_db46515341_o.png",
+      "id_image": "shift_3203154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389877_d8f5010f5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389877_a1647e5a06_o.png",
+      "id_image": "shift_429967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082380_65039cc8d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082380_f0e300b336_o.png",
+      "id_image": "shift_670864"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "english": "shock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầu tóc rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đống lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chạm mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự động đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khích động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất thành đống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho điện giựt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden upsetting or surprising event or experience.",
+      "definitions_ex_en": "it was a shock to face such hostile attitudes when I arrived",
+      "definitions_ex_vn": "Đó là một cú sốc để đối mặt với thái độ thù địch như vậy khi tôi đến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an acute medical condition associated with a fall in blood pressure, caused by such events as loss of blood, severe burns, bacterial infection, allergic reaction, or sudden emotional stress, and marked by cold, pallid skin, irregular breathing, rapid pulse, and dilated pupils.",
+      "definitions_ex_en": "he died of shock due to massive abdominal hemorrhage",
+      "definitions_ex_vn": "Ông đã chết vì sốc do xuất huyết bụng lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a violent shaking movement caused by an impact, explosion, or tremor.",
+      "definitions_ex_en": "earthquake shocks",
+      "definitions_ex_vn": "chấn động động đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for shock absorber.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of twelve sheaves of grain placed upright and supporting each other to allow the grain to dry and ripen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unkempt or thick mass of hair.",
+      "definitions_ex_en": "a slender man with an untamable shock of black hair",
+      "definitions_ex_vn": "một người đàn ông mảnh khảnh với một cú sốc không hấp dẫn của mái tóc đen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (someone) to feel surprised and upset.",
+      "definitions_ex_en": "she was shocked at the state of his injuries",
+      "definitions_ex_vn": "Cô bị sốc ở trạng thái thương tích của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "affect with physiological shock, or with an electric shock.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "collide violently.",
+      "definitions_ex_en": "carriage after carriage shocked fiercely against the engine",
+      "definitions_ex_vn": "vận chuyển sau khi xe ngựa bị sốc quyết liệt chống lại động cơ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrange (sheaves of grain) in a shock.",
+      "definitions_ex_en": "the grain is shocked in the field after it is cut",
+      "definitions_ex_vn": "hạt bị sốc trong lĩnh vực này sau khi nó bị cắt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081400_f006238171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081400_52786809fe_o.png",
+      "id_image": "shock_1612470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699154_48aa621560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699154_b9828f423b_o.png",
+      "id_image": "shock_5020482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699124_c47b362cdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699124_8d0742257b_o.png",
+      "id_image": "shock_5020953"
+    }
+  ]
+}

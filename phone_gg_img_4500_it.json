@@ -1,0 +1,80 @@
+{
+  "english": "phone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điện thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy điện thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gọi điện thoại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu điện thoại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói điện thoại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a telephone.",
+      "definitions_ex_en": "a few seconds later the phone rang",
+      "definitions_ex_vn": "Vài giây sau điện thoại reo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "headphones or earphones.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a speech sound; the smallest discrete segment of sound in a stream of speech.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "call someone on the phone.",
+      "definitions_ex_en": "he phoned her at work",
+      "definitions_ex_vn": "anh ấy gọi điện cho cô ấy tại nơi làm việc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting an instrument using or connected with sound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "denoting a person who uses a specified language.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704474_893d0a9ea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704474_c0f2cf15ef_o.png",
+      "id_image": "phone_523104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349811_ee2452b5ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349811_df929b79f3_o.png",
+      "id_image": "phone_523122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464423_bc77269185_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464423_35d6c4aff8_o.png",
+      "id_image": "phone_656275"
+    }
+  ]
+}

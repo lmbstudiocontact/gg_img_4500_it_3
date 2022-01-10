@@ -1,0 +1,64 @@
+{
+  "english": "security",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi an ninh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo toàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bảo chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái an toàn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being free from danger or threat.",
+      "definitions_ex_en": "the system is designed to provide maximum security against toxic spills",
+      "definitions_ex_vn": "Hệ thống được thiết kế để cung cấp bảo mật tối đa so với sự cố tràn độc hại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing deposited or pledged as a guarantee of the fulfillment of an undertaking or the repayment of a loan, to be forfeited in case of default.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a certificate attesting credit, the ownership of stocks or bonds, or the right to ownership connected with tradable derivatives.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a private police force that guards a building, campus, park, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368212_9a470c151a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368212_1479218e5a_o.png",
+      "id_image": "security_1567975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060065_0f2b249d2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060065_125c990c11_o.png",
+      "id_image": "security_171675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368222_9b38bb114a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368222_b2ba28d9ac_o.png",
+      "id_image": "security_748900"
+    }
+  ]
+}

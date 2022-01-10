@@ -1,0 +1,36 @@
+{
+  "english": "pneumatic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về khí hơi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "containing or operated by air or gas under pressure.",
+      "definitions_ex_en": "the machines with pneumatic loading are more efficient",
+      "definitions_ex_vn": "Các máy có tải khí nén hiệu quả hơn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(chiefly in the context of New Testament theology) relating to the spirit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an item of pneumatic equipment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454343_e6e32850b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454343_6e0c8480db_o.png",
+      "id_image": "pneumatic_951028"
+    }
+  ]
+}

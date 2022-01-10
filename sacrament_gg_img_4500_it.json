@@ -1,0 +1,48 @@
+{
+  "english": "sacrament",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lới thề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép bi tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép rửa tội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thệ ước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in the Christian Church) a religious ceremony or ritual regarded as imparting divine grace, such as baptism, the Eucharist and (in the Roman Catholic and many Orthodox Churches) penance and the anointing of the sick.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in Roman Catholic use) the consecrated elements of the Eucharist, especially the bread or Host.",
+      "definitions_ex_en": "he heard Mass and received the sacrament",
+      "definitions_ex_vn": "Anh nghe thấy khối lượng và nhận được bí tích",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing of mysterious and sacred significance; a religious symbol.",
+      "definitions_ex_en": "they used peyote as a sacrament",
+      "definitions_ex_vn": "Họ đã sử dụng peyote như một bí tích",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452913_aaee4dd263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452913_dc9e5b82be_o.png",
+      "id_image": "sacrament_280026"
+    }
+  ]
+}

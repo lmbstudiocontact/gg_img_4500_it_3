@@ -1,0 +1,38 @@
+{
+  "english": "poisonous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có chất độc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "độc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a substance or plant) causing or capable of causing death or illness if taken into the body.",
+      "definitions_ex_en": "poisonous chemicals",
+      "definitions_ex_vn": "hóa chất độc hại",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075200_a973de212e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075200_0c53176acc_o.png",
+      "id_image": "poisonous_1120682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338111_a3b84861df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338111_3d83458a75_o.png",
+      "id_image": "poisonous_3408770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693339_1f0c2a7e71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693339_f40f08f912_o.png",
+      "id_image": "poisonous_5671517"
+    }
+  ]
+}

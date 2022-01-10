@@ -1,0 +1,70 @@
+{
+  "english": "portion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân chia ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho của hồi môn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoạn trích ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lô đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần chia ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số phận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a part of a whole.",
+      "definitions_ex_en": "a portion of the jetty still stands",
+      "definitions_ex_vn": "một phần của cầu cảng vẫn đứng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's destiny or lot.",
+      "definitions_ex_en": "what will be my portion?",
+      "definitions_ex_vn": "Cái gì sẽ là phần của tôi?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "divide (something) into parts; share out.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give a dowry to (a bride).",
+      "definitions_ex_en": "my parents will portion me most handsomely",
+      "definitions_ex_vn": "Bố mẹ tôi sẽ một phần tôi đẹp nhất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689634_cb00caa8da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689634_25cbb2b5d9_o.png",
+      "id_image": "portion_5222974"
+    }
+  ]
+}

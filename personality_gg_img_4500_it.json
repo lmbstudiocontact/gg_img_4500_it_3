@@ -1,0 +1,73 @@
+{
+  "english": "personality",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá tánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân phẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the combination of characteristics or qualities that form an individual's distinctive character.",
+      "definitions_ex_en": "she had a sunny personality that was very engaging",
+      "definitions_ex_vn": "cô ấy có một tính cách đầy nắng rất hấp dẫn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a famous person, especially in entertainment or sports.",
+      "definitions_ex_en": "an official opening by a famous personality",
+      "definitions_ex_vn": "một sự mở đầu chính thức của một tính cách nổi tiếng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality or fact of being a person as distinct from a thing or animal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "disparaging remarks about an individual.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435398_aea55221f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435398_5e83cd2a2b_o.png",
+      "id_image": "personality_1474710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056980_8b53f82cc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056980_682b6531ef_o.png",
+      "id_image": "personality_1945688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435378_cb8d6f66ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435378_5611132da0_o.png",
+      "id_image": "personality_2072729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365112_310cbd1410_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365112_716c76938d_o.png",
+      "id_image": "personality_4525542"
+    }
+  ]
+}

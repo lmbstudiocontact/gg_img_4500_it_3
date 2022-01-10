@@ -1,0 +1,61 @@
+{
+  "english": "polar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gần địa cực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về gần cực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đường đối cực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the North or South Pole.",
+      "definitions_ex_en": "the polar regions",
+      "definitions_ex_vn": "các khu vực cực",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having electrical or magnetic polarity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "directly opposite in character or tendency.",
+      "definitions_ex_en": "depression and its polar opposite, mania",
+      "definitions_ex_vn": "Trầm cảm và cực đối diện, Mania",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the straight line joining the two points at which tangents from a fixed point touch a conic section.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a variable binary star which emits strongly polarized light, one component being a strongly magnetic white dwarf.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452738_cfd4d74efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452738_1b43e14ebd_o.png",
+      "id_image": "polar_172758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452718_3f6c489ec9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452718_ba2984dcfd_o.png",
+      "id_image": "polar_2844402"
+    }
+  ]
+}

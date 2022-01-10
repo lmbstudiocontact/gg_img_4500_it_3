@@ -1,0 +1,74 @@
+{
+  "english": "relation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giao hửu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao thiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kể lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quan hệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tương quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tự thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân tộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân thuộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the way in which two or more concepts, objects, or people are connected; a thing's effect on or relevance to another.",
+      "definitions_ex_en": "questions about the relation between writing and reality",
+      "definitions_ex_vn": "câu hỏi về mối quan hệ giữa viết và thực tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who is connected by blood or marriage; a kinsman or kinswoman.",
+      "definitions_ex_en": "she was no relation at all, but he called her Aunt Nora",
+      "definitions_ex_vn": "Cô ấy không có mối quan hệ gì cả, nhưng anh ấy đã gọi cho dì nora của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of telling a story.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373162_c9d869836b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373162_844bce9295_o.png",
+      "id_image": "relation_2910910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443383_452668d0a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443383_d534050b6b_o.png",
+      "id_image": "relation_4126667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683414_6b7f830d61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683414_5f7e9e6757_o.png",
+      "id_image": "relation_5572150"
+    }
+  ]
+}

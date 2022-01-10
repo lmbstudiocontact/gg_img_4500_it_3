@@ -1,0 +1,48 @@
+{
+  "english": "radiator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ tỏa nhiệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy phóng nhiệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng nước xe hơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that radiates or emits light, heat, or sound.",
+      "definitions_ex_en": "a dipole is a less efficient radiator of sound than a monopole",
+      "definitions_ex_vn": "một lưỡng cực là một bộ tản nhiệt ít hiệu quả hơn một đơn cực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an engine-cooling device in a motor vehicle or aircraft consisting of a bank of thin tubes in which circulating fluid is cooled by the surrounding air.",
+      "definitions_ex_en": "the water in my car radiator froze",
+      "definitions_ex_vn": "nước trong bộ tản nhiệt xe của tôi froze",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696539_4a1b56482c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696539_49aa0c4f08_o.png",
+      "id_image": "radiator_1656957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696509_3cda50db84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696509_11651d0717_o.png",
+      "id_image": "radiator_1677228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078710_b8326720dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078710_00831c2d43_o.png",
+      "id_image": "radiator_271870"
+    }
+  ]
+}

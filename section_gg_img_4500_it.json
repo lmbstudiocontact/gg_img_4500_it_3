@@ -1,0 +1,83 @@
+{
+  "english": "section",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đội bộ binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một khúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần của vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cắt ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiết diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiết đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt ra từng miếng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia ra từng phần",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of the more or less distinct parts into which something is or may be divided or from which it is made up.",
+      "definitions_ex_en": "arrange orange sections on a platter",
+      "definitions_ex_vn": "sắp xếp các phần màu cam trên một đĩa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinct group within a larger body of people or things.",
+      "definitions_ex_en": "the children's section of the library",
+      "definitions_ex_vn": "Phần trẻ em của thư viện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cutting of a solid by or along a plane.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "divide into sections.",
+      "definitions_ex_en": "she began to section the grapefruit",
+      "definitions_ex_vn": "Cô bắt đầu chia bộ bưởi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060345_a167a9befb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060345_105b1134b1_o.png",
+      "id_image": "section_1042378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368362_908f8fbf12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368362_7b0003239f_o.png",
+      "id_image": "section_1806589"
+    }
+  ]
+}

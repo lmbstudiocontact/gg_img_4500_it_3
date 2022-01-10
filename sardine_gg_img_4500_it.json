@@ -1,0 +1,45 @@
+{
+  "english": "sardine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống cá mồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại cá mồi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a young pilchard or other young or small herring-like fish.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for sardius.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pack closely together.",
+      "definitions_ex_en": "we sardined our dismantled bikes into the boot",
+      "definitions_ex_vn": "Chúng tôi đã vứt bỏ những chiếc xe đạp tháo dỡ của chúng tôi vào khởi động",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379572_219b998094_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379572_1fbf795955_o.png",
+      "id_image": "sardine_2885048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071620_a1be453f01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071620_7fbd56a5e7_o.png",
+      "id_image": "sardine_815958"
+    }
+  ]
+}

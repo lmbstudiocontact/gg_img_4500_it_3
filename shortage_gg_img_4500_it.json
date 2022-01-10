@@ -1,0 +1,28 @@
+{
+  "english": "shortage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái không đủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a state or situation in which something needed cannot be obtained in sufficient amounts.",
+      "definitions_ex_en": "a shortage of hard cash",
+      "definitions_ex_vn": "thiếu tiền mặt cứng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698159_49dd53b28f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698159_a8ea9528fa_o.png",
+      "id_image": "shortage_4244677"
+    }
+  ]
+}

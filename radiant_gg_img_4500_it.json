@@ -1,0 +1,60 @@
+{
+  "english": "radiant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bức xạ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hớn hở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phát quang",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sáng chói",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xòe ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điểm tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phóng quan điểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sending out light; shining or glowing brightly.",
+      "definitions_ex_en": "a bird with radiant green and red plumage",
+      "definitions_ex_vn": "một con chim với bộ lông màu xanh lá cây và đỏ rạng rỡ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of heat) transmitted by radiation, rather than conduction or convection.",
+      "definitions_ex_en": "plants convert the radiant energy of the sun into chemical energy",
+      "definitions_ex_vn": "Cây chuyển đổi năng lượng rạng rỡ của mặt trời thành năng lượng hóa học",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a point or object from which light or heat radiates, especially a heating element in an electric or gas heater.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078850_5a968d7a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078850_9e565cb6d6_o.png",
+      "id_image": "radiant_4968175"
+    }
+  ]
+}

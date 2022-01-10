@@ -1,0 +1,105 @@
+{
+  "english": "share",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân chia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có chân trong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dự vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân phối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có phần trong vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có dự phần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cổ phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cổ phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần chia lới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần đóng góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần gánh vác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần hùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a part or portion of a larger amount which is divided among a number of people, or to which a number of people contribute.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of the equal parts into which a company's capital is divided, entitling the holder to a proportion of the profits.",
+      "definitions_ex_en": "they bought 33 shares of American Standard",
+      "definitions_ex_vn": "Họ đã mua 33 cổ phiếu tiêu chuẩn Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of posting or reposting something on a social media website or application.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for plowshare.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have a portion of (something) with another or others.",
+      "definitions_ex_en": "he shared the pie with her",
+      "definitions_ex_vn": "Anh ấy chia sẻ chiếc bánh với cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392007_160b80653f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392007_035a399d4e_o.png",
+      "id_image": "share_1147109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701899_fc281d2dd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701899_0d14b2747b_o.png",
+      "id_image": "share_1373155"
+    }
+  ]
+}

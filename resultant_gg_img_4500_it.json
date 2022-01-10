@@ -1,0 +1,38 @@
+{
+  "english": "resultant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bởi mà ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "do ở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hợp lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "occurring or produced as a result or consequence of something.",
+      "definitions_ex_en": "restructuring and the resultant cost savings",
+      "definitions_ex_vn": "Tái cấu trúc và tiết kiệm chi phí kết quả",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a force, velocity, or other vector quantity which is equivalent to the combined effect of two or more component vectors acting at the same point.",
+      "definitions_ex_en": "the resultant of mechanical forces pulling in different directions",
+      "definitions_ex_vn": "kết quả của lực cơ học kéo theo các hướng khác nhau",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087130_fbe0f1a58b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087130_1e0b7e5695_o.png",
+      "id_image": "resultant_1960631"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "pedal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về bàn chân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bàn xe đạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạp bằng bàn đạp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of a pair of foot-operated levers used for powering a bicycle or other vehicle propelled by the legs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a foot-operated throttle, brake, or clutch control in a motor vehicle.",
+      "definitions_ex_en": "a brake pedal",
+      "definitions_ex_vn": "một bàn đạp phanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of a set of two or three levers on a piano, particularly (also sustaining pedal ) one that, when depressed by the foot, prevents the dampers from stopping the sound when the keys are released. The second is the soft pedal ; a third, if present, produces either selective sustaining or complete muffling of the tone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move by working the pedals of a bicycle.",
+      "definitions_ex_en": "they pedaled along the canal towpath",
+      "definitions_ex_vn": "họ đạp dọc theo con kênh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use the pedals of a piano, organ, or other keyboard instrument, especially in a particular style.",
+      "definitions_ex_en": "the organist pedaled furiously, her feet travelling musical miles",
+      "definitions_ex_vn": "người tổ chức đạp một cách điên cuồng, đôi chân của cô đi du lịch Music Miles",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "relating to the foot or feet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369177_70c1682d3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369177_d2d7e3013f_o.png",
+      "id_image": "pedal_1924264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439328_808d53845d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439328_2d496076ed_o.png",
+      "id_image": "pedal_5349649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369247_40ca7b2266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369247_6e2e1532c2_o.png",
+      "id_image": "pedal_637954"
+    }
+  ]
+}

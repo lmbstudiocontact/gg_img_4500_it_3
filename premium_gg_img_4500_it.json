@@ -1,0 +1,45 @@
+{
+  "english": "premium",
+  "list_translation_mean": [
+    {
+      "translate_mean": "số tiền tưởng lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số tiền thưởng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an amount to be paid for an insurance policy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sum added to an ordinary price or charge.",
+      "definitions_ex_en": "customers are reluctant to pay a premium for organic fruit",
+      "definitions_ex_vn": "Khách hàng không muốn trả phí bảo hiểm cho trái cây hữu cơ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something given as a reward, prize, or incentive.",
+      "definitions_ex_en": "the Society of Arts awarded him a premium",
+      "definitions_ex_vn": "Hiệp hội nghệ thuật trao cho anh ta một phí bảo hiểm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065800_3b1ebb017f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065800_b2205dc09f_o.png",
+      "id_image": "premium_1190397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443853_909c111fc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443853_350719be85_o.png",
+      "id_image": "premium_1655506"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "repository",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hầm mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kho để hàng hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place, building, or receptacle where things are or may be stored.",
+      "definitions_ex_en": "a deep repository for nuclear waste",
+      "definitions_ex_vn": "một kho lưu trữ sâu cho chất thải hạt nhân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059410_f0c9e4c35c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059410_baf840bff1_o.png",
+      "id_image": "repository_1832056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322606_2d197257ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322606_a9672161f6_o.png",
+      "id_image": "repository_6309923"
+    }
+  ]
+}

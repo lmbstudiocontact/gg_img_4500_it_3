@@ -1,0 +1,69 @@
+{
+  "english": "poor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bần cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đáng thương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ít",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không sanh lợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghèo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiếu thốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô giá trị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lacking sufficient money to live at a standard considered comfortable or normal in a society.",
+      "definitions_ex_en": "people who were too poor to afford a telephone",
+      "definitions_ex_vn": "những người quá nghèo để mua điện thoại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "worse than is usual, expected, or desirable; of a low or inferior standard or quality.",
+      "definitions_ex_en": "many people are eating a very poor diet",
+      "definitions_ex_vn": "Nhiều người đang ăn một chế độ ăn uống rất kém",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) considered to be deserving of pity or sympathy.",
+      "definitions_ex_en": "they inquired after poor Dorothy's broken hip",
+      "definitions_ex_vn": "Họ hỏi sau hông bị hỏng của Dorothy nghèo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450813_a985b5bc2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450813_e62868f555_o.png",
+      "id_image": "poor_3053775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335816_41589fd325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335816_e2ea579a89_o.png",
+      "id_image": "poor_6349625"
+    }
+  ]
+}

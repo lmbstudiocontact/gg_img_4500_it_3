@@ -1,0 +1,49 @@
+{
+  "english": "shooter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bắn súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng lục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who uses a gun either regularly or on a particular occasion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a team in games such as basketball whose role is to attempt to score goals.",
+      "definitions_ex_en": "the visiting shooter hit excellent form during the second quarter",
+      "definitions_ex_vn": "game bắn súng truy cập đạt hình thức tuyệt vời trong quý thứ hai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a marble used to shoot at other marbles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080970_38724da2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080970_6eb213dea0_o.png",
+      "id_image": "shooter_2389318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343511_fdb1709946_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343511_8dd51a2f66_o.png",
+      "id_image": "shooter_5542305"
+    }
+  ]
+}

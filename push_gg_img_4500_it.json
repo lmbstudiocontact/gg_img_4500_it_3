@@ -1,0 +1,157 @@
+{
+  "english": "push",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xô",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bấm chuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẩy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa tới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận nút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiến tới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thúc giục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cái bấm điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái bấn chuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc khó khăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức đẩy lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức đở lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái nút chuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cố gắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nổ lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nguy ngập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rán sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tấn công mảnh liệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "exert force on (someone or something), typically with one's hand, in order to move them away from oneself or the origin of the force.",
+      "definitions_ex_en": "she pushed her glass toward him",
+      "definitions_ex_vn": "Cô đẩy ly của mình về phía anh.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move forward by using force to pass people or cause them to move aside.",
+      "definitions_ex_en": "she pushed her way through the crowded streets",
+      "definitions_ex_vn": "Cô đẩy đường qua những con đường đông người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "compel or urge (someone) to do something, especially to work hard.",
+      "definitions_ex_en": "she believed he was pushing their daughter too hard",
+      "definitions_ex_vn": "Cô tin rằng anh ta đang đẩy con gái quá mạnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "promote the use, sale, or acceptance of.",
+      "definitions_ex_en": "the company is pushing a $500 asking price",
+      "definitions_ex_vn": "Công ty đang đẩy giá $ 500 yêu cầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prepare (a stack) to receive a piece of data on the top.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "develop (a film) so as to compensate for deliberate underexposure.",
+      "definitions_ex_en": "some films can be pushed during processing",
+      "definitions_ex_vn": "Một số bộ phim có thể được đẩy trong quá trình xử lý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of exerting force on someone or something in order to move them away from oneself.",
+      "definitions_ex_en": "he closed the door with a push",
+      "definitions_ex_vn": "Anh đóng cửa với một cú đẩy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vigorous effort to do or obtain something.",
+      "definitions_ex_en": "many clubs are joining in the fund-raising push",
+      "definitions_ex_vn": "Nhiều câu lạc bộ đang tham gia vào việc đẩy mạnh quỹ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461498_166dde6ba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461498_8266f05039_o.png",
+      "id_image": "push_2785346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346636_42c53fccd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346636_f55e1a9689_o.png",
+      "id_image": "push_3062516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346621_85b95aef5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346621_54c6f1e5ea_o.png",
+      "id_image": "push_4151866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461418_434a6eb230_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461418_bfb8ed0675_o.png",
+      "id_image": "push_5906050"
+    }
+  ]
+}

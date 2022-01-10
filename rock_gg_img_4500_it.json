@@ -1,0 +1,129 @@
+{
+  "english": "rock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đu đưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lung lay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lúc lắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rung chuyển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "con quay vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khối đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thứ kẹo cứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "núi đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đưa võng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tảng đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá nổi giữa biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tảng đá lồi ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the solid mineral material forming part of the surface of the earth and other similar planets, exposed on the surface or underlying the soil or oceans.",
+      "definitions_ex_en": "the beds of rock are slightly tilted",
+      "definitions_ex_vn": "Những chiếc giường đá hơi nghiêng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large piece of rock which has become detached from a cliff or mountain; a boulder.",
+      "definitions_ex_en": "the stream flowed through a jumble of rocks",
+      "definitions_ex_vn": "Con suối chảy qua một mớ đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to refer to someone or something that is extremely strong, reliable, or hard.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rock music.",
+      "definitions_ex_en": "a rock star",
+      "definitions_ex_vn": "một ngôi sao nhạc rock.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gentle movement to and fro or from side to side.",
+      "definitions_ex_en": "she placed the baby in the cradle and gave it a rock",
+      "definitions_ex_vn": "Cô đặt em bé trong cái nôi và cho nó một tảng đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move gently to and fro or from side to side.",
+      "definitions_ex_en": "she rocked the baby in her arms",
+      "definitions_ex_vn": "Cô lắc lơ em bé trong vòng tay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "dance to or play rock music.",
+      "definitions_ex_en": "he looked a totally different man and ready to rock",
+      "definitions_ex_vn": "Anh ta nhìn một người đàn ông hoàn toàn khác và sẵn sàng để đá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wear (a garment) or affect (an attitude or style), especially in a confident or flamboyant way.",
+      "definitions_ex_en": "she was rocking a clingy little leopard-skin number",
+      "definitions_ex_vn": "Cô ấy đang làm rung chuyển một số da báo nhỏ bám nhỏ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458958_70179e34d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458958_43f4925f07_o.png",
+      "id_image": "rock_3413211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344251_93ea020157_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344251_d3286b7bee_o.png",
+      "id_image": "rock_343034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458928_0f78e2196c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458928_50c7cd496e_o.png",
+      "id_image": "rock_5167332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699349_0f15e7ba95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699349_fa2de388f9_o.png",
+      "id_image": "rock_881190"
+    }
+  ]
+}

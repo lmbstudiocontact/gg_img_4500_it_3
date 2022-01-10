@@ -1,0 +1,28 @@
+{
+  "english": "procrastination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự dời lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoản lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of delaying or postponing something.",
+      "definitions_ex_en": "your first tip is to avoid procrastination",
+      "definitions_ex_vn": "Mẹo đầu tiên của bạn là để tránh chần chừ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367632_562588cd86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367632_abd5ecd89e_o.png",
+      "id_image": "procrastination_5807739"
+    }
+  ]
+}

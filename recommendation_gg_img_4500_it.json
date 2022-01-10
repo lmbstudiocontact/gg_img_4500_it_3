@@ -1,0 +1,42 @@
+{
+  "english": "recommendation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giới thiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khuyên lơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến cử",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a suggestion or proposal as to the best course of action, especially one put forward by an authoritative body.",
+      "definitions_ex_en": "the committee put forward forty recommendations for change",
+      "definitions_ex_vn": "Ủy ban đưa ra bốn mươi khuyến nghị cho sự thay đổi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071840_af5c0f7f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071840_b0b74d8c78_o.png",
+      "id_image": "recommendation_5352142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071890_919eb8e542_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071890_93984a5446_o.png",
+      "id_image": "recommendation_709246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379882_762e0bc9d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379882_a2aa617ee2_o.png",
+      "id_image": "recommendation_709247"
+    }
+  ]
+}

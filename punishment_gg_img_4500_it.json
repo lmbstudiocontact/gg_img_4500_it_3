@@ -1,0 +1,28 @@
+{
+  "english": "punishment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự phạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trừng trị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the infliction or imposition of a penalty as retribution for an offense.",
+      "definitions_ex_en": "crime demands just punishment",
+      "definitions_ex_vn": "tội phạm đòi hỏi chỉ cần hình phạt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462298_66c907eb61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462298_05fbfb7935_o.png",
+      "id_image": "punishment_2350570"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "pepper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xay tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nêm tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rắc tiêu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pungent, hot-tasting powder prepared from dried and ground peppercorns, commonly used as a spice or condiment to flavor food.",
+      "definitions_ex_en": "season to taste with salt and pepper",
+      "definitions_ex_vn": "mùa để nếm với muối và hạt tiêu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a capsicum, especially a sweet pepper.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a climbing vine with berries that are dried as black or white peppercorns.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a practice game in which fielders throw at close range to a batter who hits back to the fielders.",
+      "definitions_ex_en": "he liked to play pepper",
+      "definitions_ex_vn": "anh ấy thích chơi tiêu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sprinkle or season (food) with pepper.",
+      "definitions_ex_en": "I salted and peppered the beef before I browned it",
+      "definitions_ex_vn": "Tôi muối và tiêu thịt bò trước khi tôi nâu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cover or fill with a liberal amount of scattered items.",
+      "definitions_ex_en": "the script is peppered with four-letter words",
+      "definitions_ex_vn": "Kịch bản bị tiêu với bốn chữ cái",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321611_2abb690050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321611_147ccb1b14_o.png",
+      "id_image": "pepper_170315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058290_4cbd3f7fa7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058290_64d74bdd84_o.png",
+      "id_image": "pepper_3944326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676674_9c4cd54524_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676674_51d05dc716_o.png",
+      "id_image": "pepper_877713"
+    }
+  ]
+}

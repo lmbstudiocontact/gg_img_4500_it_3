@@ -1,0 +1,51 @@
+{
+  "english": "privacy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bí mật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kín đáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ở xa mọi người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sống xa nơi công cộng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state or condition of being free from being observed or disturbed by other people.",
+      "definitions_ex_en": "she returned to the privacy of her own home",
+      "definitions_ex_vn": "Cô trở lại sự riêng tư của ngôi nhà của chính mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323946_6d2904551a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323946_4d1c5e546b_o.png",
+      "id_image": "privacy_2357029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438983_57f777f16c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438983_2dc749efbe_o.png",
+      "id_image": "privacy_2857728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679174_f7856650b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679174_f7bfb6f3b7_o.png",
+      "id_image": "privacy_408348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323981_6d54cbfd40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323981_a003415d4f_o.png",
+      "id_image": "privacy_916012"
+    }
+  ]
+}

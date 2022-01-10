@@ -1,0 +1,64 @@
+{
+  "english": "perch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá rô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đơn vị đo bề dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá để chim đậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại cá ở âu châu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sào để phơi quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đậu trên sào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đậu trên giá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing on which a bird alights or roosts, typically a branch or a horizontal rod or bar in a birdcage.",
+      "definitions_ex_en": "the budgerigar shuffled along its perch",
+      "definitions_ex_vn": "Budgerigar xáo trộn dọc theo cá rô của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an edible freshwater fish with a high spiny dorsal fin, dark vertical bars on the body, and orange lower fins.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a bird) alight or rest on something.",
+      "definitions_ex_en": "a herring gull perched on the mast",
+      "definitions_ex_vn": "Một con mòng cá trích nằm trên cột buồm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057835_cc9eafdec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057835_190ac1c09c_o.png",
+      "id_image": "perch_311600"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "perfection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hòa âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoàn thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoàn hảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm đầy đủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm xong",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the condition, state, or quality of being free or as free as possible from all flaws or defects.",
+      "definitions_ex_en": "the satiny perfection of her skin",
+      "definitions_ex_vn": "sự hoàn hảo satiny của làn da của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365857_e42f6dbeae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365857_5bbc3a0c0a_o.png",
+      "id_image": "perfection_4401389"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320886_e2cd9d8c48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320886_9667cc55e9_o.png",
+      "id_image": "perfection_5266062"
+    }
+  ]
+}

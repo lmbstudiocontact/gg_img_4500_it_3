@@ -1,0 +1,134 @@
+{
+  "english": "ride",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi chơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "áp bức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "áp chế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dự cuộc đua ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cỡi ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cỡi xe máy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đè ép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi dạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi bằng xe máy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi chơi bằng ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đường ngựa đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt cóc người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi dạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi chơi bằng ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi xe lậu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sit on and control the movement of (an animal, especially a horse), typically as a recreation or sport.",
+      "definitions_ex_en": "I haven't ridden much since the accident",
+      "definitions_ex_vn": "Tôi đã không cưỡi nhiều kể từ vụ tai nạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be carried or supported by (something with a great deal of momentum).",
+      "definitions_ex_en": "a stream of young surfers fighting the elements to ride the waves",
+      "definitions_ex_vn": "một dòng những người lướt sóng trẻ chiến đấu với các yếu tố để cưỡi sóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be full of or dominated by.",
+      "definitions_ex_en": "you must not think him ridden with angst",
+      "definitions_ex_vn": "Bạn không được nghĩ rằng anh ta cưỡi với angst",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "yield to (a blow) so as to reduce its impact.",
+      "definitions_ex_en": "Harrison drew back his jaw as if riding the blow",
+      "definitions_ex_vn": "Harrison đã rút lại hàm của mình như thể cưỡi đòn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a journey made on horseback, on a bicycle or motorcycle, or in a vehicle.",
+      "definitions_ex_en": "investors have had a bumpy ride",
+      "definitions_ex_vn": "Các nhà đầu tư đã có một chuyến đi gập ghềnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a roller coaster, merry-go-round, or other amusement ridden at a fair or amusement park.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cymbal used for keeping up a continuous rhythm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391952_34cc6aab63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391952_2a613732f8_o.png",
+      "id_image": "ride_4559843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392017_8fa85e452c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392017_3529fbd9ba_o.png",
+      "id_image": "ride_540156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084380_ae4b0d784b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084380_27832532dd_o.png",
+      "id_image": "ride_950748"
+    }
+  ]
+}

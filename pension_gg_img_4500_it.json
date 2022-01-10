@@ -1,0 +1,54 @@
+{
+  "english": "pension",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ở trọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền cấp dưỡng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trả tiền phụ cấp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a regular payment made during a person's retirement from an investment fund to which that person or their employer has contributed during their working life.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a boarding house in France and other European countries, providing full or partial board at a fixed rate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dismiss someone from employment, typically because of age or ill health, and pay them a pension.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322116_2684aea318_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322116_ecfb378b8f_o.png",
+      "id_image": "pension_1809760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367037_81e1427682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367037_73aeb2e43b_o.png",
+      "id_image": "pension_2237846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366987_08e8ac0fd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366987_a73ce11a32_o.png",
+      "id_image": "pension_5798600"
+    }
+  ]
+}

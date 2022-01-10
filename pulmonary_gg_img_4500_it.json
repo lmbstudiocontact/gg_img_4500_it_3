@@ -1,0 +1,24 @@
+{
+  "english": "pulmonary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về phổi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the lungs.",
+      "definitions_ex_en": "pulmonary blood flow",
+      "definitions_ex_vn": "Lưu lượng máu phổi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348006_8e4078f1ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348006_9ffa18dc80_o.png",
+      "id_image": "pulmonary_4597374"
+    }
+  ]
+}

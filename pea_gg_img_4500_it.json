@@ -1,0 +1,53 @@
+{
+  "english": "pea",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đậu hòa lan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đậu xanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỏ neo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thứ đậu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a spherical green seed that is eaten as a vegetable or as a pulse when dried.",
+      "definitions_ex_en": "pasta with peas, leeks, and watercress",
+      "definitions_ex_vn": "Pasta với đậu Hà Lan, tỏi tây và cải xoong",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the hardy Eurasian climbing plant which yields pods containing peas.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used in names of plants or seeds that are similar or related to the pea, e.g. chickpea, sweet pea.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680764_de9bfc7df9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680764_3cbc4fbd7d_o.png",
+      "id_image": "pea_284812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370427_f6e6900c7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370427_8710bdfcf4_o.png",
+      "id_image": "pea_5520709"
+    }
+  ]
+}

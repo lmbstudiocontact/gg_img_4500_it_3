@@ -1,0 +1,78 @@
+{
+  "english": "past",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "ở bên kia",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "ở trên kia",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "ở trước",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "dĩ vảng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đã qua",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quá khứ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "gone by in time and no longer existing.",
+      "definitions_ex_en": "the danger is now past",
+      "definitions_ex_vn": "NGUY HIỂM NGAY BÂY GIỜ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the time or a period of time before the moment of speaking or writing.",
+      "definitions_ex_en": "she found it hard to make ends meet in the past",
+      "definitions_ex_vn": "cô ấy thấy khó khăn để kết thúc gặp nhau trong quá khứ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a past tense or form of a verb.",
+      "definitions_ex_en": "a simple past of the first conjugation",
+      "definitions_ex_vn": "một quá khứ đơn giản trong liên hợp đầu tiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "to or on the further side of.",
+      "definitions_ex_en": "he rode on past the crossroads",
+      "definitions_ex_vn": "Anh cưỡi trên đường ngang qua",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "so as to pass from one side of something to the other.",
+      "definitions_ex_en": "large angelfish swim slowly past",
+      "definitions_ex_vn": "Angelfish lớn bơi chậm quá khứ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to indicate the lapse of time.",
+      "definitions_ex_en": "a week went past and nothing changed",
+      "definitions_ex_vn": "Một tuần đã đi qua và không có gì thay đổi",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066275_3736caac84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066275_34baccc712_o.png",
+      "id_image": "past_6214151"
+    }
+  ]
+}

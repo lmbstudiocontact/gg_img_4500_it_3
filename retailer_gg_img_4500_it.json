@@ -1,0 +1,44 @@
+{
+  "english": "retailer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bán lẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người truyền rao tin tức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or business that sells goods to the public in relatively small quantities for use or consumption rather than for resale.",
+      "definitions_ex_en": "the big supermarkets have forced many independent retailers out of business",
+      "definitions_ex_vn": "Các siêu thị lớn đã buộc nhiều nhà bán lẻ độc lập khỏi kinh doanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who relates the details of a story or incident to others.",
+      "definitions_ex_en": "as a writer I see myself as a retailer of Big Ideas",
+      "definitions_ex_vn": "Là một nhà văn tôi thấy mình là một nhà bán lẻ của những ý tưởng lớn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086735_9304789b13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086735_7b33122703_o.png",
+      "id_image": "retailer_4003689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464228_e2ecfe135c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464228_d37817b0e6_o.png",
+      "id_image": "retailer_4661977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086695_5af46293d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086695_642045a0c0_o.png",
+      "id_image": "retailer_4661982"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "repellent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cự tuyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đẩy lui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khước từ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc trừ sâu bọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xô đuổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able to repel a particular thing; impervious to a particular substance.",
+      "definitions_ex_en": "water-repellent nylon",
+      "definitions_ex_vn": "nylon chống thấm nước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "causing disgust or distaste.",
+      "definitions_ex_en": "the idea was slightly repellent to her",
+      "definitions_ex_vn": "Ý tưởng hơi không bị đuổi ra với cô ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a substance that deters insects or other pests from approaching or settling.",
+      "definitions_ex_en": "a flea repellent",
+      "definitions_ex_vn": "một con bọ chét thuốc bỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a substance used to treat something, especially fabric or stone, so as to make it impervious to water.",
+      "definitions_ex_en": "treat brick with a silicone water repellent",
+      "definitions_ex_vn": "đối xử với gạch với một loại thuốc chống nước silicon",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323651_f475488587_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323651_b11dd09d47_o.png",
+      "id_image": "repellent_1846178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060430_2a6dce2b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060430_cca478676c_o.png",
+      "id_image": "repellent_6364950"
+    }
+  ]
+}

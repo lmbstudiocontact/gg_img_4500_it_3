@@ -1,0 +1,91 @@
+{
+  "english": "screw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con vít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đinh ốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy nhỏ gói kẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hà tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt con vít vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áp bức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt đinh ốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short, slender, sharp-pointed metal pin with a raised helical thread running around it and a slotted head, used to join things together by being rotated so that it pierces wood or other material and is held tightly in place.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of turning a screw or other object having a thread.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a prisoner's derogatory term for a prison guard or warden.",
+      "definitions_ex_en": "she was frightened by the look of the screws",
+      "definitions_ex_vn": "Cô sợ hãi bởi vẻ ngoài của các ốc vít",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mean or miserly person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten or tighten with a screw or screws.",
+      "definitions_ex_en": "screw the hinge to your new door",
+      "definitions_ex_vn": "vít bản lề vào cửa mới của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cheat or swindle (someone), especially by charging them too much for something.",
+      "definitions_ex_en": "if you do what they tell you, you're screwed",
+      "definitions_ex_vn": "Nếu bạn làm những gì họ nói với bạn, bạn đang bị lừa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441983_28b13de53a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441983_b768e9f273_o.png",
+      "id_image": "screw_1678192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326916_e19bab9cc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326916_1a42ba0ea1_o.png",
+      "id_image": "screw_3275806"
+    }
+  ]
+}

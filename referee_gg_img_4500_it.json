@@ -1,0 +1,43 @@
+{
+  "english": "referee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người trọng tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trọng tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viên trung phán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an official who watches a game or match closely to ensure that the rules are adhered to and (in some sports) to arbitrate on matters arising from the play.",
+      "definitions_ex_en": "the referee sent off two French players",
+      "definitions_ex_vn": "Trọng tài đã gửi hai cầu thủ Pháp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "act as referee for.",
+      "definitions_ex_en": "the man who refereed the World Cup final",
+      "definitions_ex_vn": "Người đàn ông đã đề cập đến trận chung kết World Cup",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447263_c3712d97ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447263_2fcd205dc1_o.png",
+      "id_image": "referee_3116364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687189_53dd2b4872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687189_16959c341b_o.png",
+      "id_image": "referee_6036797"
+    }
+  ]
+}

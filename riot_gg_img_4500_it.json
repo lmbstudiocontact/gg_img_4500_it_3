@@ -1,0 +1,80 @@
+{
+  "english": "riot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự có nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dâm đảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự náo động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phá rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rối loạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gây lộn xộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ồn ào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trụy lạc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a violent disturbance of the peace by a crowd.",
+      "definitions_ex_en": "riots broke out in the capital",
+      "definitions_ex_vn": "Riots đã nổ ra trong thủ đô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an impressively large or varied display of something.",
+      "definitions_ex_en": "the garden was a riot of color",
+      "definitions_ex_vn": "Khu vườn là một cuộc bạo loạn của màu sắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a highly amusing or entertaining person or thing.",
+      "definitions_ex_en": "everyone thought she was a riot",
+      "definitions_ex_vn": "Mọi người nghĩ rằng cô ấy là một cuộc bạo loạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take part in a violent public disturbance.",
+      "definitions_ex_en": "students rioted in Paris",
+      "definitions_ex_vn": "Học sinh náo loạn ở Paris",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390962_ae713b7b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390962_c647a46820_o.png",
+      "id_image": "riot_2529735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390907_2ac9c3ca2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390907_1bc5622e76_o.png",
+      "id_image": "riot_2529770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345941_0db2a36a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345941_73c8be9f8f_o.png",
+      "id_image": "riot_6009698"
+    }
+  ]
+}

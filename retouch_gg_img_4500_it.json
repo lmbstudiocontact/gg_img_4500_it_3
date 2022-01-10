@@ -1,0 +1,41 @@
+{
+  "english": "retouch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chửa lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhuận sắc bức họa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "improve or repair (a painting, a photograph, makeup, etc.) by making slight additions or alterations.",
+      "definitions_ex_en": "full-color images can be retouched, enhanced, or color-corrected",
+      "definitions_ex_vn": "Hình ảnh đầy đủ màu sắc có thể được chỉnh sửa, nâng cao hoặc sửa màu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463838_5d92ebf3fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463838_438a4b3c47_o.png",
+      "id_image": "retouch_1792016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393877_2c3161c267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393877_7b7d1234f8_o.png",
+      "id_image": "retouch_4327763"
+    }
+  ]
+}

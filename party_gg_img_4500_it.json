@@ -1,0 +1,106 @@
+{
+  "english": "party",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buổi dạ hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buổi khiêu vũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc hội họp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc vui chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buổi tiệc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đảng phái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đương sự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhóm hành khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhóm người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toán phu mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a social gathering of invited guests, typically involving eating, drinking, and entertainment.",
+      "definitions_ex_en": "an engagement party",
+      "definitions_ex_vn": "một bữa tiệc đính hôn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formally constituted political group, typically operating on a national basis, that contests elections and attempts to form or take part in a government.",
+      "definitions_ex_en": "the party's election strategy",
+      "definitions_ex_vn": "Chiến lược bầu cử của đảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or people forming one side in an agreement or dispute.",
+      "definitions_ex_en": "a contract between two parties",
+      "definitions_ex_vn": "một hợp đồng giữa hai bên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "enjoy oneself at a party or other lively gathering, typically with drinking and music.",
+      "definitions_ex_en": "put on your glad rags and party!",
+      "definitions_ex_vn": "Đưa giẻ rách và tiệc tùng vui vẻ của bạn!",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divided into parts of different tinctures.",
+      "definitions_ex_en": "party per fess, or, and azure",
+      "definitions_ex_vn": "Đảng mỗi fess, hoặc, và Azure",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067375_b0f2e2605f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067375_3449cba6de_o.png",
+      "id_image": "party_1712012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067335_8a8a7f75dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067335_93634606a6_o.png",
+      "id_image": "party_1809880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685534_ff6f643856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685534_cd233c04c7_o.png",
+      "id_image": "party_2640240"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "english": "response",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài thánh ca trong lê mi sa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đáp lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đáp lại bằng lời nói",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a verbal or written answer.",
+      "definitions_ex_en": "without waiting for a response, she returned to her newspaper",
+      "definitions_ex_vn": "mà không phải chờ phản hồi, cô trở lại tờ báo của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087915_35669e6684_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087915_cf8e563703_o.png",
+      "id_image": "response_1055447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705284_2242f17f83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705284_fed0d497c5_o.png",
+      "id_image": "response_4694797"
+    }
+  ]
+}

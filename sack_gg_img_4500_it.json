@@ -1,0 +1,135 @@
+{
+  "english": "sack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo choàng của đàn bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần phụ kết vào vai áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cướp giựt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cướp phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túi lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vô bao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ vào bao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cướp giựt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cướp phá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large bag made of a strong material such as burlap, thick paper, or plastic, used for storing and carrying goods.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a woman's short loose unwaisted dress, typically narrowing at the hem, popular especially in the 1950s.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dismissal from employment.",
+      "definitions_ex_en": "he got the sack for swearing",
+      "definitions_ex_vn": "anh ta đã nhận được bao tải để chửi thề",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a base.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of tackling a quarterback behind the line of scrimmage before he can throw a pass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the pillaging of a town or city.",
+      "definitions_ex_en": "the sack of Rome",
+      "definitions_ex_vn": "bao tải rome",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dry white wine formerly imported into Britain from Spain and the Canary Islands.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dismiss from employment.",
+      "definitions_ex_en": "any official found to be involved would be sacked on the spot",
+      "definitions_ex_vn": "bất kỳ quan điểm nào được tìm thấy sẽ được tham gia sẽ bị sa thải tại chỗ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tackle (a quarterback) behind the line of scrimmage before they can throw a pass.",
+      "definitions_ex_en": "Oregon intercepted five of his passes and sacked him five times",
+      "definitions_ex_vn": "Oregon bị chặn lại năm lần chuyền trôi và sa thải anh ta năm lần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put into a sack or sacks.",
+      "definitions_ex_en": "a small part of his wheat had been sacked",
+      "definitions_ex_vn": "một phần nhỏ của lúa mì của anh ta đã bị sa thải",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(chiefly in historical contexts) plunder and destroy (a captured town, building, or other place).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075210_19a0b54666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075210_9cbf66c2ed_o.png",
+      "id_image": "sack_1152966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338106_034aa0ae3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338106_383275abe1_o.png",
+      "id_image": "sack_1352327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075100_11d082bec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075100_12c7a284e6_o.png",
+      "id_image": "sack_2954789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693304_9ae2c6d97a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693304_c204692434_o.png",
+      "id_image": "sack_6359685"
+    }
+  ]
+}

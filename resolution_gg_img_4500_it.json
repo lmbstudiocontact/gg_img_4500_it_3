@@ -1,0 +1,105 @@
+{
+  "english": "resolution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều nghị quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều quyết định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhứt định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân giải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phép giải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quả quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quyết tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dung giải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính quả cảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính quả quyết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a firm decision to do or not to do something.",
+      "definitions_ex_en": "she kept her resolution not to see Anne any more",
+      "definitions_ex_vn": "Cô giữ độ giải quyết của mình để không nhìn thấy Anne nữa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality of being determined or resolute.",
+      "definitions_ex_en": "he handled the last French actions of the war with resolution",
+      "definitions_ex_vn": "Ông xử lý các hành động cuối cùng của Pháp của cuộc chiến với Nghị quyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of solving a problem, dispute, or contentious matter.",
+      "definitions_ex_en": "the peaceful resolution of all disputes",
+      "definitions_ex_vn": "giải quyết hòa bình của tất cả các tranh chấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of reducing or separating something into its components.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the smallest interval measurable by a scientific (especially optical) instrument; the resolving power.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the conversion of something abstract into another form.",
+      "definitions_ex_en": "the gradual resolution of an uncertain feeling into a named emotion",
+      "definitions_ex_vn": "độ phân giải dần dần của một cảm giác không chắc chắn thành một cảm xúc được đặt tên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396262_37e81cf0eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396262_70e72e853c_o.png",
+      "id_image": "resolution_1344591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466093_f533e6e1d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466093_9c01801e26_o.png",
+      "id_image": "resolution_3999857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351611_28749deb0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351611_496f584dc2_o.png",
+      "id_image": "resolution_4144642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396172_97ea0a5102_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396172_896f9c7ef6_o.png",
+      "id_image": "resolution_6315672"
+    }
+  ]
+}

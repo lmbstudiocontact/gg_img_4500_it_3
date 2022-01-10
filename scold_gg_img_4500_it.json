@@ -1,0 +1,41 @@
+{
+  "english": "scold",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đàn bà hay càu nhàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đàn bà hay rầy la",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gắt gỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "la mắng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remonstrate with or rebuke (someone) angrily.",
+      "definitions_ex_en": "Mom took Anna away, scolding her for her bad behavior",
+      "definitions_ex_vn": "Mẹ lấy Anna Away, mắng cô ấy vì hành vi xấu của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444588_16017d02f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444588_8c201b2401_o.png",
+      "id_image": "scold_3034257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444558_49afc57b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444558_b83361dbc2_o.png",
+      "id_image": "scold_5101240"
+    }
+  ]
+}

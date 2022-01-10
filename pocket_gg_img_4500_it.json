@@ -1,0 +1,112 @@
+{
+  "english": "pocket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại bỏ túi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ của bàn bida",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ dưới đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túi quần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn gian",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn cắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ vào túi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cố chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhét vào túi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thục trái bida vào lổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để vào túi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đút vào túi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vướng chân",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small bag sewn into or on clothing so as to form part of it, used for carrying small articles.",
+      "definitions_ex_en": "she fished for her door key in her coat pocket",
+      "definitions_ex_vn": "Cô ấy đã đánh cá cho chìa khóa cửa trong túi áo khoác của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small patch of something.",
+      "definitions_ex_en": "some of the gardens still had pockets of dirty snow in them",
+      "definitions_ex_vn": "Một số khu vườn vẫn có túi tuyết bẩn trong đó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of a suitable size for carrying in a pocket.",
+      "definitions_ex_en": "a pocket dictionary",
+      "definitions_ex_vn": "một từ điển bỏ túi.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "put into one's pocket.",
+      "definitions_ex_en": "she watched him lock up and pocket the key",
+      "definitions_ex_vn": "Cô nhìn anh ta khóa và bỏ túi chìa khóa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076410_8ebcdf88ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076410_175b4f11fc_o.png",
+      "id_image": "pocket_2803510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339221_f8c3e4991e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339221_92d5a38b31_o.png",
+      "id_image": "pocket_3655751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076440_fa445966eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076440_7dcb1336ee_o.png",
+      "id_image": "pocket_532027"
+    }
+  ]
+}

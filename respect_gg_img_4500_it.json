@@ -1,0 +1,81 @@
+{
+  "english": "respect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mối quan hệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự liên quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "về mọi phương diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tôn kính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có quan hệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kính mến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tôn trọng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.",
+      "definitions_ex_en": "the director had a lot of respect for Douglas as an actor",
+      "definitions_ex_vn": "Giám đốc có rất nhiều sự tôn trọng đối với Douglas như một diễn viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "due regard for the feelings, wishes, rights, or traditions of others.",
+      "definitions_ex_en": "young people's lack of respect for their parents",
+      "definitions_ex_vn": "Những người trẻ tuổi thiếu tôn trọng cha mẹ của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular aspect, point, or detail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "admire (someone or something) deeply, as a result of their abilities, qualities, or achievements.",
+      "definitions_ex_en": "she was respected by everyone she worked with",
+      "definitions_ex_vn": "cô ấy được tất cả mọi người tôn trọng, cô ấy đã làm việc với",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705554_caa0e7a62e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705554_96bed68f79_o.png",
+      "id_image": "respect_2284927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705534_f0d23b804c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705534_eee30c9a1b_o.png",
+      "id_image": "respect_3994210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088110_f2136379ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088110_c650f352a3_o.png",
+      "id_image": "respect_4412760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350996_2a70bdc8e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350996_26c1a3504c_o.png",
+      "id_image": "respect_4960764"
+    }
+  ]
+}

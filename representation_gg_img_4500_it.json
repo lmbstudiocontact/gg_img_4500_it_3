@@ -1,0 +1,52 @@
+{
+  "english": "representation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự diển tả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đại diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khuyên răn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự miêu tả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay mặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of speaking or acting on behalf of someone or the state of being so represented.",
+      "definitions_ex_en": "asylum-seekers should be guaranteed good legal advice and representation",
+      "definitions_ex_vn": "Người xin tị nạn nên được đảm bảo tư vấn và đại diện pháp lý tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the description or portrayal of someone or something in a particular way or as being of a certain nature.",
+      "definitions_ex_en": "the representation of women in newspapers",
+      "definitions_ex_vn": "Đại diện của phụ nữ trên báo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "formal statements made to a higher authority, especially so as to communicate an opinion or register a protest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437863_e8b4a77b89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437863_1d882a2b4c_o.png",
+      "id_image": "representation_3103134"
+    }
+  ]
+}

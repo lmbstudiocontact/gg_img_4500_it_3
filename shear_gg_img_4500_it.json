@@ -1,0 +1,53 @@
+{
+  "english": "shear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loại kéo lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cắt bằng kéo lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt bằng kéo lớn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xén lông trừu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cut the wool off (a sheep or other animal).",
+      "definitions_ex_en": "Paul has never sheared a sheep before",
+      "definitions_ex_vn": "Paul chưa bao giờ cắt một con cừu trước đây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "break off or cause to break off, owing to a structural strain.",
+      "definitions_ex_en": "the derailleur sheared and jammed in the rear wheel",
+      "definitions_ex_vn": "Derailleur cắt và bị kẹt ở bánh sau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a strain in the structure of a substance produced by pressure, when its layers are laterally shifted in relation to each other.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083590_db899148f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083590_8036c249f0_o.png",
+      "id_image": "shear_1571478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460878_b6cede0f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460878_277b701b57_o.png",
+      "id_image": "shear_2844480"
+    }
+  ]
+}

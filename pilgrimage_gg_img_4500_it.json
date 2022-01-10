@@ -1,0 +1,43 @@
+{
+  "english": "pilgrimage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc đi du lịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đi hành hương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi hành hương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pilgrim's journey.",
+      "definitions_ex_en": "he wanted to go on a pilgrimage to Santiago de Compostela",
+      "definitions_ex_vn": "Anh muốn đi hành hương đến Santiago de Compostela",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "go on a pilgrimage.",
+      "definitions_ex_en": "thousands pilgrimage there every year",
+      "definitions_ex_vn": "hàng ngàn cuộc hành hương ở đó hàng năm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084435_ae14d00ec9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084435_9970fcfca6_o.png",
+      "id_image": "pilgrimage_3781738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084395_ffda582eb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084395_375aef6855_o.png",
+      "id_image": "pilgrimage_3781929"
+    }
+  ]
+}

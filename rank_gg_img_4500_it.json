@@ -1,0 +1,154 @@
+{
+  "english": "rank",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hôi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sum sê",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có mùi hôi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có mùi nặng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nảy nở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thúi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phong phú",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rậm rạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bến xe tắc xi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đẳng cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bực thứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diển hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệt người nào vào hạng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp thành hàng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a position in the hierarchy of the armed forces.",
+      "definitions_ex_en": "an army officer of fairly high rank",
+      "definitions_ex_vn": "một sĩ quan quân đội của cấp bậc khá cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single line of soldiers or police officers drawn up abreast.",
+      "definitions_ex_en": "they were drawn up outside their barracks in long ranks",
+      "definitions_ex_vn": "họ đã được rút ra bên ngoài doanh trại của họ trong hàng ngũ Long",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the people belonging to or constituting a group or class.",
+      "definitions_ex_en": "the ranks of the unemployed",
+      "definitions_ex_vn": "hàng ngũ của những người thất nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the value or the order of the largest nonzero determinant of a given matrix.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give (someone or something) a rank or place within a grading system.",
+      "definitions_ex_en": "she is ranked number four in the world",
+      "definitions_ex_vn": "Cô ấy được xếp hạng số bốn trên thế giới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrange in a rank or ranks.",
+      "definitions_ex_en": "the tents were ranked in orderly rows",
+      "definitions_ex_vn": "Lều được xếp hạng trong các hàng có trật tự",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of vegetation) growing too thickly and coarsely.",
+      "definitions_ex_en": "clumps of rank grass",
+      "definitions_ex_vn": "Cột cỏ xếp hạng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(especially of air or water) having a foul or offensive smell.",
+      "definitions_ex_en": "breathing rank air",
+      "definitions_ex_vn": "thở hàng không",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(especially of something bad or deficient) complete and utter (used for emphasis).",
+      "definitions_ex_en": "rank stupidity",
+      "definitions_ex_vn": "Xếp hạng sự ngu ngốc",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075870_a973207fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075870_e153be16d4_o.png",
+      "id_image": "rank_2344540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694029_5585902421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694029_8a05b147b3_o.png",
+      "id_image": "rank_265796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383772_0f62356f1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383772_b67ab7e8d1_o.png",
+      "id_image": "rank_942357"
+    }
+  ]
+}

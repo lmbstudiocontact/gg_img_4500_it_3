@@ -1,0 +1,32 @@
+{
+  "english": "pregnancy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự có mang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự có thai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dồi dào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the condition or period of being pregnant.",
+      "definitions_ex_en": "the first weeks of pregnancy",
+      "definitions_ex_vn": "Những tuần đầu tiên của thai kỳ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329511_4df1227652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329511_7e69a597fa_o.png",
+      "id_image": "pregnancy_3003300"
+    }
+  ]
+}

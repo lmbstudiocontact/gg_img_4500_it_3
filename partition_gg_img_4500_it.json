@@ -1,0 +1,54 @@
+{
+  "english": "partition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "liên hợp nhạc phổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia ra di sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngăn phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vách ngăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia di sản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn phòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially with reference to a country with separate areas of government) the action or state of dividing or being divided into parts.",
+      "definitions_ex_en": "the country's partition into separate states",
+      "definitions_ex_vn": "phân vùng của đất nước vào các trạng thái riêng biệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "divide into parts.",
+      "definitions_ex_en": "an agreement was reached to partition the country",
+      "definitions_ex_vn": "một thỏa thuận đã đạt đến phân vùng đất nước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446188_0605920acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446188_47c1bbfe7e_o.png",
+      "id_image": "partition_360129"
+    }
+  ]
+}

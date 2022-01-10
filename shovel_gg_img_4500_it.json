@@ -1,0 +1,47 @@
+{
+  "english": "shovel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái mai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái xẻng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái xuổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xúc bằng xẻng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tool with a broad flat blade and typically upturned sides, used for moving coal, earth, snow or other material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move (coal, earth, snow, or a similar substance) with a shovel.",
+      "definitions_ex_en": "she shoveled coal on the fire",
+      "definitions_ex_vn": "Cô xẻng than trên lửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457183_0606702d60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457183_aea66a0528_o.png",
+      "id_image": "shovel_184004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457163_c660d1f891_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457163_c85374c8b6_o.png",
+      "id_image": "shovel_313102"
+    }
+  ]
+}

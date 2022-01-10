@@ -1,0 +1,64 @@
+{
+  "english": "resume",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hồ sơ cá nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý lịch nghề nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toát yếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tóm tắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt đầu trở lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hồi phục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tóm lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "begin to do or pursue (something) again after a pause or interruption.",
+      "definitions_ex_en": "a day later normal service was resumed",
+      "definitions_ex_vn": "Một ngày sau đó dịch vụ bình thường đã được nối lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a summary.",
+      "definitions_ex_en": "I gave him a quick résumé of events",
+      "definitions_ex_vn": "Tôi đã cho anh ta một lý do nhanh chóng của các sự kiện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349716_707809eea3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349716_5d0c6a86da_o.png",
+      "id_image": "resume_1945753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086925_16753de8e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086925_7ca0e5bab0_o.png",
+      "id_image": "resume_1945800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464393_737985400d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464393_49052d46d3_o.png",
+      "id_image": "resume_470202"
+    }
+  ]
+}

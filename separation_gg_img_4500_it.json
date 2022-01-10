@@ -1,0 +1,82 @@
+{
+  "english": "separation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoảng cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biệt sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia rẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân ly",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xa cách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or state of moving or being moved apart.",
+      "definitions_ex_en": "the damage that might arise from the separation of parents and children",
+      "definitions_ex_vn": "những thiệt hại có thể phát sinh từ việc tách cha mẹ và con cái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the division of something into constituent or distinct elements.",
+      "definitions_ex_en": "prose structured into short sentences with meaningful separation into paragraphs",
+      "definitions_ex_vn": "văn xuôi có cấu trúc thành những câu ngắn với sự tách biệt có ý nghĩa thành các đoạn văn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "distinction or difference between the signals carried by the two channels of a stereophonic system.",
+      "definitions_ex_en": "use two transmitters for full stereo separation",
+      "definitions_ex_vn": "Sử dụng hai máy phát để tách âm thanh nổi đầy đủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for color separation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the generation of a turbulent boundary layer between the surface of a body and a moving fluid, or between two fluids moving at different speeds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349836_7b17309c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349836_3704776942_o.png",
+      "id_image": "separation_2911700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087135_31e2c6687d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087135_0270f7a130_o.png",
+      "id_image": "separation_505790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394567_e4bf7bf617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394567_cd08c6aff4_o.png",
+      "id_image": "separation_5526459"
+    }
+  ]
+}

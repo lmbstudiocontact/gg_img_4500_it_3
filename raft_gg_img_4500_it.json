@@ -1,0 +1,71 @@
+{
+  "english": "raft",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chở hàng hóa trên bè",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết bè",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "qua sông bằng bè",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mảng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat buoyant structure of timber or other materials fastened together, used as a boat or floating platform.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large amount of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel on or as if on a raft.",
+      "definitions_ex_en": "I have rafted along the Rio Grande",
+      "definitions_ex_vn": "Tôi đã đi bè dọc theo Rio Grande",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring or fasten together (a number of boats or other objects) side by side.",
+      "definitions_ex_en": "we rafted the boats together off the shores of Murchison Island",
+      "definitions_ex_vn": "Chúng tôi đi thuyền cùng nhau ra khỏi bờ đảo Murchison",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696024_4a18ffa67b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696024_02098bcdb6_o.png",
+      "id_image": "raft_1403939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385717_43bb185d50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385717_c365263845_o.png",
+      "id_image": "raft_440138"
+    }
+  ]
+}

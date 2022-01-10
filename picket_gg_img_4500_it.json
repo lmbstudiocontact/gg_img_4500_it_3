@@ -1,0 +1,71 @@
+{
+  "english": "picket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây cọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây nọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một tốp lính canh gác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đứng gác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cột vào cây nọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gác cổng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rào bằng nọc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or group of people standing outside a place of work or other venue, protesting something or trying to persuade others not to enter during a strike.",
+      "definitions_ex_en": "forty pickets were arrested",
+      "definitions_ex_vn": "bốn mươi picket đã bị bắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a soldier or party of soldiers performing a particular duty.",
+      "definitions_ex_en": "a picket of soldiers fired a volley over the coffin",
+      "definitions_ex_vn": "Một người lính đã bắn một cú vô lê qua quan tài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pointed wooden stake driven into the ground, typically to form a fence or palisade or to tether a horse.",
+      "definitions_ex_en": "a cedar-picket stockade",
+      "definitions_ex_vn": "một cây gậy cedar",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "act as a picket outside (a workplace or other venue).",
+      "definitions_ex_en": "strikers picketed the newspaper's main building",
+      "definitions_ex_vn": "Tiền đạo đã chọn tòa nhà chính của tờ báo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085695_101e2d5125_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085695_212478fbbe_o.png",
+      "id_image": "picket_351802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463208_814e880c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463208_6a4fc6145a_o.png",
+      "id_image": "picket_422069"
+    }
+  ]
+}

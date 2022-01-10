@@ -1,0 +1,61 @@
+{
+  "english": "scene",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bối cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ diển tuồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phong cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân khấu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the place where an incident in real life or fiction occurs or occurred.",
+      "definitions_ex_en": "the emergency team were among the first on the scene",
+      "definitions_ex_vn": "Nhóm khẩn cấp là một trong những người đầu tiên trên hiện trường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sequence of continuous action in a play, movie, opera, or book.",
+      "definitions_ex_en": "a scene from Brando's first film",
+      "definitions_ex_vn": "một cảnh từ bộ phim đầu tiên của Brando",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686659_725e11921d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686659_f632c20f58_o.png",
+      "id_image": "scene_1460485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446693_dc638b7d11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446693_5fd69cc97b_o.png",
+      "id_image": "scene_188980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376332_a0bca93d0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376332_3ff055ab89_o.png",
+      "id_image": "scene_2526737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446588_c441e39cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446588_f44f4f96d4_o.png",
+      "id_image": "scene_4133253"
+    }
+  ]
+}

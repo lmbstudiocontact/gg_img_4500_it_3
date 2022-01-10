@@ -1,0 +1,58 @@
+{
+  "english": "sable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đen",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tang phục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồ tang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống chồn hắc điêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc đen",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a marten with a short tail and dark brown fur, native to Japan and Siberia and valued for its fur.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "black.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large African antelope with long curved horns, the male of which has a black coat and the female a russet coat, both having a white belly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "black.",
+      "definitions_ex_en": "the sable blackness of her hair",
+      "definitions_ex_vn": "màu đen sable của mái tóc của cô ấy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693584_021b72b7be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693584_0be4820295_o.png",
+      "id_image": "sable_185751"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "english": "seat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ để ngồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt ghế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ngồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mông đít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt ngồi xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm chổ ngồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vá đáy quần",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing made or used for sitting on, such as a chair or stool.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's buttocks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place in an elected legislative or other body.",
+      "definitions_ex_en": "he lost his seat in the 1998 election",
+      "definitions_ex_vn": "Anh mất chỗ ngồi trong cuộc bầu cử năm 1998",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a principal site or location.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of a machine that supports or guides another part.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange for (someone) to sit somewhere.",
+      "definitions_ex_en": "he seated her next to her husband",
+      "definitions_ex_vn": "Anh ngồi bên cạnh chồng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324471_688498c54a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324471_97344e0cea_o.png",
+      "id_image": "seat_2052451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324401_ceb4e87c37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324401_f9023cd766_o.png",
+      "id_image": "seat_2540901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324366_c22a388156_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324366_1719315c7d_o.png",
+      "id_image": "seat_3163536"
+    }
+  ]
+}

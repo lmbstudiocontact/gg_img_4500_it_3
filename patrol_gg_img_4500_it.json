@@ -1,0 +1,66 @@
+{
+  "english": "patrol",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đội lính tuần tiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính tuần phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi tuần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi tuần của cảnh sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi rỏn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tuần",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an expedition to keep watch over an area, especially by guards or police walking or driving around at regular intervals.",
+      "definitions_ex_en": "we were ordered to investigate on a night patrol",
+      "definitions_ex_vn": "Chúng tôi đã được lệnh điều tra trong một cuộc tuần tra đêm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit of six to eight Girl Scouts or Boy Scouts forming part of a troop.",
+      "definitions_ex_en": "break the Cubs into sixes and Scouts into patrols",
+      "definitions_ex_vn": "phá vỡ các con thành sáu và trinh sát vào tuần tra",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "keep watch over (an area) by regularly walking or traveling around or through it.",
+      "definitions_ex_en": "the garrison had to patrol the streets to maintain order",
+      "definitions_ex_vn": "Garrison đã phải tuần tra đường phố để duy trì trật tự",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442468_da9ff03f25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442468_c90421c95b_o.png",
+      "id_image": "patrol_2400198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682544_8342f2f652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682544_1a68305796_o.png",
+      "id_image": "patrol_4413025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372077_6609274b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372077_358955b71d_o.png",
+      "id_image": "patrol_4413263"
+    }
+  ]
+}

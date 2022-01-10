@@ -1,0 +1,32 @@
+{
+  "english": "reconstruction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự kiến trúc lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trùng tu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xây cất lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of reconstructing or being reconstructed.",
+      "definitions_ex_en": "the economic reconstruction of Russia",
+      "definitions_ex_vn": "Tái thiết kinh tế của Nga",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071730_ff2ae0150b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071730_1559ab7983_o.png",
+      "id_image": "reconstruction_5903355"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "refugee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dân tỵ nạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chạy nạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who has been forced to leave their country in order to escape war, persecution, or natural disaster.",
+      "definitions_ex_en": "tens of thousands of refugees fled their homes",
+      "definitions_ex_vn": "Hàng chục ngàn người tị nạn trốn khỏi nhà của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330281_fff51b887d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330281_5166ae78b4_o.png",
+      "id_image": "refugee_3061734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067140_9e6c6db464_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067140_efc93863d1_o.png",
+      "id_image": "refugee_3061979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445188_c81b142323_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445188_59c5a6d300_o.png",
+      "id_image": "refugee_4244674"
+    }
+  ]
+}

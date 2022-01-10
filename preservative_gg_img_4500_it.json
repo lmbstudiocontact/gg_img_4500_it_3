@@ -1,0 +1,43 @@
+{
+  "english": "preservative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "để dành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "để dự phòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chất hóa học giử đồ ăn không hư",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance used to preserve foodstuffs, wood, or other materials against decay.",
+      "definitions_ex_en": "salt has been used for centuries as a preservative",
+      "definitions_ex_vn": "Muối đã được sử dụng trong nhiều thế kỷ như một chất bảo quản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "acting to preserve something.",
+      "definitions_ex_en": "the preservative effects of freezing",
+      "definitions_ex_vn": "Các tác động bảo quản của sự đóng băng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682969_98757fdfee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682969_bb9f0b9aa8_o.png",
+      "id_image": "preservative_1497103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442903_c045abef13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442903_3310621ddc_o.png",
+      "id_image": "preservative_3637224"
+    }
+  ]
+}

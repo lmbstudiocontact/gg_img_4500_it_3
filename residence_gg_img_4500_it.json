@@ -1,0 +1,46 @@
+{
+  "english": "residence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ ngụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ trú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà ở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person's home; the place where someone lives.",
+      "definitions_ex_en": "the youth hostel has been adapted from a private residence",
+      "definitions_ex_vn": "Nhà nghỉ Thanh niên đã được chuyển thể từ một nơi cư trú tư nhân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676959_8087b3cd49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676959_890c749fd2_o.png",
+      "id_image": "residence_6407962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676949_00a24bc0df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676949_9fcfec3a6e_o.png",
+      "id_image": "residential_2947576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352146_de876f4734_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352146_8ac6730b68_o.png",
+      "id_image": "residential_4413249"
+    }
+  ]
+}

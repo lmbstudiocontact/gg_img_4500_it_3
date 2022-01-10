@@ -1,0 +1,38 @@
+{
+  "english": "recipe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách nấu ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương thuốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of instructions for preparing a particular dish, including a list of the ingredients required.",
+      "definitions_ex_en": "a traditional Indonesian recipe",
+      "definitions_ex_vn": "một công thức truyền thống của Indonesia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690604_35992083c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690604_25ff324e6f_o.png",
+      "id_image": "recipe_3565418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335486_21206fa8dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335486_67ea309f31_o.png",
+      "id_image": "recipe_527777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450423_e1d3bfe84b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450423_9192f4b485_o.png",
+      "id_image": "recipe_649232"
+    }
+  ]
+}

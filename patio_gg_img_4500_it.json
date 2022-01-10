@@ -1,0 +1,33 @@
+{
+  "english": "patio",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sân trống ở trong nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân trống ở trước nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a paved outdoor area adjoining a house.",
+      "definitions_ex_en": "the dining room looks out to a small patio",
+      "definitions_ex_vn": "Phòng ăn nhìn ra một hiên nhỏ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327671_58e1536505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327671_a75da64eb8_o.png",
+      "id_image": "patio_5781944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064305_4b2b503f25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064305_80cd4987c2_o.png",
+      "id_image": "patio_5781955"
+    }
+  ]
+}

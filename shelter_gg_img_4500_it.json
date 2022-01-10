@@ -1,0 +1,61 @@
+{
+  "english": "shelter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ ẩn náu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ núp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ nương thân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ẩn núp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "che chở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place giving temporary protection from bad weather or danger.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "protect or shield from something harmful, especially bad weather.",
+      "definitions_ex_en": "the hut sheltered him from the cold wind",
+      "definitions_ex_vn": "túp lều che chở anh ta khỏi cơn gió lạnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460103_01705ffae9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460103_d1b6572625_o.png",
+      "id_image": "shelter_1590680"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082725_5e231a8402_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082725_4658b80d7a_o.png",
+      "id_image": "shelter_4706918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345211_c32cbabaac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345211_a2ab9fba9f_o.png",
+      "id_image": "shelter_5256392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082765_c74f5eac48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082765_43a834b10c_o.png",
+      "id_image": "shelter_980782"
+    }
+  ]
+}

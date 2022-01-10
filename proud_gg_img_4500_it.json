@@ -1,0 +1,64 @@
+{
+  "english": "proud",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiêu căng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiêu hảnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiêu ngạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngạo mạn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự đắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tráng lệ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling deep pleasure or satisfaction as a result of one's own achievements, qualities, or possessions or those of someone with whom one is closely associated.",
+      "definitions_ex_en": "a proud grandma of three boys",
+      "definitions_ex_vn": "một bà ngoại tự hào của ba chàng trai",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having or showing a high or excessively high opinion of oneself or one's importance.",
+      "definitions_ex_en": "a proud, arrogant man",
+      "definitions_ex_vn": "một người đàn ông kiêu ngạo, kiêu ngạo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464223_2d9ef4007d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464223_8be510c3ac_o.png",
+      "id_image": "proud_4138796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394267_0b4a3b2779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394267_feb1a07231_o.png",
+      "id_image": "proud_5020503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086670_2d551dddbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086670_b882f10073_o.png",
+      "id_image": "proud_5970973"
+    }
+  ]
+}

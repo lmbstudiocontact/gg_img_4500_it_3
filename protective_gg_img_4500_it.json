@@ -1,0 +1,42 @@
+{
+  "english": "protective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảo vệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "che chở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giám hộ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "capable of or intended to protect someone or something.",
+      "definitions_ex_en": "protective gloves are worn to minimize injury",
+      "definitions_ex_vn": "Găng tay bảo vệ bị mòn để giảm thiểu chấn thương",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394702_167484a807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394702_a5a7280739_o.png",
+      "id_image": "protective_2503420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349866_dae8bdc286_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349866_c0502f5e2f_o.png",
+      "id_image": "protective_2718113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087100_85bfe214c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087100_0e69304b16_o.png",
+      "id_image": "protective_3022209"
+    }
+  ]
+}

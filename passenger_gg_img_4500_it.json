@@ -1,0 +1,43 @@
+{
+  "english": "passenger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi du lịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a traveler on a public or private conveyance other than the driver, pilot, or crew.",
+      "definitions_ex_en": "more than 50 passengers escaped injury when a train was derailed",
+      "definitions_ex_vn": "Hơn 50 hành khách thoát khỏi chấn thương khi một chuyến tàu bị trật bánh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330326_6e8e3f74b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330326_42dcff1346_o.png",
+      "id_image": "passenger_1178842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067185_05f54b6f93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067185_643f8b9a2e_o.png",
+      "id_image": "passenger_1178844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330256_2117457127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330256_37c4020bbf_o.png",
+      "id_image": "passenger_1523915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445208_0730d753c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445208_6cd4e9277c_o.png",
+      "id_image": "passenger_2248059"
+    }
+  ]
+}

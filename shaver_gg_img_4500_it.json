@@ -1,0 +1,43 @@
+{
+  "english": "shaver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao cạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trai tráng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ cạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an electric razor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a young lad.",
+      "definitions_ex_en": "little shavers and their older brothers",
+      "definitions_ex_vn": "máy cạo râu nhỏ và anh em của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346366_540994d9dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346366_a2aba8ac59_o.png",
+      "id_image": "shaver_1267835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346311_b943295d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346311_f2b1622834_o.png",
+      "id_image": "shaver_3791209"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "prosthesis",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép thay răng giả",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an artificial body part, such as a leg, a heart, or a breast implant.",
+      "definitions_ex_en": "his upper jaw was removed and a prosthesis was fitted",
+      "definitions_ex_vn": "hàm trên của anh ta đã bị loại bỏ và một bộ phận giả đã được trang bị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the addition of a letter or syllable at the beginning of a word, as in Spanish escribo derived from Latin scribo.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350386_e714243d9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350386_70af0abdb0_o.png",
+      "id_image": "prosthesis_3441386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350336_29aed72a9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350336_65925ff506_o.png",
+      "id_image": "prosthesis_3441387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395192_e731aa6ab1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395192_1efc60506b_o.png",
+      "id_image": "prosthesis_458103"
+    }
+  ]
+}

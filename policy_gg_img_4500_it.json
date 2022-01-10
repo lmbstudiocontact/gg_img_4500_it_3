@@ -1,0 +1,60 @@
+{
+  "english": "policy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chánh trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khế ước bảo hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưu kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưu mẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a course or principle of action adopted or proposed by a government, party, business, or individual.",
+      "definitions_ex_en": "the administration's controversial economic policies",
+      "definitions_ex_vn": "Các chính sách kinh tế gây tranh cãi của chính quyền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a contract of insurance.",
+      "definitions_ex_en": "they took out a joint policy",
+      "definitions_ex_vn": "Họ đã đưa ra một chính sách chung",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337651_fa27776555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337651_0d47f697bc_o.png",
+      "id_image": "policy_1900257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452493_f4fdd5bd74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452493_64954afdc1_o.png",
+      "id_image": "policy_3814891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382652_454ebafab0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382652_3ff4342a05_o.png",
+      "id_image": "policy_536905"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "rasp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một thứ giủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng giũa sè sè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giũa đồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mích lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nghịch ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm quất rầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm trầy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a harsh, grating noise.",
+      "definitions_ex_en": "the rasp of the engine",
+      "definitions_ex_vn": "Mùi của động cơ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a coarse file or similar metal tool with a roughened surface for scraping, filing, or rubbing down objects of metal, wood, or other hard material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a harsh, grating noise.",
+      "definitions_ex_en": "my breath rasped in my throat",
+      "definitions_ex_vn": "hơi thở của tôi bị giòn trong cổ họng của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "scrape (something) with a rasp in order to make it smoother.",
+      "definitions_ex_en": "the horse has to be sedated for its teeth to be rasped",
+      "definitions_ex_vn": "Con ngựa phải được an thần cho răng của nó bị râm lặng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383292_c4eaba841a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383292_ea18ff3957_o.png",
+      "id_image": "rasp_1845996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338391_401baa83d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338391_787ae97031_o.png",
+      "id_image": "rasp_387740"
+    }
+  ]
+}

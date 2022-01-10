@@ -1,0 +1,34 @@
+{
+  "english": "predict",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nói trước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "say or estimate that (a specified thing) will happen in the future or will be a consequence of something.",
+      "definitions_ex_en": "it is too early to predict a result",
+      "definitions_ex_vn": "còn quá sớm để dự đoán kết quả",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444988_da96680c50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444988_f9a4fc92d7_o.png",
+      "id_image": "predict_3380816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374637_c65f59de9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374637_19d58a10cc_o.png",
+      "id_image": "predict_6281540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374617_e9d7fb2f90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374617_7caab359c5_o.png",
+      "id_image": "predict_6281543"
+    }
+  ]
+}

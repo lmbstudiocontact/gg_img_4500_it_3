@@ -1,0 +1,75 @@
+{
+  "english": "romantic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoang đường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lãng mạn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mơ mộng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tiểu thuyết",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "conducive to or characterized by the expression of love.",
+      "definitions_ex_en": "a romantic candlelit dinner",
+      "definitions_ex_vn": "một bữa ăn tối lãng mạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of, characterized by, or suggestive of an idealized view of reality.",
+      "definitions_ex_en": "a romantic attitude toward the past",
+      "definitions_ex_vn": "một thái độ lãng mạn đối với quá khứ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting the artistic and literary movement of romanticism.",
+      "definitions_ex_en": "the romantic tradition",
+      "definitions_ex_vn": "truyền thống lãng mạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person with romantic beliefs or attitudes.",
+      "definitions_ex_en": "I am an incurable romantic",
+      "definitions_ex_vn": "Tôi là một lãng mạn không thể chữa được",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a writer or artist of the romantic movement.",
+      "definitions_ex_en": "Wordsworth, Coleridge, and the later romantics",
+      "definitions_ex_vn": "Wordsworth, Coleridge và những người lãng mạn sau này",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387897_7c3bd7cba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387897_583e687838_o.png",
+      "id_image": "romantic_1911850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698134_4d5c27d968_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698134_3901b38d4f_o.png",
+      "id_image": "romantic_1911853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080315_d7c24c2960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080315_5916b42aaa_o.png",
+      "id_image": "romantic_1911865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080430_b41feee15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080430_be4f611e99_o.png",
+      "id_image": "romantic_325628"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "quit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ly khai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chịu thua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dời đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đầu hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ cờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được thong thả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hết bị ràng buộc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hết bị ràng buộc nợ nần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự bỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "leave (a place), usually permanently.",
+      "definitions_ex_en": "he was ordered to quit the cabin immediately",
+      "definitions_ex_vn": "anh ta được lệnh thoát khỏi cabin ngay lập tức",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "behave in a specified way.",
+      "definitions_ex_en": "quit yourselves like men, and fight",
+      "definitions_ex_vn": "Thoát khỏi chính bạn như đàn ông, và chiến đấu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rid of.",
+      "definitions_ex_en": "I want to be quit of him",
+      "definitions_ex_vn": "Tôi muốn bỏ anh ta",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used in names of various small songbirds found in the Caribbean area, e.g. bananaquit, grassquit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387887_9c494f4216_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387887_2ac1f8a440_o.png",
+      "id_image": "quit_1686708"
+    }
+  ]
+}

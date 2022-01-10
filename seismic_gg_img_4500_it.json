@@ -1,0 +1,29 @@
+{
+  "english": "seismic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa chấn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to earthquakes or other vibrations of the earth and its crust.",
+      "definitions_ex_en": "after a few days of seismic activity the volcanic eruption started",
+      "definitions_ex_vn": "Sau một vài ngày hoạt động địa chấn, vụ phun trào bắt đầu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059610_cceb3d1da8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059610_34c7c74da5_o.png",
+      "id_image": "seismic_1486240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367767_e560063c65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367767_ca1a8ecd1f_o.png",
+      "id_image": "seismic_4016812"
+    }
+  ]
+}

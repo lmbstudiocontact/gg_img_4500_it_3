@@ -1,0 +1,42 @@
+{
+  "english": "shortcut",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cắt ngắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rút gọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tóm lược",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shorter alternative route.",
+      "definitions_ex_en": "they were taking a shortcut to town",
+      "definitions_ex_vn": "họ đã đi một lối tắt đến thị trấn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387827_8b2d05f29f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387827_3c4e606a1e_o.png",
+      "id_image": "shortcut_1322193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342876_52819ba05b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342876_10387562bc_o.png",
+      "id_image": "shortcut_213476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342816_48866938fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342816_4b74247c07_o.png",
+      "id_image": "shortcut_2497409"
+    }
+  ]
+}

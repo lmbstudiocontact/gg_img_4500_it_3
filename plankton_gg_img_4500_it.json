@@ -1,0 +1,29 @@
+{
+  "english": "plankton",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phiêu sinh vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the small and microscopic organisms drifting or floating in the sea or fresh water, consisting chiefly of diatoms, protozoans, small crustaceans, and the eggs and larval stages of larger animals. Many animals are adapted to feed on plankton, especially by filtering the water.",
+      "definitions_ex_en": "prawns change their diet from plant plankton to animal plankton",
+      "definitions_ex_vn": "Tôm thay đổi chế độ ăn uống của họ từ Plankton Plankton đến sinh vật phù du động vật",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343216_1fde5cab7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343216_f022a4a979_o.png",
+      "id_image": "plankton_2507571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080670_b1d30a303f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080670_243a9fa0ea_o.png",
+      "id_image": "plankton_3751478"
+    }
+  ]
+}

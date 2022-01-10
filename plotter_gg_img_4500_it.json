@@ -1,0 +1,53 @@
+{
+  "english": "plotter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người âm mưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người mưu đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phát họa địa đồ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "someone who secretly makes plans to do something illegal or harmful; a conspirator.",
+      "definitions_ex_en": "the trial of alleged coup plotters",
+      "definitions_ex_vn": "Phiên tòa xét xử các máy vẽ đảo chính bị cáo buộc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of equipment that marks out points on a chart.",
+      "definitions_ex_en": "a GPS chart plotter",
+      "definitions_ex_vn": "một máy vẽ biểu đồ gps",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385177_8f42ea3944_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385177_a9faa0b4c9_o.png",
+      "id_image": "plotter_168665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695479_03f55ed258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695479_4410d442a1_o.png",
+      "id_image": "plotter_480657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385102_4e534cf4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385102_958497498b_o.png",
+      "id_image": "plotter_5978180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695419_d1c79d3974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695419_5873f0ed88_o.png",
+      "id_image": "plotter_6419648"
+    }
+  ]
+}

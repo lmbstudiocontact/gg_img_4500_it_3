@@ -1,0 +1,82 @@
+{
+  "english": "punt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chống bằng sào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chống đi bằng sào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuyền đáy bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuyền thúng đẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chống thuyền bằng sào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh cá ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đá trái banh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt tiền đánh bạc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, narrow flat-bottomed boat, square at both ends and propelled with a long pole, used on inland waters chiefly for recreation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of punting a ball.",
+      "definitions_ex_en": "Wood failed to cut out a long punt from Nicholas",
+      "definitions_ex_vn": "Gỗ không thể cắt ra một punt dài từ nicholas",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the basic monetary unit of the Republic of Ireland (until replaced by the euro), equal to 100 Irish pence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel in a punt.",
+      "definitions_ex_en": "in summer you can enjoy punting along the river",
+      "definitions_ex_vn": "Vào mùa hè, bạn có thể tận hưởng những kẻ trừng phạt dọc theo sông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "kick (the ball) after it is dropped from the hands and before it reaches the ground.",
+      "definitions_ex_en": "he used to be able to punt a football farther than anyone",
+      "definitions_ex_vn": "anh ấy đã từng có thể bỏ một quả bóng đá xa hơn bất cứ ai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in some gambling card games) place a bet against the bank.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702234_e067c78b34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702234_04a0e4771a_o.png",
+      "id_image": "punt_2333306"
+    }
+  ]
+}

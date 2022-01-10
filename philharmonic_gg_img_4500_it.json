@@ -1,0 +1,32 @@
+{
+  "english": "philharmonic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "say mê âm nhạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thích âm nhạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự say mê âm nhạc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "devoted to music (chiefly used in the names of orchestras).",
+      "definitions_ex_en": "the Vienna Philharmonic Orchestra",
+      "definitions_ex_vn": "Dàn nhạc Vienna Philharmonic",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394947_e23115899f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394947_6325e60854_o.png",
+      "id_image": "philharmonic_831491"
+    }
+  ]
+}

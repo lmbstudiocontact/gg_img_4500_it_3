@@ -1,0 +1,29 @@
+{
+  "english": "racism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỳ thị chủng tộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "prejudice, discrimination, or antagonism directed against a person or people on the basis of their membership in a particular racial or ethnic group, typically one that is a minority or marginalized.",
+      "definitions_ex_en": "a program to combat racism",
+      "definitions_ex_vn": "một chương trình để chiến đấu phân biệt chủng tộc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341941_a90e30e0ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341941_6a9a3ccb49_o.png",
+      "id_image": "racism_3113405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341871_bce98efb6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341871_840f1ef663_o.png",
+      "id_image": "racism_3956792"
+    }
+  ]
+}

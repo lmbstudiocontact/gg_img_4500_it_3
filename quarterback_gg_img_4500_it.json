@@ -1,0 +1,30 @@
+{
+  "english": "quarterback",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ném banh cà na ở mỹ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a player positioned behind the center who directs a team's offensive play.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "play as a quarterback for (a particular team).",
+      "definitions_ex_en": "he spent last fall quarterbacking the scout team",
+      "definitions_ex_vn": "Ông đã dành tiền vệ sinh cuối cùng của đội trinh sát",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344586_02b52f7bf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344586_f6ffae87c6_o.png",
+      "id_image": "quarterback_4443622"
+    }
+  ]
+}

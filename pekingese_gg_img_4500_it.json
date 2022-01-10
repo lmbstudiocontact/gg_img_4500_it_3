@@ -1,0 +1,47 @@
+{
+  "english": "pekingese",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về người Bắc kinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chó Bắc kinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dân Bắc kinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người Bắc kinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a lapdog of a short-legged breed with long hair and a snub nose, originally brought to Europe from the Summer Palace at Beijing (Peking) in 1860.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to Beijing, its citizens, or their culture or cuisine.",
+      "definitions_ex_en": "Cantonese and Pekinese recipes",
+      "definitions_ex_vn": "Công thức nấu ăn Quảng Đông và Pekinese",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059940_040577e2a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059940_49fd1529a1_o.png",
+      "id_image": "pekingese_1820911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059895_d5939c5a1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059895_ed17246340_o.png",
+      "id_image": "pekingese_3002892"
+    }
+  ]
+}

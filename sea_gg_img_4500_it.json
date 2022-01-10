@@ -1,0 +1,38 @@
+{
+  "english": "sea",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the expanse of salt water that covers most of the earth's surface and surrounds its landmasses.",
+      "definitions_ex_en": "a ban on dumping radioactive wastes in the sea",
+      "definitions_ex_vn": "Một lệnh cấm đổ chất thải phóng xạ trên biển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680804_0e70312dbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680804_fea01cc774_o.png",
+      "id_image": "sea_1867451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370472_cc4f9f1be6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370472_46f3e98a8f_o.png",
+      "id_image": "sea_2507565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325616_25db719038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325616_0443e91933_o.png",
+      "id_image": "sea_5398376"
+    }
+  ]
+}

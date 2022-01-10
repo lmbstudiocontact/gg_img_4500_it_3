@@ -1,0 +1,30 @@
+{
+  "english": "parse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân giải ngữ loại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "analyze (a sentence) into its parts and describe their syntactic roles.",
+      "definitions_ex_en": "I asked a couple of students to parse these sentences for me",
+      "definitions_ex_vn": "Tôi đã hỏi một vài sinh viên để phân tích những câu này cho tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of or the result obtained by parsing a string or a text.",
+      "definitions_ex_en": "a failed parse was retried",
+      "definitions_ex_vn": "một phân tích thất bại đã được thử lại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446558_11ee518e10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446558_8f9757cf16_o.png",
+      "id_image": "parse_2620595"
+    }
+  ]
+}

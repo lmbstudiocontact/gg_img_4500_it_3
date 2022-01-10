@@ -1,0 +1,48 @@
+{
+  "english": "risk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự may rủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngẩu nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liều cho may rủi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a situation involving exposure to danger.",
+      "definitions_ex_en": "flouting the law was too much of a risk",
+      "definitions_ex_vn": "Đưa ra luật là một rủi ro quá nhiều",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "expose (someone or something valued) to danger, harm, or loss.",
+      "definitions_ex_en": "he risked his life to save his dog",
+      "definitions_ex_vn": "Anh ấy đã mạo hiểm cuộc sống của mình để cứu con chó của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390452_4e8714252c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390452_1d1f0e1e31_o.png",
+      "id_image": "risk_2761107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082860_8b5b1ca1a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082860_e79ff58eb2_o.png",
+      "id_image": "risk_5361574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460248_7e0392d29f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460248_fca89c3882_o.png",
+      "id_image": "risk_648987"
+    }
+  ]
+}

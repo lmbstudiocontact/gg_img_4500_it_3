@@ -1,0 +1,85 @@
+{
+  "english": "pole",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắc cực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây sào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cực điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa cực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đơn vị đo lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gọng xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chống bằng sào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẩy bằng sào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, slender, rounded piece of wood or metal, typically used with one end placed in the ground as a support for something.",
+      "definitions_ex_en": "a tent pole",
+      "definitions_ex_vn": "một cọc lều",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "either of the two locations ( North Pole or South Pole ) on the surface of the earth (or of a celestial object) which are the northern and southern ends of the axis of rotation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for pole position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a native or inhabitant of Poland, or a person of Polish descent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "propel (a boat) by pushing a pole against the bottom of a river, canal, or lake.",
+      "definitions_ex_en": "the boatman appeared, poling a small gondola",
+      "definitions_ex_vn": "Người chèo thuyền xuất hiện, đánh bóng một chiếc thuyền nhỏ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693109_4177e27e34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693109_1c060d6ae7_o.png",
+      "id_image": "pole_1588834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452663_214215cc5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452663_0106a56c52_o.png",
+      "id_image": "pole_4276356"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "residential",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về chổ ở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về nhà ở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trú sở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dùng để ở",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "designed for people to live in.",
+      "definitions_ex_en": "private residential and nursing homes",
+      "definitions_ex_vn": "Nhà tư nhân và nhà dưỡng lão",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676949_00a24bc0df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676949_9fcfec3a6e_o.png",
+      "id_image": "residential_2947576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706619_ae43d5c97d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706619_527b2bf4a8_o.png",
+      "id_image": "residential_3053792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466613_db444a2acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466613_0592461811_o.png",
+      "id_image": "residential_4413920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396807_239830be0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396807_c6ae80dc09_o.png",
+      "id_image": "residential_4698496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089270_5373e52ebe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089270_8b62caaa00_o.png",
+      "id_image": "residential_6289587"
+    }
+  ]
+}

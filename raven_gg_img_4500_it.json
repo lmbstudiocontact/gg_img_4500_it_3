@@ -1,0 +1,81 @@
+{
+  "english": "raven",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con quạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắn xé",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cưỡng đoạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cướp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cướp đoạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi kiếm mồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giựt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large heavily built crow with mainly black plumage, feeding chiefly on carrion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the constellation Corvus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of hair) of a glossy black color.",
+      "definitions_ex_en": "thick raven hair",
+      "definitions_ex_vn": "Tóc quạ dày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a ferocious wild animal) hunt for prey.",
+      "definitions_ex_en": "fierce lions went ravening to and fro",
+      "definitions_ex_vn": "sư tử hung dữ đã đi qua và fro",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074505_31380f7d90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074505_b56022dbc2_o.png",
+      "id_image": "raven_1089476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382437_15ce46338c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382437_0c8fecf12f_o.png",
+      "id_image": "raven_1339641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692774_8ba00b7964_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692774_261147567f_o.png",
+      "id_image": "raven_218287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692699_9fce67ddbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692699_3a8fc13fed_o.png",
+      "id_image": "raven_3330564"
+    }
+  ]
+}

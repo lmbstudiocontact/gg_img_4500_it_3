@@ -1,0 +1,72 @@
+{
+  "english": "relax",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dản ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho yếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhẹ bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lỏng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nới ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩ ngơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhuận trường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thư giãn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dưỡng sức",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become less tense or anxious.",
+      "definitions_ex_en": "he relaxed and smiled confidently",
+      "definitions_ex_vn": "Anh thư giãn và mỉm cười tự tin",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (a rule or restriction) less strict while not abolishing it.",
+      "definitions_ex_en": "they persuaded the local authorities concerned to relax their restrictions",
+      "definitions_ex_vn": "Họ đã thuyết phục các chính quyền địa phương liên quan để thư giãn các hạn chế của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442808_e26701eaa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442808_93e9a86a54_o.png",
+      "id_image": "relax_4600886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327781_b63e62e009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327781_1214583e38_o.png",
+      "id_image": "relax_4647910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682779_a23740e83e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682779_18375c1108_o.png",
+      "id_image": "relax_4891431"
+    }
+  ]
+}

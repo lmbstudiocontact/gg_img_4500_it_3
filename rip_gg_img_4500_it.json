@@ -1,0 +1,123 @@
+{
+  "english": "rip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ rách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường rách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa già",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ăn chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trụy lạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chẻ củi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chẻ dọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cưa dọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xé để mở vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xé ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "tear or pull (something) quickly or forcibly away from something or someone.",
+      "definitions_ex_en": "a fan tried to rip his pants off during a show",
+      "definitions_ex_vn": "Một người hâm mộ đã cố gắng xé quần của mình trong một chương trình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move forcefully and rapidly.",
+      "definitions_ex_en": "fire ripped through her bungalow",
+      "definitions_ex_vn": "lửa xé toạc bungalow của cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use a program to copy (material from a CD or DVD) on to a computer's hard drive.",
+      "definitions_ex_en": "every Beatles song ever made, ripped from my boxed set of CDs",
+      "definitions_ex_vn": "Mỗi bài hát Beatles từng được thực hiện, xé toạc bộ đĩa CD đóng hộp của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rasterize (an image).",
+      "definitions_ex_en": "once you are happy with the image, you can rip it out",
+      "definitions_ex_vn": "Một khi bạn hài lòng với hình ảnh, bạn có thể xé nó ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a long tear or cut.",
+      "definitions_ex_en": "there was a rip in his sweatshirt",
+      "definitions_ex_vn": "Có một vết rách trong áo của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stretch of fast-flowing and rough water in the sea or in a river, caused by the meeting of currents.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dissolute immoral person, especially a man.",
+      "definitions_ex_en": "“Where is that old rip?” a deep voice shouted",
+      "definitions_ex_vn": "\"Rip cũ đó ở đâu?\"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a worthless horse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a raster image processor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rest in peace (used on grave markers).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460703_91e2de6990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460703_f3fc760247_o.png",
+      "id_image": "rip_4966467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083355_0c5f1d5c72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083355_8cf978d3f4_o.png",
+      "id_image": "rip_5664161"
+    }
+  ]
+}

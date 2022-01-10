@@ -1,0 +1,29 @@
+{
+  "english": "rename",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đổi tên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give a new name to (someone or something).",
+      "definitions_ex_en": "after independence Celebes was renamed Sulawesi",
+      "definitions_ex_vn": "Sau khi celebes độc lập được đổi tên thành Sulawesi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062045_8ffb7876ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062045_76eef988e3_o.png",
+      "id_image": "rename_5115551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325196_40f4d4c977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325196_9578812acb_o.png",
+      "id_image": "rename_5200029"
+    }
+  ]
+}

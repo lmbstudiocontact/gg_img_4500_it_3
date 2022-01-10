@@ -1,0 +1,160 @@
+{
+  "english": "pipe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái tẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cần chìa khóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí quản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "còi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống dẩn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cọng rơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống dẩn hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuống họng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống điếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống sáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng hót của chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tu hít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt ống nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi ống sáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi ống tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi tu hít",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi vù vù",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tube of metal, plastic, or other material used to convey water, gas, oil, or other fluid substances.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a narrow tube made from wood, clay, etc., with a bowl at one end for containing burning tobacco, the smoke from which is drawn into the mouth.",
+      "definitions_ex_en": "a smell of pipe tobacco",
+      "definitions_ex_vn": "một mùi thuốc lá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wind instrument consisting of a single tube with holes along its length that are covered by the fingers to produce different notes.",
+      "definitions_ex_en": "a reed pipe",
+      "definitions_ex_vn": "một ống sậy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a command which causes the output from one routine to be the input for another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cask for wine, especially as a measure equal to two hogsheads, usually equivalent to 105 gallons (about 477 liters).",
+      "definitions_ex_en": "a fresh pipe of port",
+      "definitions_ex_vn": "một đường ống tươi của cảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convey (water, gas, oil, or other fluid substances) through a pipe or pipes.",
+      "definitions_ex_en": "water from the lakes is piped to several towns",
+      "definitions_ex_vn": "nước từ hồ được đường ống đến một số thị trấn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play (a tune) on a pipe or pipes.",
+      "definitions_ex_en": "he believed he'd heard music—a tune being piped",
+      "definitions_ex_vn": "Ông tin rằng anh ta đã nghe nhạc - một giai điệu đang được đường ống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bird) sing in a high or shrill voice.",
+      "definitions_ex_en": "outside at the back a curlew piped",
+      "definitions_ex_vn": "Bên ngoài ở phía sau một đường ống Curlew",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decorate (clothing or soft furnishings) with a thin cord covered in fabric.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put (a decorative line or pattern) on a cake or similar dish using icing, whipped cream, etc.",
+      "definitions_ex_en": "she had been piping cream around a flan",
+      "definitions_ex_vn": "Cô đã được làm kem xung quanh một flan",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345576_cc798765a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345576_c39f32b591_o.png",
+      "id_image": "pipe_252554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345551_f7881dcf35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345551_340f27b9b8_o.png",
+      "id_image": "pipe_448320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460298_2a6b3b8af7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460298_e354c8ba83_o.png",
+      "id_image": "pipe_5672218"
+    }
+  ]
+}

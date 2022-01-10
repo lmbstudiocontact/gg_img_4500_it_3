@@ -1,0 +1,76 @@
+{
+  "english": "picture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bức hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bức họa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tranh ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bức tranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình vẽ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "miêu tả bằng tranh ảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẽ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a painting or drawing.",
+      "definitions_ex_en": "draw a picture of a tree",
+      "definitions_ex_vn": "Vẽ một hình ảnh của một cái cây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "represent (someone or something) in a photograph or picture.",
+      "definitions_ex_en": "he is pictured with party guests",
+      "definitions_ex_vn": "anh ấy được hình dung với những vị khách tiệc tùng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702769_5d6e67b59b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702769_79480f8eb4_o.png",
+      "id_image": "picture_147430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392912_c1030e4216_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392912_47c2f26731_o.png",
+      "id_image": "picture_305736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348001_11a827269e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348001_181ff3ba23_o.png",
+      "id_image": "picture_868201"
+    }
+  ]
+}

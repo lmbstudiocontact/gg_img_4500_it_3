@@ -1,0 +1,51 @@
+{
+  "english": "sensitive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có cãm giác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về cãm giác",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "quick to detect or respond to slight changes, signals, or influences.",
+      "definitions_ex_en": "the new method of protein detection was more sensitive than earlier ones",
+      "definitions_ex_vn": "Phương pháp phát hiện protein mới nhạy cảm hơn so với các phương tiện trước đó",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person or a person's behavior) having or displaying a quick and delicate appreciation of others' feelings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "kept secret or with restrictions on disclosure to avoid endangering security.",
+      "definitions_ex_en": "he was suspected of passing sensitive information to other countries",
+      "definitions_ex_vn": "Ông bị nghi ngờ truyền thông tin nhạy cảm với các nước khác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who is believed to respond to occult influences.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087355_c65d9ff2c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087355_e8b69a9593_o.png",
+      "id_image": "sensitive_6001177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350066_a2dd11449b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350066_5a59e100e3_o.png",
+      "id_image": "sensitive_6003068"
+    }
+  ]
+}

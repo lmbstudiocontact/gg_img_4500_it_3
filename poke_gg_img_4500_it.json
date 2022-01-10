@@ -1,0 +1,105 @@
+{
+  "english": "poke",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xô",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chen vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chọc người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẩy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạt bằng đủa sắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở bằng đủa sắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xen vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "jab or prod (someone or something), especially with one's finger.",
+      "definitions_ex_en": "he poked Benny in the ribs and pointed",
+      "definitions_ex_vn": "Anh chọc Benny trong xương sườn và chỉ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "thrust (something) in a particular direction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of poking someone or something.",
+      "definitions_ex_en": "she gave the fire a poke",
+      "definitions_ex_vn": "Cô ấy đã cho lửa một kẻ chọc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a look or search around a place.",
+      "definitions_ex_en": "his mother comes into his room sometimes and has a poke around",
+      "definitions_ex_vn": "Đôi khi mẹ anh đi vào phòng anh và có một sự chọc cười",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a woman's bonnet with a projecting brim or front, popular especially in the early 19th century.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for pokeweed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for false hellebore.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a Hawaiian dish of marinated raw fish or seafood, often served over rice.",
+      "definitions_ex_en": "a buffet full of Hawaiian favorites like fresh poke",
+      "definitions_ex_vn": "Một bữa tiệc buffet đầy yêu thích của Hawaii như Poke tươi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338046_df05f1e7d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338046_1b3a3da102_o.png",
+      "id_image": "poke_4647359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452923_c41bbe0cc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452923_6d49456a08_o.png",
+      "id_image": "poke_5507904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075025_8845aa4efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075025_8ded8d216c_o.png",
+      "id_image": "poke_5507925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337961_b4de4cbd5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337961_703226f305_o.png",
+      "id_image": "poke_6159105"
+    }
+  ]
+}

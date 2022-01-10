@@ -1,0 +1,62 @@
+{
+  "english": "pest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây cối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "côn trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thú vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a destructive insect or other animal that attacks crops, food, livestock, etc.",
+      "definitions_ex_en": "the tomato plant attracts a pest called whitefly",
+      "definitions_ex_vn": "Nhà máy cà chua thu hút một dịch hại gọi là Whitefly",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an annoying person or thing; a nuisance.",
+      "definitions_ex_en": "he was a real pest",
+      "definitions_ex_vn": "anh ấy là một loài gây hại thực sự",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bubonic plague.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364787_6ecc64b1e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364787_8f61629fda_o.png",
+      "id_image": "pest_1345383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320016_9cfbd053ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320016_19b769ccb7_o.png",
+      "id_image": "pest_2674474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320011_6fb1dbe270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320011_6be14bbcb1_o.png",
+      "id_image": "pest_4212893"
+    }
+  ]
+}

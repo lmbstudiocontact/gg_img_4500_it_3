@@ -1,0 +1,33 @@
+{
+  "english": "scenery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ trang trí cho gánh hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phong cảnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the natural features of a landscape considered in terms of their appearance, especially when picturesque.",
+      "definitions_ex_en": "spectacular views of mountain scenery",
+      "definitions_ex_vn": "Quan điểm ngoạn mục của cảnh núi non",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686549_ee7f866c32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686549_94ff3719d1_o.png",
+      "id_image": "scenery_3873789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331506_c37a3189b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331506_600d447abf_o.png",
+      "id_image": "scenery_4215271"
+    }
+  ]
+}

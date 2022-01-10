@@ -1,0 +1,58 @@
+{
+  "english": "rabbit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người nhát gan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhút nhát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "săn thỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a burrowing, gregarious, plant-eating mammal with long ears, long hind legs, and a short tail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hunt rabbits.",
+      "definitions_ex_en": "locate the area where you can go rabbiting",
+      "definitions_ex_vn": "Xác định vị trí khu vực nơi bạn có thể đi thỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move quickly; run away.",
+      "definitions_ex_en": "he rabbited as soon as he saw us coming",
+      "definitions_ex_vn": "Thỏ ngay khi nhìn thấy chúng tôi đến",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387357_9543253dd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387357_0599466ed4_o.png",
+      "id_image": "rabbit_123961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697519_6c821d9f79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697519_df67dc39bb_o.png",
+      "id_image": "rabbit_183964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342291_4f95b6de44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342291_3107b28c5c_o.png",
+      "id_image": "rabbit_543170"
+    }
+  ]
+}

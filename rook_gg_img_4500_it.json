@@ -1,0 +1,57 @@
+{
+  "english": "rook",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giáo sĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống quạ đen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cờ bạc lận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy tu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cờ bạc gian lận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gregarious Eurasian crow with black plumage and a bare face, nesting in colonies in treetops.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a chess piece, typically with its top in the shape of a battlement, that can move in any direction along a rank or file on which it stands. Each player starts the game with two rooks at opposite ends of the first rank.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "defraud, overcharge, or swindle (someone).",
+      "definitions_ex_en": "police files are overflowing with complaints from people who've been rooked",
+      "definitions_ex_vn": "Các tập tin của cảnh sát đang tràn ngập những lời phàn nàn từ những người đã được tân binh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387712_337f6ec15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387712_1110a60097_o.png",
+      "id_image": "rook_3915628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342696_91592670b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342696_775ba056db_o.png",
+      "id_image": "rook_605988"
+    }
+  ]
+}

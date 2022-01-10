@@ -1,0 +1,164 @@
+{
+  "english": "raise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gây ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề khởi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thâu thuế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trồng rau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dựng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây dựng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm tiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xúi giục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiến trúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuôi súc vật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhổ trại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự lên lương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tăng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tăng lương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tố thêm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lift or move to a higher position or level.",
+      "definitions_ex_en": "she raised both arms above her head",
+      "definitions_ex_vn": "Cô giơ cả hai tay lên trên đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "increase the amount, level, or strength of.",
+      "definitions_ex_en": "the bank raised interest rates",
+      "definitions_ex_vn": "Ngân hàng tăng lãi suất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to occur or to be considered.",
+      "definitions_ex_en": "the alarm was raised when he failed to return home",
+      "definitions_ex_vn": "Báo động đã được nâng lên khi anh ta không trở về nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "collect, levy, or bring together (money or resources).",
+      "definitions_ex_en": "she was attempting to raise $20,000",
+      "definitions_ex_vn": "Cô đã cố gắng nâng 20.000 đô la",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring up (a child).",
+      "definitions_ex_en": "he was born and raised in San Francisco",
+      "definitions_ex_vn": "Ông sinh ra và lớn lên ở San Francisco",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring (someone) back from death.",
+      "definitions_ex_en": "God raised Jesus from the dead",
+      "definitions_ex_vn": "Chúa giơ Jesus từ cõi chết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "abandon or force an enemy to abandon (a siege, blockade, or embargo).",
+      "definitions_ex_en": "in late April Henry decided to raise the siege",
+      "definitions_ex_vn": "Vào cuối tháng Tư Henry quyết định nâng cao cuộc bao vây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "drive (an animal) from its lair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of someone at sea) come in sight of (land or another ship).",
+      "definitions_ex_en": "they raised the low coast by evening",
+      "definitions_ex_vn": "Họ nuôi bờ biển thấp vào buổi tối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stimulate production of (an antiserum, antibody, or other biologically active substance) against the appropriate target cell or substance.",
+      "definitions_ex_en": "monoclonal antibodies raised against human lymphocytes",
+      "definitions_ex_vn": "Kháng thể đơn sắc lớn lên chống lại tế bào lympho của con người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in poker or brag) an increase in a stake.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of lifting or raising a part of the body while holding a weight.",
+      "definitions_ex_en": "bent-over raises",
+      "definitions_ex_vn": "tăng giá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384472_4cf5c1d3f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384472_4de00f4e73_o.png",
+      "id_image": "raise_2201799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384442_62863eec24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384442_ab61e45fae_o.png",
+      "id_image": "raise_2358297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339491_2f4d843b6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339491_44ae4ddc4d_o.png",
+      "id_image": "raise_2358359"
+    }
+  ]
+}

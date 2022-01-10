@@ -1,0 +1,39 @@
+{
+  "english": "refund",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự trả lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trả tiền lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pay back (money), typically to a customer who is not satisfied with goods or services bought.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a repayment of a sum of money, typically to a dissatisfied customer.",
+      "definitions_ex_en": "you are entitled to reject it and insist on a refund",
+      "definitions_ex_vn": "Bạn có quyền từ chối nó và nhấn mạnh vào một khoản hoàn lại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067045_4bc9ebb76e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067045_b21b71d9b0_o.png",
+      "id_image": "refund_290945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067000_e7d2326b0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067000_eaba76a93b_o.png",
+      "id_image": "refund_2947577"
+    }
+  ]
+}

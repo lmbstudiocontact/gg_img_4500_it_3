@@ -1,0 +1,76 @@
+{
+  "english": "progress",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc kinh lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc thị sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến tới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến triển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi kinh lý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tới trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi thị sát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát triển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiến bộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "forward or onward movement toward a destination.",
+      "definitions_ex_en": "the darkness did not stop my progress",
+      "definitions_ex_vn": "Bóng tối đã không ngăn chặn sự tiến bộ của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move forward or onward in space or time.",
+      "definitions_ex_en": "as the century progressed, the quality of telescopes improved",
+      "definitions_ex_vn": "Khi thế kỷ tiến triển, chất lượng kính thiên văn được cải thiện",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321031_855ab09439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321031_4491aee601_o.png",
+      "id_image": "progress_5672044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676079_e2b1af72ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676079_f1bd2b8f88_o.png",
+      "id_image": "progress_5672330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436273_479b44f692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436273_7fb1841aec_o.png",
+      "id_image": "progress_943765"
+    }
+  ]
+}

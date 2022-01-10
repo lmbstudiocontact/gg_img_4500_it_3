@@ -1,0 +1,37 @@
+{
+  "english": "satanic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ác độc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hung dữ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tàn ác",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or characteristic of Satan.",
+      "definitions_ex_en": "the Charismatic Movement continues its relentless search for evidence of satanic influence",
+      "definitions_ex_vn": "phong trào lôi cuốn tiếp tục tìm kiếm không ngừng tìm kiếm bằng chứng về ảnh hưởng satanic",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689534_d2a4114207_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689534_337ce55187_o.png",
+      "id_image": "satanic_1630040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071405_b102d964e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071405_29dfc402df_o.png",
+      "id_image": "satanic_2835133"
+    }
+  ]
+}

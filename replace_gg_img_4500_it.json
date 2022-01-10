@@ -1,0 +1,47 @@
+{
+  "english": "replace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đặt lại chổ củ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để lại chổ củ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay thế vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thế người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take the place of.",
+      "definitions_ex_en": "Ian's smile was replaced by a frown",
+      "definitions_ex_vn": "Nụ cười của Ian đã được thay thế bằng một cái nhíu mày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put (something) back in a previous place or position.",
+      "definitions_ex_en": "he drained his glass and replaced it on the bar",
+      "definitions_ex_vn": "anh ta rút ly của mình và thay thế nó trên quán bar",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678689_c4895da23f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678689_5ae6942779_o.png",
+      "id_image": "replace_4776514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368417_ec8cc33572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368417_60976f305f_o.png",
+      "id_image": "replace_536914"
+    }
+  ]
+}

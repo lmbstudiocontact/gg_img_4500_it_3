@@ -1,0 +1,71 @@
+{
+  "english": "pressure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áp lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự áp bức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự áp chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đè lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ép",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "continuous physical force exerted on or against an object by something in contact with it.",
+      "definitions_ex_en": "the slight extra pressure he applied to her hand",
+      "definitions_ex_vn": "áp lực nhẹ hơn anh ta áp dụng vào tay cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the use of persuasion, influence, or intimidation to make someone do something.",
+      "definitions_ex_en": "the many pressures on girls to worry about their looks",
+      "definitions_ex_vn": "Nhiều áp lực đối với các cô gái phải lo lắng về ngoại hình của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attempt to persuade or coerce (someone) into doing something.",
+      "definitions_ex_en": "it might now be possible to pressure him into resigning",
+      "definitions_ex_vn": "Bây giờ có thể gây áp lực cho anh ta từ chức",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064035_0d64c59888_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064035_ce8252b9bf_o.png",
+      "id_image": "pressure_1743678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327121_7012a79522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327121_0382421003_o.png",
+      "id_image": "pressure_3233076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371797_4c03229a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371797_67f9197fdb_o.png",
+      "id_image": "pressure_4593052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064065_7a225fc8b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064065_304d4bd89f_o.png",
+      "id_image": "pressure_560666"
+    }
+  ]
+}

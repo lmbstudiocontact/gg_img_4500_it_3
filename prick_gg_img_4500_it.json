@@ -1,0 +1,86 @@
+{
+  "english": "prick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đâm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "châm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chấm dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thúc cho ngựa đi tới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dấu chấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu đâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chích bằng kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đâm bằng kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make a small hole in (something) with a sharp point; pierce slightly.",
+      "definitions_ex_en": "prick the potatoes with a fork",
+      "definitions_ex_vn": "chích khoai tây với một cái nĩa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(especially of a horse or dog) make (the ears) stand erect when on the alert.",
+      "definitions_ex_en": "the dog's tail was wagging and her ears were pricked",
+      "definitions_ex_vn": "Đuôi chó đang vẫy và tai cô bị chích",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of piercing something with a fine, sharp point.",
+      "definitions_ex_en": "the pin prick had produced a drop of blood",
+      "definitions_ex_vn": "Pin Pick đã tạo ra một giọt máu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a spiked stick used for driving oxen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681199_3253620d20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681199_b5b3dfb50c_o.png",
+      "id_image": "prick_5154883"
+    }
+  ]
+}

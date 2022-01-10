@@ -1,0 +1,41 @@
+{
+  "english": "phantom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ma",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộng tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quái tượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yêu quái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a ghost.",
+      "definitions_ex_en": "a phantom who haunts lonely roads",
+      "definitions_ex_vn": "Một bóng ma ám ảnh những con đường cô đơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350446_1832f61809_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350446_72edb0bc4d_o.png",
+      "id_image": "phantom_675147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395227_7ed850710e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395227_85ee1d48f4_o.png",
+      "id_image": "phantom_821772"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "scapegoat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người hàm oan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is blamed for the wrongdoings, mistakes, or faults of others, especially for reasons of expediency.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Bible) a goat sent into the wilderness after the Jewish chief priest had symbolically laid the sins of the people upon it (Lev. 16).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a scapegoat of.",
+      "definitions_ex_en": "few things are harder for kids to bear than being scapegoated",
+      "definitions_ex_vn": "Vài điều khó gây khó khăn hơn là bị di truyền",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332306_ac3c41745e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332306_f8bc3065a5_o.png",
+      "id_image": "scapegoat_2473165"
+    }
+  ]
+}

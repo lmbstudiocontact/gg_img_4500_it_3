@@ -1,0 +1,73 @@
+{
+  "english": "ruin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "di tích của vật đổ nát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phế tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổ nát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự diệt vong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy đồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tai họa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cám dổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dụ dổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hư",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the physical destruction or disintegration of something or the state of disintegrating or being destroyed.",
+      "definitions_ex_en": "a large white house falling into gentle ruin",
+      "definitions_ex_vn": "Một ngôi nhà lớn màu trắng rơi vào tàn tích nhẹ nhàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reduce (a building or place) to a state of decay, collapse, or disintegration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fall headlong or with a crash.",
+      "definitions_ex_en": "carriages go ruining over the brink from time to time",
+      "definitions_ex_vn": "Các toa xe bị hủy hoại trên bờ vực theo thời gian",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695124_300fafe58d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695124_6c1c7fc343_o.png",
+      "id_image": "ruin_1171212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339876_d000aa6aa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339876_e57e017f92_o.png",
+      "id_image": "ruin_1594699"
+    }
+  ]
+}

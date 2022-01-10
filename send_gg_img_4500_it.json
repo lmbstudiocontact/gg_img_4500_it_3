@@ -1,0 +1,59 @@
+{
+  "english": "send",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gởi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm chạy tới",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause to go or be taken to a particular destination; arrange for the delivery of, especially by mail.",
+      "definitions_ex_en": "we sent a reminder letter but received no reply",
+      "definitions_ex_vn": "Chúng tôi đã gửi thư nhắc nhở nhưng không nhận được trả lời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "variant spelling of scend (verb).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "variant spelling of scend (noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350241_a17b9cd11e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350241_7832227d11_o.png",
+      "id_image": "send_1674944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394987_f3484e8832_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394987_c254d9cce4_o.png",
+      "id_image": "send_3893142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087425_e2fbdf04d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087425_98c1ed7f97_o.png",
+      "id_image": "send_4313102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350256_f15c2558ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350256_2031b62793_o.png",
+      "id_image": "send_928908"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "resource",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phương pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiêu khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủ đoạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a stock or supply of money, materials, staff, and other assets that can be drawn on by a person or organization in order to function effectively.",
+      "definitions_ex_en": "local authorities complained that they lacked resources",
+      "definitions_ex_vn": "Chính quyền địa phương phàn nàn rằng họ thiếu tài nguyên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an action or strategy which may be adopted in adverse circumstances.",
+      "definitions_ex_en": "sometimes anger is the only resource left in a situation like this",
+      "definitions_ex_vn": "Đôi khi sự tức giận là tài nguyên duy nhất còn lại trong một tình huống như thế này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a leisure occupation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (a person or organization) with materials, money, staff, and other assets necessary for effective operation.",
+      "definitions_ex_en": "ensuring that primary healthcare workers are adequately resourced",
+      "definitions_ex_vn": "Đảm bảo rằng nhân viên chăm sóc sức khỏe ban đầu được cung cấp đầy đủ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088440_0fb98b4aab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088440_e361ffc462_o.png",
+      "id_image": "resource_1924429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705754_2f69554970_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705754_bbb69b5964_o.png",
+      "id_image": "resource_4001264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395912_a86877cdf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395912_b0ebc443bf_o.png",
+      "id_image": "resource_4127088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351226_bda17d3fb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351226_724a40a680_o.png",
+      "id_image": "resource_5661470"
+    }
+  ]
+}

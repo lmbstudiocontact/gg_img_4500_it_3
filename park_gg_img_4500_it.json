@@ -1,0 +1,89 @@
+{
+  "english": "park",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ đậu xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng đất rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi đậu xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vườn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đậu xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem đồ vào xưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rào lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large public green area in a town, used for recreation.",
+      "definitions_ex_en": "a walk around the park",
+      "definitions_ex_vn": "đi dạo quanh công viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area devoted to a specified purpose.",
+      "definitions_ex_en": "an industrial park",
+      "definitions_ex_vn": "một khu công nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a car with automatic transmission) the position of the gear selector in which the gears are locked, preventing the vehicle's movement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bring (a vehicle that one is driving) to a halt and leave it temporarily, typically in a parking lot or by the side of the road.",
+      "definitions_ex_en": "he parked his car outside her house",
+      "definitions_ex_vn": "Anh đậu xe ra ngoài nhà cô.",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068915_790de22a4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068915_7e56880103_o.png",
+      "id_image": "park_1381963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376917_1f4642bc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376917_beb30b6fba_o.png",
+      "id_image": "park_1911298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068830_f427595c91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068830_4df4ab3098_o.png",
+      "id_image": "park_5389811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068980_69c9de947c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068980_ed21a61f3b_o.png",
+      "id_image": "park_553941"
+    }
+  ]
+}

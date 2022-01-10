@@ -1,0 +1,60 @@
+{
+  "english": "pulp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầu mút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủy răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt trái cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghiền cho nhiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền nát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xay hột cà phê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền thành bột",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a soft, wet, shapeless mass of material.",
+      "definitions_ex_en": "boiling with soda will reduce your peas to pulp",
+      "definitions_ex_vn": "Đun sôi với soda sẽ làm giảm đậu Hà Lan của bạn vào bột giấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "popular or sensational writing that is generally regarded as being of poor quality.",
+      "definitions_ex_en": "the story is a mix of pulp fiction and Greek tragedy",
+      "definitions_ex_vn": "Câu chuyện là một sự pha trộn của Tiểu thuyết Pulp và Bi kịch Hy Lạp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "crush into a soft, shapeless mass.",
+      "definitions_ex_en": "bales of waste paper were chopped, shredded, and pulped",
+      "definitions_ex_vn": "kiện giấy thải đã được cắt nhỏ, băm nhỏ và nghiền mịn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085270_d1d812e11d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085270_3d9e83501b_o.png",
+      "id_image": "pulp_2015256"
+    }
+  ]
+}

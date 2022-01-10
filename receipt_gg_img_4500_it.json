@@ -1,0 +1,73 @@
+{
+  "english": "receipt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biên lai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy biên lai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số tiền thâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thâu tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thâu thuế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng dấu trên hóa đơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm biên lai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm biên nhận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of receiving something or the fact of its being received.",
+      "definitions_ex_en": "I would be grateful if you would acknowledge receipt of this letter",
+      "definitions_ex_vn": "Tôi sẽ biết ơn nếu bạn sẽ thừa nhận đã nhận được bức thư này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a recipe.",
+      "definitions_ex_en": "she spent hours in the kitchen, trying all sorts of receipts",
+      "definitions_ex_vn": "Cô đã dành hàng giờ trong bếp, thử tất cả các loại biên lai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark (a bill) as paid.",
+      "definitions_ex_en": "one copy can be receipted and returned to you",
+      "definitions_ex_vn": "Một bản sao có thể được nhận và trả lại cho bạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381357_e3a9f4ab3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381357_b48e720bee_o.png",
+      "id_image": "receipt_1652599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073265_61248c0056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073265_42114c6b12_o.png",
+      "id_image": "receipt_4116585"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "server",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người dọn ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giao banh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that provides a service or commodity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a computer or computer program which manages access to a centralized resource or service in a network.",
+      "definitions_ex_en": "the software runs on a variety of Unix servers",
+      "definitions_ex_vn": "Phần mềm chạy trên nhiều máy chủ UNIX",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349166_70c2af00e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349166_2b6e9ec8a2_o.png",
+      "id_image": "server_122916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393927_d9f813d820_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393927_4cffc15bf4_o.png",
+      "id_image": "server_627437"
+    }
+  ]
+}

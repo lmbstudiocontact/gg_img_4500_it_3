@@ -1,0 +1,109 @@
+{
+  "english": "purchase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo neo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chổ dựa vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm tựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắm được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức cơ khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tậu được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tậu sắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật mua được",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "acquire (something) by paying for it; buy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "haul in (a rope or cable) or haul up (an anchor) by means of a pulley, lever, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of buying something.",
+      "definitions_ex_en": "the large number of videos currently available for purchase",
+      "definitions_ex_vn": "Số lượng lớn video hiện có sẵn để mua",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hold or position on something for applying power advantageously, or the advantage gained by such application.",
+      "definitions_ex_en": "the horse's hooves fought for purchase on the slippery pavement",
+      "definitions_ex_vn": "Hooves của ngựa đã chiến đấu để mua trên vỉa hè trơn trượt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347231_21cf98f58f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347231_76e507a040_o.png",
+      "id_image": "purchase_1198278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702044_77d209a8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702044_3d03c0d8f1_o.png",
+      "id_image": "purchase_1648812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702019_33b658c3e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702019_bc60d417b4_o.png",
+      "id_image": "purchase_4646890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084595_8cb3f6358c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084595_9253572d31_o.png",
+      "id_image": "purchase_5986569"
+    }
+  ]
+}

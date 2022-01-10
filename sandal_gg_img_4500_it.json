@@ -1,0 +1,47 @@
+{
+  "english": "sandal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quai dép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mang dép cho người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light shoe with either an openwork upper or straps attaching the sole to the foot.",
+      "definitions_ex_en": "they were dressed in open-toed sandals",
+      "definitions_ex_vn": "Họ đã mặc những đôi dép hở mũi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for sandalwood.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335241_3c73f74904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335241_8768033471_o.png",
+      "id_image": "sandal_2384727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450248_affe84afeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450248_3fa3aac79a_o.png",
+      "id_image": "sandal_3048070"
+    }
+  ]
+}

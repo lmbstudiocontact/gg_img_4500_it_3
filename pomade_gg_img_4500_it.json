@@ -1,0 +1,39 @@
+{
+  "english": "pomade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bom mát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáp xức tóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a scented ointment or oil applied to the hair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply pomade to.",
+      "definitions_ex_en": "he used to pomade his hair",
+      "definitions_ex_vn": "anh ấy đã từng đập tóc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336346_4033836626_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336346_41cd6bc8e0_o.png",
+      "id_image": "pomade_2204507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691634_5d2e259f43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691634_7044bff33c_o.png",
+      "id_image": "pomade_5626848"
+    }
+  ]
+}

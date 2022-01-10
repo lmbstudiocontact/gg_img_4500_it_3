@@ -1,0 +1,49 @@
+{
+  "english": "rotary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chạy quanh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of motion) revolving around a center or axis; rotational.",
+      "definitions_ex_en": "a rotary motion",
+      "definitions_ex_vn": "một chuyển động quay",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a rotary machine, engine, or device.",
+      "definitions_ex_en": "there is an output level rotary for overall volume setting",
+      "definitions_ex_vn": "Có một mức đầu ra quay cho cài đặt âm lượng tổng thể",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386942_d4bb00c54b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386942_52c11fbd51_o.png",
+      "id_image": "rotary_1686357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386927_2e787a8dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386927_b76d75ca34_o.png",
+      "id_image": "rotary_2472828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079315_af7e84e0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079315_72cf47e384_o.png",
+      "id_image": "rotary_4646849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456738_e70eb0b176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456738_ed1e1299b3_o.png",
+      "id_image": "rotary_4646869"
+    }
+  ]
+}

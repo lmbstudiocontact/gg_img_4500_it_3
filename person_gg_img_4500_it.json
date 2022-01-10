@@ -1,0 +1,64 @@
+{
+  "english": "person",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a human being regarded as an individual.",
+      "definitions_ex_en": "the porter was the last person to see her",
+      "definitions_ex_vn": "Porter là người cuối cùng nhìn thấy cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a category used in the classification of pronouns, possessive determiners, and verb forms, according to whether they indicate the speaker ( first person ), the addressee ( second person ), or a third party ( third person ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the three modes of being of God, namely the Father, the Son, or the Holy Spirit, who together constitute the Trinity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used as a neutral alternative to -man in nouns denoting professional status, a position of authority, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435473_4cfa0c6de0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435473_7822f2e351_o.png",
+      "id_image": "person_6003230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435448_5788ffec1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435448_c2daf44a72_o.png",
+      "id_image": "person_6146116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320331_af9a3a8a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320331_692d092437_o.png",
+      "id_image": "person_992636"
+    }
+  ]
+}

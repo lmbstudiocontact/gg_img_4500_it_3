@@ -1,0 +1,59 @@
+{
+  "english": "shark",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá mập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giỏi nhứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lừa đảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lừa gạt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long-bodied chiefly marine fish with a cartilaginous skeleton, a prominent dorsal fin, and toothlike scales. Most sharks are predatory, although the largest kinds feed on plankton, and some can grow to a large size.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small Southeast Asian freshwater fish with a tail resembling that of a shark, popular in aquaria.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light grayish-brown European moth, the male of which has pale silvery hind wings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who unscrupulously exploits or swindles others.",
+      "definitions_ex_en": "property sharks want to develop 200 acres around the site",
+      "definitions_ex_vn": "Cá mập tài sản muốn phát triển 200 mẫu đất xung quanh trang web",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461543_cd43b91dc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461543_acf18e0b3a_o.png",
+      "id_image": "shark_184351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346681_4a231032cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346681_84be50b4fc_o.png",
+      "id_image": "shark_194957"
+    }
+  ]
+}

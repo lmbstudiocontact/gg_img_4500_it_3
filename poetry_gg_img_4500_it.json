@@ -1,0 +1,38 @@
+{
+  "english": "poetry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thơ phú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm của thi sĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "literary work in which special intensity is given to the expression of feelings and ideas by the use of distinctive style and rhythm; poems collectively or as a genre of literature.",
+      "definitions_ex_en": "he is chiefly famous for his love poetry",
+      "definitions_ex_vn": "anh ấy chủ yếu nổi tiếng với thơ tình của anh ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453753_aae20b14c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453753_72ea367827_o.png",
+      "id_image": "poetry_2446554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338721_fd65c54344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338721_6368d15eb5_o.png",
+      "id_image": "poetry_3579795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338691_d712dc14ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338691_6df2463743_o.png",
+      "id_image": "poetry_5320497"
+    }
+  ]
+}

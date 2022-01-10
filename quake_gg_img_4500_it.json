@@ -1,0 +1,50 @@
+{
+  "english": "quake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rung rinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "run",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "run lập cặp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rung động như động đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng rung động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of the earth) shake or tremble.",
+      "definitions_ex_en": "the rumbling vibrations set the whole valley quaking",
+      "definitions_ex_vn": "Những rung động ầm ầm đặt toàn bộ thung lũng run rẩy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an earthquake.",
+      "definitions_ex_en": "a big quake east of the Rocky Mountains",
+      "definitions_ex_vn": "một trận động đất lớn về phía đông của dãy núi Rocky",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390662_5314a4ff85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390662_17576db0d1_o.png",
+      "id_image": "quake_559963"
+    }
+  ]
+}

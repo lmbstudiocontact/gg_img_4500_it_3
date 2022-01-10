@@ -1,0 +1,44 @@
+{
+  "english": "recent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mới đây",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mới xảy ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vừa mới đây",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having happened, begun, or been done not long ago or not long before; belonging to a past period of time comparatively close to the present.",
+      "definitions_ex_en": "his recent visit to Britain",
+      "definitions_ex_vn": "chuyến thăm gần đây của anh ấy đến Anh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "another term for Holocene.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the Holocene epoch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381022_43a0ef5682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381022_6eaf80422f_o.png",
+      "id_image": "recent_5608596"
+    }
+  ]
+}

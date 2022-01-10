@@ -1,0 +1,98 @@
+{
+  "english": "quick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lẹ làng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "mau lên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cấp tốc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chớp nhoáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mau chóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mau lẹ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhanh chóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm mau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lanh lẹ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mau lẹ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "moving fast or doing something in a short time.",
+      "definitions_ex_en": "he was always quick to point out her faults",
+      "definitions_ex_vn": "anh ấy luôn nhanh chóng chỉ ra lỗi lầm của cô ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) prompt to understand, think, or learn; intelligent.",
+      "definitions_ex_en": "it was quick of him to spot the mistake",
+      "definitions_ex_vn": "Đó là nhanh chóng của anh ta để phát hiện ra sai lầm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at a fast rate; quickly.",
+      "definitions_ex_en": "he'll find some place where he can make money quicker",
+      "definitions_ex_vn": "Anh ấy sẽ tìm nơi anh ấy có thể kiếm tiền nhanh hơn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the soft tender flesh below the growing part of a fingernail or toenail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "those who are living.",
+      "definitions_ex_en": "the quick and the dead",
+      "definitions_ex_vn": "Sự nhanh và sự chết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458048_0f3b945ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458048_7922cc7c18_o.png",
+      "id_image": "quick_1639606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698549_9e4ac813f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698549_b090210e09_o.png",
+      "id_image": "quick_5571611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388212_c2578a59db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388212_8037690b2f_o.png",
+      "id_image": "quick_5956407"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "royalty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người trong gia tộc vua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trong hoàng tộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền tác giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền hành của vua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vương quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vương vị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "people of royal blood or status.",
+      "definitions_ex_en": "diplomats, heads of state, and royalty shared tables at the banquet",
+      "definitions_ex_vn": "Ngoại giao, người đứng đầu nhà nước và bàn được chia sẻ tại bữa tiệc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sum of money paid to a patentee for the use of a patent or to an author or composer for each copy of a book sold or for each public performance of a work.",
+      "definitions_ex_en": "the royalties paid to writers for recorded music",
+      "definitions_ex_vn": "Tiền bản quyền được trả cho các nhà văn cho âm nhạc được ghi lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a royal right (now especially over minerals) granted by the sovereign to an individual or corporation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385322_5b33761ee3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385322_58ea8bdd0a_o.png",
+      "id_image": "royalty_2653360"
+    }
+  ]
+}

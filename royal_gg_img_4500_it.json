@@ -1,0 +1,76 @@
+{
+  "english": "royal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoàng đế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lộng lẫy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "như vua chúa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sang trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về hoàng hậu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về vua",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người trong hoàng tộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having the status of a king or queen or a member of their family.",
+      "definitions_ex_en": "contributors included members of the royal family",
+      "definitions_ex_vn": "Những người đóng góp bao gồm các thành viên của gia đình hoàng gia",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a member of a royal family, especially in England.",
+      "definitions_ex_en": "the royals are coming under the TV microscope",
+      "definitions_ex_vn": "Hoàng gia đang đến dưới kính hiển vi TV",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for royal sail or royal mast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a paper size, now standardized at 636 × 480 mm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455373_c891e2007a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455373_45232efe0c_o.png",
+      "id_image": "royal_2653345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340391_e93cec499d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340391_4fc427b17d_o.png",
+      "id_image": "royal_2653349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385367_649be95693_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385367_bf7b3cb1df_o.png",
+      "id_image": "royal_2653375"
+    }
+  ]
+}

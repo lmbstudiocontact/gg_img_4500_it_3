@@ -1,0 +1,36 @@
+{
+  "english": "shaky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "run",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lung lay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không vững chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yếu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "shaking or trembling.",
+      "definitions_ex_en": "she managed a shaky laugh",
+      "definitions_ex_vn": "Cô ấy đã có một tiếng cười run rẩy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462238_bc9e811b40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462238_9655ff4293_o.png",
+      "id_image": "shaky_4126584"
+    }
+  ]
+}

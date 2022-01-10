@@ -1,0 +1,64 @@
+{
+  "english": "reception",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ tiếp khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đón tiếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khoản đãi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiếp đãi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiếp nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiếp rước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thâu nhận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of receiving something sent, given, or inflicted.",
+      "definitions_ex_en": "the reception of impulses from other neurons",
+      "definitions_ex_vn": "sự tiếp nhận các xung từ các tế bào thần kinh khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal social occasion held to welcome someone or to celebrate a particular event.",
+      "definitions_ex_en": "a wedding reception",
+      "definitions_ex_vn": "một tiệc cưới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335916_575b7ca2fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335916_8f2ffcf824_o.png",
+      "id_image": "reception_1209473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450848_f1474f3f21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450848_84c2c9d40e_o.png",
+      "id_image": "reception_3595900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450928_7e6c78e2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450928_a2dfa7b1cc_o.png",
+      "id_image": "reception_453346"
+    }
+  ]
+}

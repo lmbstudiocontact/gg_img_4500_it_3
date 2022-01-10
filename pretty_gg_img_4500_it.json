@@ -1,0 +1,70 @@
+{
+  "english": "pretty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiều diểm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khép léo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xinh xắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lanh lợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mỹ miều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể thương",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vật trang hoàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "attractive in a delicate way without being truly beautiful or handsome.",
+      "definitions_ex_en": "a pretty little girl with an engaging grin",
+      "definitions_ex_vn": "một cô bé xinh đẹp với một nụ cười hấp dẫn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to a moderately high degree; fairly.",
+      "definitions_ex_en": "he looked pretty fit for his age",
+      "definitions_ex_vn": "anh ấy trông khá phù hợp với tuổi của mình",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "an attractive thing, typically a pleasing but unnecessary accessory.",
+      "definitions_ex_en": "he buys her lots of pretties—bangles and rings and things",
+      "definitions_ex_vn": "Anh ấy mua rất nhiều chiếc áo choàng và nhẫn và những thứ và những thứ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make pretty or attractive.",
+      "definitions_ex_en": "she'll be all prettied up and ready to go in an hour",
+      "definitions_ex_vn": "Cô ấy sẽ được hoàn thiện và sẵn sàng để đi trong một giờ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442013_caf926590b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442013_9dc3e4626c_o.png",
+      "id_image": "pretty_1439704"
+    }
+  ]
+}

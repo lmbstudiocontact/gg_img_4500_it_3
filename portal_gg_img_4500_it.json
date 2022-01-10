@@ -1,0 +1,45 @@
+{
+  "english": "portal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tỉnh mạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cửa chánh nhà thờ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a doorway, gate, or other entrance, especially a large and imposing one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a website or web page providing access or links to other sites.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to an opening in an organ through which major blood vessels pass, especially the transverse fissure of the liver.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334836_bf48553142_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334836_1926c5ef38_o.png",
+      "id_image": "portal_2834835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449878_4f8d37451f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449878_455df43eb8_o.png",
+      "id_image": "portal_3966442"
+    }
+  ]
+}

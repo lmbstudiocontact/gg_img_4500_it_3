@@ -1,0 +1,166 @@
+{
+  "english": "present",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bây giờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cho đến nay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có mặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiện diện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiện tại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiện thời",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bây giờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiện nay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quà tặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật biếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bày tỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa người nào ra ứng cử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giới thiệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tặng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình bày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình diện",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a particular place.",
+      "definitions_ex_en": "a doctor must be present at the ringside",
+      "definitions_ex_vn": "Một bác sĩ phải có mặt ở những chiếc nhẫn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "existing or occurring now.",
+      "definitions_ex_en": "she did not expect to find herself in her present situation",
+      "definitions_ex_vn": "cô ấy không mong đợi để tìm thấy bản thân trong tình huống hiện tại của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the period of time now occurring.",
+      "definitions_ex_en": "they are happy and at peace, refusing to think beyond the present",
+      "definitions_ex_vn": "họ hạnh phúc và hòa bình, từ chối suy nghĩ ngoài hiện tại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing given to someone as a gift.",
+      "definitions_ex_en": "a Christmas present",
+      "definitions_ex_vn": "một món quà Giáng sinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give or award formally or ceremonially.",
+      "definitions_ex_en": "a celebrity will present the prizes",
+      "definitions_ex_vn": "Một người nổi tiếng sẽ trình bày các giải thưởng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "formally introduce (someone) to someone else.",
+      "definitions_ex_en": "may I present my wife?",
+      "definitions_ex_vn": "Tôi có thể tặng vợ tôi không?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "introduce or announce the various items of (a broadcast show) as a participant.",
+      "definitions_ex_en": "the Late Show was presented by Cynthia Rose",
+      "definitions_ex_vn": "Chương trình muộn được trình bày bởi Cynthia Rose",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exhibit (a particular state or appearance) to others.",
+      "definitions_ex_en": "the EU presented a united front over the crisis",
+      "definitions_ex_vn": "EU đã trình bày một mặt trận thống nhất trong cuộc khủng hoảng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a patient) come forward for or undergo initial medical examination for a particular condition or symptom.",
+      "definitions_ex_en": "the patient presented with mild clinical encephalopathy",
+      "definitions_ex_vn": "Bệnh nhân được trình bày với bệnh não lâm sàng nhẹ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a part of a fetus) be directed toward the cervix during labor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hold out or aim (a firearm) at something so as to be ready to fire.",
+      "definitions_ex_en": "they were to present their rifles, take aim, and fire",
+      "definitions_ex_vn": "họ đã trình bày súng trường của họ, nhắm vào, và lửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683484_f2025298f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683484_8766ed8c1a_o.png",
+      "id_image": "present_170798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373077_9a5383d8e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373077_15e0b89800_o.png",
+      "id_image": "present_2255787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683399_16e9b24ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683399_0016d9e090_o.png",
+      "id_image": "present_4383917"
+    }
+  ]
+}

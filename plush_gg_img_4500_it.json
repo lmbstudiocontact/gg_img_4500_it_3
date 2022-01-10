@@ -1,0 +1,30 @@
+{
+  "english": "plush",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thứ hàng giống như nhung",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rich fabric of silk, cotton, wool, or a combination of these, with a long, soft nap.",
+      "definitions_ex_en": "deep-buttoned plush upholstery",
+      "definitions_ex_vn": "Upholstery sang trọng sâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "richly luxurious and expensive.",
+      "definitions_ex_en": "the plush chrome and leather office",
+      "definitions_ex_vn": "văn phòng chrome và da sang trọng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694589_107ccef7f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694589_a12640f0f5_o.png",
+      "id_image": "plush_1482293"
+    }
+  ]
+}

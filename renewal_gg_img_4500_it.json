@@ -1,0 +1,45 @@
+{
+  "english": "renewal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đổi mới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kết lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nói chuyện lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nối lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay mới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instance of resuming an activity or state after an interruption.",
+      "definitions_ex_en": "a renewal of hostilities",
+      "definitions_ex_vn": "đổi mới sự thù địch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324966_6362010542_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324966_8642406dea_o.png",
+      "id_image": "renewal_4295989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061810_27f5394164_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061810_3eecfda300_o.png",
+      "id_image": "renewal_5091974"
+    }
+  ]
+}

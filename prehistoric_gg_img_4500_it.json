@@ -1,0 +1,38 @@
+{
+  "english": "prehistoric",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiền sử",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thời gian trước lịch sử",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or denoting the period before written records.",
+      "definitions_ex_en": "prehistoric man",
+      "definitions_ex_vn": "Người tiền sử",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444388_3530414dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444388_7684021b15_o.png",
+      "id_image": "prehistoric_5999313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329366_23188e5f8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329366_2605815987_o.png",
+      "id_image": "prehistoric_5999349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374082_26ee141ba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374082_f768a34876_o.png",
+      "id_image": "prehistoric_784386"
+    }
+  ]
+}

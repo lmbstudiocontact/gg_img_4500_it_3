@@ -1,0 +1,47 @@
+{
+  "english": "radius",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xương cánh tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a straight line from the center to the circumference of a circle or sphere.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the thicker and shorter of the two bones in the human forearm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in an echinoderm or coelenterate) any of the primary axes of radial symmetry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a rounded form to (a corner or edge).",
+      "definitions_ex_en": "Brian carefully radiused all the sharp edges and corners",
+      "definitions_ex_vn": "Brian cẩn thận phóng xạ tất cả các cạnh và góc sắc nét",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696209_b8b89935e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696209_de94570a77_o.png",
+      "id_image": "radius_2844307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696174_a270f6e309_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696174_d6079664e4_o.png",
+      "id_image": "radius_2844419"
+    }
+  ]
+}

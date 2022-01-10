@@ -1,0 +1,46 @@
+{
+  "english": "roulette",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn đánh bạc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gambling game in which a ball is dropped onto a revolving wheel ( roulette wheel ) with numbered compartments, the players betting on the number at which the ball will come to rest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool or machine with a revolving toothed wheel, used in engraving or for making slit-shaped perforations between postage stamps.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make slit-shaped perforations in (paper, especially sheets of postage stamps).",
+      "definitions_ex_en": "the pages are rouletted next to the binding",
+      "definitions_ex_vn": "Các trang được kết nối bên cạnh sự ràng buộc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696634_e961e79028_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696634_572d347fdc_o.png",
+      "id_image": "roulette_218354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341336_92b8456ec7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341336_a1df3149ea_o.png",
+      "id_image": "roulette_4617440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386412_5a420c0ac4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386412_74f599d980_o.png",
+      "id_image": "roulette_536131"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "route",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lộ trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quốc lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyến đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xa lộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a way or course taken in getting from a starting point to a destination.",
+      "definitions_ex_en": "the most direct route is via Los Angeles",
+      "definitions_ex_vn": "Tuyến đường trực tiếp nhất là thông qua Los Angeles",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send or direct along a specified course.",
+      "definitions_ex_en": "all lines of communication were routed through Atlanta",
+      "definitions_ex_vn": "Tất cả các dòng truyền thông đã được chuyển qua Atlanta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341126_b43018d937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341126_c7eb9ba0b5_o.png",
+      "id_image": "route_169493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455903_4b67aee3ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455903_a0e73ef267_o.png",
+      "id_image": "route_179677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386042_425557859c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386042_1c51f4bddf_o.png",
+      "id_image": "route_2569907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696269_a5b97ab6b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696269_ce4404f06c_o.png",
+      "id_image": "route_3579797"
+    }
+  ]
+}

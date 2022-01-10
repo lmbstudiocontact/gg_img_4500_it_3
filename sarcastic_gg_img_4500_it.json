@@ -1,0 +1,28 @@
+{
+  "english": "sarcastic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chua cay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chế nhạo",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "marked by or given to using irony in order to mock or convey contempt.",
+      "definitions_ex_en": "sarcastic comments on their failures",
+      "definitions_ex_vn": "Nhận xét mỉa mai về những thất bại của họ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379612_545f0d5cf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379612_fdc63213fd_o.png",
+      "id_image": "sarcastic_4138808"
+    }
+  ]
+}

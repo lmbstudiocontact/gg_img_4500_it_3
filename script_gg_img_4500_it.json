@@ -1,0 +1,84 @@
+{
+  "english": "script",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản thảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái bị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng khoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cổ phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy bạc nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên bản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "handwriting as distinct from print; written characters.",
+      "definitions_ex_en": "her neat, tidy script",
+      "definitions_ex_vn": "Script gọn gàng, gọn gàng của cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the written text of a play, movie, or broadcast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a doctor's prescription.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "write a script for (a play, movie, or broadcast).",
+      "definitions_ex_en": "it was perfectly scripted and beautifully acted",
+      "definitions_ex_vn": "nó hoàn toàn được kịch bản và hành động đẹp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "Scriptural.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "Scripture.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326641_83b235a8b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326641_17c6decae9_o.png",
+      "id_image": "script_171029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371342_21b733ec30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371342_e0836e988c_o.png",
+      "id_image": "script_2033244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441553_0344578835_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441553_d3ecb96492_o.png",
+      "id_image": "script_4133175"
+    }
+  ]
+}

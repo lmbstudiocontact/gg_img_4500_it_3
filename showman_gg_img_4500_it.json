@@ -1,0 +1,29 @@
+{
+  "english": "showman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi trình diển của nam giới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who produces or presents shows as a profession, especially the proprietor, manager, or MC of a circus, fair, or other variety show.",
+      "definitions_ex_en": "showmen inveigled the masses into circuses, fairgrounds, peep shows, theaters",
+      "definitions_ex_vn": "Showmen xác nhận khối lượng vào rạp xiếc, hội chợ, chương trình Peep, rạp chiếu phim",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697124_48a40678d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697124_97697a6bb4_o.png",
+      "id_image": "showman_2267641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386932_7f5a8d6cf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386932_eff11e4f6f_o.png",
+      "id_image": "showman_360468"
+    }
+  ]
+}

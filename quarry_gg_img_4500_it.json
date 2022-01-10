@@ -1,0 +1,68 @@
+{
+  "english": "quarry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con thú bị săn đuổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hầm đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khai thác hầm đá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy đá trong hầm ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn đuổi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place, typically a large, deep pit, from which stone or other materials are or have been extracted.",
+      "definitions_ex_en": "a limestone quarry",
+      "definitions_ex_vn": "một mỏ đá vôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an animal pursued by a hunter, hound, predatory mammal, or bird of prey.",
+      "definitions_ex_en": "grouse are not an easy quarry for a hawk",
+      "definitions_ex_vn": "Grouse không phải là một mỏ đá dễ dàng cho một con chim ưng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a diamond-shaped pane of glass as used in lattice windows.",
+      "definitions_ex_en": "stained-glass quarries with floral motifs",
+      "definitions_ex_vn": "mỏ đá màu với họa tiết hoa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for quarry tile.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "extract (stone or other materials) from a quarry.",
+      "definitions_ex_en": "limestone is quarried for use in blast furnaces",
+      "definitions_ex_vn": "Đá vôi được khai thác để sử dụng trong lò cao",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699839_f93fb6643b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699839_8f07cef998_o.png",
+      "id_image": "quarry_4158441"
+    }
+  ]
+}

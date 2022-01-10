@@ -1,0 +1,44 @@
+{
+  "english": "rental",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiền mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thuê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an amount paid or received as rent.",
+      "definitions_ex_en": "a nominal rental",
+      "definitions_ex_vn": "một cho thuê danh nghĩa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or available for rent.",
+      "definitions_ex_en": "rental properties",
+      "definitions_ex_vn": "tài sản cho thuê",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679739_e459e91eed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679739_3a67e3b886_o.png",
+      "id_image": "rental_2329899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679719_94ae47315d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679719_3354525fba_o.png",
+      "id_image": "rental_2421787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679669_9d05e6c812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679669_e33759d173_o.png",
+      "id_image": "rental_4677778"
+    }
+  ]
+}

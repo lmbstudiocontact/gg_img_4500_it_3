@@ -1,0 +1,144 @@
+{
+  "english": "shell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đạn trái phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sườn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ đậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ địa cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ hào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ hến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ trái cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ trứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuồng bơi đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn trái phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột vỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the hard protective outer case of a mollusk or crustacean.",
+      "definitions_ex_en": "cowrie shells",
+      "definitions_ex_vn": "vỏ cowrie.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an explosive artillery projectile or bomb.",
+      "definitions_ex_en": "the sound of the shell passing over, followed by the explosion",
+      "definitions_ex_vn": "âm thanh của vỏ đi qua, sau đó là vụ nổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something resembling or likened to a shell because of its shape or its function as an outer case.",
+      "definitions_ex_en": "pasta shells",
+      "definitions_ex_vn": "vỏ mì ống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the metal framework of a vehicle body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light racing boat used in the sport of crew.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an inner or roughly made coffin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the hand guard of a sword.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of a set of orbitals around the nucleus of an atom, occupied or able to be occupied by electrons of similar energies.",
+      "definitions_ex_en": "in a multi-electron atom, the lowest energy shells fill up first",
+      "definitions_ex_vn": "Trong một nguyên tử đa electron, vỏ năng lượng thấp nhất sẽ lấp đầy trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for shell program.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bombard with shells.",
+      "definitions_ex_en": "the guns started shelling their positions",
+      "definitions_ex_vn": "Các khẩu súng bắt đầu tung lội vị trí của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove the shell or pod from (a nut or seed).",
+      "definitions_ex_en": "they were shelling peas",
+      "definitions_ex_vn": "họ bị bóc vỏ đậu Hà Lan",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "gather seashells.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082980_46af911274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082980_44f7cbe305_o.png",
+      "id_image": "shell_184328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700644_1dfd937506_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700644_10bc183128_o.png",
+      "id_image": "shell_4516023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700669_9cf6836f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700669_dc95da9dab_o.png",
+      "id_image": "shell_874945"
+    }
+  ]
+}

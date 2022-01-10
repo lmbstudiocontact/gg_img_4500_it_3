@@ -1,0 +1,86 @@
+{
+  "english": "plow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái cày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất cày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thi hỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thi rớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cày đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh hỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm có lằn gạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vạch luống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vạch sóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh rớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rẻ sóng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large farming implement with one or more blades fixed in a frame, drawn by a tractor or by animals and used for cutting furrows in the soil and turning it over, especially to prepare for the planting of seeds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a yoga pose assumed by lying on one's back and swinging one's legs over one's head until the outstretched feet approach or touch the floor.",
+      "definitions_ex_en": "positions like plow and headstand can strain the neck",
+      "definitions_ex_vn": "Các vị trí như cày và đầu có có thể làm căng cổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "turn up the earth of (an area of land) with a plow, especially before sowing.",
+      "definitions_ex_en": "Uncle Vic plowed his garden",
+      "definitions_ex_vn": "Bác Vic cày ruộng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(especially of a vehicle) move in a fast and uncontrolled manner.",
+      "definitions_ex_en": "the car plowed into the side of a van",
+      "definitions_ex_vn": "Chiếc xe cày vào một bên của một chiếc xe tải",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385037_963b1f2f34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385037_cc257cb26e_o.png",
+      "id_image": "plow_6262543"
+    }
+  ]
+}

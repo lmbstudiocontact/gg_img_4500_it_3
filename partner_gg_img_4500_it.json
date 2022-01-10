@@ -1,0 +1,85 @@
+{
+  "english": "partner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạn chơi quần vợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bạn khiêu vũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hội viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vợ hoặc chồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dìu người đàn bà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gia nhập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhập hội",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vào hội",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "either of a pair of people engaged together in the same activity.",
+      "definitions_ex_en": "arrange the children in pairs so that each person has a partner",
+      "definitions_ex_vn": "sắp xếp trẻ em theo cặp để mỗi người có một đối tác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "either member of a married couple or of an established unmarried couple.",
+      "definitions_ex_en": "she lived with her partner",
+      "definitions_ex_vn": "cô ấy sống với đối tác của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a timber framework secured to and strengthening the deck of a wooden ship around a hole through which a mast, capstan, pump, etc. pass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be the partner of.",
+      "definitions_ex_en": "young farmers who partnered Isabel to the village dance",
+      "definitions_ex_vn": "Những người nông dân trẻ đã hợp tác với Isabel với Village Dance",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375802_df7e969952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375802_f35238a438_o.png",
+      "id_image": "partner_1322195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375752_7ae4d51b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375752_938ecccb2e_o.png",
+      "id_image": "partner_1806239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446003_6e99beb244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446003_a80ceeaa04_o.png",
+      "id_image": "partner_4214044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375842_3abeac09fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375842_60d1b6d2bf_o.png",
+      "id_image": "partner_860504"
+    }
+  ]
+}

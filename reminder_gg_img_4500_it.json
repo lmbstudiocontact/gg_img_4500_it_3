@@ -1,0 +1,29 @@
+{
+  "english": "reminder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người nhắc lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that causes someone to remember something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062610_058fd135eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062610_555b310ebf_o.png",
+      "id_image": "reminder_735200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062575_cac718b016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062575_ab6826aba1_o.png",
+      "id_image": "reminder_843169"
+    }
+  ]
+}

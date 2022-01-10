@@ -1,0 +1,255 @@
+{
+  "english": "set",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghiêm trang",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "căng thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiều gió thổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiều nước chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dáng điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lứa trứng ấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhánh cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến dạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám ngưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lặn của mặt trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bối cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ dụng cụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dọn bàn ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt vật gì lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nháy mắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lặn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sanh trái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trồng một cây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm rể lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liền lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa lại đồng hồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lu mớ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put, lay, or stand (something) in a specified place or position.",
+      "definitions_ex_en": "Dana set the mug of tea down",
+      "definitions_ex_vn": "Dana đặt cốc trà xuống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put or bring into a specified state.",
+      "definitions_ex_en": "the hostages were set free",
+      "definitions_ex_vn": "Con tin đã được đặt miễn phí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "adjust (a clock or watch), typically to show the right time.",
+      "definitions_ex_en": "set your watch immediately to local time at your destination",
+      "definitions_ex_vn": "Đặt đồng hồ của bạn ngay lập tức đến giờ địa phương tại điểm đến của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "harden into a solid or semisolid state.",
+      "definitions_ex_en": "cook for a further thirty-five minutes until the filling has set",
+      "definitions_ex_vn": "nấu ăn thêm ba mươi lăm phút cho đến khi điền vào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the sun, moon, or another celestial body) appear to move toward and below the earth's horizon as the earth rotates.",
+      "definitions_ex_en": "the sun was setting and a warm red glow filled the sky",
+      "definitions_ex_vn": "Mặt trời đang lặn và một ánh sáng đỏ ấm áp tràn ngập bầu trời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a tide or current) take or have a specified direction or course.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of blossom or a tree) develop into or produce (fruit).",
+      "definitions_ex_en": "wait until first flowers have set fruit before planting out the peppers",
+      "definitions_ex_vn": "Đợi đến khi hoa đầu tiên đã đặt trái cây trước khi trồng ớt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sit.",
+      "definitions_ex_en": "a perfect lady—just set in her seat and stared",
+      "definitions_ex_vn": "Một người phụ nữ hoàn hảo - chỉ cần ngồi vào chỗ ngồi và nhìn chằm chằm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a group or collection of things that belong together or resemble one another or are usually found together.",
+      "definitions_ex_en": "a set of false teeth",
+      "definitions_ex_vn": "một bộ răng giả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the way in which something is set, disposed, or positioned.",
+      "definitions_ex_en": "the shape and set of the eyes",
+      "definitions_ex_vn": "hình dạng và đặt mắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a radio or television receiver.",
+      "definitions_ex_en": "a TV set",
+      "definitions_ex_vn": "một bộ TV",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a collection of scenery, stage furniture, and other articles used for a particular scene in a play or film.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrangement of the hair when damp so that it dries in the required style.",
+      "definitions_ex_en": "a shampoo and set",
+      "definitions_ex_vn": "một loại dầu gội và thiết lập",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cutting, young plant, or bulb used in the propagation of new plants.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the last coat of plaster on a wall.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the amount of spacing in type controlling the distance between letters.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of sett.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fixed or arranged in advance.",
+      "definitions_ex_en": "there is no set procedure",
+      "definitions_ex_vn": "Không có thủ tục thiết lập",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "ready, prepared, or likely to do something.",
+      "definitions_ex_en": "the first family was set for a quiet night of rest",
+      "definitions_ex_vn": "Gia đình đầu tiên được thiết lập cho một đêm yên tĩnh của nghỉ ngơi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348711_23aa5622dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348711_0061167656_o.png",
+      "id_image": "set_1068221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393517_50e64a8e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393517_a87061cd4a_o.png",
+      "id_image": "set_2270982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348636_e5fe4d6c1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348636_58de046df4_o.png",
+      "id_image": "set_2270984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463403_0d58c82e33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463403_49d641d640_o.png",
+      "id_image": "set_6040435"
+    }
+  ]
+}

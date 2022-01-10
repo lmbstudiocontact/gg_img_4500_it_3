@@ -1,0 +1,43 @@
+{
+  "english": "poem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài thi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài thơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of writing that partakes of the nature of both speech and song that is nearly always rhythmical, usually metaphorical, and often exhibits such formal elements as meter, rhyme, and stanzaic structure.",
+      "definitions_ex_en": "the sun is an important symbol in this poem",
+      "definitions_ex_vn": "Mặt trời là một biểu tượng quan trọng trong bài thơ này",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453903_f6d3d36f46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453903_32a8ebc593_o.png",
+      "id_image": "poem_3500713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453873_5043815bd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453873_ae888e27e4_o.png",
+      "id_image": "poem_5332310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453973_8d80a06b21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453973_a04981a3f9_o.png",
+      "id_image": "poem_711442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383867_3d63cde120_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383867_a3122187ac_o.png",
+      "id_image": "poem_837224"
+    }
+  ]
+}

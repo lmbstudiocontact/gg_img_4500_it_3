@@ -1,0 +1,92 @@
+{
+  "english": "scrap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ ăn dư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn thừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mảnh nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mảnh vụn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngói vụn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắt vụn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải vụn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "loại ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small piece or amount of something, especially one that is left over after the greater part has been used.",
+      "definitions_ex_en": "I scribbled her address on a scrap of paper",
+      "definitions_ex_vn": "Tôi viết nguệch ngoạc địa chỉ của mình trên một tờ giấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "discarded metal for reprocessing.",
+      "definitions_ex_en": "the steamer was eventually sold for scrap",
+      "definitions_ex_vn": "Người hấp cuối cùng đã được bán cho phế liệu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fight or quarrel, especially a minor or spontaneous one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "discard or remove from service (a retired, old, or inoperative vehicle, vessel, or machine), especially so as to convert it to scrap metal.",
+      "definitions_ex_en": "the decision was made to scrap the entire fleet",
+      "definitions_ex_vn": "Quyết định đã được đưa ra để loại bỏ toàn bộ đội tàu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "engage in a minor fight or quarrel.",
+      "definitions_ex_en": "the older boys started scrapping with me",
+      "definitions_ex_vn": "Các chàng trai lớn tuổi bắt đầu loại bỏ tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328096_74dd769956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328096_3656a43a97_o.png",
+      "id_image": "scrap_4465715"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "english": "rivalry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cạnh tranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ganh đua",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "competition for the same objective or for superiority in the same field.",
+      "definitions_ex_en": "commercial rivalry",
+      "definitions_ex_vn": "sự ganh đua thương mại.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082680_47a6dd1299_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082680_6cd3c0becb_o.png",
+      "id_image": "rivalry_708661"
+    }
+  ]
+}

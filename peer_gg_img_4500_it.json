@@ -1,0 +1,74 @@
+{
+  "english": "peer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngang nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bằng nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ló ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn chăm chú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xuất hiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "người thuộc về quí phái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đồng nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngang nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "look keenly or with difficulty at someone or something.",
+      "definitions_ex_en": "Blake screwed up his eyes, trying to peer through the fog",
+      "definitions_ex_vn": "Blake vặn lên mắt, cố gắng nhìn qua sương mù",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or become equal with or of the same rank.",
+      "definitions_ex_en": "the Thames could not peer with the mill-streamlet close to my home",
+      "definitions_ex_vn": "Thames không thể ngang hàng với dòng mill-suối gần nhà tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a member of the nobility in Britain or Ireland, comprising the ranks of duke, marquess, earl, viscount, and baron.",
+      "definitions_ex_en": "hereditary peers could still dominate the proceedings of the House of Lords",
+      "definitions_ex_vn": "Các đồng nghiệp di truyền vẫn có thể thống trị các thủ tục tố tụng của Hạ viện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person of the same age, status, or ability as another specified person.",
+      "definitions_ex_en": "he has incurred much criticism from his academic peers",
+      "definitions_ex_vn": "Ông đã phát sinh nhiều phê bình từ các đồng nghiệp học thuật của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368152_930830f99d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368152_7bcc8868ca_o.png",
+      "id_image": "peer_4922543"
+    }
+  ]
+}

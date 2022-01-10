@@ -1,0 +1,43 @@
+{
+  "english": "privilege",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đặc quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ban đặc quyền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a special right, advantage, or immunity granted or available only to a particular person or group.",
+      "definitions_ex_en": "education is a right, not a privilege",
+      "definitions_ex_vn": "Giáo dục là một quyền, không phải là một đặc quyền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "grant a privilege or privileges to.",
+      "definitions_ex_en": "English inheritance law privileged the eldest son",
+      "definitions_ex_vn": "Luật thừa kế tiếng Anh đặc quyền con trai cả",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438763_8932e34b7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438763_c72a5ff32e_o.png",
+      "id_image": "privilege_3053782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368587_f061c3c3dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368587_62649acd7e_o.png",
+      "id_image": "privilege_3956768"
+    }
+  ]
+}

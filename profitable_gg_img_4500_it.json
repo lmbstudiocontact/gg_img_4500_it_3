@@ -1,0 +1,43 @@
+{
+  "english": "profitable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có hửu ích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có lợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sanh lời",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a business or activity) yielding profit or financial gain.",
+      "definitions_ex_en": "a professionally run and profitable company",
+      "definitions_ex_vn": "một công ty chuyên nghiệp và có lợi nhuận",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "beneficial; useful.",
+      "definitions_ex_en": "he'd had a profitable day",
+      "definitions_ex_vn": "anh ấy đã có một ngày có lợi nhuận",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676324_5c511e59e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676324_312273fc33_o.png",
+      "id_image": "profitable_4133603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366192_9c154af113_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366192_6b30dbe2ea_o.png",
+      "id_image": "profitable_6397021"
+    }
+  ]
+}

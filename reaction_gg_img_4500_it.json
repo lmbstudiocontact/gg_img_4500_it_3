@@ -1,0 +1,42 @@
+{
+  "english": "reaction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sức phản động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức phản ứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phản ứng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an action performed or a feeling experienced in response to a situation or event.",
+      "definitions_ex_en": "Carrie's immediate reaction was one of relief",
+      "definitions_ex_vn": "Phản ứng ngay lập tức của Carrie là một trong những cứu trợ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337166_3c04284589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337166_8f9e1dbeeb_o.png",
+      "id_image": "reaction_2161483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382167_4cb716fa6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382167_1fe029cb77_o.png",
+      "id_image": "reaction_4143318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382137_7f1dfdc864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382137_50eafcc487_o.png",
+      "id_image": "reaction_5132587"
+    }
+  ]
+}

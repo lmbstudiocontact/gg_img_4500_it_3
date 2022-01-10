@@ -1,0 +1,34 @@
+{
+  "english": "sabbath",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngày chúa nhựt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày nghĩ cuối tuần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a day of religious observance and abstinence from work, kept by Jewish people from Friday evening to Saturday evening, and by most Christians on Sunday.",
+      "definitions_ex_en": "we observe the Sabbath as God has commanded",
+      "definitions_ex_vn": "Chúng tôi quan sát ngày Sa-bát vì Chúa đã chỉ huy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a supposed annual midnight meeting of witches with the Devil.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075505_e2acc3c399_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075505_f0cceb22ae_o.png",
+      "id_image": "sabbath_5443029"
+    }
+  ]
+}

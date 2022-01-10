@@ -1,0 +1,212 @@
+{
+  "english": "scale",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm giai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bề rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ xù xì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dĩa cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giai cấp xả hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt chia độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngay thẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vảy cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vảy da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách chia độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số tỉ lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỉ lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thước tỉ lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "leo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cạo cặn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia độ hàn thử biểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia tỉ lệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh vảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đóng cáu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trèo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẻ địa đồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột vảy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of the small, thin horny or bony plates protecting the skin of fish and reptiles, typically overlapping one another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thick, dry flake of skin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flaky covering or deposit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instrument for weighing, originally a simple balance ( a pair of scales ) but now usually a device with an electronic or other internal weighing mechanism.",
+      "definitions_ex_en": "bathroom scales",
+      "definitions_ex_vn": "Cân phòng tắm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a graduated range of values forming a standard system for measuring or grading something.",
+      "definitions_ex_en": "company employees have hit the top of their pay scales",
+      "definitions_ex_vn": "Nhân viên công ty đã đạt đến đỉnh của quy mô lương của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the relative size or extent of something.",
+      "definitions_ex_en": "no one foresaw the scale of the disaster",
+      "definitions_ex_vn": "không ai thấy trước quy mô của thảm họa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrangement of the notes in any system of music in ascending or descending order of pitch.",
+      "definitions_ex_en": "the scale of C major",
+      "definitions_ex_vn": "quy mô của c chính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a system of numerical notation in which the value of a digit depends upon its position in the number, successive positions representing successive powers of a fixed base.",
+      "definitions_ex_en": "the conversion of the number to the binary scale",
+      "definitions_ex_vn": "Việc chuyển đổi số thành quy mô nhị phân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the range of exposures over which a photographic material will give an acceptable variation in density.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "remove scale or scales from.",
+      "definitions_ex_en": "he scales the fish and removes the innards",
+      "definitions_ex_vn": "anh ta vảy cá và loại bỏ các bên trong",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(especially of the skin) form scales.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "weigh a specified weight.",
+      "definitions_ex_en": "some men scaled less than ninety pounds",
+      "definitions_ex_vn": "Một số đàn ông quy mô ít hơn chín mươi pounds",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "climb up or over (something high and steep).",
+      "definitions_ex_en": "thieves scaled an 8-foot fence",
+      "definitions_ex_vn": "Kẻ trộm thu thành một hàng rào 8 feet",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "represent in proportional dimensions; reduce or increase in size according to a common scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687939_305a141cb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687939_b18e062ba5_o.png",
+      "id_image": "scale_1070237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687884_559d3d6548_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687884_afeb9033e8_o.png",
+      "id_image": "scale_1070251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332911_ba3ce91da3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332911_0652042588_o.png",
+      "id_image": "scale_3898095"
+    }
+  ]
+}

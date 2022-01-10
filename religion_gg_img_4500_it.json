@@ -1,0 +1,42 @@
+{
+  "english": "religion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng tín ngưỡng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tu hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tôn giáo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the belief in and worship of a superhuman controlling power, especially a personal God or gods.",
+      "definitions_ex_en": "ideas about the relationship between science and religion",
+      "definitions_ex_vn": "ý tưởng về mối quan hệ giữa khoa học và tôn giáo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681704_60361599b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681704_78d724913e_o.png",
+      "id_image": "religion_2367921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063510_d4bb9d0e56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063510_ea39b31203_o.png",
+      "id_image": "religion_3053788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441563_9cbe93347c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441563_277d2a3f90_o.png",
+      "id_image": "religion_3995342"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "english": "pinch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nhéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái véo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một nhúm muối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn cắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cưỡng đoạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ép lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhéo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "véo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm khó chịu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "grip (something, typically someone's flesh) tightly and sharply between finger and thumb.",
+      "definitions_ex_en": "she pinched his cheek",
+      "definitions_ex_vn": "Cô véo má anh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move one's finger and thumb apart or bring them together on (a touchscreen) in order to zoom into or out of an image, activate a function, etc.",
+      "definitions_ex_en": "to explore in more detail just pinch the screen",
+      "definitions_ex_vn": "để khám phá chi tiết hơn chỉ cần nhúm màn hình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "steal.",
+      "definitions_ex_en": "he pinched a handful of candies",
+      "definitions_ex_vn": "Anh ta véo một số ít kẹo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "live in a frugal way.",
+      "definitions_ex_en": "if I pinch and scrape, I might manage",
+      "definitions_ex_vn": "Nếu tôi véo và cạo, tôi có thể quản lý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sail (a boat) so close to the wind that the sails begin to lose power.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of gripping the skin of someone's body between finger and thumb.",
+      "definitions_ex_en": "he gave her a gentle pinch",
+      "definitions_ex_vn": "anh ấy đã cho cô ấy một quả véo nhẹ nhàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083670_b96c9fda93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083670_6c74a2e76f_o.png",
+      "id_image": "pinch_1151198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346176_0417f8da3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346176_fb6b352a69_o.png",
+      "id_image": "pinch_4151549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083585_56ee73483a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083585_500005dd22_o.png",
+      "id_image": "pinch_4660849"
+    }
+  ]
+}

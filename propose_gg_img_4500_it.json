@@ -1,0 +1,58 @@
+{
+  "english": "propose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đưa ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cầu hôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề nghị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề xuất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề xướng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm quy tắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ra ý kiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put forward (an idea or plan) for consideration or discussion by others.",
+      "definitions_ex_en": "he proposed a new nine-point peace plan",
+      "definitions_ex_vn": "Ông đã đề xuất một kế hoạch hòa bình chín điểm mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make an offer of marriage to someone.",
+      "definitions_ex_en": "I have already proposed to Sarah",
+      "definitions_ex_vn": "Tôi đã cầu hôn Sarah",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705169_372ed09110_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705169_185baabcc8_o.png",
+      "id_image": "propose_1775689"
+    }
+  ]
+}

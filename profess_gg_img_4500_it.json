@@ -1,0 +1,60 @@
+{
+  "english": "profess",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bày tỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dạy học môn sử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "công bố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nghề luật sư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyên bố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thề trung thành với chúa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "claim that one has (a quality or feeling), especially when this is not the case.",
+      "definitions_ex_en": "he had professed his love for her",
+      "definitions_ex_vn": "Anh ấy đã tuyên bố tình yêu của mình dành cho cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "affirm one's faith in or allegiance to (a religion or set of beliefs).",
+      "definitions_ex_en": "a people professing Christianity",
+      "definitions_ex_vn": "Một người tuyên xưng Kitô giáo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "teach (a subject) as a professor.",
+      "definitions_ex_en": "a professor—what does he profess?",
+      "definitions_ex_vn": "Một giáo sư - anh ta tuyên bố gì?",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366457_9ce0678447_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366457_99f27972cb_o.png",
+      "id_image": "profess_5454364"
+    }
+  ]
+}

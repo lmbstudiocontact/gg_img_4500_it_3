@@ -1,0 +1,29 @@
+{
+  "english": "salami",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xúc xích ý",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a type of highly seasoned sausage, originally from Italy, usually eaten cold in slices.",
+      "definitions_ex_en": "a crusty roll with some salami",
+      "definitions_ex_vn": "Một cuộn giũa với một số salami",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381937_ef96758b24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381937_2b127c8e63_o.png",
+      "id_image": "salami_2403314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336846_6467b56017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336846_5b1a92c0eb_o.png",
+      "id_image": "salami_3390385"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "scoop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái gàu tát nườc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái mai để xúc than đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "muỗng múc kem",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái nạo của khao mổ xẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái vái tai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái xẻng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái xúc bằng xẻn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái xuổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đào đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đục gổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tát nước bằng gáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xúc bằng cái xuổng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a utensil resembling a spoon, with a long handle and a deep bowl, used for removing powdered, granulated, or semisolid substances (such as ice cream) from a container.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of news published by a newspaper or broadcast by a television or radio station in advance of its rivals.",
+      "definitions_ex_en": "reporters at the city's three tabloid papers usually compete for scoops",
+      "definitions_ex_vn": "Các phóng viên tại ba tờ báo lá cải của thành phố thường cạnh tranh cho muỗng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pick up and move (something) with a scoop.",
+      "definitions_ex_en": "Philip began to scoop grain into his bag",
+      "definitions_ex_vn": "Philip bắt đầu muỗng hạt vào túi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "publish a news story before (a rival reporter, newspaper, or radio or television station).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684339_b35c7f191a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684339_aa7edb688d_o.png",
+      "id_image": "scoop_4597359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329456_5b8b938f43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329456_1d1a4c44aa_o.png",
+      "id_image": "scoop_525805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684399_e1dc22f4d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684399_4927053b8d_o.png",
+      "id_image": "scoop_528329"
+    }
+  ]
+}

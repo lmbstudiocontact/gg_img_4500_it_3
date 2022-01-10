@@ -1,0 +1,48 @@
+{
+  "english": "recipient",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể thụ cãm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người lãnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that receives or is awarded something.",
+      "definitions_ex_en": "the recipient of the Nobel Peace Prize",
+      "definitions_ex_vn": "người nhận giải thưởng Nobel Hòa bình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "receiving or capable of receiving something.",
+      "definitions_ex_en": "a recipient country",
+      "definitions_ex_vn": "một nước người nhận",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335246_bf10170406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335246_f0b21af53d_o.png",
+      "id_image": "recipient_2720579"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335226_fc125fd96c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335226_5f2ccbe817_o.png",
+      "id_image": "recipient_4514175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380242_0343522878_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380242_8de7302547_o.png",
+      "id_image": "recipient_4968206"
+    }
+  ]
+}

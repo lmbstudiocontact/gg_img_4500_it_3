@@ -1,0 +1,54 @@
+{
+  "english": "revive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khêu gợi lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phấn khởi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phục nguyên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sống lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa soạn diển lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỉnh lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "restore to life or consciousness.",
+      "definitions_ex_en": "both men collapsed, but were revived",
+      "definitions_ex_vn": "Cả hai người đàn ông sụp đổ, nhưng đã hồi sinh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393062_d0ccc14295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393062_2ca0f697c7_o.png",
+      "id_image": "revive_1409025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393087_5c759902cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393087_ae9303446f_o.png",
+      "id_image": "revive_188961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393012_377bbf88ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393012_c0837baf77_o.png",
+      "id_image": "revive_4334125"
+    }
+  ]
+}

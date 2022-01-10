@@ -1,0 +1,61 @@
+{
+  "english": "sanctuary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi tôn nghiêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ tôn nghiêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ trốn tránh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi trú ẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thớ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place of refuge or safety.",
+      "definitions_ex_en": "his sons took sanctuary in the church",
+      "definitions_ex_vn": "Các con trai của ông đã chiếm giữ thánh địa trong nhà thờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a nature reserve.",
+      "definitions_ex_en": "a bird sanctuary",
+      "definitions_ex_vn": "một khu bảo tồn chim",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a holy place; a temple or church.",
+      "definitions_ex_en": "the sanctuaries of Apollo and Athena",
+      "definitions_ex_vn": "Các khu bảo tồn của Apollo và Athena",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690599_38cb44c3b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690599_2afe1a87e7_o.png",
+      "id_image": "sanctuary_3498689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450358_de6f65d09e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450358_2f97f07828_o.png",
+      "id_image": "sanctuary_4470253"
+    }
+  ]
+}

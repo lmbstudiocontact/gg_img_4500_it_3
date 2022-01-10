@@ -1,0 +1,152 @@
+{
+  "english": "pot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ly",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái soong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số tiền lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn con thú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt trong soong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để trong nồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thục vào lổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trồng trong chậu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container, typically rounded or cylindrical and of ceramic ware or metal, used for storage or cooking.",
+      "definitions_ex_en": "clay pots for keeping water cool in summer",
+      "definitions_ex_vn": "Nồi đất sét để giữ nước mát vào mùa hè",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the total sum of the bets made on a round in poker and other card games.",
+      "definitions_ex_en": "Jim raked in the pot",
+      "definitions_ex_vn": "Jim cào trong nồi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a potbelly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cannabis.",
+      "definitions_ex_en": "we smoked pot at football games",
+      "definitions_ex_vn": "Chúng tôi hun khói nồi tại các trò chơi bóng đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shot aimed at someone or something; a potshot.",
+      "definitions_ex_en": "my friends had a pot at the occasional rabbit",
+      "definitions_ex_vn": "bạn bè của tôi đã có một cái nồi ở thỏ thỉnh thoảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(chiefly in rugby) an attempt to score a goal with a kick.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for potentiometer (sense 2).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "plant in a flowerpot.",
+      "definitions_ex_en": "pot individual cuttings as soon as you see new young leaves",
+      "definitions_ex_vn": "Pot Cuttings cá nhân ngay khi bạn nhìn thấy những chiếc lá trẻ mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "preserve (food, especially meat or fish) in a sealed pot or jar.",
+      "definitions_ex_en": "venison can be potted in the same way as tongue",
+      "definitions_ex_vn": "Venison có thể được trồng trong cùng một cách như lưỡi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "another term for pocket.",
+      "definitions_ex_en": "he failed to pot a red at close range",
+      "definitions_ex_vn": "anh ta đã thất bại trong nồi đỏ ở cự ly gần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit or kill (someone or something) by shooting.",
+      "definitions_ex_en": "he was shot in the eye as neighbors potted clay pigeons",
+      "definitions_ex_vn": "Anh ta bị bắn vào mắt khi hàng xóm trong chậu Pigeons Clay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "score (a goal).",
+      "definitions_ex_en": "the English Lion potted two penalties of his own",
+      "definitions_ex_vn": "Sư tử tiếng Anh trong chậu hai hình phạt của riêng mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "potential.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "potentiometer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688024_6969c8da7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688024_aba2bc86e8_o.png",
+      "id_image": "pot_1027082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448118_6d4fdcb4f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448118_6a54847223_o.png",
+      "id_image": "pot_259186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377852_f0617b6862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377852_a6d2497643_o.png",
+      "id_image": "pot_5833307"
+    }
+  ]
+}

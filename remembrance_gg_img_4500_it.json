@@ -1,0 +1,36 @@
+{
+  "english": "remembrance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hồi tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối ký ức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức nhớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật kỷ niệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of remembering something.",
+      "definitions_ex_en": "a flash of understanding or remembrance passed between them",
+      "definitions_ex_vn": "một sự hiểu biết hoặc sự tưởng nhớ được truyền lại giữa họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680994_3c906bdeb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680994_28bf794c32_o.png",
+      "id_image": "remembrance_4515212"
+    }
+  ]
+}

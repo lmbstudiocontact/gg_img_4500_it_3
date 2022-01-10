@@ -1,0 +1,97 @@
+{
+  "english": "roller",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy cán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống ép kim loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống lăn mực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sóng biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ cán kim loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ ép kim loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục lăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục sơn tường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cylinder that rotates around a central axis and is used in various machines and devices to move, flatten, or spread something.",
+      "definitions_ex_en": "the sheets moved through rollers and down the folding machine",
+      "definitions_ex_vn": "Các tấm di chuyển qua con lăn và xuống máy gấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long swelling wave that appears to roll steadily toward the shore.",
+      "definitions_ex_en": "the Atlantic rollers",
+      "definitions_ex_vn": "Các con lăn Đại Tây Dương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or involving roller skates.",
+      "definitions_ex_en": "roller hockey",
+      "definitions_ex_vn": "Khúc côn cầu lăn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a brightly colored crow-sized bird with predominantly blue plumage, having a characteristic tumbling display flight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bird of a breed of tumbler pigeon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bird of a breed of canary with a trilling song.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a broad surcingle, typically padded at the withers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343376_b12366eeea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343376_dc2758f73c_o.png",
+      "id_image": "roller_1833232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698639_3f91068b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698639_8b47fe9489_o.png",
+      "id_image": "roller_408416"
+    }
+  ]
+}

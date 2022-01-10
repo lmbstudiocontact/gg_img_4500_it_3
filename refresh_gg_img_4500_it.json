@@ -1,0 +1,47 @@
+{
+  "english": "refresh",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho khan khoái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho mát mẽ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhắc nhở việc gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sạt vào bình điện",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give new strength or energy to; reinvigorate.",
+      "definitions_ex_en": "the shower had refreshed her",
+      "definitions_ex_vn": "Vòi hoa sen đã làm mới cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or function of updating the display on a screen.",
+      "definitions_ex_en": "a faster-running system with snappy screen refreshes",
+      "definitions_ex_vn": "một hệ thống chạy nhanh hơn với snappy màn hình làm mới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067705_ecb4f9f655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067705_0d7eb198be_o.png",
+      "id_image": "refresh_1041986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067660_bcde2b1577_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067660_3c7a525f50_o.png",
+      "id_image": "refresh_1295488"
+    }
+  ]
+}

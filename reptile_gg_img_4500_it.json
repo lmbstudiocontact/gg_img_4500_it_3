@@ -1,0 +1,50 @@
+{
+  "english": "reptile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đê tiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hèn hạ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "luồn cúi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "loài bò sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đê tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hèn hạ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a vertebrate animal of a class that includes snakes, lizards, crocodiles, turtles, and tortoises. They are distinguished by having a dry scaly skin and typically laying soft-shelled eggs on land.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "belonging to a reptile or to the class of reptiles.",
+      "definitions_ex_en": "reptile eggs",
+      "definitions_ex_vn": "trứng bò sát",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322396_6f0be42774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322396_3e0e5813e3_o.png",
+      "id_image": "reptile_4966450"
+    }
+  ]
+}

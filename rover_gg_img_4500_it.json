@@ -1,0 +1,73 @@
+{
+  "english": "rover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đi lang thang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi vơ vẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhìn khắp nơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who spends their time wandering.",
+      "definitions_ex_en": "they became rovers who departed further and further from civilization",
+      "definitions_ex_vn": "họ đã trở thành Rovers đã khởi hành hơn nữa và xa hơn về nền văn minh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in various sports) a player not restricted to a particular position on the field.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vehicle for driving over rough terrain, especially one driven by remote control over extraterrestrial terrain.",
+      "definitions_ex_en": "a lunar rover",
+      "definitions_ex_vn": "một chiếc rover mặt trăng.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ball that has passed all the wickets but not pegged out.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a target for long-distance shooting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sea robber; a pirate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or machine that makes roves of fiber.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455613_34435dc913_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455613_97ea66646f_o.png",
+      "id_image": "rover_1794564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455588_c9b111a41a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455588_a7f07c8dab_o.png",
+      "id_image": "rover_2086532"
+    }
+  ]
+}

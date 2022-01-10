@@ -1,0 +1,32 @@
+{
+  "english": "satire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời châm biếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chế nhạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chua chát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the use of humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices, particularly in the context of contemporary politics and other topical issues.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689364_bbafd46a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689364_2d1abde601_o.png",
+      "id_image": "satire_2178167"
+    }
+  ]
+}

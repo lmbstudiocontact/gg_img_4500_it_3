@@ -1,0 +1,32 @@
+{
+  "english": "prosecutor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bên nguyên đơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khởi tố",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, especially a public official, who institutes legal proceedings against someone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087745_991a142e11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087745_6ec59c3072_o.png",
+      "id_image": "prosecutor_6333164"
+    }
+  ]
+}

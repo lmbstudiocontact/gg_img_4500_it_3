@@ -1,0 +1,38 @@
+{
+  "english": "resignation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ký tên lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự từ chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xin thôi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of retiring or giving up a position.",
+      "definitions_ex_en": "he announced his resignation",
+      "definitions_ex_vn": "Ông tuyên bố từ chức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the acceptance of something undesirable but inevitable.",
+      "definitions_ex_en": "a shrug of resignation",
+      "definitions_ex_vn": "một cái nhún vai ban",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352026_41e51d244f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352026_621b50a02a_o.png",
+      "id_image": "resignation_5115924"
+    }
+  ]
+}

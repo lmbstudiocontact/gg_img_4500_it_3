@@ -1,0 +1,29 @@
+{
+  "english": "pensive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "suy nghĩ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "engaged in, involving, or reflecting deep or serious thought.",
+      "definitions_ex_en": "a pensive mood",
+      "definitions_ex_vn": "một tâm trạng trầm ngâm",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366882_f5c6bb7fd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366882_7915a0e9ab_o.png",
+      "id_image": "pensive_3362215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677044_7e32770416_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677044_5b862fde07_o.png",
+      "id_image": "pensive_708681"
+    }
+  ]
+}

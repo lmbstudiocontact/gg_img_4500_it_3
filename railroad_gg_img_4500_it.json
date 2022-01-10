@@ -1,0 +1,52 @@
+{
+  "english": "railroad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm đường sắt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "press (someone) into doing something by rushing or coercing them.",
+      "definitions_ex_en": "she hesitated, unwilling to be railroaded into a decision",
+      "definitions_ex_vn": "Cô ngập ngừng, không muốn được chuyển đến một quyết định",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695749_4aa265a141_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695749_e7b6f5359a_o.png",
+      "id_image": "railroad_1558400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455308_63472baa4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455308_b245481573_o.png",
+      "id_image": "railroad_2430094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077670_ba38f47c73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077670_ac873f777b_o.png",
+      "id_image": "railroad_3267464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077755_0db9772aa5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077755_d634da95b9_o.png",
+      "id_image": "railroad_360017"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385292_60e059e019_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385292_c97db2ebce_o.png",
+      "id_image": "railroad_4325842"
+    }
+  ]
+}

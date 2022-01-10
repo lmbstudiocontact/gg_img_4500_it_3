@@ -1,0 +1,56 @@
+{
+  "english": "radiation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách bắn tia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bức xạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát quang huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phóng quang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phóng xạ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "divergence out from a central point, in particular evolution from an ancestral animal or plant group into a variety of new forms.",
+      "definitions_ex_en": "evolution is a process of radiation not progression",
+      "definitions_ex_vn": "Sự tiến hóa là một quá trình phóng xạ không tiến triển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456213_39fc65ab22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456213_96278e71f8_o.png",
+      "id_image": "radiation_2456864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386337_5e3cdbbbf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386337_375a4f9617_o.png",
+      "id_image": "radiation_2752164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696629_28e7f444b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696629_21c5daef93_o.png",
+      "id_image": "radiation_706206"
+    }
+  ]
+}

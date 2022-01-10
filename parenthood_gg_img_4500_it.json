@@ -1,0 +1,33 @@
+{
+  "english": "parenthood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quan hệ cha mẹ với con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư cách cha mẹ với con",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being a parent and the responsibilities involved.",
+      "definitions_ex_en": "high rates of single parenthood",
+      "definitions_ex_vn": "Tỷ lệ huy động duy nhất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447503_7184f8331b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447503_422ecc4c6c_o.png",
+      "id_image": "parenthood_4215454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332506_b947496032_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332506_dc86653fcd_o.png",
+      "id_image": "parenthood_859967"
+    }
+  ]
+}

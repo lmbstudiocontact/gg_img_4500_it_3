@@ -1,0 +1,33 @@
+{
+  "english": "sanitary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về vệ sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vệ sinh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the conditions that affect hygiene and health, especially the supply of sewage facilities and clean drinking water.",
+      "definitions_ex_en": "a sanitary engineer",
+      "definitions_ex_vn": "một kỹ sư vệ sinh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334796_4b28ebdb6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334796_f47b61ed69_o.png",
+      "id_image": "sanitary_3959112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071770_0dcab9768b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071770_9f58fa8469_o.png",
+      "id_image": "sanitary_4698505"
+    }
+  ]
+}

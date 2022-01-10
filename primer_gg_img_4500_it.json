@@ -1,0 +1,65 @@
+{
+  "english": "primer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngòi súng đại bác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách dạy trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách tập đọc và đánh vần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sác vở lòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance used as a preparatory coat on previously unpainted wood, metal, or canvas, especially to prevent the absorption of subsequent layers of paint or the development of rust.",
+      "definitions_ex_en": "apply three coats of primer",
+      "definitions_ex_vn": "Áp dụng ba lớp sơn lót",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cap or cylinder containing a compound which responds to friction or an electrical impulse and ignites the charge in a cartridge or explosive.",
+      "definitions_ex_en": "the nitro-cellulose is ignited by the spark that comes from the primer",
+      "definitions_ex_vn": "Cellulose Nitro bị đốt cháy bởi tia lửa xuất phát từ mồi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small pump for pumping fuel to prime an internal combustion engine, especially in an aircraft.",
+      "definitions_ex_en": "no more than four pumps of the primer usually suffice",
+      "definitions_ex_vn": "không quá bốn máy bơm của mồi thường là đủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a molecule that serves as a starting material for a polymerization process.",
+      "definitions_ex_en": "the duplex RNA primer cannot initiate DNA replication",
+      "definitions_ex_vn": "Trimer RNA song công không thể bắt đầu sao chép DNA",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an elementary textbook that serves as an introduction to a subject of study or is used for teaching children to read.",
+      "definitions_ex_en": "a first-year philosophy primer",
+      "definitions_ex_vn": "một triết lý năm đầu tiên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680844_d4afed3772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680844_e78f5c3362_o.png",
+      "id_image": "primer_2286607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062500_e75938e7aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062500_1ae38a1a6f_o.png",
+      "id_image": "primer_6075366"
+    }
+  ]
+}

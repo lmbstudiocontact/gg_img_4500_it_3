@@ -1,0 +1,43 @@
+{
+  "english": "pedigree",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gia hệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế hệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the record of descent of an animal, showing it to be purebred.",
+      "definitions_ex_en": "they are looking for animals with pedigrees",
+      "definitions_ex_vn": "Họ đang tìm kiếm động vật với phả hệ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the recorded ancestry, especially upper-class ancestry, of a person or family.",
+      "definitions_ex_en": "with a pedigree equal to many of the gentry",
+      "definitions_ex_vn": "với một phả hệ bằng với nhiều gentry",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679004_4753977a04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679004_98ba127b1a_o.png",
+      "id_image": "pedigree_2334566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368637_ff3a486a6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368637_c51f263ec8_o.png",
+      "id_image": "pedigree_3436143"
+    }
+  ]
+}

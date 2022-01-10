@@ -1,0 +1,73 @@
+{
+  "english": "rocker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái sàng đải vàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ca sĩ hát nhạc rock",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đưa võng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người gàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hơi khùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who performs, dances to, or enjoys rock music, especially of a particular type.",
+      "definitions_ex_en": "a punk rocker",
+      "definitions_ex_vn": "một rocker punk",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rocking device forming part of a mechanism, especially one for controlling the positions of brushes in a generator.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a curved bar or similar support on which something such as a chair or cradle can rock.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the amount of curvature in the longitudinal contour of a boat or surfboard.",
+      "definitions_ex_en": "the hull lines are classic with considerable rocker",
+      "definitions_ex_vn": "Các đường ngang là cổ điển với rocker đáng kể",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the curved stripes below the chevron of a noncommissioned officer above the rank of sergeant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699259_ffb8169816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699259_ca6bedcaf5_o.png",
+      "id_image": "rocker_3238256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344126_1bc8664dbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344126_0988017544_o.png",
+      "id_image": "rocker_387381"
+    }
+  ]
+}

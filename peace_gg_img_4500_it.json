@@ -1,0 +1,60 @@
+{
+  "english": "peace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hòa bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự an ninh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thái bình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "freedom from disturbance; tranquility.",
+      "definitions_ex_en": "you can while away an hour or two in peace and seclusion",
+      "definitions_ex_vn": "bạn có thể trong khi đi một hoặc hai giờ trong hòa bình và ẩn dật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a state or period in which there is no war or a war has ended.",
+      "definitions_ex_en": "the Straits were to be open to warships in time of peace",
+      "definitions_ex_vn": "Eo biển sẽ được mở cửa cho tàu chiến trong thời gian hòa bình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ceremonial handshake or kiss exchanged during a service in some Churches (now usually only in the Eucharist), symbolizing Christian love and unity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used as an order to remain silent.",
+      "definitions_ex_en": "peace, be still!",
+      "definitions_ex_vn": "sự yên bình vẫn còn!",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370372_5a8d98aa27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370372_5118a839c4_o.png",
+      "id_image": "peace_209211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440538_8aa7fff331_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440538_d0bdaa6502_o.png",
+      "id_image": "peace_209228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062275_1bcd97aaaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062275_c409bc63c6_o.png",
+      "id_image": "peace_750482"
+    }
+  ]
+}

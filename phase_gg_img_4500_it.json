@@ -1,0 +1,64 @@
+{
+  "english": "phase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biến tượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giai đoạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a distinct period or stage in a series of events or a process of change or development.",
+      "definitions_ex_en": "the final phases of the war",
+      "definitions_ex_vn": "các giai đoạn cuối cùng của cuộc chiến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the aspects of the moon or a planet, according to the amount of its illumination, especially the new moon, the first quarter, the full moon, and the last quarter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a genetic or seasonal variety of an animal's coloration.",
+      "definitions_ex_en": "the invertebrate residents of the tundra pass the winter in dormant phase",
+      "definitions_ex_vn": "Cư dân động vật không xương sống của Tundra vượt qua mùa đông trong giai đoạn không hoạt động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinct and homogeneous form of matter (i.e. a particular solid, liquid, or gas) separated by its surface from other forms.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the relationship in time between the successive states or cycles of an oscillating or repeating system (such as an alternating electric current or a light or sound wave) and either a fixed reference point or the states or cycles of another system with which it may or may not be in synchrony.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "carry out (something) in gradual stages.",
+      "definitions_ex_en": "the work is being phased over a number of years",
+      "definitions_ex_vn": "Công việc đang được thực hiện theo một số năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "adjust the phase of (something), especially so as to synchronize it with something else.",
+      "definitions_ex_en": "about 70% of the reflections were phased by this method",
+      "definitions_ex_vn": "Khoảng% 2070 %% 20of% 20,% 2070 %%%%%%%%%%%%%%%%%%%%% 20Method",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464838_6d629f344e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464838_4d9ae5d05f_o.png",
+      "id_image": "phase_2116980"
+    }
+  ]
+}

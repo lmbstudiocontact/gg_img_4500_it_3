@@ -1,0 +1,47 @@
+{
+  "english": "sapphire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xa phia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lam ngọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc xanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc xa phia",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a transparent precious stone, typically blue, that is a variety of corundum (aluminum oxide).",
+      "definitions_ex_en": "a sapphire ring",
+      "definitions_ex_vn": "một chiếc nhẫn sapphire.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small hummingbird with shining blue or violet colors in its plumage and a short tail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379717_b974f4f841_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379717_c050d77b39_o.png",
+      "id_image": "sapphire_4541733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449753_cfd1d0731a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449753_7c74c9a2e3_o.png",
+      "id_image": "sapphire_4681328"
+    }
+  ]
+}

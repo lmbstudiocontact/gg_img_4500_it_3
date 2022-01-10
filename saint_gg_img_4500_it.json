@@ -1,0 +1,40 @@
+{
+  "english": "saint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lể các thánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person acknowledged as holy or virtuous and typically regarded as being in heaven after death.",
+      "definitions_ex_en": "a place dedicated to a seventh-century saint",
+      "definitions_ex_vn": "một nơi dành riêng cho một vị thánh thế kỷ thứ bảy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very virtuous, kind, or patient person.",
+      "definitions_ex_en": "she's a saint to go on living with that man",
+      "definitions_ex_vn": "Cô ấy là một vị thánh để tiếp tục sống với người đàn ông đó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "formally recognize as a saint; canonize.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074165_71d1d02be4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074165_8062fcc2f0_o.png",
+      "id_image": "saint_2333251"
+    }
+  ]
+}

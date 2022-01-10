@@ -1,0 +1,24 @@
+{
+  "english": "performer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người thi hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who entertains an audience.",
+      "definitions_ex_en": "a circus performer",
+      "definitions_ex_vn": "một người biểu diễn xiếc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320766_564a24a216_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320766_d77bfac9fc_o.png",
+      "id_image": "performer_4090140"
+    }
+  ]
+}

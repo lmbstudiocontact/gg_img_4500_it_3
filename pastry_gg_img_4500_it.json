@@ -1,0 +1,47 @@
+{
+  "english": "pastry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh ngọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "các loại bánh ngọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn ngọt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dough of flour, shortening, and water, used as a base and covering in baked dishes such as pies.",
+      "definitions_ex_en": "spread the mixture over the pastry",
+      "definitions_ex_vn": "Trải hỗn hợp lên bánh ngọt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328876_c0ba398e10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328876_071296b09b_o.png",
+      "id_image": "pastry_1056801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065670_3091b47335_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065670_9ce3983407_o.png",
+      "id_image": "pastry_2484312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328791_d97ec93bb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328791_b1b517a7b7_o.png",
+      "id_image": "pastry_5293914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683824_5249cd8063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683824_04445a6b40_o.png",
+      "id_image": "pastry_6299639"
+    }
+  ]
+}

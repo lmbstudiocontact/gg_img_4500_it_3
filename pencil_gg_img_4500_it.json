@@ -1,0 +1,55 @@
+{
+  "english": "pencil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bút chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bút lông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viết chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cọ sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhiều tia sáng gộm lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viết bằng viết chì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instrument for writing or drawing, consisting of a thin stick of graphite or a similar substance enclosed in a long thin piece of wood or fixed in a metal or plastic case.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "write, draw, or color with a pencil.",
+      "definitions_ex_en": "a previous owner has penciled their name inside the cover",
+      "definitions_ex_vn": "Một chủ sở hữu trước đó đã bút chì tên của họ bên trong trang bìa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322831_dc4d7f7a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322831_6cca8fe6d3_o.png",
+      "id_image": "pencil_124755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677939_2712578ecd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677939_5e052d93f8_o.png",
+      "id_image": "pencil_124839"
+    }
+  ]
+}

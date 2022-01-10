@@ -1,0 +1,53 @@
+{
+  "english": "road",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường sắt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use.",
+      "definitions_ex_en": "a country road",
+      "definitions_ex_vn": "một con đường quê",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a series of events or a course of action that will lead to a particular outcome.",
+      "definitions_ex_en": "he's well on the road to recovery",
+      "definitions_ex_vn": "Anh ấy đang trên đường phục hồi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(often in place names) another term for roadstead.",
+      "definitions_ex_en": "Boston Roads",
+      "definitions_ex_vn": "Đường Boston",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344966_8216b3ee03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344966_c7a8bac799_o.png",
+      "id_image": "road_619147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082410_8d7d5d769a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082410_afd2eb90bf_o.png",
+      "id_image": "road_777567"
+    }
+  ]
+}

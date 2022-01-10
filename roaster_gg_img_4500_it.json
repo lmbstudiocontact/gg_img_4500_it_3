@@ -1,0 +1,42 @@
+{
+  "english": "roaster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lò quay thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quay thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng rang cà phê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container, oven, furnace, or apparatus for roasting something.",
+      "definitions_ex_en": "my mother used to cook poultry in an oval-lidded roaster",
+      "definitions_ex_vn": "Mẹ tôi dùng để nấu gia cầm trong một lò quay hình bầu dục",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082105_07925a5453_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082105_abc847132c_o.png",
+      "id_image": "roaster_3219272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344601_45a320d274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344601_20258ff665_o.png",
+      "id_image": "roaster_5181709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082060_1bd66617a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082060_9874f3ab93_o.png",
+      "id_image": "roaster_5181723"
+    }
+  ]
+}

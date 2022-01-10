@@ -1,0 +1,59 @@
+{
+  "english": "paw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chân thú có móng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bới đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vầy vò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an animal's foot having claws and pads.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an animal) feel or scrape with a paw or hoof.",
+      "definitions_ex_en": "the horse rose on its strong haunches, its forelegs pawing the air",
+      "definitions_ex_vn": "Con ngựa đã mọc trên những hununches mạnh mẽ của nó, chân chân của nó cản trở không khí",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371337_2e856b47c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371337_5c150acee0_o.png",
+      "id_image": "paw_4966345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326556_cc0f1202da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326556_39a987bc49_o.png",
+      "id_image": "paw_5584155"
+    }
+  ]
+}

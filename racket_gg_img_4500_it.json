@@ -1,0 +1,92 @@
+{
+  "english": "racket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều gian trá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giày đi tuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mánh khéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ăn chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chơi bời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự huyên náo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng ồn ào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vợt đánh quần vợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn uống say sưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ồn ào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a type of bat with a round or oval frame strung with catgut, nylon, etc., used especially in tennis, badminton, and squash.",
+      "definitions_ex_en": "a squash racket",
+      "definitions_ex_vn": "một cây vợt bí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a loud unpleasant noise; a din.",
+      "definitions_ex_en": "the kids were making a racket",
+      "definitions_ex_vn": "Những đứa trẻ đang làm một cây vợt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an illegal or dishonest scheme for obtaining money.",
+      "definitions_ex_en": "a protection racket",
+      "definitions_ex_vn": "một cây vợt bảo vệ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a loud unpleasant noise.",
+      "definitions_ex_en": "trains racketed by",
+      "definitions_ex_vn": "đào tạo vợt vợt bởi.",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456648_70e179c56e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456648_79c88e0a32_o.png",
+      "id_image": "racket_184063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456598_71f7b86184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456598_1794b0bea3_o.png",
+      "id_image": "racket_2845178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341686_e576328b0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341686_ace4dbc769_o.png",
+      "id_image": "racket_4611021"
+    }
+  ]
+}

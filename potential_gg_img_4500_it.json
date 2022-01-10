@@ -1,0 +1,58 @@
+{
+  "english": "potential",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khả năng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngầm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điện thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiềm lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing the capacity to become or develop into something in the future.",
+      "definitions_ex_en": "a two-pronged campaign to woo potential customers",
+      "definitions_ex_vn": "một chiến dịch hai chiều để woo khách hàng tiềm năng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "latent qualities or abilities that may be developed and lead to future success or usefulness.",
+      "definitions_ex_en": "a young broadcaster with great potential",
+      "definitions_ex_vn": "một đài truyền hình trẻ có tiềm năng lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quantity determining the energy of mass in a gravitational field or of charge in an electric field.",
+      "definitions_ex_en": "a change in gravitational potential",
+      "definitions_ex_vn": "một sự thay đổi trong tiềm năng hấp dẫn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332781_c5279ea7df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332781_c6da507c84_o.png",
+      "id_image": "potential_2753154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332751_d190d94302_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332751_10a26bef37_o.png",
+      "id_image": "potential_4296540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687714_23cdc00087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687714_a36c687071_o.png",
+      "id_image": "potential_4833860"
+    }
+  ]
+}

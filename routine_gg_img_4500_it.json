@@ -1,0 +1,54 @@
+{
+  "english": "routine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sanh hoạt hàng ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói quen",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sequence of actions regularly followed; a fixed program.",
+      "definitions_ex_en": "I settled down into a routine of work and sleep",
+      "definitions_ex_vn": "Tôi ổn định thành một thói quen của công việc và giấc ngủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "performed as part of a regular procedure rather than for a special reason.",
+      "definitions_ex_en": "the principal insisted that this was just a routine annual drill",
+      "definitions_ex_vn": "Hiệu trưởng nhấn mạnh rằng đây chỉ là một mũi khoan hàng năm thường xuyên",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "organize according to a routine.",
+      "definitions_ex_en": "all had been routined with smoothness",
+      "definitions_ex_vn": "Tất cả đã được định tuyến với sự trơn tru",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340896_14dc484c43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340896_3652d43155_o.png",
+      "id_image": "routine_2738826"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385812_5946b4f6c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385812_2c1a5ec69e_o.png",
+      "id_image": "routine_5101217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385787_e85b7df918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385787_db39cd1dae_o.png",
+      "id_image": "routine_5775316"
+    }
+  ]
+}

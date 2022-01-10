@@ -1,0 +1,34 @@
+{
+  "english": "relativity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính tương đối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuyết tương đối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the absence of standards of absolute and universal application.",
+      "definitions_ex_en": "moral relativity",
+      "definitions_ex_vn": "thuyết tương đối đạo đức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the dependence of various physical phenomena on relative motion of the observer and the observed objects, especially regarding the nature and behavior of light, space, time, and gravity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064515_290658aacb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064515_bee5d3d8a3_o.png",
+      "id_image": "relativity_3655718"
+    }
+  ]
+}

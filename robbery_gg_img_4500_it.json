@@ -1,0 +1,42 @@
+{
+  "english": "robbery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ăn cắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cướp đoạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cướp giựt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of taking property unlawfully from a person or place by force or threat of force.",
+      "definitions_ex_en": "he was involved in drugs, extortion, and robbery",
+      "definitions_ex_vn": "Ông đã tham gia vào ma túy, tống tiền và cướp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344571_cd728dc9bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344571_15538f5332_o.png",
+      "id_image": "robbery_2084060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459378_5999a9f455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459378_df106bbab3_o.png",
+      "id_image": "robbery_2650121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459348_f33f259342_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459348_722a2234b4_o.png",
+      "id_image": "robbery_4351782"
+    }
+  ]
+}

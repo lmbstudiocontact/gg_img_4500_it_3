@@ -1,0 +1,43 @@
+{
+  "english": "productivity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự phong phú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sanh sản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state or quality of producing something, especially crops.",
+      "definitions_ex_en": "the long-term productivity of land",
+      "definitions_ex_vn": "năng suất lâu dài của đất đai",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058645_524f775c7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058645_e16881a238_o.png",
+      "id_image": "productivity_4593135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437008_3a6d81b290_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437008_8c0d7d9ba9_o.png",
+      "id_image": "productivity_4638524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436963_67739c4487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436963_2c33e31d94_o.png",
+      "id_image": "productivity_5267744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436928_d6a662720d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436928_4dc3e0589c_o.png",
+      "id_image": "productivity_5965756"
+    }
+  ]
+}

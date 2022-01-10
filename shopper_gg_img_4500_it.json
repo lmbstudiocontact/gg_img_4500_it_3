@@ -1,0 +1,29 @@
+{
+  "english": "shopper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người mua hàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is shopping.",
+      "definitions_ex_en": "red poinsettias get shoppers in the holiday mood",
+      "definitions_ex_vn": "Poinsettias đỏ có được người mua hàng trong tâm trạng ngày lễ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080720_62f5f222a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080720_440023535d_o.png",
+      "id_image": "shopper_1426413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698479_0a92078076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698479_65d0f236ef_o.png",
+      "id_image": "shopper_1995323"
+    }
+  ]
+}

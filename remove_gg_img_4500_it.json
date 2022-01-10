@@ -1,0 +1,108 @@
+{
+  "english": "remove",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dời đi nơi khác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho xa ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tan",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tẩy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháo ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy ra thay thế vật khác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thủ tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoạn đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "món ăn dọn sau món khác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lên lớp cao hơn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take (something) away or off from the position occupied.",
+      "definitions_ex_en": "Customs officials removed documents from the premises",
+      "definitions_ex_vn": "Các quan chức hải quan đã loại bỏ các tài liệu từ cơ sở",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "eliminate or get rid of.",
+      "definitions_ex_en": "they removed thousands of needy youngsters from the system",
+      "definitions_ex_vn": "họ đã loại bỏ hàng ngàn thanh niên cần thiết khỏi hệ thống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be distant from.",
+      "definitions_ex_en": "it is an isolated place, far removed from the London art world",
+      "definitions_ex_vn": "Đó là một nơi biệt lập, xa loại khỏi thế giới nghệ thuật London",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a degree of remoteness or separation.",
+      "definitions_ex_en": "at this remove, the whole incident seems insane",
+      "definitions_ex_vn": "Khi loại bỏ này, toàn bộ sự cố có vẻ điên rồ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680604_a4a5b47c17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680604_a7b7cf3b44_o.png",
+      "id_image": "remove_316529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062295_f481d0b605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062295_b196f5d303_o.png",
+      "id_image": "remove_5511669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325481_1474ccb2a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325481_d970ef3107_o.png",
+      "id_image": "remove_6183125"
+    }
+  ]
+}

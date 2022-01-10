@@ -1,0 +1,36 @@
+{
+  "english": "remorse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mối ăn năn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối ân hận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ân hận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hối hận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "deep regret or guilt for a wrong committed.",
+      "definitions_ex_en": "they were filled with remorse and shame",
+      "definitions_ex_vn": "Họ tràn đầy sự hối hận và xấu hổ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062525_3214efaa7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062525_081941bbef_o.png",
+      "id_image": "remorse_708642"
+    }
+  ]
+}

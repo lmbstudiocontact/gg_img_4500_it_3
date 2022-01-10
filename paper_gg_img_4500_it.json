@@ -1,0 +1,133 @@
+{
+  "english": "paper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "báo chí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng khoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giất tờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy mời xem hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy thông hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghiên cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy dùng để gói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọc trong tờ giấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dán giấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gói trong tờ giấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giấy làm báo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hộp giấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.",
+      "definitions_ex_en": "a sheet of paper",
+      "definitions_ex_vn": "một tờ giấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece or sheet of paper with something written or drawn on it.",
+      "definitions_ex_en": "he riffled through the papers on his desk",
+      "definitions_ex_vn": "Anh ta rong qua các giấy tờ trên bàn của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an essay or thesis, especially one read at an academic lecture or seminar or published in an academic journal.",
+      "definitions_ex_en": "he published a highly original paper on pattern formation",
+      "definitions_ex_vn": "Ông đã xuất bản một bài báo gốc về đội hình mẫu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "free passes of admission to a theater or other entertainment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply wallpaper to (a wall or room).",
+      "definitions_ex_en": "the walls were papered in a Regency stripe",
+      "definitions_ex_vn": "Các bức tường được giấy trong một dải regency",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fill (a theater) by giving out free tickets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379207_620cf3c898_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379207_e3f29faa61_o.png",
+      "id_image": "paper_1032687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334281_1667e10365_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334281_fa3f457fb5_o.png",
+      "id_image": "paper_1131437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449273_e32641108d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449273_67de35a036_o.png",
+      "id_image": "paper_1188520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379252_594c83cca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379252_94f1172f66_o.png",
+      "id_image": "paper_420285"
+    }
+  ]
+}

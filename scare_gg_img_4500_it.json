@@ -1,0 +1,63 @@
+{
+  "english": "scare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mối khinh khủng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối sợ hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khiếp hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khủng khiếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sợ hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kinh hải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khủng khiếp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm sợ hải",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause great fear or nervousness in; frighten.",
+      "definitions_ex_en": "I was scared stiff",
+      "definitions_ex_vn": "Tôi đã sợ cứng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sudden attack of fright.",
+      "definitions_ex_en": "gosh, that gave me a scare!",
+      "definitions_ex_vn": "Trời ạ, điều đó đã khiến tôi sợ hãi!",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447178_e474a6ce0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447178_a9771a34ea_o.png",
+      "id_image": "scare_1917684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068935_bea7fa3247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068935_d589477be4_o.png",
+      "id_image": "scare_260248"
+    }
+  ]
+}

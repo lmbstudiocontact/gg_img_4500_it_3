@@ -1,0 +1,42 @@
+{
+  "english": "rumor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếng đồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin đồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồn tin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lời đồn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a currently circulating story or report of uncertain or doubtful truth.",
+      "definitions_ex_en": "they were investigating rumors of a massacre",
+      "definitions_ex_vn": "Họ đang điều tra những tin đồn về một vụ thảm sát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be circulated as an unverified account.",
+      "definitions_ex_en": "it's rumored that he lives on a houseboat",
+      "definitions_ex_vn": "Có tin đồn rằng anh ta sống trên một chiếc thuyền nhà",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694289_ce819ba820_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694289_a8998e4042_o.png",
+      "id_image": "rumor_2473085"
+    }
+  ]
+}

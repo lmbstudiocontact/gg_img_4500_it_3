@@ -1,0 +1,84 @@
+{
+  "english": "settlement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ ở hợp pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiệp ước giữa hai nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chiếm làm thuộc địa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự để lóng cho trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự điều đình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lún xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thanh toán sổ sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuộc địa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trại của những người nô lệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an official agreement intended to resolve a dispute or conflict.",
+      "definitions_ex_en": "unions succeeded in reaching a pay settlement",
+      "definitions_ex_vn": "Các đoàn thể đã thành công trong việc đạt được một giải quyết lương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place, typically one that has hitherto been uninhabited, where people establish a community.",
+      "definitions_ex_en": "the little settlement of Buttermere",
+      "definitions_ex_vn": "Giải quyết nhỏ của Buttermere",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrangement whereby property passes to a succession of people as dictated by the settlor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or process of settling an account.",
+      "definitions_ex_en": "most suppliers will offer early settlement discounts",
+      "definitions_ex_vn": "Hầu hết các nhà cung cấp sẽ cung cấp giảm giá thanh toán sớm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "subsidence of the ground or a structure built on it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703094_94b6ed8670_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703094_ebe3854514_o.png",
+      "id_image": "settlement_1411848"
+    }
+  ]
+}

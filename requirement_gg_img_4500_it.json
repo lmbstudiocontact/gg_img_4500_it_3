@@ -1,0 +1,38 @@
+{
+  "english": "requirement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cần dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự yêu cầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that is needed or wanted.",
+      "definitions_ex_en": "choose the type of window that suits your requirements best",
+      "definitions_ex_vn": "Chọn loại cửa sổ phù hợp với yêu cầu của bạn tốt nhất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059085_1e9dd6c1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059085_b677caabb4_o.png",
+      "id_image": "requirement_1508896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437493_353591ae58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437493_9e85c4a0dc_o.png",
+      "id_image": "requirement_4295914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322231_8dfb14161c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322231_0781a31462_o.png",
+      "id_image": "requirement_5692220"
+    }
+  ]
+}

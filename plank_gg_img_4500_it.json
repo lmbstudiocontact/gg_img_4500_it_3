@@ -1,0 +1,61 @@
+{
+  "english": "plank",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phiến gổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm gổ dầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lót ván",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, thin, flat piece of timber, used especially in building and flooring.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fundamental point of a political or other program.",
+      "definitions_ex_en": "the central plank of the bill is the curb on industrial polluters",
+      "definitions_ex_vn": "Ván trung tâm của hóa đơn là lề đường đối với những người gây ô nhiễm công nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a physical exercise designed to strengthen the abdominal muscles, in which one performs a press-up and holds the raised position for a set period of time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make, provide, or cover with planks.",
+      "definitions_ex_en": "the ship was planked with teak",
+      "definitions_ex_vn": "Con tàu được plank với gỗ tếch",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "another term for plunk (sense 3 of the verb).",
+      "definitions_ex_en": "Ned planked the glasses in front of him",
+      "definitions_ex_vn": "Ned vẽ kính trước mặt anh ta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343256_c445512a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343256_dfbc85c85d_o.png",
+      "id_image": "planks_972738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698544_ed238764af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698544_2deb8d14da_o.png",
+      "id_image": "plank_972756"
+    }
+  ]
+}

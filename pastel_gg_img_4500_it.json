@@ -1,0 +1,49 @@
+{
+  "english": "pastel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màu xanh lấy từ loại cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viết chì màu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a crayon made of powdered pigments bound with gum or resin.",
+      "definitions_ex_en": "future issues will demonstrate work with pastels and marker pens",
+      "definitions_ex_vn": "Các vấn đề trong tương lai sẽ chứng minh công việc với bút lông pastel và bút đánh dấu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a soft and delicate shade of a color.",
+      "definitions_ex_en": "the subtlest of pastels and creams",
+      "definitions_ex_vn": "tinh tế của phấn màu và kem",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of a soft and delicate shade of color.",
+      "definitions_ex_en": "pastel blue curtains",
+      "definitions_ex_vn": "rèm cửa màu xanh pastel",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066010_d5dee582b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066010_83b9014936_o.png",
+      "id_image": "pastel_4424490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329181_0d8fde97bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329181_b18b08147e_o.png",
+      "id_image": "pastel_5854311"
+    }
+  ]
+}

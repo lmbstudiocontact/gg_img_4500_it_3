@@ -1,0 +1,93 @@
+{
+  "english": "parcel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bưu kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gói hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân chia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia hàng hóa ra từng gói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia ra từng phần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từng phần",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing or collection of things wrapped in paper in order to be carried or sent by mail.",
+      "definitions_ex_en": "a brown paper parcel",
+      "definitions_ex_vn": "một bưu kiện giấy màu nâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quantity or amount of something, especially as dealt with in one commercial transaction.",
+      "definitions_ex_en": "a parcel of shares",
+      "definitions_ex_vn": "một bưu kiện cổ phiếu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (something) into a parcel by wrapping it.",
+      "definitions_ex_en": "he parceled up the goods and sent them back",
+      "definitions_ex_vn": "Anh ta lọt vào hàng hóa và gửi lại cho họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wrap (rope) with strips of tarred canvas, before binding it with yarn as part of a traditional technique to reduce chafing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447953_ce2a0a8261_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447953_a227489279_o.png",
+      "id_image": "parcel_1988279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069640_9df4d539d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069640_cb89025c81_o.png",
+      "id_image": "parcel_4586107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377602_8feb6f7ee8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377602_3fa1f6c789_o.png",
+      "id_image": "parcel_4586128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687779_8289f49ce2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687779_c476c2bf81_o.png",
+      "id_image": "parcel_4649818"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "repurchase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mua lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "buy (something) back.",
+      "definitions_ex_en": "firms have been able to repurchase their shares since 1981",
+      "definitions_ex_vn": "Các công ty đã có thể mua lại cổ phiếu của họ từ năm 1981",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of buying something back.",
+      "definitions_ex_en": "the repurchase price",
+      "definitions_ex_vn": "giá mua lại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677454_78d8ef2d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677454_f6c017b82c_o.png",
+      "id_image": "repurchase_1477631"
+    }
+  ]
+}

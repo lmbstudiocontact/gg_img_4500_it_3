@@ -1,0 +1,104 @@
+{
+  "english": "shape",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách may",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình dáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình không rỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình trạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bày ra kế hoạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mở mang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắn đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát triển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the external form, contours, or outline of someone or something.",
+      "definitions_ex_en": "she liked the shape of his nose",
+      "definitions_ex_vn": "cô ấy thích hình dạng của mũi anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a geometric figure such as a square, triangle, or rectangle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the correct or original form or contours of something.",
+      "definitions_ex_en": "her skirt had lost its shape long ago",
+      "definitions_ex_vn": "Váy của cô đã mất hình dạng từ lâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the specified condition or state of someone or something.",
+      "definitions_ex_en": "most economists think the economy is in good shape",
+      "definitions_ex_vn": "Hầu hết các nhà kinh tế nghĩ rằng nền kinh tế đang ở trong tình trạng tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a particular shape or form to.",
+      "definitions_ex_en": "most caves are shaped by the flow of water through limestone",
+      "definitions_ex_vn": "Hầu hết các hang động được định hình bởi dòng nước qua đá vôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "Supreme Headquarters Allied Powers Europe.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084645_6145968a90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084645_4a0c6f3bf5_o.png",
+      "id_image": "shape_1607349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702034_d3f573d50e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702034_8d1dc0c3ab_o.png",
+      "id_image": "shape_2844476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392267_82502328c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392267_b9c25a5985_o.png",
+      "id_image": "shape_802078"
+    }
+  ]
+}

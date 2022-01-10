@@ -1,0 +1,76 @@
+{
+  "english": "reference",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hỏi lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự liên quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát hồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quan hệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tương quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tham khảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xem lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẫm quyền của quan tòa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of mentioning or alluding to something.",
+      "definitions_ex_en": "he made reference to the enormous power of the mass media",
+      "definitions_ex_vn": "Ông đã tham khảo sức mạnh to lớn của các phương tiện truyền thông đại chúng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the use of a source of information in order to ascertain something.",
+      "definitions_ex_en": "popular works of reference",
+      "definitions_ex_vn": "Các tác phẩm tham khảo phổ biến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a letter from a previous employer testifying to someone's ability or reliability, used when applying for a new job.",
+      "definitions_ex_en": "I was dismissed from the library, but with a good reference",
+      "definitions_ex_vn": "Tôi đã bị sa thải khỏi thư viện, nhưng với một tài liệu tham khảo tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (a book or article) with citations of sources of information.",
+      "definitions_ex_en": "each chapter is referenced, citing literature up to 1990",
+      "definitions_ex_vn": "Mỗi chương được tham chiếu, trích dẫn tài liệu lên đến năm 1990",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mention or refer to.",
+      "definitions_ex_en": "the media referenced our association in almost 40 articles",
+      "definitions_ex_vn": "Các phương tiện truyền thông tham khảo Hiệp hội của chúng tôi trong gần 40 bài báo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068880_e220191556_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068880_6b9d47a35f_o.png",
+      "id_image": "reference_2844426"
+    }
+  ]
+}

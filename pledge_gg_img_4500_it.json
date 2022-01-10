@@ -1,0 +1,98 @@
+{
+  "english": "pledge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng cớ ái tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời hứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời thề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chúc mừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chúc phước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chúc rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm đồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chúc mừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hứa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thế đồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a solemn promise or undertaking.",
+      "definitions_ex_en": "the conference ended with a joint pledge to limit pollution",
+      "definitions_ex_vn": "Hội nghị đã kết thúc với một cam kết chung để hạn chế ô nhiễm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that is given as security for the fulfillment of a contract or the payment of a debt and is liable to forfeiture in the event of failure.",
+      "definitions_ex_en": "he had given the object as a pledge to a creditor",
+      "definitions_ex_vn": "anh ta đã đưa ra đối tượng như một cam kết cho một chủ nợ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the drinking to a person's health; a toast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "commit (a person or organization) by a solemn promise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give as security on a loan.",
+      "definitions_ex_en": "the creditor to whom the land is pledged",
+      "definitions_ex_vn": "chủ nợ mà đất được cam kết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "drink to the health of.",
+      "definitions_ex_en": "in his hand a sculptured goblet, as he pledged the merchant kings",
+      "definitions_ex_vn": "Trong tay một chiếc cốc điêu khắc, khi anh cam kết các vị vua thương gia",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455368_dce8143807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455368_7ba8662ea7_o.png",
+      "id_image": "pledge_1279711"
+    }
+  ]
+}

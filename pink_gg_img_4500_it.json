@@ -1,0 +1,112 @@
+{
+  "english": "pink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xoi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chớp mắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có sắc hồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cá hồi nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây cẫm chướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu hồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu hường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc hồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu buồm nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a color intermediate between red and white, as of coral or salmon.",
+      "definitions_ex_en": "bright pink lipstick",
+      "definitions_ex_vn": "son môi màu hồng sáng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or associated with gay people.",
+      "definitions_ex_en": "a boom in the pink economy",
+      "definitions_ex_vn": "một sự bùng nổ trong nền kinh tế màu hồng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "pink color, material, or pigment.",
+      "definitions_ex_en": "she looks good in pink",
+      "definitions_ex_vn": "cô ấy trông đẹp màu hồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the best condition or degree.",
+      "definitions_ex_en": "the economy is not in the pink of health",
+      "definitions_ex_vn": "nền kinh tế không có trong màu hồng của sức khỏe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a herbaceous Eurasian plant with sweet-smelling pink or white flowers and slender, typically gray-green leaves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small square-rigged sailing ship, typically with a narrow, overhanging stern.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a yellowish lake pigment made by combining vegetable coloring matter with a white base.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut a scalloped or zigzag edge on.",
+      "definitions_ex_en": "I pinked the edge of the fabric",
+      "definitions_ex_vn": "Tôi hồng rìa của vải",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decorate.",
+      "definitions_ex_en": "April pinked the earth with flowers",
+      "definitions_ex_vn": "Tháng tư hồng với trái đất với hoa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700954_77656668eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700954_876322b81f_o.png",
+      "id_image": "pink_2218719"
+    }
+  ]
+}

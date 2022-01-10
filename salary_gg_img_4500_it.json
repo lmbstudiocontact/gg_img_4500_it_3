@@ -1,0 +1,44 @@
+{
+  "english": "salary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiền công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền lương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fixed regular payment, typically paid on a monthly or biweekly basis but often expressed as an annual sum, made by an employer to an employee, especially a professional or white-collar worker.",
+      "definitions_ex_en": "he received a salary of $29,000",
+      "definitions_ex_vn": "ông đã nhận được mức lương 29.000 đô la",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pay a salary to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451663_a5119864a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451663_df523f4772_o.png",
+      "id_image": "salary_4310786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381887_807c666418_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381887_5f5ff16da1_o.png",
+      "id_image": "salary_537223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381832_cdbc7b0abf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381832_02cde5fc25_o.png",
+      "id_image": "salary_868890"
+    }
+  ]
+}

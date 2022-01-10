@@ -1,0 +1,113 @@
+{
+  "english": "rattle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái trống lắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ chơi làn có tiếng kêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại rắn có tiếng kêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng đóng cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng khò khè trong cổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng nổ của súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng ồn ào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho chạy hết sức mau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kinh ngạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rơi lộp độp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thở khò khè",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm kinh hải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nghe tiếng động nhỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rung rinh cửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thất kinh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or cause to make a rapid succession of short, sharp knocking sounds, typically as a result of shaking and striking repeatedly against a hard surface or object.",
+      "definitions_ex_en": "he rattled some change in his pocket",
+      "definitions_ex_vn": "Anh ấy đã vấp ngã một số thay đổi trong túi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (someone) to feel nervous, worried, or irritated.",
+      "definitions_ex_en": "she turned quickly, rattled by his presence",
+      "definitions_ex_vn": "cô ấy nhanh chóng quay lại, đang reattled bởi sự hiện diện của anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a rapid succession of short, sharp, hard sounds.",
+      "definitions_ex_en": "the rattle of teacups on the tray",
+      "definitions_ex_vn": "Tiếng kêu của tách trà trên khay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing used to make a rattling sound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452568_7a8e1d8188_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452568_429f9e5796_o.png",
+      "id_image": "rattle_1706331"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693044_34898bf795_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693044_9f97503f11_o.png",
+      "id_image": "rattle_204661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337661_e2b47c0d9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337661_fec31e14cb_o.png",
+      "id_image": "rattle_2130782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692894_4bcca7c5d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692894_93abfc85ac_o.png",
+      "id_image": "rattle_6315045"
+    }
+  ]
+}

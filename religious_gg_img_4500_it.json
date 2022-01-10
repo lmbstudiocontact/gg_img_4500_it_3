@@ -1,0 +1,70 @@
+{
+  "english": "religious",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cẩn thận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chu đáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tín ngưỡng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tôn giáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tu hành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tu sỉ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or believing in a religion.",
+      "definitions_ex_en": "both men were deeply religious, intelligent, and moralistic",
+      "definitions_ex_vn": "Cả hai người đàn ông đều tôn giáo sâu sắc, thông minh và đạo đức",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person bound by monastic vows.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326456_d767400078_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326456_efe3eddbe3_o.png",
+      "id_image": "religious_2178187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063360_c04a30f7b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063360_b3daec6755_o.png",
+      "id_image": "religious_422094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371152_09a7d93c52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371152_bb722d21dc_o.png",
+      "id_image": "religious_4459355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371122_2246291f32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371122_039e186868_o.png",
+      "id_image": "religious_6001133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441278_894fd92920_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441278_099fbeb1c8_o.png",
+      "id_image": "religious_6213878"
+    }
+  ]
+}

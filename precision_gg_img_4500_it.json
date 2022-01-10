@@ -1,0 +1,29 @@
+{
+  "english": "precision",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính rỏ ràng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality, condition, or fact of being exact and accurate.",
+      "definitions_ex_en": "the deal was planned and executed with military precision",
+      "definitions_ex_vn": "Thỏa thuận đã được lên kế hoạch và thực hiện với sự chính xác quân sự",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685124_cba494d4c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685124_ff3ac6f8f3_o.png",
+      "id_image": "precision_1692908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066865_1fae4d8273_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066865_2f48433eca_o.png",
+      "id_image": "precision_1791938"
+    }
+  ]
+}

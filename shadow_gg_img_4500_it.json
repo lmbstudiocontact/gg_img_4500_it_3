@@ -1,0 +1,83 @@
+{
+  "english": "shadow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảo ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ẩn dật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồn ma",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóng tối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che bóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo dỏi người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dark area or shape produced by a body coming between rays of light and a surface.",
+      "definitions_ex_en": "trees cast long shadows",
+      "definitions_ex_vn": "Cây mưa dài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used in reference to proximity, ominous oppressiveness, or sadness and gloom.",
+      "definitions_ex_en": "the shadow of war fell across Europe",
+      "definitions_ex_vn": "Cái bóng của chiến tranh rơi xuống châu Âu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an inseparable attendant or companion.",
+      "definitions_ex_en": "her faithful shadow, a Yorkshire terrier called Heathcliffe",
+      "definitions_ex_vn": "Cái bóng trung thành của cô, một Terrier Yorkshire tên Heathcliffe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for eyeshadow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "envelop in shadow; cast a shadow over.",
+      "definitions_ex_en": "the market is shadowed by St. Margaret's church",
+      "definitions_ex_vn": "Thị trường bị che khuất bởi nhà thờ St. Margaret",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "follow and observe (someone) closely and secretly.",
+      "definitions_ex_en": "he had been up all night shadowing a team of poachers",
+      "definitions_ex_vn": "Anh ấy đã thức tất cả các đêm đổ bóng một đội những kẻ săn trộm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462708_233448e0e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462708_476ba87239_o.png",
+      "id_image": "shadow_4132746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702559_0e5585029a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702559_64ec78bfb8_o.png",
+      "id_image": "shadow_4402889"
+    }
+  ]
+}

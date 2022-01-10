@@ -1,0 +1,59 @@
+{
+  "english": "recovery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bình phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tìm lại được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thủ thế lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a return to a normal state of health, mind, or strength.",
+      "definitions_ex_en": "signs of recovery in the housing market",
+      "definitions_ex_vn": "Dấu hiệu phục hồi trong thị trường nhà ở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or process of regaining possession or control of something stolen or lost.",
+      "definitions_ex_en": "a team of salvage experts to ensure the recovery of family possessions",
+      "definitions_ex_vn": "một nhóm các chuyên gia cứu hộ để đảm bảo sự phục hồi của tài sản gia đình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of removing or extracting an energy source or industrial chemical for use, reuse, or waste treatment.",
+      "definitions_ex_en": "sulfur recovery",
+      "definitions_ex_vn": "Phục hồi lưu huỳnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334091_8728b57772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334091_139c313076_o.png",
+      "id_image": "recovery_1564280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334061_f36e2b6a14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334061_a1dd577277_o.png",
+      "id_image": "recovery_3063585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378882_a1b82e2c5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378882_bac03ac979_o.png",
+      "id_image": "recovery_5116226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689189_662f4f8dc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689189_1e19bcf345_o.png",
+      "id_image": "recovery_719159"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "second",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thứ nhì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giây đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạng nhì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thứ hai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ hai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giúp đở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "formally support or endorse (a nomination or resolution or its proposer) as a necessary preliminary to adoption or further discussion.",
+      "definitions_ex_en": "Bertonazzi seconded Birmingham's nomination",
+      "definitions_ex_vn": "Bertonazzi đã biệt phái Birmingham đề cử",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sixtieth of a minute of time, which as the SI unit of time is defined in terms of the natural periodicity of the radiation of a cesium-133 atom.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sixtieth of a minute of angular distance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060690_d3dc4f219c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060690_33cfcc904d_o.png",
+      "id_image": "second_1021085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368662_96184ccdf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368662_09f31eb57f_o.png",
+      "id_image": "second_6214130"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "personnel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân viên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "people employed in an organization or engaged in an organized undertaking such as military service.",
+      "definitions_ex_en": "many of the personnel involved require training",
+      "definitions_ex_vn": "Nhiều nhân viên tham gia yêu cầu đào tạo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435338_bf0bb09999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435338_fb8bb47504_o.png",
+      "id_image": "personnel_1643823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675179_e59c8ec583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675179_67904fd19f_o.png",
+      "id_image": "personnel_5102337"
+    }
+  ]
+}

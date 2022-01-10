@@ -1,0 +1,59 @@
+{
+  "english": "poster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "poster",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dán thông cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dán yến thị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large printed picture used for decoration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who posts something online, as on a blog, social media website, or forum.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put up posters in an area.",
+      "definitions_ex_en": "they even got a little overzealous, and postered over some election signs",
+      "definitions_ex_vn": "Họ thậm chí còn trở nên quá nhiệt đới, và áp dụng một số dấu hiệu bầu cử",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448573_fa36709ec9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448573_9a5de36984_o.png",
+      "id_image": "poster_1042383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688479_27b959020d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688479_2137e25a13_o.png",
+      "id_image": "poster_2123955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070250_2f272e8d14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070250_4245aa5750_o.png",
+      "id_image": "poster_2851876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688419_7be9fe4706_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688419_0d6954bfd2_o.png",
+      "id_image": "poster_5305144"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "proposal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cầu hôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đề nghị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plan or suggestion, especially a formal or written one, put forward for consideration or discussion by others.",
+      "definitions_ex_en": "a set of proposals for a major new high-speed rail link",
+      "definitions_ex_vn": "Một tập hợp các đề xuất cho một liên kết đường sắt tốc độ cao mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an offer of marriage.",
+      "definitions_ex_en": "surely a woman as beautiful as you has had proposals?",
+      "definitions_ex_vn": "Chắc chắn một người phụ nữ đẹp như bạn đã có đề xuất?",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350676_6d07dd933a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350676_7cae3a25bd_o.png",
+      "id_image": "proposal_1482408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395422_ed9a1cb3c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395422_00e84de180_o.png",
+      "id_image": "proposal_6418139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465278_57ed96299c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465278_752416ec97_o.png",
+      "id_image": "proposal_918496"
+    }
+  ]
+}

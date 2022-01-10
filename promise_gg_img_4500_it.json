@@ -1,0 +1,57 @@
+{
+  "english": "promise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời hứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời ước hẹn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "báo trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hứa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hứa hẹn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a declaration or assurance that one will do a particular thing or that a particular thing will happen.",
+      "definitions_ex_en": "what happened to all those firm promises of support?",
+      "definitions_ex_vn": "Điều gì đã xảy ra với tất cả những lời hứa hỗ trợ?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "assure someone that one will definitely do, give, or arrange something; undertake or declare that something will happen.",
+      "definitions_ex_en": "he promised to forward my mail",
+      "definitions_ex_vn": "Anh hứa sẽ chuyển thư của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give good grounds for expecting (a particular occurrence or situation).",
+      "definitions_ex_en": "forthcoming concerts promise a feast of music from around the world",
+      "definitions_ex_vn": "Các buổi hòa nhạc sắp diễn ra hứa hẹn một bữa tiệc âm nhạc từ khắp nơi trên thế giới",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351581_e387432d6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351581_8e3baa9924_o.png",
+      "id_image": "promise_1925214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351566_ef61b71d6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351566_de1a025abe_o.png",
+      "id_image": "promise_2121079"
+    }
+  ]
+}

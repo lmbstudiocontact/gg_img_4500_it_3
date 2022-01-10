@@ -1,0 +1,62 @@
+{
+  "english": "prescription",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đơn thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạng lịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "qui tắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toa thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời hiệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instruction written by a medical practitioner that authorizes a patient to be provided a medicine or treatment.",
+      "definitions_ex_en": "he scribbled a prescription for tranquilizers",
+      "definitions_ex_vn": "Ông viết nguệch ngoạc một đơn thuốc cho thuốc an thần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a recommendation that is authoritatively put forward.",
+      "definitions_ex_en": "effective prescriptions for sustaining rural communities",
+      "definitions_ex_vn": "Đơn thuốc hiệu quả để duy trì cộng đồng nông thôn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the establishment of a claim founded on the basis of a long or indefinite period of uninterrupted use or of long-standing custom.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443478_e890dd9f8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443478_d922c372dc_o.png",
+      "id_image": "prescription_3595957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065270_be8f934434_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065270_49ecc9efa6_o.png",
+      "id_image": "prescription_4435570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443423_c115ed2d86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443423_7661760fd9_o.png",
+      "id_image": "prescription_5570871"
+    }
+  ]
+}

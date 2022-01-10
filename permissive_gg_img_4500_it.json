@@ -1,0 +1,48 @@
+{
+  "english": "permissive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chấp nhận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cho phép",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thừa nhận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dùng được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "allowing or characterized by great or excessive freedom of behavior.",
+      "definitions_ex_en": "the permissive society of the 60s and 70s",
+      "definitions_ex_vn": "Hiệp hội cho phép của thập niên 60 và 70",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "allowed but not obligatory; optional.",
+      "definitions_ex_en": "the Hague Convention was permissive, not mandatory",
+      "definitions_ex_vn": "Công ước Hague đã được cho phép, không bắt buộc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "allowing a biological or biochemical process to occur.",
+      "definitions_ex_en": "the mutants grow well at the permissive temperature",
+      "definitions_ex_vn": "Các đột biến phát triển tốt ở nhiệt độ cho phép",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057170_06647d89d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057170_bd9e91d8f6_o.png",
+      "id_image": "permissive_5101278"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "passkey",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loại chìa khóa dể mở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a key to the door of a restricted area, given only to those who are officially allowed access.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a master key.",
+      "definitions_ex_en": "the night porter used a passkey for those rooms that were empty",
+      "definitions_ex_vn": "Đêm Porter đã sử dụng một mật mã cho những căn phòng trống rỗng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066650_1952670c95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066650_340c6b914d_o.png",
+      "id_image": "passkey_381638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374542_f35a060031_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374542_1015f0d39c_o.png",
+      "id_image": "passkey_523232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329881_49a5b8a4f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329881_7356321e50_o.png",
+      "id_image": "passkey_560005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066540_0c637ce7b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066540_f199cf9c0c_o.png",
+      "id_image": "passkey_6140053"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "quiver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "run",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "run rẩy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rùng mình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "những mũi tên trong ống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống tên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "run rẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự run",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "tremble or shake with a slight rapid motion.",
+      "definitions_ex_en": "the tree's branches stopped quivering",
+      "definitions_ex_vn": "Các nhánh của cây ngừng run rẩy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a slight trembling movement or sound, especially one caused by a sudden strong emotion.",
+      "definitions_ex_en": "Meredith felt a quiver of fear",
+      "definitions_ex_vn": "Meredith cảm thấy một sự run rẩy của sự sợ hãi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an archer's portable case for holding arrows.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387857_351148348a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387857_a2283fd8a1_o.png",
+      "id_image": "quiver_2128815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457653_89cdb1a557_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457653_a977e6c975_o.png",
+      "id_image": "quiver_2384723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342826_73d31f6fac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342826_839e239c70_o.png",
+      "id_image": "quiver_3416894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387792_4c45b19200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387792_b4b1c6108f_o.png",
+      "id_image": "quiver_3904197"
+    }
+  ]
+}

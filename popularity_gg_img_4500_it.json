@@ -1,0 +1,29 @@
+{
+  "english": "popularity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự tín nhiệm của dân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state or condition of being liked, admired, or supported by many people.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380632_f415b51e38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380632_6400b7274f_o.png",
+      "id_image": "popularity_3899227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072460_451a54613c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072460_dfa6b6cfff_o.png",
+      "id_image": "popularity_4149860"
+    }
+  ]
+}

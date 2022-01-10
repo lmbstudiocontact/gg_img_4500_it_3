@@ -1,0 +1,24 @@
+{
+  "english": "restock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trồng cây lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "replenish (a store) with fresh stock or supplies.",
+      "definitions_ex_en": "work began at once to restock the fishery",
+      "definitions_ex_vn": "công việc bắt đầu cùng một lúc để bổ sung nghề cá",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704874_ec42a546e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704874_9bf6c9cd21_o.png",
+      "id_image": "restock_6334813"
+    }
+  ]
+}

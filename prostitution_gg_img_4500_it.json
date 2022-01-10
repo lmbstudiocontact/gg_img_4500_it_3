@@ -1,0 +1,28 @@
+{
+  "english": "prostitution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự làm điếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mãi dâm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the practice or occupation of engaging in sexual activity with someone for payment.",
+      "definitions_ex_en": "they were held captive and forced into prostitution",
+      "definitions_ex_vn": "họ bị giam cầm và buộc vào mại dâm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395002_9bdb71048b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395002_c24c1c330d_o.png",
+      "id_image": "prostitution_5411165"
+    }
+  ]
+}

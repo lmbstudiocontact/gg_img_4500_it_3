@@ -1,0 +1,55 @@
+{
+  "english": "reinforcement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quân tiếp viện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiên cố hơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm cho chắc thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thêm binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự viện binh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of reinforcing or strengthening.",
+      "definitions_ex_en": "older electricity mains required reinforcement to meet increased demand",
+      "definitions_ex_vn": "Mains điện cũ Cốt cốt cần thiết để đáp ứng nhu cầu tăng lên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329026_586c2d0c33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329026_110ec68672_o.png",
+      "id_image": "reinforcement_1924424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683984_e363e1422c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683984_5e3660a8a0_o.png",
+      "id_image": "reinforcement_3317725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373682_5193a12568_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373682_25288175aa_o.png",
+      "id_image": "reinforcement_5101246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328906_721a5a7582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328906_79ef187203_o.png",
+      "id_image": "reinforcement_5679315"
+    }
+  ]
+}

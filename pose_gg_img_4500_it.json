@@ -1,0 +1,102 @@
+{
+  "english": "pose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dáng bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thái độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt theo kiểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt vấn đề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề nghị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngồi cho họa sĩ vẻ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "present or constitute (a problem, danger, or difficulty).",
+      "definitions_ex_en": "the sheer number of visitors is posing a threat to the area",
+      "definitions_ex_vn": "Số lượng khách tuyệt đối đang tạo ra một mối đe dọa cho khu vực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assume a particular attitude or position in order to be photographed, painted, or drawn.",
+      "definitions_ex_en": "she posed for a swarm of TV cameramen",
+      "definitions_ex_vn": "Cô đặt ra một chiếc đàn TV TV",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pretend to be (someone or something).",
+      "definitions_ex_en": "a literary novel posing as a spy thriller",
+      "definitions_ex_vn": "Một cuốn tiểu thuyết văn học tạo dáng như một phim kinh dị gián điệp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "behave affectedly in order to impress others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "puzzle or perplex (someone) with a question or problem.",
+      "definitions_ex_en": "we have thus posed the mathematician and the historian",
+      "definitions_ex_vn": "Do đó, chúng tôi đã đặt phòng toán học và nhà sử học",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a particular way of standing or sitting, usually adopted for effect or in order to be photographed, painted, or drawn.",
+      "definitions_ex_en": "photographs of boxers in ferocious poses",
+      "definitions_ex_vn": "Hình ảnh của võ sĩ trong tư thế hung dữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular way of behaving adopted in order to give others a false impression or to impress others.",
+      "definitions_ex_en": "the man dropped his pose of amiability",
+      "definitions_ex_vn": "Người đàn ông đánh rơi niềm tin của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379272_141548d9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379272_6438601ac7_o.png",
+      "id_image": "pose_4968211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449373_48596307d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449373_35e6de36a8_o.png",
+      "id_image": "pose_4968222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334271_38e2c0e249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334271_8bed333175_o.png",
+      "id_image": "pose_4968231"
+    }
+  ]
+}

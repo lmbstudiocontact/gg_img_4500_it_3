@@ -1,0 +1,73 @@
+{
+  "english": "quality",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất lượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đức tốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gía trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cao quí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh tốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính chất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the standard of something as measured against other things of a similar kind; the degree of excellence of something.",
+      "definitions_ex_en": "an improvement in product quality",
+      "definitions_ex_vn": "một sự cải thiện về chất lượng sản phẩm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinctive attribute or characteristic possessed by someone or something.",
+      "definitions_ex_en": "he shows strong leadership qualities",
+      "definitions_ex_vn": "Ông thể hiện phẩm chất lãnh đạo mạnh mẽ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082770_4a73fc8f9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082770_c5bcd4637b_o.png",
+      "id_image": "quality_2472164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460113_1c456fb42a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460113_9230c2ef42_o.png",
+      "id_image": "quality_4845909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700384_dd6e66d07f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700384_93a021a2d7_o.png",
+      "id_image": "quality_5307930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700364_190bc866b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700364_7bcb69a412_o.png",
+      "id_image": "quality_5983780"
+    }
+  ]
+}

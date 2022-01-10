@@ -1,0 +1,58 @@
+{
+  "english": "payment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đóng phạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả nợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of paying someone or something or of being paid.",
+      "definitions_ex_en": "ask for a discount for payment by cash",
+      "definitions_ex_vn": "Yêu cầu giảm giá để thanh toán bằng tiền mặt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amount paid or payable.",
+      "definitions_ex_en": "an interim compensation payment of $2500",
+      "definitions_ex_vn": "Một khoản bồi thường tạm hợp là $ 2500",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440943_1eb5cf644a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440943_f308a27a31_o.png",
+      "id_image": "payment_1067382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440908_9981a122d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440908_faabd06ff5_o.png",
+      "id_image": "payment_1692606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325901_68a8cc1c22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325901_fcc21107d5_o.png",
+      "id_image": "payment_1692619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370867_5716c356f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370867_9b72515d2d_o.png",
+      "id_image": "payment_333759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062835_e04cf73960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062835_e3d608e202_o.png",
+      "id_image": "payment_997290"
+    }
+  ]
+}

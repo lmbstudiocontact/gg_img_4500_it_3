@@ -1,0 +1,33 @@
+{
+  "english": "rainbow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vòng cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng cầu hình mốmg ngựa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an arch of colors formed in the sky in certain circumstances, caused by the refraction and dispersion of the sun's light by rain or other water droplets in the atmosphere.",
+      "definitions_ex_en": "all the colors of the rainbow",
+      "definitions_ex_vn": "tất cả các màu sắc của cầu vồng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384832_ac6c071d7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384832_3f2b544278_o.png",
+      "id_image": "rainbow_1458946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339961_ecc5570a65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339961_392210b772_o.png",
+      "id_image": "rainbow_1867429"
+    }
+  ]
+}

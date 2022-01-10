@@ -1,0 +1,127 @@
+{
+  "english": "reserve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoảng đất để dành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cẩn thận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự để dành tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giới hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giử gìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hạn chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thận trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vai phòng hờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dành quyền hạn cho mình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để dành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để dành chổ ngồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để riêng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử gìn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kín đáo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "refrain from using or disposing of (something); retain for future use.",
+      "definitions_ex_en": "roll out half the dough and reserve the other half",
+      "definitions_ex_vn": "Lấy ra một nửa bột và bảo lưu nửa kia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a supply of a commodity not needed for immediate use but available if required.",
+      "definitions_ex_en": "Australia has major coal, gas, and uranium reserves",
+      "definitions_ex_vn": "Úc có trữ lượng than, khí đốt và urani lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a force or body of troops kept back from action to reinforce or protect others, or additional to the regular forces and available in an emergency.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an extra player who is a possible substitute in a team.",
+      "definitions_ex_en": "he was reserve hooker for the World Cup team",
+      "definitions_ex_vn": "Ông đã được đặt trước cho đội World Cup",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place set aside for special use.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lack of warmth or openness in manner or expression.",
+      "definitions_ex_en": "she smiled and some of her natural reserve melted",
+      "definitions_ex_vn": "Cô mỉm cười và một số dự trữ tự nhiên của cô tan chảy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for reserve price.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the decoration of ceramics or textiles) an area that still has the original color of the material or the color of the background.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058825_3b5ba17b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058825_506797c4b1_o.png",
+      "id_image": "reserve_1109887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677099_3638f118ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677099_2e1bddce28_o.png",
+      "id_image": "reserve_1476897"
+    }
+  ]
+}

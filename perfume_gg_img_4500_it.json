@@ -1,0 +1,59 @@
+{
+  "english": "perfume",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hương thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rảy nước hoa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xức dầu thơm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fragrant liquid typically made from essential oils extracted from flowers and spices, used to impart a pleasant smell to one's body or clothes.",
+      "definitions_ex_en": "I caught a whiff of her fresh lemony perfume",
+      "definitions_ex_vn": "Tôi bắt gặp một tiếng nước hoa tươi của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "impart a pleasant smell to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057370_60a796e5b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057370_8ee4124688_o.png",
+      "id_image": "perfume_1660259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320646_6176db297c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320646_258c0e9731_o.png",
+      "id_image": "perfume_410448"
+    }
+  ]
+}

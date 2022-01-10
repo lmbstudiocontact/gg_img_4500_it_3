@@ -1,0 +1,66 @@
+{
+  "english": "setup",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có sức vóc cân đối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiêu ngạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người kiêu ngạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tự phụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gây ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hồi phục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the way in which something, especially an organization or equipment, is organized, planned, or arranged.",
+      "definitions_ex_en": "would you feel comfortable in a team-teaching setup?",
+      "definitions_ex_vn": "Bạn sẽ cảm thấy thoải mái trong một thiết lập giảng dạy đội?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a scheme or trick intended to incriminate or deceive someone.",
+      "definitions_ex_en": "“Listen. He didn't die. It was a setup.”",
+      "definitions_ex_vn": "\"Nghe. Anh không chết. Đó là một thiết lập. \"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a ball game) a pass or play intended to provide an opportunity for another player to score.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348301_8e2fb6b1f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348301_0e1952647e_o.png",
+      "id_image": "setup_4144743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393267_6bf4b76281_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393267_d7c1949bf3_o.png",
+      "id_image": "setup_593524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348336_b3e4626e50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348336_44e899dbe5_o.png",
+      "id_image": "setup_917217"
+    }
+  ]
+}

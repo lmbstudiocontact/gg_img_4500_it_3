@@ -1,0 +1,42 @@
+{
+  "english": "postcard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bưu tín phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bưu thiếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm cạc bưu tín",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a card for sending a message by mail without an envelope, typically having a photograph or other illustration on one side.",
+      "definitions_ex_en": "he promised to send me a picture postcard",
+      "definitions_ex_vn": "Anh hứa sẽ gửi cho tôi một tấm bưu thiếp hình ảnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448603_202bc41a12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448603_d46e666575_o.png",
+      "id_image": "postcard_1042395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688614_5422d0a2e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688614_0585ac5013_o.png",
+      "id_image": "postcard_200425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070415_00ac446034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070415_f360bd2afa_o.png",
+      "id_image": "postcard_313957"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "producer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sản xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trình bày hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người xuất bản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, company, or country that makes, grows, or supplies goods or commodities for sale.",
+      "definitions_ex_en": "an oil producer",
+      "definitions_ex_vn": "một nhà sản xuất dầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person responsible for the financial and managerial aspects of making of a movie or broadcast or for staging a play, opera, etc.",
+      "definitions_ex_en": "a film producer",
+      "definitions_ex_vn": "một nhà sản xuất phim",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an organism that produces organic compounds from simple substances such as water and carbon dioxide; an autotroph.",
+      "definitions_ex_en": "producers begin food chains which feed all life",
+      "definitions_ex_vn": "Các nhà sản xuất bắt đầu chuỗi thức ăn cho ăn tất cả cuộc sống",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059170_32505ce7be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059170_3026a7dbc3_o.png",
+      "id_image": "producer_1902013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322331_ce69d0ebcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322331_da4a5dbcd9_o.png",
+      "id_image": "producer_6348159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437553_8f6af86f0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437553_6f716b1959_o.png",
+      "id_image": "producer_6348171"
+    }
+  ]
+}

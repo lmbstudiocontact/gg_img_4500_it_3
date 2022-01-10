@@ -1,0 +1,32 @@
+{
+  "english": "prosperity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự phát đạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phồn thịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thuận tiện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being prosperous.",
+      "definitions_ex_en": "a long period of prosperity",
+      "definitions_ex_vn": "một thời gian dài thịnh vượng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087635_7d0a73f58f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087635_0f16e780e3_o.png",
+      "id_image": "prosperity_4844530"
+    }
+  ]
+}

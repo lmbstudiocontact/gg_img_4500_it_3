@@ -1,0 +1,32 @@
+{
+  "english": "reformer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cải quá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà cải cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà canh tân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who makes changes to something in order to improve it.",
+      "definitions_ex_en": "a radical social reformer",
+      "definitions_ex_vn": "một nhà cải cách xã hội triệt để",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446023_95d922a29a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446023_90dbbeb448_o.png",
+      "id_image": "reformer_5650537"
+    }
+  ]
+}

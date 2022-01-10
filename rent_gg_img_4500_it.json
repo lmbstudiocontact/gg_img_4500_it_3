@@ -1,0 +1,113 @@
+{
+  "english": "rent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho thuê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho mướn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định tiền mướn cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mướn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mướn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuê lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chổ rách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ trống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường nứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân ly",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền mướn nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tenant's regular payment to a landlord for the use of property or land.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large tear in a piece of fabric.",
+      "definitions_ex_en": "Eddie was dismayed by the rent in the roof of the tent",
+      "definitions_ex_vn": "Eddie đã bị mất tinh thần bởi tiền thuê nhà trong mái lều",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pay someone for the use of (something, typically property, land, or a car).",
+      "definitions_ex_en": "they rented a house together in Spain",
+      "definitions_ex_vn": "Họ đã thuê một ngôi nhà cùng nhau ở Tây Ban Nha",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "past and past participle of rend.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324681_35fd3b741a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324681_f34240ee56_o.png",
+      "id_image": "rent_1027974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439728_2cf6f0a9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439728_6c2782c406_o.png",
+      "id_image": "rent_4820898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679809_4d279fd5b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679809_610e24a2ae_o.png",
+      "id_image": "rent_5349542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061635_7abf1808ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061635_9a1b5de444_o.png",
+      "id_image": "rent_804548"
+    }
+  ]
+}

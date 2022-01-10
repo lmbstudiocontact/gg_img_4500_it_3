@@ -1,0 +1,66 @@
+{
+  "english": "recover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gởi lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm lại được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bọc lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "che lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "return to a normal state of health, mind, or strength.",
+      "definitions_ex_en": "Neil is still recovering from shock",
+      "definitions_ex_vn": "Neil vẫn đang hồi phục sau sốc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "find or regain possession of (something stolen or lost).",
+      "definitions_ex_en": "police recovered a stolen video",
+      "definitions_ex_vn": "Cảnh sát đã phục hồi một video bị đánh cắp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove or extract (an energy source or industrial chemical) for use, reuse, or waste treatment.",
+      "definitions_ex_en": "only 13 percent of CFC refrigerant was being recovered from domestic fridges",
+      "definitions_ex_vn": "Chỉ có 13 phần trăm chất làm lạnh CFC đã được thu hồi từ tủ lạnh trong nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a defined position of a firearm forming part of a military drill.",
+      "definitions_ex_en": "bring the firelock to the recover",
+      "definitions_ex_vn": "mang firelock đến sự phục hồi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449168_ebe0547205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449168_e37e0302a2_o.png",
+      "id_image": "recover_1973118"
+    }
+  ]
+}

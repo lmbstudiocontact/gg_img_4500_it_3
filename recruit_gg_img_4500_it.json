@@ -1,0 +1,64 @@
+{
+  "english": "recruit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lính mới tuyển mộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình phục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiêu mộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dụ dổ vào đảng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyển mộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiêu dụ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hồi phục",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "enlist (someone) in the armed forces.",
+      "definitions_ex_en": "they recruit their toughest soldiers from the desert tribes",
+      "definitions_ex_vn": "Họ tuyển mộ những người lính khó khăn nhất của họ từ các bộ lạc sa mạc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person newly enlisted in the armed forces and not yet fully trained.",
+      "definitions_ex_en": "3,000 army recruits at Ft. Benjamin",
+      "definitions_ex_vn": "3.000 tân binh tại FT.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333766_bd83976e63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333766_476543a6c8_o.png",
+      "id_image": "recruit_2910452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378652_4de0256be7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378652_159ea54815_o.png",
+      "id_image": "recruit_4133611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688909_f7bddac44d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688909_b6df63d505_o.png",
+      "id_image": "recruit_784809"
+    }
+  ]
+}

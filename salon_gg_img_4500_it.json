@@ -1,0 +1,63 @@
+{
+  "english": "salon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc hội họp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc triển lãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng tiếp khách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an establishment where a hairdresser, beautician, or couturier conducts business.",
+      "definitions_ex_en": "have your hair cut in a professional salon",
+      "definitions_ex_vn": "cắt tóc của bạn trong một thẩm mỹ viện chuyên nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a reception room in a large house.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an annual exhibition of the work of living artists held by the Royal Academy of Painting and Sculpture in Paris, originally in the Salon d'Apollon in the Louvre in 1667.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336171_a6136238e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336171_15b46e3478_o.png",
+      "id_image": "salon_1053051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381132_708fb5c156_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381132_191973c35d_o.png",
+      "id_image": "salon_2286608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073040_01c6180ba3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073040_1b332b78e5_o.png",
+      "id_image": "salon_2377470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073130_dbce65895f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073130_3a825fb8e8_o.png",
+      "id_image": "salon_452705"
+    }
+  ]
+}

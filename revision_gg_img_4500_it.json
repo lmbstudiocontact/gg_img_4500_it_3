@@ -1,0 +1,37 @@
+{
+  "english": "revision",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đọc lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tu chính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xem lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of revising.",
+      "definitions_ex_en": "the plan needs drastic revision",
+      "definitions_ex_vn": "Kế hoạch cần sửa đổi quyết liệt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085560_1c999c240e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085560_b37370bfaf_o.png",
+      "id_image": "revision_4295897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348226_1b6595972c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348226_f038892fd2_o.png",
+      "id_image": "revision_4815825"
+    }
+  ]
+}

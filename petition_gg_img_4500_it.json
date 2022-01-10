@@ -1,0 +1,60 @@
+{
+  "english": "petition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đơn thỉnh cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời cầu nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời khẩn nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời yêu cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầu xin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "yêu cầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal written request, typically one signed by many people, appealing to authority with respect to a particular cause.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or present a formal request to (an authority) with respect to a particular cause.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705374_0b982681ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705374_9c4aba340f_o.png",
+      "id_image": "petition_3530521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350811_4d807f3f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350811_ac3c37a401_o.png",
+      "id_image": "petition_3842692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705319_e056148833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705319_d6696a20b9_o.png",
+      "id_image": "petition_6330595"
+    }
+  ]
+}

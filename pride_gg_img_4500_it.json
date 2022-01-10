@@ -1,0 +1,75 @@
+{
+  "english": "pride",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiêu căng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tự phụ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự kiêu ngạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tự cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh kiêu căng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of deep pleasure or satisfaction derived from one's own achievements, the achievements of those with whom one is closely associated, or from qualities or possessions that are widely admired.",
+      "definitions_ex_en": "the team was bursting with pride after recording a sensational victory",
+      "definitions_ex_vn": "Đội đã bùng nổ với niềm tự hào sau khi ghi lại một chiến thắng giật gân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "consciousness of one's own dignity.",
+      "definitions_ex_en": "he swallowed his pride and asked for help",
+      "definitions_ex_vn": "Anh nuốt niềm tự hào của mình và yêu cầu sự giúp đỡ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "confidence and self-respect as expressed by members of a group, typically one that has been socially marginalized, on the basis of their shared identity, culture, and experience.",
+      "definitions_ex_en": "the bridge was lit up in rainbow colors, symbolic of LGBT pride",
+      "definitions_ex_vn": "Cây cầu được thắp sáng trong màu sắc cầu vồng, tượng trưng cho niềm tự hào LGBT",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the best state or condition of something; the prime.",
+      "definitions_ex_en": "in the pride of youth",
+      "definitions_ex_vn": "Trong niềm tự hào của tuổi trẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of lions forming a social unit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be especially proud of (a particular quality or skill).",
+      "definitions_ex_en": "she'd always prided herself on her ability to deal with a crisis",
+      "definitions_ex_vn": "Cô ấy luôn tự hào với khả năng đối phó với một cuộc khủng hoảng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681174_a9520d80f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681174_f61444f7d8_o.png",
+      "id_image": "pride_2287748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440988_a8909beb0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440988_379f79ded1_o.png",
+      "id_image": "pride_2292411"
+    }
+  ]
+}

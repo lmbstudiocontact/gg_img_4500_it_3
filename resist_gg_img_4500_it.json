@@ -1,0 +1,52 @@
+{
+  "english": "resist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chống cự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kháng cự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không tuân theo lịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sức cản",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "withstand the action or effect of.",
+      "definitions_ex_en": "antibodies help us to resist infection",
+      "definitions_ex_vn": "Kháng thể giúp chúng ta chống lại nhiễm trùng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a resistant substance applied as a coating to protect a surface during some process, for example to prevent dye or glaze adhering.",
+      "definitions_ex_en": "new lithographic techniques require their own special resists",
+      "definitions_ex_vn": "Các kỹ thuật thạch học mới đòi hỏi sự chống lại đặc biệt của riêng họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088870_0d91703781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088870_505ba1534d_o.png",
+      "id_image": "resistance_2529744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351881_40b4a05a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351881_f7422550be_o.png",
+      "id_image": "resist_3100262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706299_95a07b355e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706299_5b7db16c46_o.png",
+      "id_image": "resist_3100321"
+    }
+  ]
+}

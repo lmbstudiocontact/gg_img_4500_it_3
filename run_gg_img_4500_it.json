@@ -1,0 +1,355 @@
+{
+  "english": "run",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đâm xuyên qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kinh doanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bay màu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dầm dề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đầm đìa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lai láng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên tới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngược nước để đẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phai màu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rượt theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tẩu thoát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "buôn lậu khí giới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xe chạy tốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạch một đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy đua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giá cả lên cao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy máy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giám đốc công việc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy trốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho máy chạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho phi ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho súc vật ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho xe chạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chổ đất lở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại đa số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quãng đường đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho chạy máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho chạy máy thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho phép được tự do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi dạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổ xô mua cổ phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấy đà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhảy tới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sụp đổ mau lẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sụt giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vọt tới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move at a speed faster than a walk, never having both or all the feet on the ground at the same time.",
+      "definitions_ex_en": "the dog ran across the road",
+      "definitions_ex_vn": "Con chó chạy qua đường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass or cause to pass quickly or smoothly in a particular direction.",
+      "definitions_ex_en": "the rumor ran through the pack of photographers",
+      "definitions_ex_vn": "Tin đồn chạy qua gói nhiếp ảnh gia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(with reference to a liquid) flow or cause to flow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extend or cause to extend in a particular direction.",
+      "definitions_ex_en": "cobbled streets run down to a tiny harbor",
+      "definitions_ex_vn": "Đường phố rải sỏi chạy xuống một bến cảng nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bus, train, ferry, or other form of transportation) make a regular journey on a particular route.",
+      "definitions_ex_en": "buses run into town every half hour",
+      "definitions_ex_vn": "Xe buýt chạy vào thị trấn mỗi nửa giờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be in charge of; manage.",
+      "definitions_ex_en": "Andrea runs her own catering business",
+      "definitions_ex_vn": "Andrea điều hành doanh nghiệp ăn uống của riêng mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be in or cause to be in operation; function or cause to function.",
+      "definitions_ex_en": "the car runs on unleaded fuel",
+      "definitions_ex_vn": "Chiếc xe chạy trên nhiên liệu không chì",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "continue or be valid or operative for a particular period of time.",
+      "definitions_ex_en": "the course ran for two days",
+      "definitions_ex_vn": "Khóa học chạy trong hai ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be a candidate in a political election.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "publish or be published in a newspaper or magazine.",
+      "definitions_ex_en": "the tabloids ran the story",
+      "definitions_ex_vn": "Những lá cải đã chạy câu chuyện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring (goods) into a country illegally and secretly; smuggle.",
+      "definitions_ex_en": "they run drugs for the cocaine cartels",
+      "definitions_ex_vn": "Họ chạy thuốc cho các cartel cocaine",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or spell of running.",
+      "definitions_ex_en": "I usually go for a run in the morning",
+      "definitions_ex_vn": "Tôi thường đi chạy vào buổi sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a journey accomplished or route taken by a vehicle, aircraft, or boat, especially on a regular basis.",
+      "definitions_ex_en": "the New York-Washington run",
+      "definitions_ex_vn": "New York-Washington Run",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an opportunity or attempt to achieve something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous spell of a particular situation or condition.",
+      "definitions_ex_en": "he's had a run of bad luck",
+      "definitions_ex_vn": "Anh ấy đã chạy xui xẻo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a widespread and sudden or continuous demand for (a particular currency or commodity).",
+      "definitions_ex_en": "there's been a big run on nostalgia toys this year",
+      "definitions_ex_vn": "Có một cuộc chạy lớn trên đồ chơi Nostalgia trong năm nay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the average or usual type of person or thing.",
+      "definitions_ex_en": "she stood out from the general run of varsity cheerleaders",
+      "definitions_ex_vn": "Cô đứng ra từ cuộc chạy chung của đội cổ vũ Varsity",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sloping snow-covered course or track used for skiing, bobsledding, or tobogganing.",
+      "definitions_ex_en": "a ski run",
+      "definitions_ex_vn": "một ski run.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an enclosed area in which domestic animals or birds can run freely in the open.",
+      "definitions_ex_en": "a chicken run",
+      "definitions_ex_vn": "một con gà chạy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "free and unrestricted use of or access to.",
+      "definitions_ex_en": "her cats were given the run of the house",
+      "definitions_ex_vn": "Mèo của cô đã được đưa ra khỏi nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a point scored by hitting the ball so that both batsmen are able to run between the wickets, or awarded in some other circumstances.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a downward trickle of paint or a similar substance when applied too thickly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "diarrhoea.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the after part of a ship's bottom where it rises and narrows toward the stern.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076260_e882658655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076260_0e78f62563_o.png",
+      "id_image": "run_501115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694169_bd77756e7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694169_48ecc00591_o.png",
+      "id_image": "run_599543"
+    }
+  ]
+}

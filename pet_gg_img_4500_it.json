@@ -1,0 +1,119 @@
+{
+  "english": "pet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ưa thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người yêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rầu rỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh càu nhàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thú vật ưa thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật ưa thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nưng niu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "âu yếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "yêu dấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a domestic or tamed animal kept for companionship or pleasure.",
+      "definitions_ex_en": "the pony was a family pet",
+      "definitions_ex_vn": "Pony là một thú cưng gia đình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fit of sulking or ill humor.",
+      "definitions_ex_en": "Mother's in a pet",
+      "definitions_ex_vn": "Mẹ trong thú cưng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting a thing that one devotes special attention to or feels particularly strongly about.",
+      "definitions_ex_en": "another of her pet projects was the arts center",
+      "definitions_ex_vn": "Một trong những dự án thú cưng khác là Trung tâm nghệ thuật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "stroke or pat (an animal) affectionately.",
+      "definitions_ex_en": "the cats came to be petted",
+      "definitions_ex_vn": "Những con mèo đã được vuốt ve",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "polyethylene terephthalate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "positron emission tomography, used especially for brain scans.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "Peter (in biblical references).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705454_9e027c8eca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705454_e8b867c96b_o.png",
+      "id_image": "pet_2377405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350901_14af4b83cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350901_4fddbc46ee_o.png",
+      "id_image": "pet_2590819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705494_6edb4a275f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705494_797fcdf7fc_o.png",
+      "id_image": "pet_437494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705404_78f0cdddd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705404_d9df593244_o.png",
+      "id_image": "pet_5798376"
+    }
+  ]
+}

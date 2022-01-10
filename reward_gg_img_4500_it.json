@@ -1,0 +1,52 @@
+{
+  "english": "reward",
+  "list_translation_mean": [
+    {
+      "translate_mean": "số tiền thưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự báo đáp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tưởng thưởng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing given in recognition of one's service, effort, or achievement.",
+      "definitions_ex_en": "the holiday was a reward for 40 years' service with the company",
+      "definitions_ex_vn": "Ngày lễ là phần thưởng cho dịch vụ 40 năm với công ty",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a gift of something to (someone) in recognition of their services, efforts, or achievements.",
+      "definitions_ex_en": "the engineer who supervised the work was rewarded with a bonus",
+      "definitions_ex_vn": "Kỹ sư giám sát công việc đã được thưởng một phần thưởng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392792_a3b88b727b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392792_4264612e67_o.png",
+      "id_image": "reward_1888027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347871_1af8419b60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347871_c523568d20_o.png",
+      "id_image": "reward_4350573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702554_317257754b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702554_13a6e52f76_o.png",
+      "id_image": "reward_6299622"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "pause",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu âm phù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự im lặng một lúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tạm nghĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tạm ngừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngập ngừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tạm nghĩ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tạm ngừng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "interrupt action or speech briefly.",
+      "definitions_ex_en": "she paused, at a loss for words",
+      "definitions_ex_vn": "Cô dừng lại, thua lỗ lời nói",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a temporary stop in action or speech.",
+      "definitions_ex_en": "she dropped me outside during a brief pause in the rain",
+      "definitions_ex_vn": "Cô ấy đánh rơi tôi bên ngoài trong một khoảng thời gian tạm dừng trong cơn mưa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682069_63d262dcbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682069_524d2d21b4_o.png",
+      "id_image": "pause_5072269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371602_433bdb0a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371602_ce3b3b5eee_o.png",
+      "id_image": "pause_5496834"
+    }
+  ]
+}

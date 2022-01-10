@@ -1,0 +1,101 @@
+{
+  "english": "relief",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách chạm nổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ chạm nổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình chạm nổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nêu lên việc gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cứu tế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cứu trợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi gác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải vây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giãm bớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giúp đở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm cho bớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay phiên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of reassurance and relaxation following release from anxiety or distress.",
+      "definitions_ex_en": "much to her relief, she saw the door open",
+      "definitions_ex_vn": "nhiều để cứu trợ cô, cô nhìn thấy cánh cửa mở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "assistance, especially in the form of food, clothing, or money, given to those in special need or difficulty.",
+      "definitions_ex_en": "raising money for famine relief",
+      "definitions_ex_vn": "Tăng tiền cho cứu trợ nạn đói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or group of people replacing others who have been on duty.",
+      "definitions_ex_en": "the relief nurse was late",
+      "definitions_ex_vn": "y tá cứu trợ đã muộn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state of being clearly visible or obvious due to being accentuated in some way.",
+      "definitions_ex_en": "the setting sun threw the snow-covered peaks into relief",
+      "definitions_ex_vn": "Mặt trời lặn ném những đỉnh núi phủ tuyết vào cứu trợ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371547_813e9731d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371547_928f22e74a_o.png",
+      "id_image": "relief_2689918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326831_2230931230_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326831_aa8713845e_o.png",
+      "id_image": "relief_5705219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063715_5b2424c11b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063715_635ba4e377_o.png",
+      "id_image": "relief_5705437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681829_8a5f73617e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681829_e4e04476b7_o.png",
+      "id_image": "relief_6133422"
+    }
+  ]
+}

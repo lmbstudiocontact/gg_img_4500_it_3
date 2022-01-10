@@ -1,0 +1,33 @@
+{
+  "english": "scepter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chó đánh hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền của vua",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an ornamented staff carried by rulers on ceremonial occasions as a symbol of sovereignty.",
+      "definitions_ex_en": "imperial regalia of orb and scepter",
+      "definitions_ex_vn": "Regalia Hoàng gia Of Orb và Singepter",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446208_2e76c28b96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446208_83425b379d_o.png",
+      "id_image": "scepter_3943657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331226_8a20b028e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331226_d248e7f37a_o.png",
+      "id_image": "scepter_5498714"
+    }
+  ]
+}

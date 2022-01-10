@@ -1,0 +1,166 @@
+{
+  "english": "rack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dá súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dụng cụ tra tấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kệ tủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máng bằng gỗ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máng đựng cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước kiệu của ngựa chạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa chạy nước kiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu mạnh nấu bằng gạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căng da thuộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổ đầy cỏ vào máng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đau đớn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hết màu mở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sang rượu qua thùng khác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tra tấn người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghép xoắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả tiền thuê nhà mắc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a framework, typically with rails, bars, hooks, or pegs, for holding or storing things.",
+      "definitions_ex_en": "a spice rack",
+      "definitions_ex_vn": "một giá đỡ gia vị.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cogged or toothed bar or rail engaging with a wheel or pinion, or using pegs to adjust the position of something.",
+      "definitions_ex_en": "a steering rack",
+      "definitions_ex_vn": "một giá đỡ lái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instrument of torture consisting of a frame on which the victim was stretched by turning rollers to which the wrists and ankles were tied.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a triangular structure for positioning the balls in pool.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a horse's gait in which both hoofs on either side in turn are lifted almost simultaneously, and all four hoofs are off the ground together at certain moments.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large cut of meat, typically lamb, that includes the front ribs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mass of high, thick, fast-moving clouds.",
+      "definitions_ex_en": "there was a thin moon, a rack of cloud",
+      "definitions_ex_vn": "Có một mặt trăng mỏng, một giá đỡ của đám mây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause extreme physical or mental pain to; subject to extreme stress.",
+      "definitions_ex_en": "he was racked with guilt",
+      "definitions_ex_vn": "Anh ta bị cảm thấy tội lỗi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place in or on a rack.",
+      "definitions_ex_en": "the shoes were racked neatly beneath the dresses",
+      "definitions_ex_vn": "Những đôi giày được gõ gọn gàng bên dưới váy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "raise (rent) above a fair or normal amount.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a horse) move with a rack gait.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "draw off (wine, beer, etc.) from the sediment in the barrel.",
+      "definitions_ex_en": "the wine is racked off into large oak casks",
+      "definitions_ex_vn": "Rượu vang được ra khỏi thùng gỗ sồi lớn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a cloud) be driven before the wind.",
+      "definitions_ex_en": "a thin shred of cloud racking across the moon",
+      "definitions_ex_vn": "một mảnh vụn mỏng của đám mây trên mặt trăng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456768_b9e8863930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456768_2f65b12d57_o.png",
+      "id_image": "rack_368038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456733_b2aed54089_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456733_866fcb22ba_o.png",
+      "id_image": "rack_577965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341811_2462ac7a17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341811_08b978fb58_o.png",
+      "id_image": "rack_638207"
+    }
+  ]
+}

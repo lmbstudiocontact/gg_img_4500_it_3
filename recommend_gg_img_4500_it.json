@@ -1,0 +1,60 @@
+{
+  "english": "recommend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dặn bảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dặn dò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gợi ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giới thiệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuyên bảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiến cử",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put forward (someone or something) with approval as being suitable for a particular purpose or role.",
+      "definitions_ex_en": "George had recommended some local architects",
+      "definitions_ex_vn": "George đã đề nghị một số kiến trúc sư địa phương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "commend or entrust someone or something to (someone).",
+      "definitions_ex_en": "I devoutly recommended my spirit to its maker",
+      "definitions_ex_vn": "Tôi devoutly đề nghị tinh thần của tôi với nhà sản xuất của nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450073_8613aef5a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450073_7ab34aa15e_o.png",
+      "id_image": "recommend_1610446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690149_871daf9f1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690149_2b7d7074dc_o.png",
+      "id_image": "recommend_2037274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334931_68808cdb4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334931_1668dda689_o.png",
+      "id_image": "recommend_5889195"
+    }
+  ]
+}

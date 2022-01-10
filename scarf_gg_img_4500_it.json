@@ -1,0 +1,81 @@
+{
+  "english": "scarf",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khăn choàng cổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khăn quàng cổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khăn sạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt cá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lắp mộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lóc cá ra từng mảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xẻ cá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a length or square of fabric worn around the neck or head.",
+      "definitions_ex_en": "she tucked her woolly scarf around her neck",
+      "definitions_ex_vn": "Cô nhét chiếc khăn len của mình quanh cổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a joint connecting two pieces of timber or metal in which the ends are beveled or notched so that they fit over or into each other.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an incision made in the blubber of a whale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "join the ends of (two pieces of timber or metal) by beveling or notching them so that they fit over or into each other.",
+      "definitions_ex_en": "he forced me to scarf the keel timbers in watertight sections",
+      "definitions_ex_vn": "Anh ta buộc tôi phải quàng cổ keel timbers trong phần kín nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make an incision in the blubber of (a whale).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447018_dde3f53b33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447018_c61466198f_o.png",
+      "id_image": "scarf_262494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376722_1fbe2b9aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376722_e13eea1a04_o.png",
+      "id_image": "scarf_592145"
+    }
+  ]
+}

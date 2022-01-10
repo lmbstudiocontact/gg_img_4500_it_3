@@ -1,0 +1,24 @@
+{
+  "english": "recreational",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về tái tạo",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or denoting activity done for enjoyment when one is not working.",
+      "definitions_ex_en": "recreational facilities",
+      "definitions_ex_vn": "Tiện nghi giải trí",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448878_e829d5ef63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448878_e2ff5b25b9_o.png",
+      "id_image": "recreational_1655720"
+    }
+  ]
+}

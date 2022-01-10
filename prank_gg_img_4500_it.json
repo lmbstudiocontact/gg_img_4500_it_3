@@ -1,0 +1,54 @@
+{
+  "english": "prank",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giểu cợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò chơi ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò đùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bộ oai vệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang điểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang hoàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang sức",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a practical joke or mischievous act.",
+      "definitions_ex_en": "the tapestry was stolen as part of a drunken student prank",
+      "definitions_ex_vn": "Tapestry đã bị đánh cắp như một phần của một học sinh say xỉn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "play a trick or practical joke on (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375422_f28b84e280_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375422_2e850b6708_o.png",
+      "id_image": "prank_5020808"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "english": "plant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách đặt máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc âm mưu đánh lừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dụng cụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí cụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính mật thám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây cối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đang lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lớn lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảo mộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "âm mưu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chôn người chết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng cọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giấu vật ăn cắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trồng cây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kế hoạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the green pigment chlorophyll.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place where an industrial or manufacturing process takes place.",
+      "definitions_ex_en": "the company has 30 plants in Mexico",
+      "definitions_ex_vn": "Công ty có 30 nhà máy ở Mexico",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person placed in a group as a spy or informer.",
+      "definitions_ex_en": "we thought he was a CIA plant spreading disinformation",
+      "definitions_ex_vn": "Chúng tôi nghĩ rằng anh ấy là một cây CIA lây lan không tin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (a seed, bulb, or plant) in the ground so that it can grow.",
+      "definitions_ex_en": "we planted a lot of fruit trees",
+      "definitions_ex_vn": "Chúng tôi trồng rất nhiều cây ăn quả",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place or fix in a specified position.",
+      "definitions_ex_en": "she planted a kiss on his cheek",
+      "definitions_ex_vn": "Cô ấy đã hôn lên má anh ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342736_a2c65fb92d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342736_a47844f2e6_o.png",
+      "id_image": "plant_256885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387732_59817455a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387732_be246c9529_o.png",
+      "id_image": "plant_256886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697969_2d6f5a6209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697969_b952272752_o.png",
+      "id_image": "plant_413866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697909_2bbc6dd776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697909_bc0df4d3f0_o.png",
+      "id_image": "plant_757018"
+    }
+  ]
+}

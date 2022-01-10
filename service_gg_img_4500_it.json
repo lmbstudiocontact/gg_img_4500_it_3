@@ -1,0 +1,123 @@
+{
+  "english": "service",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chức vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công tác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dịch vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phục vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân phát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phục vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự săn sóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vụ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of helping or doing work for someone.",
+      "definitions_ex_en": "millions are involved in voluntary service",
+      "definitions_ex_vn": "Hàng triệu người có liên quan đến dịch vụ tự nguyện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a system supplying a public need such as transport, communications, or utilities such as electricity and water.",
+      "definitions_ex_en": "a regular bus service",
+      "definitions_ex_vn": "một dịch vụ xe buýt thông thường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ceremony of religious worship according to a prescribed form; the prescribed form for such a ceremony.",
+      "definitions_ex_en": "a funeral service",
+      "definitions_ex_vn": "một dịch vụ tang lễ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a periodic routine inspection and maintenance of a vehicle or other machine.",
+      "definitions_ex_en": "he took his car in for service",
+      "definitions_ex_vn": "Anh ấy lấy xe của anh ấy để phục vụ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of matching dishes and utensils used for serving a particular meal.",
+      "definitions_ex_en": "a dinner service",
+      "definitions_ex_vn": "một dịch vụ ăn tối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in tennis and other racket sports) the action or right of serving to begin play.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the formal delivery of a document such as a writ or summons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "perform routine maintenance or repair work on (a vehicle or machine).",
+      "definitions_ex_en": "have your car serviced regularly",
+      "definitions_ex_vn": "Có xe của bạn được phục vụ thường xuyên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a male animal) mate with (a female animal).",
+      "definitions_ex_en": "one dog could presumably service several bitches in a day",
+      "definitions_ex_vn": "Một con chó có lẽ có thể phục vụ một số con chó cái trong một ngày",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393902_6270da79fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393902_12fa32dcbf_o.png",
+      "id_image": "service_1897384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703844_cbcf2bf8fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703844_92dcb33431_o.png",
+      "id_image": "service_3422870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463803_3113976ca5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463803_68313a520d_o.png",
+      "id_image": "service_4277552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349041_d92e6fa17b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349041_5f712d5de7_o.png",
+      "id_image": "service_5778362"
+    }
+  ]
+}

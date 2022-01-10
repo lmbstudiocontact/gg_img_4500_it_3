@@ -1,0 +1,30 @@
+{
+  "english": "photocopy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chụp hình lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a photographic copy of printed or written material produced by a process involving the action of light on a specially prepared surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a photocopy of.",
+      "definitions_ex_en": "you can photocopy the entry form",
+      "definitions_ex_vn": "bạn có thể sao chụp hình thức nhập cảnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349536_fd2676884f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349536_51747fbc26_o.png",
+      "id_image": "photocopy_5068570"
+    }
+  ]
+}

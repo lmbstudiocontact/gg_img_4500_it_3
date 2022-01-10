@@ -1,0 +1,54 @@
+{
+  "english": "ringer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đánh chuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giựt chuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kéo chuông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that looks exactly like another.",
+      "definitions_ex_en": "he is a dead ringer for his late papa",
+      "definitions_ex_vn": "anh ấy là một người chết đã chết cho papa muộn của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or device that rings something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in certain games) a ring or similar object that is tossed so as to encircle a target.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a game of marbles in which the target marbles are placed in the center of a circular area.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083885_1d026c9582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083885_e73fd911ca_o.png",
+      "id_image": "ringer_637977"
+    }
+  ]
+}

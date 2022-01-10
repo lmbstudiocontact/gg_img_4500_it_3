@@ -1,0 +1,42 @@
+{
+  "english": "sailor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hải quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính thủy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy thủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person whose job it is to work as a member of the crew of a commercial or naval ship or boat, especially one who is below the rank of officer.",
+      "definitions_ex_en": "Hawaii was an important stopping point for sailors to restock provisions",
+      "definitions_ex_vn": "Hawaii là một điểm dừng quan trọng cho các thủy thủ để xác nhận bổ sung",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074255_b6f15aa7d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074255_ceea91d524_o.png",
+      "id_image": "sailor_4436814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074215_c1c688cbd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074215_4956c943d4_o.png",
+      "id_image": "sailor_5052563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074200_3d79ffc47b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074200_8cb1fe953a_o.png",
+      "id_image": "sailor_6150489"
+    }
+  ]
+}

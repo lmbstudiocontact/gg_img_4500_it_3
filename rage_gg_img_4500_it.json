@@ -1,0 +1,66 @@
+{
+  "english": "rage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơn giận dử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối giận dử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nổi sóng lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh đam mê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh ham chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giận dử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổi sóng lớn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổi xung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát giận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "violent, uncontrollable anger.",
+      "definitions_ex_en": "her face was distorted with rage",
+      "definitions_ex_vn": "Khuôn mặt cô bị bóp méo với cơn thịnh nộ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "feel or express violent uncontrollable anger.",
+      "definitions_ex_en": "he raged at the futility of it all",
+      "definitions_ex_vn": "Anh hoành hành với sự vô ích của tất cả tất cả",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385587_2db13e1eae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385587_e9ed1b0884_o.png",
+      "id_image": "rage_708630"
+    }
+  ]
+}

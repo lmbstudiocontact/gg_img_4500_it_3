@@ -1,0 +1,74 @@
+{
+  "english": "retrograde",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi ngược lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lùi lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rút lui",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "suy đồi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thoái hóa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi lùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lùi lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thoái hoá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "directed or moving backward.",
+      "definitions_ex_en": "a retrograde flow",
+      "definitions_ex_vn": "một dòng chảy ngược",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a degenerate person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "go back in position or time.",
+      "definitions_ex_en": "our history must retrograde for the space of a few pages",
+      "definitions_ex_vn": "Lịch sử của chúng tôi phải rút lui cho không gian của một vài trang",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "show retrogradation.",
+      "definitions_ex_en": "all the planets will at some time appear to retrograde",
+      "definitions_ex_vn": "tất cả các hành tinh sẽ vào một thời điểm nào đó xuất hiện ngược lại",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349011_00b712ea6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349011_92cd2d5980_o.png",
+      "id_image": "retrograde_5570591"
+    }
+  ]
+}

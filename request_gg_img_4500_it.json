@@ -1,0 +1,67 @@
+{
+  "english": "request",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự được ưa thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nguyện vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thỉnh cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thịnh hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự yêu cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỉnh cầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thỉnh nguyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xin phép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "yêu cầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of asking politely or formally for something.",
+      "definitions_ex_en": "a request for information",
+      "definitions_ex_vn": "Yêu cầu thông tin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "politely or formally ask for.",
+      "definitions_ex_en": "he received the information he had requested",
+      "definitions_ex_vn": "anh ấy đã nhận được thông tin anh ấy đã yêu cầu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367177_bfb757e01b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367177_b6bb70a62f_o.png",
+      "id_image": "request_1321719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437528_7aa13e76be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437528_37ec66300f_o.png",
+      "id_image": "request_1373258"
+    }
+  ]
+}

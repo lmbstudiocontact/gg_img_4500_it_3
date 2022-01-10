@@ -1,0 +1,72 @@
+{
+  "english": "sample",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàng mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấy mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu nếm thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm gương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấy hàng mẫu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy mẫu để thí nghiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thử",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small part or quantity intended to show what the whole is like.",
+      "definitions_ex_en": "investigations involved analyzing samples of handwriting",
+      "definitions_ex_vn": "Các cuộc điều tra liên quan đến việc phân tích các mẫu chữ viết tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take a sample or samples of (something) for analysis.",
+      "definitions_ex_en": "bone marrow cells were sampled",
+      "definitions_ex_vn": "Tế bào tủy xương đã được lấy mẫu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450633_9981b781cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450633_31c2356c79_o.png",
+      "id_image": "sample_2114555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335641_71699127c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335641_ba6cc27a4e_o.png",
+      "id_image": "sample_5446624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335616_f72fb9f233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335616_b53686ee2c_o.png",
+      "id_image": "sample_5857171"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "predictive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nói trước",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or having the effect of predicting an event or result.",
+      "definitions_ex_en": "predictive accuracy",
+      "definitions_ex_vn": "Độ chính xác dự đoán",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329766_0958a0fc9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329766_072e714fd0_o.png",
+      "id_image": "predictive_1671616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684669_2c0f22a8b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684669_a848261481_o.png",
+      "id_image": "predictive_4497221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444613_f3cf2fd26a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444613_fbb9b0cc2d_o.png",
+      "id_image": "predictive_6283159"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "scream",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện tức cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng cười rộ lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu thét lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc buồn cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cười rộ lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hét lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu thét lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give a long, loud, piercing cry or cries expressing excitement, great emotion, or pain.",
+      "definitions_ex_en": "they could hear him screaming in pain",
+      "definitions_ex_vn": "Họ có thể nghe thấy anh ta hét lên trong nỗi đau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a long, loud, piercing cry expressing extreme emotion or pain.",
+      "definitions_ex_en": "they were awakened by screams for help",
+      "definitions_ex_vn": "Họ đã được đánh thức bởi những tiếng hét để được giúp đỡ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372217_302f8c3e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372217_90aa5d5019_o.png",
+      "id_image": "scream_1123954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064195_cf124662c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064195_6a022139d7_o.png",
+      "id_image": "scream_4138884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327571_6378159b64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327571_b826b8059b_o.png",
+      "id_image": "scream_606874"
+    }
+  ]
+}

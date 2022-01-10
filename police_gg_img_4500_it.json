@@ -1,0 +1,51 @@
+{
+  "english": "police",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công an",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh sát viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân viên công lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giử trật tự",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the civil force of a national or local government, responsible for the prevention and detection of crime and the maintenance of public order.",
+      "definitions_ex_en": "when someone is killed, the police have to be informed",
+      "definitions_ex_vn": "Khi ai đó bị giết, cảnh sát phải được thông báo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a police force) have the duty of maintaining law and order in or for (an area or event).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074755_b9e4050d70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074755_6774468761_o.png",
+      "id_image": "police_2991186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074785_9dd75b5501_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074785_d000b0e840_o.png",
+      "id_image": "police_771388"
+    }
+  ]
+}

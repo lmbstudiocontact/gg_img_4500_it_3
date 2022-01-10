@@ -1,0 +1,29 @@
+{
+  "english": "sensitivity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể cãm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality or condition of being sensitive.",
+      "definitions_ex_en": "a lack of common decency and sensitivity",
+      "definitions_ex_vn": "thiếu sự quyết tâm và sự nhạy cảm phổ biến",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350001_1b6a3280d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350001_30ee87012c_o.png",
+      "id_image": "sensitivity_3603963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704619_e2c09f85e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704619_0a184e1dff_o.png",
+      "id_image": "sensitivity_860458"
+    }
+  ]
+}

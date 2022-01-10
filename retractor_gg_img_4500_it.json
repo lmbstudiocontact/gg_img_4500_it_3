@@ -1,0 +1,33 @@
+{
+  "english": "retractor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ banh miệng vết mổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gân rút lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device for retracting something.",
+      "definitions_ex_en": "seat belts with automatic retractors",
+      "definitions_ex_vn": "Thắt dây an toàn với các rút lại tự động",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349076_069c91e8f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349076_328a2dcb39_o.png",
+      "id_image": "retractor_3835067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703809_ea14b38433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703809_a8c435f051_o.png",
+      "id_image": "retractor_6408732"
+    }
+  ]
+}

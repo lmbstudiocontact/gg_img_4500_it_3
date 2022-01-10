@@ -1,0 +1,81 @@
+{
+  "english": "recorder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầu ghi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy ghi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy thâu dĩa hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người biên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ghi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan tòa xử về hình và hộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an apparatus for recording sound, pictures, or data, especially a tape recorder.",
+      "definitions_ex_en": "I was talking away into my recorder",
+      "definitions_ex_vn": "Tôi đang nói trốn vào máy ghi âm của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who keeps records.",
+      "definitions_ex_en": "a poet and recorder of rural and industrial life",
+      "definitions_ex_vn": "một nhà thơ và máy ghi âm của cuộc sống nông thôn và công nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in England and Wales) a barrister appointed to serve as a part-time judge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a simple wind instrument with finger holes and no keys, held vertically and played by blowing air through a shaped mouthpiece against a sharp edge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334546_ff6d0fd484_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334546_9e2ce7395d_o.png",
+      "id_image": "recorder_1776540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449483_26f5af5446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449483_e0a959d9db_o.png",
+      "id_image": "recorder_1982408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334466_50280b9c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334466_34088687f8_o.png",
+      "id_image": "recorder_3966600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334586_b661aff4a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334586_50c799e792_o.png",
+      "id_image": "recorder_654958"
+    }
+  ]
+}

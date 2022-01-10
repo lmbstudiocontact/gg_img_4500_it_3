@@ -1,0 +1,38 @@
+{
+  "english": "sewage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước trong cống chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rác rến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "waste water and excrement conveyed in sewers.",
+      "definitions_ex_en": "sewage treatment",
+      "definitions_ex_vn": "xử lý nước thải",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463103_9b7f6eea73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463103_cb93276ed6_o.png",
+      "id_image": "sewage_1280972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393122_8eff52f580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393122_7e303d85f6_o.png",
+      "id_image": "sewage_2752172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085495_f711996b9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085495_e393e93b4f_o.png",
+      "id_image": "sewage_4364137"
+    }
+  ]
+}

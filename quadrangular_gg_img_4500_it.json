@@ -1,0 +1,29 @@
+{
+  "english": "quadrangular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có bốn góc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an object or architectural structure) having four sides.",
+      "definitions_ex_en": "a quadrangular sail",
+      "definitions_ex_vn": "một cánh buồm tứ giác",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460538_de137ff652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460538_6db00974e5_o.png",
+      "id_image": "quadrangular_6181474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390742_dc4093443f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390742_875bb5ca8e_o.png",
+      "id_image": "quadrangular_6181651"
+    }
+  ]
+}

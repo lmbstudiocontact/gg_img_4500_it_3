@@ -1,0 +1,118 @@
+{
+  "english": "review",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc duyệt lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc thao diển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hồi tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phê bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xem lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xét lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tạp chí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "duyệt binh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phê bình quyển sách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thao diển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "duyệt lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal assessment or examination of something with the possibility or intention of instituting change if necessary.",
+      "definitions_ex_en": "a comprehensive review of defense policy",
+      "definitions_ex_vn": "Một đánh giá toàn diện về chính sách phòng thủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a critical appraisal of a book, play, movie, exhibition, etc., published in a newspaper or magazine.",
+      "definitions_ex_en": "she released her debut solo album to rave reviews",
+      "definitions_ex_vn": "Cô phát hành album solo đầu tay của mình để thưởng thức đánh giá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ceremonial display and formal inspection of military or naval forces, typically by a sovereign, commander in chief, or high-ranking visitor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "examine or assess (something) formally with the possibility or intention of instituting change if necessary.",
+      "definitions_ex_en": "the company's safety procedures are being reviewed",
+      "definitions_ex_vn": "Các thủ tục an toàn của công ty đang được xem xét",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "write a critical appraisal of (a book, play, movie, etc.) for publication in a newspaper or magazine.",
+      "definitions_ex_en": "I reviewed his first novel",
+      "definitions_ex_vn": "Tôi đã xem lại cuốn tiểu thuyết đầu tiên của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a sovereign, commander in chief, or high-ranking visitor) make a ceremonial and formal inspection of (military or naval forces).",
+      "definitions_ex_en": "the Queen reviewed her brightly arrayed troops",
+      "definitions_ex_vn": "Nữ hoàng đã xem xét quân đội rạng rỡ của cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "view or inspect for a second time or again.",
+      "definitions_ex_en": "all slides were then reviewed by one pathologist",
+      "definitions_ex_vn": "Tất cả các slide sau đó được xem xét bởi một nhà nghiên cứu bệnh học",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085720_299fe0a873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085720_faabd8e016_o.png",
+      "id_image": "review_3168643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348426_5c18605632_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348426_96f3e258a9_o.png",
+      "id_image": "review_3827297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393357_675ce448dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393357_7417bcd198_o.png",
+      "id_image": "review_448720"
+    }
+  ]
+}

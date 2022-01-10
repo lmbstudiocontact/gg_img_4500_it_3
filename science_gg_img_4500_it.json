@@ -1,0 +1,50 @@
+{
+  "english": "science",
+  "list_translation_mean": [
+    {
+      "translate_mean": "học thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiến thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỷ thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoa học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trí thức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the intellectual and practical activity encompassing the systematic study of the structure and behaviour of the physical and natural world through observation and experiment.",
+      "definitions_ex_en": "the world of science and technology",
+      "definitions_ex_vn": "Thế giới khoa học và công nghệ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445153_133e2fe1b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445153_a66c6af3f2_o.png",
+      "id_image": "science_124789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445138_78767bf583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445138_f8a4fc849b_o.png",
+      "id_image": "science_212268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066955_e9687a3c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066955_ca32d2b8f5_o.png",
+      "id_image": "science_913926"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "english": "scent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hương thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khứu giác của loài chó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngữi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay mùi thơm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thấm mùi thơm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ướp dầu thơm vào khăn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a distinctive smell, especially one that is pleasant.",
+      "definitions_ex_en": "the scent of freshly cut hay",
+      "definitions_ex_vn": "mùi hương của cỏ khô mới cắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a trail indicated by the characteristic smell of an animal and perceptible to hounds or other animals.",
+      "definitions_ex_en": "the hound followed the scent",
+      "definitions_ex_vn": "chó săn theo mùi hương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the faculty or sense of smell.",
+      "definitions_ex_en": "the dog, having the help of scent as well as of sight",
+      "definitions_ex_vn": "con chó, có sự giúp đỡ của mùi hương cũng như tầm nhìn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "impart a pleasant scent to.",
+      "definitions_ex_en": "a glass of tea scented with lemon balm",
+      "definitions_ex_vn": "Một ly trà thơm với chanh Balm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "discern by the sense of smell.",
+      "definitions_ex_en": "a shark can scent blood from well over half a mile away",
+      "definitions_ex_vn": "một con cá mập có thể chảy máu từ hơn nửa dặm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446323_0ea916d69c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446323_74cbce30a6_o.png",
+      "id_image": "scent_1202552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068025_602e8cfd41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068025_1425f76bcc_o.png",
+      "id_image": "scent_1858210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068005_f0e409f6da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068005_37dd0b779d_o.png",
+      "id_image": "scent_2928251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376092_b540c1ff3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376092_ff49a93fda_o.png",
+      "id_image": "scent_655886"
+    }
+  ]
+}

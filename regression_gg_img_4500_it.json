@@ -1,0 +1,43 @@
+{
+  "english": "regression",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đi trở lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thoái bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thối lui",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a return to a former or less developed state.",
+      "definitions_ex_en": "it is easy to blame unrest on economic regression",
+      "definitions_ex_vn": "Thật dễ dàng để đổ lỗi cho sự hồi quy kinh tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a measure of the relation between the mean value of one variable (e.g. output) and corresponding values of other variables (e.g. time and cost).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444668_370f50c52a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444668_ecd599cda0_o.png",
+      "id_image": "regression_2620563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444623_7f1115bf5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444623_32be797c6f_o.png",
+      "id_image": "regression_4884584"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "provider",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cung cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dành dụm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that provides something.",
+      "definitions_ex_en": "a leading provider of personal financial services",
+      "definitions_ex_vn": "một nhà cung cấp hàng đầu các dịch vụ tài chính cá nhân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704124_05251c5c89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704124_4a75e1ea53_o.png",
+      "id_image": "provider_3231367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704069_d8ea5a9c78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704069_f708fcef9f_o.png",
+      "id_image": "provider_3361445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086595_2d7b77fb7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086595_dd5d492bfa_o.png",
+      "id_image": "provider_4310226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086575_b4abc33409_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086575_1c4f4786b2_o.png",
+      "id_image": "provider_4514418"
+    }
+  ]
+}

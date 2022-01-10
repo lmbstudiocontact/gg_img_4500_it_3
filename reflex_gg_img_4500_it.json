@@ -1,0 +1,84 @@
+{
+  "english": "reflex",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dội lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phản ứng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phản xạ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ánh sáng phản ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ánh sáng phản chiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóng phản chiếu trong gương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an action that is performed as a response to a stimulus and without conscious thought.",
+      "definitions_ex_en": "a newborn baby is equipped with basic reflexes",
+      "definitions_ex_vn": "Một em bé sơ sinh được trang bị các phản xạ cơ bản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing which is determined by and reproduces the essential features or qualities of something else.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a reflected source of light.",
+      "definitions_ex_en": "the reflex from the window lit his face",
+      "definitions_ex_vn": "Phản xạ từ cửa sổ thắp lên mặt anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an action) performed without conscious thought as an automatic response to a stimulus.",
+      "definitions_ex_en": "sneezing is a reflex action",
+      "definitions_ex_vn": "Sneezing là một hành động phản xạ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an angle) exceeding 180°.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of light) reflected.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686339_4770c219a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686339_348b5a944e_o.png",
+      "id_image": "reflex_2534470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686304_cacc01a50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686304_2d6b41afdc_o.png",
+      "id_image": "reflex_2621819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331331_eed0fc6975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331331_6b3419c46f_o.png",
+      "id_image": "reflex_813586"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "preparation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách nấu ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bào chế thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuẩn bị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự học tối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sắp đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa soạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of making ready or being made ready for use or consideration.",
+      "definitions_ex_en": "the preparation of a draft contract",
+      "definitions_ex_vn": "việc chuẩn bị một hợp đồng dự thảo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328751_46d5065224_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328751_b8203f8660_o.png",
+      "id_image": "preparation_329807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065545_fc00878081_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065545_0c70c4acaf_o.png",
+      "id_image": "preparation_3380822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373442_1fe20ce64b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373442_d3c1aaafb4_o.png",
+      "id_image": "preparation_4192905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065490_2ecff62872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065490_8bc7357218_o.png",
+      "id_image": "preparation_6159837"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328611_32a80cb366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328611_8bfcca32ff_o.png",
+      "id_image": "preparation_6347410"
+    }
+  ]
+}

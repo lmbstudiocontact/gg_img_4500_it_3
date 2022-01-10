@@ -1,0 +1,66 @@
+{
+  "english": "prejudice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mối hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bất lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư tưởng không ngay thẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dự tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bất lợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm giãm giá trị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thiệt hại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "preconceived opinion that is not based on reason or actual experience.",
+      "definitions_ex_en": "prejudice against people from different backgrounds",
+      "definitions_ex_vn": "định kiến chống lại mọi người từ những nền tảng khác nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "harm or injury that results or may result from some action or judgment.",
+      "definitions_ex_en": "prejudice resulting from delay in the institution of the proceedings",
+      "definitions_ex_vn": "định kiến dẫn đến sự chậm trễ trong tổ chức tố tụng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give rise to prejudice in (someone); make biased.",
+      "definitions_ex_en": "the statement might prejudice the jury",
+      "definitions_ex_vn": "Tuyên bố có thể định kiến bồi thẩm đoàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause harm to (a state of affairs).",
+      "definitions_ex_en": "delay is likely to prejudice the child's welfare",
+      "definitions_ex_vn": "sự chậm trễ có khả năng định kiến phúc lợi của đứa trẻ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373967_4dd68c310b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373967_27eb742933_o.png",
+      "id_image": "prejudice_6174387"
+    }
+  ]
+}

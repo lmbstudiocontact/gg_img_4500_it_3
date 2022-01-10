@@ -1,0 +1,225 @@
+{
+  "english": "pitch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bề cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách đưa banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiều cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhựa thông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số hàng hóa đem ra bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cạnh răng của cây cưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiều nghiêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ném",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiều xiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ thường tới lui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn khớp nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bày hàng hóa để bán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "căng lều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lót đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tô nhựa thông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tráng đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trét nhựa thông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dựng lều",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of a sound governed by the rate of vibrations producing it; the degree of highness or lowness of a tone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the steepness of a slope, especially of a roof.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the level of intensity of something.",
+      "definitions_ex_en": "he brought the machine to a high pitch of development",
+      "definitions_ex_vn": "Anh ấy đã mang máy đến một cường độ cao của sự phát triển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a legal delivery of the ball by the pitcher.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a form of words used when trying to persuade someone to buy or accept something.",
+      "definitions_ex_en": "a good sales pitch",
+      "definitions_ex_vn": "một doanh số tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a swaying or oscillation of a ship, aircraft, or vehicle around a horizontal axis perpendicular to the direction of motion.",
+      "definitions_ex_en": "the pitch and roll of the ship",
+      "definitions_ex_vn": "sân và cuộn của tàu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the distance between successive corresponding points or lines, e.g., between the teeth of a cogwheel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sticky resinous black or dark brown substance that is semiliquid when hot, hard when cold. It is obtained by distilling tar or petroleum and is used for waterproofing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "throw (the ball) for the batter to try to hit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "throw or fling roughly or casually.",
+      "definitions_ex_en": "he crumpled the page up and pitched it into the fireplace",
+      "definitions_ex_vn": "Anh ta vò nát trang lên và ném nó vào lò sưởi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "set (one's voice or a piece of music) at a particular pitch.",
+      "definitions_ex_en": "you've pitched the melody very high",
+      "definitions_ex_vn": "bạn đã ném giai điệu rất cao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a bid to obtain a contract or other business.",
+      "definitions_ex_en": "they were pitching for an account",
+      "definitions_ex_vn": "Họ đã ném cho một tài khoản",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "set up and fix in a definite position.",
+      "definitions_ex_en": "we pitched camp for the night",
+      "definitions_ex_vn": "Chúng tôi ném trại cho đêm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a moving ship, aircraft, or vehicle) rock or oscillate around a lateral axis, so that the front and back move up and down.",
+      "definitions_ex_en": "the little steamer pressed on, pitching gently",
+      "definitions_ex_vn": "Máy hấp nhỏ ép, ném nhẹ nhàng.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a roof) to slope downward from the ridge.",
+      "definitions_ex_en": "the roof was pitched at an angle of 75 degrees",
+      "definitions_ex_vn": "mái nhà đã được ném ở một góc 75 độ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cover, coat, or smear with pitch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344791_eac1b45e65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344791_398f6d82a8_o.png",
+      "id_image": "pitch_1031443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344741_d7120a1511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344741_714ea6ca40_o.png",
+      "id_image": "pitch_1529269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459533_af91040caa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459533_c58b12d2cc_o.png",
+      "id_image": "pitch_1999349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699814_57e4efa204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699814_3e51f82b77_o.png",
+      "id_image": "pitch_2132535"
+    }
+  ]
+}

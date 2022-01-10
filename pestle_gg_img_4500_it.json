@@ -1,0 +1,57 @@
+{
+  "english": "pestle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái chày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đâm bằng chày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giã bằng chày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền bằng chày",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heavy tool with a rounded end, used for crushing and grinding substances such as spices or drugs, typically in a mortar.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "crush or grind (a substance such as a spice or drug) with a pestle.",
+      "definitions_ex_en": "she measured seeds into the mortar and pestled them to powder",
+      "definitions_ex_vn": "Cô đo hạt vào vữa và chày chúng vào bột",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435113_ff3d430ab0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435113_75236ef7cc_o.png",
+      "id_image": "pestle_3006167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364687_223d8b0ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364687_d8fc247ba7_o.png",
+      "id_image": "pestle_3360549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364672_370f719dd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364672_91155ec507_o.png",
+      "id_image": "pestle_5332528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364637_7fa2271e20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364637_f67ba9d133_o.png",
+      "id_image": "pestle_6199070"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "photographer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thợ chụp hình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who takes photographs, especially as a job.",
+      "definitions_ex_en": "a freelance press photographer",
+      "definitions_ex_vn": "Một nhiếp ảnh gia báo chí tự do",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394172_4b1c0ba01e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394172_d1c9b335af_o.png",
+      "id_image": "photographer_1100219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394147_304f1c4563_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394147_d9b99753e4_o.png",
+      "id_image": "photographer_1940990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464008_cd72163c1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464008_93a2051c59_o.png",
+      "id_image": "photographer_1965739"
+    }
+  ]
+}

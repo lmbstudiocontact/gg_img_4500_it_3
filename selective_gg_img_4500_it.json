@@ -1,0 +1,41 @@
+{
+  "english": "selective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chọn lựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lọc luồng sóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tuyển chọn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or involving the selection of the most suitable or best qualified.",
+      "definitions_ex_en": "the mini-cow is the result of generations of selective breeding",
+      "definitions_ex_vn": "Con bò nhỏ là kết quả của các thế hệ sinh sản chọn lọc",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350941_9a17170d68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350941_8ba2ecff48_o.png",
+      "id_image": "selective_3317730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088065_b9a89d61ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088065_70dc78cbf4_o.png",
+      "id_image": "selective_943769"
+    }
+  ]
+}

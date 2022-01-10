@@ -1,0 +1,44 @@
+{
+  "english": "parabolic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bày tỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dùng thí dụ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or like a parabola or part of one.",
+      "definitions_ex_en": "a parabolic mirror behind a spotlight projects a parallel beam",
+      "definitions_ex_vn": "một tấm gương parabol đằng sau một ánh đèn sân khấu dự án một chùm sáng song song",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or expressed in parables.",
+      "definitions_ex_en": "parabolic teaching",
+      "definitions_ex_vn": "Dạy Parabol",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378647_e91cd05a0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378647_a2d238bcbb_o.png",
+      "id_image": "parabolic_1744519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333761_2547345aaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333761_a578a1ef85_o.png",
+      "id_image": "parabolic_227936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688794_6f5a73ab28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688794_3443c926bd_o.png",
+      "id_image": "parabolic_5615987"
+    }
+  ]
+}

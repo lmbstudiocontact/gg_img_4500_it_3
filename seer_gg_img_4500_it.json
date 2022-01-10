@@ -1,0 +1,50 @@
+{
+  "english": "seer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đoán trước tương lai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà tiên tri",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is supposed to be able, through supernatural insight, to see what the future holds.",
+      "definitions_ex_en": "a seer had foretold that the earl would assume the throne",
+      "definitions_ex_vn": "Một seer đã báo trước rằng bá tước sẽ cho rằng ngai vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who sees something specified.",
+      "definitions_ex_en": "a seer of the future",
+      "definitions_ex_vn": "một seer của tương lai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in South Asia) a varying unit of weight (about one kilogram) or liquid measure (about one liter).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438203_685403a4cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438203_6b5133595e_o.png",
+      "id_image": "seer_2689782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323116_730a03465e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323116_cf4168b1c4_o.png",
+      "id_image": "seer_6081768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678284_2a029b4b99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678284_840218ed00_o.png",
+      "id_image": "seer_849050"
+    }
+  ]
+}

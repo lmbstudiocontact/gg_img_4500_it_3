@@ -1,0 +1,34 @@
+{
+  "english": "paperback",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loại sách rẻ tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại tiểu thuyết rẻ tiền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a book bound in stiff paper or flexible cardboard.",
+      "definitions_ex_en": "the shelves were stacked with well-thumbed paperbacks",
+      "definitions_ex_vn": "Các kệ được xếp chồng lên nhau với các bìa mềm nhỏ gọn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a book) bound in stiff paper or flexible cardboard.",
+      "definitions_ex_en": "the paperback edition of her biography",
+      "definitions_ex_vn": "Phiên bản bìa mềm của tiểu sử của cô",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379077_8ddaaa59f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379077_0e09ea1791_o.png",
+      "id_image": "paperback_2015120"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "rain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lệ nhỏ như mưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khóc như mưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khóc ròng ròng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị đánh tới tấp như mưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nước mắt chảy đầm đìa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "moisture condensed from the atmosphere that falls visibly in separate drops.",
+      "definitions_ex_en": "the rain had not stopped for days",
+      "definitions_ex_vn": "Mưa đã không dừng lại trong nhiều ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rain falls.",
+      "definitions_ex_en": "it was beginning to rain",
+      "definitions_ex_vn": "Nó đã bắt đầu mưa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340016_0bae60a291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340016_952129e12d_o.png",
+      "id_image": "rain_1123385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695269_53f8fb83e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695269_28bb229e20_o.png",
+      "id_image": "rain_826906"
+    }
+  ]
+}

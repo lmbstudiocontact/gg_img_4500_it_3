@@ -1,0 +1,53 @@
+{
+  "english": "popular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân dân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về dân chúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bình dân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về nhân gian",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "liked, admired, or enjoyed by many people or by a particular person or group.",
+      "definitions_ex_en": "she was one of the most popular girls in the school",
+      "definitions_ex_vn": "Cô là một trong những cô gái nổi tiếng nhất trong trường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of cultural activities or products) intended for or suited to the taste, understanding, or means of the general public rather than specialists or intellectuals.",
+      "definitions_ex_en": "the popular press",
+      "definitions_ex_vn": "báo chí phổ biến",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of political activity) carried on by the people as a whole rather than restricted to politicians or political parties.",
+      "definitions_ex_en": "a popular revolt against colonial rule",
+      "definitions_ex_vn": "một cuộc nổi dậy phổ biến chống lại sự cai trị thuộc địa",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690879_2797b77632_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690879_4d99af67ea_o.png",
+      "id_image": "popular_1879447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690839_b3366a583a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690839_421ce4a96f_o.png",
+      "id_image": "popular_4334789"
+    }
+  ]
+}

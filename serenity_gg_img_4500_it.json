@@ -1,0 +1,36 @@
+{
+  "english": "serenity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "êm đềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bình tỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự yên ặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự yên ổn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being calm, peaceful, and untroubled.",
+      "definitions_ex_en": "an oasis of serenity amidst the bustling city",
+      "definitions_ex_vn": "một ốc đảo của sự thanh thản giữa thành phố nhộn nhịp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394487_08681fa37e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394487_27c3ec00c2_o.png",
+      "id_image": "serenity_708651"
+    }
+  ]
+}

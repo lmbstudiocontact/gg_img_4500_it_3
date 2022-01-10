@@ -1,0 +1,33 @@
+{
+  "english": "reload",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nạp súng lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "load (something, especially a gun that has been fired) again.",
+      "definitions_ex_en": "he reloaded the chamber of the shotgun with fresh cartridges",
+      "definitions_ex_vn": "Anh ta tải lại buồng súng ngắn bằng hộp mực tươi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371037_0fc9b40f60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371037_caa898c1dc_o.png",
+      "id_image": "reload_2879289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371002_503eb9235b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371002_9b8c4313bc_o.png",
+      "id_image": "reload_4045090"
+    }
+  ]
+}

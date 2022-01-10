@@ -1,0 +1,68 @@
+{
+  "english": "picker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chọn lựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đào lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đào lổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hái trái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lặt rau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lựa bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhổ lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tìm kiếm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or machine that gathers or collects something.",
+      "definitions_ex_en": "a tomato picker",
+      "definitions_ex_vn": "một bộ chọn cà chua",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who plays a plucked instrument, especially a guitar, banjo, or mandolin.",
+      "definitions_ex_en": "banjo pickers",
+      "definitions_ex_vn": "Pickers Banjo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393382_4c7e497e1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393382_5a5224b365_o.png",
+      "id_image": "picker_1151186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085740_4abe7032df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085740_281e07f9f8_o.png",
+      "id_image": "picker_4061270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393332_a1c636cbe8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393332_cac0f52521_o.png",
+      "id_image": "picker_6300882"
+    }
+  ]
+}

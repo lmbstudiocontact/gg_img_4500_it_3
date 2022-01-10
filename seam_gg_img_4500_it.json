@@ -1,0 +1,64 @@
+{
+  "english": "seam",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc may vá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết sẹo trên mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm đầy thẹo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "may nối lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a line along which two pieces of fabric are sewn together in a garment or other article.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an underground layer, as of ore or coal.",
+      "definitions_ex_en": "the buried forests became seams of coal",
+      "definitions_ex_vn": "Các khu rừng bị chôn vùi trở thành đường may của than",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sew the seam of or join with a seam.",
+      "definitions_ex_en": "our stockings are seamed by hand",
+      "definitions_ex_vn": "vớ của chúng tôi được nối bằng tay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a long, narrow indentation in.",
+      "definitions_ex_en": "deep wrinkles seamed his face",
+      "definitions_ex_vn": "Nếp nhăn sâu trên mặt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325266_c2982acae6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325266_6092d35919_o.png",
+      "id_image": "seam_2570418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325211_1e6556e50e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325211_378138ae26_o.png",
+      "id_image": "seam_3461274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370082_3947bfc106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370082_c8992eb01c_o.png",
+      "id_image": "seam_4301489"
+    }
+  ]
+}

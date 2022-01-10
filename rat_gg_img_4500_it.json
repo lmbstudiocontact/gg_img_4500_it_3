@@ -1,0 +1,63 @@
+{
+  "english": "rat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con chuột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bỏ đảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt chuột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ đảng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chối không đình công",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rodent that resembles a large mouse, typically having a pointed snout and a long, sparsely haired tail. Some kinds have become cosmopolitan and are sometimes responsible for transmitting diseases.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to express mild annoyance or irritation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "(of a person, dog, or cat) hunt or kill rats.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "desert one's party, side, or cause.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338186_ca95767035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338186_2c406ec52c_o.png",
+      "id_image": "rat_1039063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453158_ee01dbbb32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453158_61389bd7a6_o.png",
+      "id_image": "rat_616735"
+    }
+  ]
+}

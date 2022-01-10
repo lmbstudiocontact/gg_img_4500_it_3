@@ -1,0 +1,44 @@
+{
+  "english": "pineapple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trái khóm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái dứa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large juicy tropical fruit consisting of aromatic edible yellow flesh surrounded by a tough segmented skin and topped with a tuft of stiff leaves.",
+      "definitions_ex_en": "roughly chop the pineapples and apricots",
+      "definitions_ex_vn": "đại khái chặt dứa và quả mơ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the widely cultivated tropical American plant that bears the pineapple. It is low-growing, with a spiral of spiny sword-shaped leaves on a thick stem.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hand grenade.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460803_95356ac7af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460803_b6b424453e_o.png",
+      "id_image": "pineapple_433690"
+    }
+  ]
+}

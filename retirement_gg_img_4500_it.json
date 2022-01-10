@@ -1,0 +1,66 @@
+{
+  "english": "retirement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi hẻo lánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hưu trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lui binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rút quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sống ẩn dật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or fact of leaving one's job and ceasing to work.",
+      "definitions_ex_en": "a man nearing retirement",
+      "definitions_ex_vn": "Một người đàn ông gần nghỉ hưu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the withdrawal of a jury from the courtroom to decide their verdict.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "seclusion.",
+      "definitions_ex_en": "he lived in retirement in Miami",
+      "definitions_ex_vn": "anh ấy sống ở hưu trí ở Miami",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349266_504b4293cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349266_52319aea38_o.png",
+      "id_image": "retirement_1691584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349241_e10c4f7358_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349241_5514896baf_o.png",
+      "id_image": "retirement_2329905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349221_dfa8fc7ae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349221_1bd4980f6f_o.png",
+      "id_image": "retirement_4072872"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "seeder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá đẻ trứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy gieo hột",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine for sowing seed mechanically.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a plant that produces seeds in a particular way or under particular conditions.",
+      "definitions_ex_en": "a beautiful, hardy annual self-seeder",
+      "definitions_ex_vn": "một người tự gieo hạt hàng năm xinh đẹp, mạnh mẽ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323206_dba208137f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323206_c76fe5f59d_o.png",
+      "id_image": "seeder_4619418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368177_26c43b4669_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368177_a2925534fd_o.png",
+      "id_image": "seed_2296469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438368_f83f0de82b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438368_b61c636292_o.png",
+      "id_image": "seed_4179312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438353_894ec1fcf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438353_a0d3faa7ae_o.png",
+      "id_image": "seed_6347041"
+    }
+  ]
+}

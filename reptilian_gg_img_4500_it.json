@@ -1,0 +1,50 @@
+{
+  "english": "reptilian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về giống bò sát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về loài bò sát",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or characteristic of reptiles.",
+      "definitions_ex_en": "the reptilian ancestors of mammals",
+      "definitions_ex_vn": "tổ tiên reptilian của động vật có vú",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) deeply disliked and despised; repulsive.",
+      "definitions_ex_en": "a reptilian villain with no redeeming features",
+      "definitions_ex_vn": "một nhân vật phản diện reptilian không có tính năng chuộc lỗi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an animal belonging to the class Reptilia ; a reptile.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059195_06d1162fa5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059195_c5b596dba9_o.png",
+      "id_image": "reptilian_4965271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322381_71221574d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322381_f535158257_o.png",
+      "id_image": "reptilian_4965687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322351_6e278bce1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322351_097aabcfa2_o.png",
+      "id_image": "reptilian_6258493"
+    }
+  ]
+}

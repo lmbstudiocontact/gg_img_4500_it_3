@@ -1,0 +1,32 @@
+{
+  "english": "remuneration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự khen thưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tặng thưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thưởng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "money paid for work or a service.",
+      "definitions_ex_en": "they work in excess of their contracted hours for no additional remuneration",
+      "definitions_ex_vn": "họ làm việc vượt quá các giờ hợp đồng của họ để không có thêm tiền công",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440333_c20d523122_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440333_e4f704e715_o.png",
+      "id_image": "remuneration_3603846"
+    }
+  ]
+}

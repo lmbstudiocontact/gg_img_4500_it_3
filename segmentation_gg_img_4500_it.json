@@ -1,0 +1,38 @@
+{
+  "english": "segmentation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chia ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân chia",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "division into separate parts or sections.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322996_ac92270bff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322996_e27972065e_o.png",
+      "id_image": "segmentation_2620431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322961_9e9435e892_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322961_2aa5eecd5a_o.png",
+      "id_image": "segmentation_2620440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438058_5659caea87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438058_7c28c427a2_o.png",
+      "id_image": "segmentation_5661287"
+    }
+  ]
+}

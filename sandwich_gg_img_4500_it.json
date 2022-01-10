@@ -1,0 +1,56 @@
+{
+  "english": "sandwich",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sandwich",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh sandwitch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh xăng quít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để giữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để xen vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an item of food consisting of two pieces of bread with meat, cheese, or other filling between them, eaten as a light meal.",
+      "definitions_ex_en": "a ham sandwich",
+      "definitions_ex_vn": "một sandwich giăm bông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "insert or squeeze (someone or something) between two other people or things, typically in a restricted space or so as to be uncomfortable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071870_252bc1ec00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071870_801c439e86_o.png",
+      "id_image": "sandwich_485666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689994_9ef542d3c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689994_5be1cfdb3e_o.png",
+      "id_image": "sandwich_736913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449923_6569570ecc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449923_2e44a040c8_o.png",
+      "id_image": "sandwich_786969"
+    }
+  ]
+}

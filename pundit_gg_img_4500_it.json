@@ -1,0 +1,39 @@
+{
+  "english": "pundit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "học giả gỏi về triết học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học giả giỏi về luật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an expert in a particular subject or field who is frequently called on to give opinions about it to the public.",
+      "definitions_ex_en": "a globe-trotting financial pundit",
+      "definitions_ex_vn": "một pundit tài chính chạy toàn cầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of pandit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084950_57bb651c13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084950_cab0a6cea2_o.png",
+      "id_image": "pundit_2473150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084915_a0c8c3e84e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084915_18be271e6b_o.png",
+      "id_image": "pundit_5553320"
+    }
+  ]
+}

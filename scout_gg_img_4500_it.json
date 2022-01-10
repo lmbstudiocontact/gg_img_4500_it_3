@@ -1,0 +1,94 @@
+{
+  "english": "scout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hướng đạo sinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính đi dò đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dọ thám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu thám thính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phi cơ thám thính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự do thám",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a soldier or other person sent out ahead of a main force so as to gather information about the enemy's position, strength, or movements.",
+      "definitions_ex_en": "forward scouts reported that the enemy were massing at two points ahead",
+      "definitions_ex_vn": "Các trinh sát về phía trước báo cáo rằng kẻ thù đang hàng loạt ở hai điểm phía trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ship or aircraft employed for reconnaissance, especially a small, fast aircraft.",
+      "definitions_ex_en": "a single-seater scout",
+      "definitions_ex_vn": "một trinh sát một chỗ ngồi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a Boy Scout or Girl Scout.",
+      "definitions_ex_en": "a scout leader",
+      "definitions_ex_vn": "một nhà lãnh đạo trinh sát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a domestic worker at a college at Oxford University.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a man or boy.",
+      "definitions_ex_en": "I've got nothing against Harrison—he's a good scout",
+      "definitions_ex_vn": "Tôi không có gì chống lại Harrison, anh ấy là một trinh sát tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a search for someone or something in various places.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reject (a proposal or idea) with scorn.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683439_f142f7f0a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683439_a63eeb6a20_o.png",
+      "id_image": "scout_2333339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443308_e616721958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443308_40f4f28e66_o.png",
+      "id_image": "scout_4002825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065060_3a53b66a15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065060_d30f14b0ef_o.png",
+      "id_image": "scout_4615341"
+    }
+  ]
+}

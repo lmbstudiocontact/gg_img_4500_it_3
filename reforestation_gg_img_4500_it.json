@@ -1,0 +1,44 @@
+{
+  "english": "reforestation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự trồng cây lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of replanting an area with trees.",
+      "definitions_ex_en": "the need for post-fire reforestation",
+      "definitions_ex_vn": "Nhu cầu trồng rừng sau hỏa lực",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331246_7cae71e745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331246_b7be97afc0_o.png",
+      "id_image": "reforestation_1075042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686229_7bb51213ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686229_7c4662b1cb_o.png",
+      "id_image": "reforestation_2470774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331191_ea3ffa90aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331191_d6b6916515_o.png",
+      "id_image": "reforestation_2865818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067880_236504789e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067880_1e80ec4be1_o.png",
+      "id_image": "reforestation_5782416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067860_3fdfb2aabb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067860_d2c9108a76_o.png",
+      "id_image": "reforestation_6250446"
+    }
+  ]
+}

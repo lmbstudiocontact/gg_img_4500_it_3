@@ -1,0 +1,47 @@
+{
+  "english": "shout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kêu la",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả tiền rượu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hò hét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu la",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) utter a loud call or cry, typically as an expression of a strong emotion.",
+      "definitions_ex_en": "she shouted for joy",
+      "definitions_ex_vn": "Cô ấy hét lên vì niềm vui",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a loud cry expressing a strong emotion or calling attention.",
+      "definitions_ex_en": "his words were interrupted by warning shouts",
+      "definitions_ex_vn": "lời nói của anh bị gián đoạn bởi những tiếng hét cảnh báo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342396_8a953cf16d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342396_cedb5dd95d_o.png",
+      "id_image": "shout_1128884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387372_d3891bebb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387372_70d79434ac_o.png",
+      "id_image": "shout_1281707"
+    }
+  ]
+}

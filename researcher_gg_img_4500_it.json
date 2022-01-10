@@ -1,0 +1,34 @@
+{
+  "english": "researcher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người tìm tòi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who carries out academic or scientific research.",
+      "definitions_ex_en": "a medical researcher who pioneered the development of antibiotics",
+      "definitions_ex_vn": "một nhà nghiên cứu y học đã tiên phong phát triển kháng sinh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437373_9fb76804c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437373_7dde488caf_o.png",
+      "id_image": "researcher_1876739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437353_e7ec616b01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437353_f84da48422_o.png",
+      "id_image": "researcher_4633160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058895_99ea585a38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058895_7b92b14a6e_o.png",
+      "id_image": "researcher_4695769"
+    }
+  ]
+}

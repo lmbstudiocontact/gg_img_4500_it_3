@@ -1,0 +1,38 @@
+{
+  "english": "rainy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay mưa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều mưa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of weather, a period of time, or an area) having a great deal of rainfall.",
+      "definitions_ex_en": "a rainy afternoon",
+      "definitions_ex_vn": "một buổi chiều mưa",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384567_cd6cc0a10c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384567_64ceda1bcc_o.png",
+      "id_image": "rainy_1624390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384532_76494ab26d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384532_e81e47ff06_o.png",
+      "id_image": "rainy_4647955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076745_d924ffda3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076745_b78aca6b60_o.png",
+      "id_image": "rainy_5903651"
+    }
+  ]
+}

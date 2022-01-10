@@ -1,0 +1,94 @@
+{
+  "english": "plus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thêm",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "dương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cộng vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu cộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số thêm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phụ vào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thêm vào",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with the addition of.",
+      "definitions_ex_en": "two plus four is six",
+      "definitions_ex_vn": "hai cộng bốn là sáu",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "(after a number or amount) at least.",
+      "definitions_ex_en": "companies put losses at $500,000 plus",
+      "definitions_ex_vn": "Các công ty gây thiệt hại ở mức 500.000 đô la cộng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(before a number) above zero; positive.",
+      "definitions_ex_en": "plus 60 degrees centigrade",
+      "definitions_ex_vn": "cộng thêm 60 độ C.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a positive electric charge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "short for plus sign.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an advantage.",
+      "definitions_ex_en": "knowing the language is a decided plus",
+      "definitions_ex_vn": "Biết ngôn ngữ là một sự quyết định cộng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "furthermore; also.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "conjunction"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454433_1b3c9c687d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454433_d25d7a6372_o.png",
+      "id_image": "plus_1484944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076660_472f2ef1b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076660_5c404dfbf6_o.png",
+      "id_image": "plus_4684730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076620_640d834b20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076620_f82bb3a94e_o.png",
+      "id_image": "plus_5982800"
+    }
+  ]
+}

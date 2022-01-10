@@ -1,0 +1,100 @@
+{
+  "english": "prize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "của chiếm được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "của đoạt được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giải thưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần thưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số trúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự được giải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trúng cuộc xổ số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu bị bắt ngoài biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh giá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing given as a reward to the winner of a competition or in recognition of an outstanding achievement.",
+      "definitions_ex_en": "Britain's most prestigious prize for contemporary art",
+      "definitions_ex_vn": "Giải thưởng uy tín nhất của Anh cho nghệ thuật đương đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an enemy ship captured during the course of naval warfare.",
+      "definitions_ex_en": "the sloop had been taken as a prize",
+      "definitions_ex_vn": "Sloop đã được coi là một giải thưởng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "use force in order to move, move apart, or open (something).",
+      "definitions_ex_en": "I tried to prise Joe's fingers away from the stick",
+      "definitions_ex_vn": "Tôi đã cố gắng giải thưởng ngón tay của Joe khỏi cây gậy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "value extremely highly.",
+      "definitions_ex_en": "the berries were prized for their healing properties",
+      "definitions_ex_vn": "Các loại quả mọng được đánh giá cao cho các đặc tính chữa bệnh của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "variant spelling of prise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "having been or likely to be awarded a prize in a competition.",
+      "definitions_ex_en": "a prize bull",
+      "definitions_ex_vn": "một giải thưởng Bull.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323591_5e44a93b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323591_f0a6024e37_o.png",
+      "id_image": "prize_395735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368517_ab62a4ca13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368517_164fb5c3b9_o.png",
+      "id_image": "prize_4658184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323516_481b63c8a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323516_27f34e1a4a_o.png",
+      "id_image": "prize_5578252"
+    }
+  ]
+}

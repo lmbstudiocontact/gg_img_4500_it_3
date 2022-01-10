@@ -1,0 +1,99 @@
+{
+  "english": "queen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoàng hậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lá đầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ chúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ hoàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ vương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ong chúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho làm hoàng thái hậu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the female ruler of an independent state, especially one who inherits the position by right of birth.",
+      "definitions_ex_en": "he insisted the princess could be crowned queen",
+      "definitions_ex_vn": "Ông nhấn mạnh rằng công chúa có thể lên ngôi nữ hoàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the most powerful chess piece that each player has, able to move any number of unobstructed squares in any direction along a rank, file, or diagonal on which it stands.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a playing card bearing a representation of a queen, normally ranking next below a king and above a jack.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a reproductive female in a colony of social ants, bees, wasps, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an adult female cat that has not been spayed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gay man, especially one regarded as ostentatiously effeminate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "behave in an unpleasantly superior way toward (someone).",
+      "definitions_ex_en": "Monique was queening it over everybody",
+      "definitions_ex_vn": "Monique đã là nữ hoàng trên tất cả mọi người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "convert (a pawn) into a queen when it reaches the opponent's back rank on the board.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389372_b2e15a5c56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389372_a19f801ca1_o.png",
+      "id_image": "queen_2349515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459148_2c2f2117a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459148_e75d5038c1_o.png",
+      "id_image": "queen_4133591"
+    }
+  ]
+}

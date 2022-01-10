@@ -1,0 +1,138 @@
+{
+  "english": "shake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lung lay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rung rinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh có tiếng rung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lay chuyển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lay động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lúc lắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rung chuyển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đường nứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không có gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh có tiếng run",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lay động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lung lay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự run vì lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết nứt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a structure or area of land) tremble or vibrate.",
+      "definitions_ex_en": "buildings shook in Sacramento and tremors were felt in Reno",
+      "definitions_ex_vn": "Các tòa nhà lắc trong Sacramento và run rẩy được cảm nhận ở Reno",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move (an object) up and down or from side to side with rapid, forceful, jerky movements.",
+      "definitions_ex_en": "she stood in the hall and shook her umbrella",
+      "definitions_ex_vn": "Cô đứng trong hội trường và lắc dù",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "upset the composure or confidence of; shock or astonish.",
+      "definitions_ex_en": "rumors of a further loss shook the market",
+      "definitions_ex_vn": "Tin đồn về sự mất mát xa hơn khiến thị trường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "successfully deal with or recover from (an illness, injury, or negative feeling).",
+      "definitions_ex_en": "I couldn't shake the feeling that everyone was laughing at me",
+      "definitions_ex_vn": "Tôi không thể lay chuyển cảm giác rằng mọi người đang cười nhạo tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of shaking.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fit of trembling or shivering.",
+      "definitions_ex_en": "I wouldn't go in there, it gives me the shakes",
+      "definitions_ex_vn": "Tôi sẽ không đi vào đó, nó cho tôi những rung động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a milkshake.",
+      "definitions_ex_en": "don't miss the homemade cookies and shakes",
+      "definitions_ex_vn": "Đừng bỏ lỡ những cookie tự chế và run rẩy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an earth tremor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a trill.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347766_5eb742cfd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347766_cb48a6df9f_o.png",
+      "id_image": "shake_3274282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085060_e32fb12978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085060_d927ff31be_o.png",
+      "id_image": "shake_3646023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392612_d3e5f5d2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392612_a63089c66e_o.png",
+      "id_image": "shake_4403892"
+    }
+  ]
+}

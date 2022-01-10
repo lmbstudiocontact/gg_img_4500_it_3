@@ -1,0 +1,216 @@
+{
+  "english": "right",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngay",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hết",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tất cả",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thẳng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "trúng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bên mặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bên phải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đường thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngay thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thích đáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bên hửu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chữ đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có lý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "công bằng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cú đánh tay mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cường quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phái hửu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều đúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát súng bắn tay mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía hửu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía tay mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho ngay",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "morally good, justified, or acceptable.",
+      "definitions_ex_en": "I hope we're doing the right thing",
+      "definitions_ex_vn": "Tôi hy vọng chúng ta đang làm điều đúng đắn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "true or correct as a fact.",
+      "definitions_ex_en": "I'm not sure I know the right answer",
+      "definitions_ex_vn": "Tôi không chắc tôi biết câu trả lời đúng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in a satisfactory, sound, or normal state or condition.",
+      "definitions_ex_en": "that sausage doesn't smell right",
+      "definitions_ex_vn": "xúc xích đó không có mùi đúng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "on, toward, or relating to the side of a human body or of a thing that is to the east when the person or thing is facing north.",
+      "definitions_ex_en": "my right elbow",
+      "definitions_ex_vn": "Khuỷu tay phải của tôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "favoring conservative or reactionary views.",
+      "definitions_ex_en": "are you politically right, left, or center?",
+      "definitions_ex_vn": "Bạn có chính trị đúng, trái, hoặc trung tâm?",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to the furthest or most complete extent or degree (used for emphasis).",
+      "definitions_ex_en": "the car spun right off the track",
+      "definitions_ex_vn": "Xe quay ngay khỏi đường đua",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "correctly.",
+      "definitions_ex_en": "he had guessed right",
+      "definitions_ex_vn": "anh ấy đã đoán đúng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "on or to the right side.",
+      "definitions_ex_en": "turn right at Main Street",
+      "definitions_ex_vn": "Rẽ phải tại Main Street",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "that which is morally correct, just, or honorable.",
+      "definitions_ex_en": "she doesn't understand the difference between right and wrong",
+      "definitions_ex_vn": "cô ấy không hiểu sự khác biệt giữa đúng và sai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a moral or legal entitlement to have or obtain something or to act in a certain way.",
+      "definitions_ex_en": "she had every right to be angry",
+      "definitions_ex_vn": "cô ấy có quyền tức giận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the right-hand part, side, or direction.",
+      "definitions_ex_en": "take the first turning on the right",
+      "definitions_ex_vn": "Thực hiện rẽ đầu tiên bên phải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group or party favoring conservative or reactionary views.",
+      "definitions_ex_en": "the Right got in at the election",
+      "definitions_ex_vn": "quyền được đưa vào cuộc bầu cử",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "restore to a normal or upright position.",
+      "definitions_ex_en": "we righted the capsized dinghy",
+      "definitions_ex_vn": "Chúng tôi đã có xu hướng bị lật úp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to indicate one's agreement or to acknowledge a statement or order.",
+      "definitions_ex_en": "“Barry's here.” “Oh, right”",
+      "definitions_ex_vn": "\"Barry ở đây.\"",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346751_0b5c32c6a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346751_9e358b49be_o.png",
+      "id_image": "right_3603600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701579_4ae7e476d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701579_280d3739d2_o.png",
+      "id_image": "right_4151501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461518_d25f954574_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461518_dc2be1d963_o.png",
+      "id_image": "right_5678244"
+    }
+  ]
+}

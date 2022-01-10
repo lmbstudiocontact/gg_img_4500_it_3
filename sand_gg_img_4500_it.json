@@ -1,0 +1,66 @@
+{
+  "english": "sand",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bãi cát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bờ biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột cát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổ cát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ lên cát lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a loose granular substance, typically pale yellowish brown, resulting from the erosion of siliceous and other rocks and forming a major constituent of beaches, riverbeds, the seabed, and deserts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "smooth or polish with sandpaper or a mechanical sander.",
+      "definitions_ex_en": "sand the rusty areas until you expose bare metal",
+      "definitions_ex_vn": "cát các khu vực gỉ lại cho đến khi bạn lộ kim loại trần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sprinkle or overlay with sand, to give better purchase on a surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335346_a01bcec6ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335346_d2fbe6e9f3_o.png",
+      "id_image": "sand_4148612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690514_95c6d7d73d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690514_d0523d6e1d_o.png",
+      "id_image": "sand_4455475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335286_a9e7b48499_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335286_b9b9cb6277_o.png",
+      "id_image": "sand_4582838"
+    }
+  ]
+}

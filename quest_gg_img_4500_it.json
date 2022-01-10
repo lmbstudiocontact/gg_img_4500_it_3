@@ -1,0 +1,64 @@
+{
+  "english": "quest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban điều tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc điều tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tìm kiếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc thám hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều tra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tìm kiếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thám hiểm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long or arduous search for something.",
+      "definitions_ex_en": "the quest for a reliable vaccine has intensified",
+      "definitions_ex_vn": "Nhiệm vụ cho một vắc-xin đáng tin cậy đã tăng cường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "search for something.",
+      "definitions_ex_en": "he was a real scientist, questing after truth",
+      "definitions_ex_vn": "Ông là một nhà khoa học thực sự, tìm kiếm sau sự thật",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389152_51334c848b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389152_3bf9df5a7e_o.png",
+      "id_image": "quest_1469848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081580_f9625f2700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081580_241b53d2ff_o.png",
+      "id_image": "quest_2671454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344131_f97c5a2699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344131_575063b232_o.png",
+      "id_image": "quest_4176399"
+    }
+  ]
+}

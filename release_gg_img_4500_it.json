@@ -1,0 +1,148 @@
+{
+  "english": "release",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái cúp điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy biên nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bay ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho máy chạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đem ra bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự để lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhường lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phóng thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự từ chối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thả bom",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thả ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thoát khỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miển trừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném bom",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thoát ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhượng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng thích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "allow or enable to escape from confinement; set free.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow (something) to move, act, or flow freely.",
+      "definitions_ex_en": "she released his arm and pushed him aside",
+      "definitions_ex_vn": "Cô thả cánh tay lên và đẩy anh sang một bên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow (information) to be generally available.",
+      "definitions_ex_en": "no details about the contents of the talks were released",
+      "definitions_ex_vn": "Không có chi tiết về nội dung của các cuộc đàm phán đã được phát hành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remit or discharge (a debt).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action or process of releasing or being released.",
+      "definitions_ex_en": "a campaign by the prisoner's mother resulted in his release",
+      "definitions_ex_vn": "một chiến dịch của mẹ tù nhân đã dẫn đến việc phát hành của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of making a movie, recording, or other product available for general viewing or purchase.",
+      "definitions_ex_en": "the film was withheld for two years before its release",
+      "definitions_ex_vn": "Bộ phim đã bị giữ lại trong hai năm trước khi phát hành",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of releasing property, money, or a right to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442268_b6a50024e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442268_ed54ffaff0_o.png",
+      "id_image": "release_2040729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371902_46c416ec51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371902_b14e243843_o.png",
+      "id_image": "release_2621061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327116_4d78601636_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327116_3b4803022b_o.png",
+      "id_image": "release_2621067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442148_b2e44fb723_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442148_ed7955abb8_o.png",
+      "id_image": "release_4382599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442103_b2728b45aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442103_07c910488d_o.png",
+      "id_image": "release_4458940"
+    }
+  ]
+}

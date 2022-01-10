@@ -1,0 +1,48 @@
+{
+  "english": "scholarship",
+  "list_translation_mean": [
+    {
+      "translate_mean": "học bổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự học rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thông thái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "academic study or achievement; learning of a high level.",
+      "definitions_ex_en": "the intellectual dishonesty has nothing to do with lack of scholarship",
+      "definitions_ex_vn": "sự không trung thực trí tuệ không liên quan gì đến việc thiếu học bổng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a grant or payment made to support a student's education, awarded on the basis of academic or other achievement.",
+      "definitions_ex_en": "Tim held a Humboldt scholarship",
+      "definitions_ex_vn": "Tim đã tổ chức một học bổng Humboldt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375192_404117a1c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375192_bf7d5ccd43_o.png",
+      "id_image": "scholarship_2161361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685529_3b51d8c3b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685529_7ffa8f2b59_o.png",
+      "id_image": "scholarship_3965812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330371_8dbd55358a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330371_ac63d56dcc_o.png",
+      "id_image": "scholarship_4590205"
+    }
+  ]
+}

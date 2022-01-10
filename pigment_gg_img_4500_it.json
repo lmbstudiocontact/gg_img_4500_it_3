@@ -1,0 +1,40 @@
+{
+  "english": "pigment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuốc màu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the natural coloring matter of animal or plant tissue.",
+      "definitions_ex_en": "carotenoid pigments are red, orange, or yellow",
+      "definitions_ex_vn": "Sắc tố caroten có màu đỏ, cam hoặc vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "color (something) with or as if with pigment.",
+      "definitions_ex_en": "the therapy masks the appearance of stretch marks by pigmenting skin",
+      "definitions_ex_vn": "Mặt nạ trị liệu Sự xuất hiện của vết rạn da bằng da sắc tố",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702154_320dab467c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702154_ec80e19466_o.png",
+      "id_image": "pigment_1686280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392302_288086e3c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392302_9426400a13_o.png",
+      "id_image": "pigment_2332622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392247_1aeecfe7e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392247_0939213a60_o.png",
+      "id_image": "pigment_2534785"
+    }
+  ]
+}

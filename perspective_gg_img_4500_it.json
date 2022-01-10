@@ -1,0 +1,60 @@
+{
+  "english": "perspective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép vẻ phối cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "theo cách phối cảnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the art of drawing solid objects on a two-dimensional surface so as to give the right impression of their height, width, depth, and position in relation to each other when viewed from a particular point.",
+      "definitions_ex_en": "a perspective drawing",
+      "definitions_ex_vn": "một bản vẽ phối cảnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular attitude toward or way of regarding something; a point of view.",
+      "definitions_ex_en": "most guidebook history is written from the editor's perspective",
+      "definitions_ex_vn": "Hầu hết lịch sử sách hướng dẫn được viết từ quan điểm của biên tập viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an apparent spatial distribution in perceived sound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675149_80b3ff9531_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675149_c3fbf13cd6_o.png",
+      "id_image": "perspective_1589434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435308_94b3179074_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435308_7688d1038f_o.png",
+      "id_image": "perspective_2209882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364987_edd599c893_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364987_c84b5b3b87_o.png",
+      "id_image": "perspective_2254984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364977_177c0e260c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364977_7b3bc2e9a3_o.png",
+      "id_image": "perspective_2547587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435323_eb7565c24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435323_f6ecb5aa2c_o.png",
+      "id_image": "perspective_992637"
+    }
+  ]
+}

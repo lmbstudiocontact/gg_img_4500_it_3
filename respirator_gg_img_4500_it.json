@@ -1,0 +1,38 @@
+{
+  "english": "respirator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mặt nạ lọc hơi thở vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt nạ phòng hơi độc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an apparatus worn over the mouth and nose or the entire face to prevent the inhalation of dust, smoke, or other noxious substances.",
+      "definitions_ex_en": "for a time everyone had to work with respirators",
+      "definitions_ex_vn": "Trong một thời gian mọi người phải làm việc với mặt nạ phòng độc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088045_86e0a1d370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088045_6205c54477_o.png",
+      "id_image": "respirator_2472902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088020_0acdc26b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088020_56d315e1e9_o.png",
+      "id_image": "respirator_3819697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465378_a0e4d671cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465378_dc90ec906b_o.png",
+      "id_image": "respirator_6237467"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "permission",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chấp nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho phép",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consent; authorization.",
+      "definitions_ex_en": "they had entered the country without permission",
+      "definitions_ex_vn": "họ đã vào đất nước mà không được phép",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057200_8a4f962fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057200_6848e2e5e7_o.png",
+      "id_image": "permission_2172839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365367_38e9119abd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365367_471cf897ff_o.png",
+      "id_image": "permission_3663412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675384_79814c3e19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675384_3484555e79_o.png",
+      "id_image": "permission_4391723"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "pendant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng thòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lủng lẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tòn ten",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mặt dây chuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật trang sức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of jewelry that hangs from a chain worn around the neck.",
+      "definitions_ex_en": "a jade-green pendant on a gold chain",
+      "definitions_ex_vn": "một mặt dây chuyền màu xanh ngọc bích trên một chuỗi vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light designed to hang from the ceiling.",
+      "definitions_ex_en": "decorative pendants may need a special ceiling fitting",
+      "definitions_ex_vn": "Mặt dây trang trí có thể cần một sự phù hợp trần đặc biệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a pocket watch by which it is suspended.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an artistic, literary, or musical composition intended to match or complement another.",
+      "definitions_ex_en": "the triptych's pendant will occupy the corresponding wall in the south transept",
+      "definitions_ex_vn": "Mặt dây chuyền của Triptych sẽ chiếm một bức tường tương ứng ở Nam Transept",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hanging downward; pendent.",
+      "definitions_ex_en": "pendant flowers on frail stems",
+      "definitions_ex_vn": "Mặt dây chuyền hoa trên thân cây",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367607_f7d3e6a6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367607_eaa3543fa0_o.png",
+      "id_image": "pendant_4580912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367587_23f4efb1f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367587_b5ecb87b07_o.png",
+      "id_image": "pendant_4581024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367552_f8182b9774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367552_b84f790b18_o.png",
+      "id_image": "pendant_4637471"
+    }
+  ]
+}

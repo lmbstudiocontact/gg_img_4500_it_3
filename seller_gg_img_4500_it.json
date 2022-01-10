@@ -1,0 +1,48 @@
+{
+  "english": "seller",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trung gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "những vật để bán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who sells something.",
+      "definitions_ex_en": "street sellers of newspapers, flowers, etc.",
+      "definitions_ex_vn": "Người bán đường phố, hoa, v.v.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a product that sells in some specified way.",
+      "definitions_ex_en": "the game will undoubtedly be the biggest seller of the year",
+      "definitions_ex_vn": "Trò chơi chắc chắn sẽ là người bán lớn nhất trong năm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705279_8e94841c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705279_ccd779f1bf_o.png",
+      "id_image": "seller_1028011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350731_aed705d594_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350731_188fac5fe2_o.png",
+      "id_image": "seller_1441373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395457_f79ac00997_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395457_a968aa2bf1_o.png",
+      "id_image": "seller_4668539"
+    }
+  ]
+}

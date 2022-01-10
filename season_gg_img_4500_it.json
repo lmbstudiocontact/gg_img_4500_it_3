@@ -1,0 +1,68 @@
+{
+  "english": "season",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho quen khí hậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nêm gia vị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of the four divisions of the year (spring, summer, autumn, and winter) marked by particular weather patterns and daylight hours, resulting from the earth's changing position with regard to the sun.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a period when a female mammal is ready to mate.",
+      "definitions_ex_en": "the bitch can come into season at irregular intervals",
+      "definitions_ex_vn": "Chó cái có thể vào mùa trong khoảng thời gian không đều",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "add salt, herbs, pepper, or other spices to (food).",
+      "definitions_ex_en": "season the soup to taste with salt and pepper",
+      "definitions_ex_vn": "Nêm súp để nếm muối và hạt tiêu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (wood) suitable for use as timber by adjusting its moisture content to that of the environment in which it will be used.",
+      "definitions_ex_en": "I collect and season most of my wood",
+      "definitions_ex_vn": "Tôi thu thập và mùa hầu hết gỗ của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369567_88ac3d0f93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369567_c91e5e82d3_o.png",
+      "id_image": "season_2832057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061600_bcb3b2ba67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061600_b05c7541a2_o.png",
+      "id_image": "season_2964502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439703_92482bf24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439703_756a42cb98_o.png",
+      "id_image": "season_4514913"
+    }
+  ]
+}

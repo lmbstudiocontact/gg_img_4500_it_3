@@ -1,0 +1,68 @@
+{
+  "english": "room",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "duyên cớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà ở có nhiều phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho ở trọ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở phòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "space that can be occupied or where something can be done, especially viewed in terms of whether there is enough.",
+      "definitions_ex_en": "there's only room for a single bed in there",
+      "definitions_ex_vn": "Chỉ có phòng cho một chiếc giường đơn ở đó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part or division of a building enclosed by walls, floor, and ceiling.",
+      "definitions_ex_en": "he wandered from room to room",
+      "definitions_ex_vn": "Anh lang thang từ phòng này sang phòng khác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457428_9e7dfc5a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457428_148573896d_o.png",
+      "id_image": "room_1624941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342541_155e173408_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342541_f7e2d65736_o.png",
+      "id_image": "room_4792184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387687_63bbc7490f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387687_ac25f21576_o.png",
+      "id_image": "room_578008"
+    }
+  ]
+}

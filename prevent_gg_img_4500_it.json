@@ -1,0 +1,52 @@
+{
+  "english": "prevent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể tránh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn cản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn trở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phòng ngừa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "keep (something) from happening or arising.",
+      "definitions_ex_en": "action must be taken to prevent further accidents",
+      "definitions_ex_vn": "hành động phải được thực hiện để ngăn ngừa tai nạn thêm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of God) go before (someone) with spiritual guidance and help.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063840_471fe2f774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063840_910139622c_o.png",
+      "id_image": "prevent_4310578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063810_360e9e9d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063810_8e9e7f5e09_o.png",
+      "id_image": "prevent_4465725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371542_946168f4ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371542_cc8120a85d_o.png",
+      "id_image": "prevent_6281537"
+    }
+  ]
+}

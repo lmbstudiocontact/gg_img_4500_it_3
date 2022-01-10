@@ -1,0 +1,43 @@
+{
+  "english": "ritual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về lể nghi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về lể thức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sách nghi lể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.",
+      "definitions_ex_en": "the role of ritual in religion",
+      "definitions_ex_vn": "vai trò của nghi lễ trong tôn giáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or done as a religious or solemn rite.",
+      "definitions_ex_en": "ritual burial",
+      "definitions_ex_vn": "nghi lễ chôn cất",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700404_b8bd334d59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700404_669b885465_o.png",
+      "id_image": "ritual_1299402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082710_919a22e89b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082710_cb6d014abc_o.png",
+      "id_image": "ritual_2136575"
+    }
+  ]
+}

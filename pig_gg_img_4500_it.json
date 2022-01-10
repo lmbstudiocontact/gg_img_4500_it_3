@@ -1,0 +1,92 @@
+{
+  "english": "pig",
+  "list_translation_mean": [
+    {
+      "translate_mean": "heo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn để đúc gang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọ nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ham ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở dơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thô lổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỏi gang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn ở dơ bẩn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an omnivorous domesticated hoofed mammal with sparse bristly hair and a flat snout for rooting in the soil, kept for its meat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a greedy, dirty, or unpleasant person.",
+      "definitions_ex_en": "you're such a pig when it comes to sleep",
+      "definitions_ex_vn": "Bạn là một con lợn như vậy khi ngủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an oblong mass of iron or lead from a smelting furnace.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device which fits snugly inside an oil or gas pipeline and is sent through it to clean or test the inside, or to act as a barrier.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "gorge oneself with food.",
+      "definitions_ex_en": "he'd pigged himself on the last of the food",
+      "definitions_ex_vn": "anh ấy đã lúm lại cho mình trên thức ăn cuối cùng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a sow) give birth to piglets; farrow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "operate a pig within an oil or gas pipeline.",
+      "definitions_ex_en": "they will carry out all trenching and pigging",
+      "definitions_ex_vn": "họ sẽ thực hiện tất cả rãnh và lợn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702324_8caffcf033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702324_ff44db2cd7_o.png",
+      "id_image": "pig_194949"
+    }
+  ]
+}

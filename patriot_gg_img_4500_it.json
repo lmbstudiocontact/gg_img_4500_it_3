@@ -1,0 +1,40 @@
+{
+  "english": "patriot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà ái quốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who vigorously supports their country and is prepared to defend it against enemies or detractors.",
+      "definitions_ex_en": "a true patriot",
+      "definitions_ex_vn": "một yêu nước thực sự.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an automated surface-to-air missile designed for early detection and interception of incoming missiles or aircraft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682699_cf041d24fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682699_fcc2037dfa_o.png",
+      "id_image": "patriot_1887207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682674_9d07cba9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682674_5de356b7ea_o.png",
+      "id_image": "patriot_4935016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682619_4cdd21995b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682619_4538452ed8_o.png",
+      "id_image": "patriot_5291820"
+    }
+  ]
+}

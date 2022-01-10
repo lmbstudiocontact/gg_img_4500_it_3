@@ -1,0 +1,60 @@
+{
+  "english": "ready",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuẩn bị việc gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "để sử dụng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sẳn lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sẳn sàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắp làm việc gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sửa soạn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a suitable state for an activity, action, or situation; fully prepared.",
+      "definitions_ex_en": "are you ready, Carrie?",
+      "definitions_ex_vn": "Bạn đã sẵn sàng, Carrie?",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "easily available or obtained; within reach.",
+      "definitions_ex_en": "there was a ready supply of drink",
+      "definitions_ex_vn": "Có một nguồn cung cấp thức uống sẵn sàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "prepare (someone or something) for an activity or purpose.",
+      "definitions_ex_en": "the spare transformer was readied for shipment",
+      "definitions_ex_vn": "Máy biến áp dự phòng đã được chuẩn bị cho lô hàng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336731_53a2b9671c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336731_4d22b2e5f3_o.png",
+      "id_image": "ready_1024205"
+    }
+  ]
+}

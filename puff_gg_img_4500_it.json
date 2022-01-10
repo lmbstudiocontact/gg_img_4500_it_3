@@ -1,0 +1,126 @@
+{
+  "english": "puff",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phun",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phun ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhả ra như luồng khói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhả ra những làn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quảng cáo láo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rao hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cái bông phấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất nổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm quảng cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc nổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ phùng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng nổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi thở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short, explosive burst of breath or wind.",
+      "definitions_ex_en": "a puff of wind swung the weathervane around",
+      "definitions_ex_vn": "một cơn gió lướt Weathervane xung quanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light pastry case, typically one made of puff pastry, containing a sweet or savory filling.",
+      "definitions_ex_en": "a cream puff",
+      "definitions_ex_vn": "một bánh kem",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a review of a work of art, book, or theatrical production, especially an excessively complimentary one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gathered mass of material in a dress or other garment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a powder puff.",
+      "definitions_ex_en": "she sent her a box of dusting powder with a swansdown puff",
+      "definitions_ex_vn": "Cô ấy đã gửi cho cô ấy một hộp bột bụi với một nhát tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "breathe in repeated short gasps.",
+      "definitions_ex_en": "exercises that make you puff",
+      "definitions_ex_vn": "Bài tập khiến bạn phồng lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to swell or become swollen.",
+      "definitions_ex_en": "he suddenly sucked his stomach in and puffed his chest out",
+      "definitions_ex_vn": "Anh ta đột nhiên hút bụng và phồng ngực ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "advertise with exaggerated or false praise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393222_d8a27d9203_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393222_2ea2ec5999_o.png",
+      "id_image": "puff_4759114"
+    }
+  ]
+}

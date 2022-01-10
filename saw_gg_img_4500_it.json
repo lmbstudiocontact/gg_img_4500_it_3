@@ -1,0 +1,70 @@
+{
+  "english": "saw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cưa cây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phương ngôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái cưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngạn ngữ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hand tool for cutting wood or other materials, typically with a long, thin serrated steel blade and operated using a backward and forward movement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a proverb or maxim.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut (something) using a saw.",
+      "definitions_ex_en": "the top of each post is sawed off at railing height",
+      "definitions_ex_vn": "Đầu mỗi bài đăng được cưa ở độ cao lan can",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make rapid to-and-fro motions in cutting something or in playing a stringed instrument.",
+      "definitions_ex_en": "he was sawing away energetically at the loaf",
+      "definitions_ex_vn": "anh ta đã bị mất một cách hăng hái tại ổ bánh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "past of see1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333326_d479aaf323_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333326_ab57b38be3_o.png",
+      "id_image": "saw_928774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688334_9632f5b671_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688334_4af981c001_o.png",
+      "id_image": "saw_972741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688294_738dc1c614_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688294_2cf14030a2_o.png",
+      "id_image": "saw_972744"
+    }
+  ]
+}

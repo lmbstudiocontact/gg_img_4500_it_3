@@ -1,0 +1,71 @@
+{
+  "english": "plague",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tai ương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiên tai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịnh dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự âu sầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buồn rầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tai ách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tai họa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm phiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấy rầy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a contagious bacterial disease characterized by fever and delirium, typically with the formation of buboes ( bubonic plague ) and sometimes infection of the lungs ( pneumonic plague ).",
+      "definitions_ex_en": "an outbreak of plague",
+      "definitions_ex_vn": "một sự bùng phát của bệnh dịch hạch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause continual trouble or distress to.",
+      "definitions_ex_en": "he has been plagued by ill health",
+      "definitions_ex_vn": "anh ấy đã bị ảnh hưởng bởi sức khỏe kém",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458833_85c1cf5479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458833_b94b55e0e5_o.png",
+      "id_image": "plague_3154487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458793_1caf0005af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458793_0d92df5196_o.png",
+      "id_image": "plague_5234436"
+    }
+  ]
+}

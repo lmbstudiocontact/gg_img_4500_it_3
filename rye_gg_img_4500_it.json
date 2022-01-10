@@ -1,0 +1,38 @@
+{
+  "english": "rye",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lúa mạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lúa mạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu quít ky",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cereal plant that tolerates poor soils and low temperatures.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "whiskey in which a significant amount of the grain used in distillation is fermented rye.",
+      "definitions_ex_en": "half a bottle of rye",
+      "definitions_ex_vn": "một nửa chai lúa mạch đen",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383422_19d655b58b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383422_8ccfcf6799_o.png",
+      "id_image": "rye_2732181"
+    }
+  ]
+}

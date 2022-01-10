@@ -1,0 +1,58 @@
+{
+  "english": "rim",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gọng kiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mép miệng bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "niềng xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành tròn chung mặt trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng vành chung quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vô vành bánh xe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the upper or outer edge of an object, typically something circular or approximately circular.",
+      "definitions_ex_en": "a china egg cup with a gold rim",
+      "definitions_ex_vn": "một cốc trứng Trung Quốc với một vành vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form or act as an outer edge or rim for.",
+      "definitions_ex_en": "a huge lake rimmed by glaciers",
+      "definitions_ex_vn": "một hồ lớn được quấn bởi sông băng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461408_ce59655062_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461408_574e47581a_o.png",
+      "id_image": "rim_6246410"
+    }
+  ]
+}

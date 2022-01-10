@@ -1,0 +1,80 @@
+{
+  "english": "representative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có tánh cách đại diện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "miêu tả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiêu biểu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tượng trưng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thay mặt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "typical of a class, group, or body of opinion.",
+      "definitions_ex_en": "these courses are representative of those taken by most Harvard undergraduates",
+      "definitions_ex_vn": "Các khóa học này là đại diện của những người được thực hiện bởi hầu hết các sinh viên đại học Harvard",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a legislative or deliberative assembly) consisting of people chosen to act and speak on behalf of a wider group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "serving as a portrayal or symbol of something.",
+      "definitions_ex_en": "the show should be more representative of how women really are",
+      "definitions_ex_vn": "chương trình nên đại diện nhiều hơn về cách phụ nữ thực sự là",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to mental representation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person chosen or appointed to act or speak for another or others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an example of a class or group.",
+      "definitions_ex_en": "fossil representatives of lampreys and hagfishes",
+      "definitions_ex_vn": "Đại diện hóa thạch của Lampreys và Hagfishes",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322531_d7588843e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322531_c763c72923_o.png",
+      "id_image": "representative_1534926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322501_baac266455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322501_c5d344f0c5_o.png",
+      "id_image": "representative_2720587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677599_c2fbe33754_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677599_4c4b483caf_o.png",
+      "id_image": "representative_3965805"
+    }
+  ]
+}

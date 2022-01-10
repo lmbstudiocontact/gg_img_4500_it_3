@@ -1,0 +1,110 @@
+{
+  "english": "romance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện giả dối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện hoang đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện huyền thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "những ngôn ngữ la tinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiêu lưu tiểu thuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện quá đáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tưởng tượng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêu dệt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of excitement and mystery associated with love.",
+      "definitions_ex_en": "in search of romance",
+      "definitions_ex_vn": "tìm kiếm sự lãng mạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quality or feeling of mystery, excitement, and remoteness from everyday life.",
+      "definitions_ex_en": "the beauty and romance of the night",
+      "definitions_ex_vn": "vẻ đẹp và lãng mạn của đêm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a medieval tale dealing with a hero of chivalry, of the kind common in the Romance languages.",
+      "definitions_ex_en": "the Arthurian romances",
+      "definitions_ex_vn": "những chuyện lãng mạn của Arthurian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a work of fiction dealing with events remote from real life, especially one of a kind popular in the 16th and 17th centuries.",
+      "definitions_ex_en": "Elizabethan pastoral romances",
+      "definitions_ex_vn": "Lãng mạn mục vụ elizabeth.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short informal piece.",
+      "definitions_ex_en": "the romance from The Gadfly became a popular favorite",
+      "definitions_ex_vn": "Sự lãng mạn từ Gadfly đã trở thành một yêu thích phổ biến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Romance languages considered as a group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "court; woo.",
+      "definitions_ex_en": "the wealthy estate owner romanced her",
+      "definitions_ex_vn": "Chủ sở hữu bất động sản lãng mạn làm cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "another term for romanticize.",
+      "definitions_ex_en": "to a certain degree I am romancing the past",
+      "definitions_ex_vn": "đến một mức độ nhất định tôi đang lãng mạn quá khứ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "relating to the group of Indo-European languages descended from Latin, principally French, Spanish, Portuguese, Italian, Catalan, Occitan, and Romanian.",
+      "definitions_ex_en": "the Romance languages",
+      "definitions_ex_vn": "ngôn ngữ lãng mạn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698284_1dc488687c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698284_ee251f3447_o.png",
+      "id_image": "romance_1554831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343046_9ccccaacf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343046_c37179ee2b_o.png",
+      "id_image": "romance_2123917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698199_9a9fffa947_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698199_44f22452f9_o.png",
+      "id_image": "romance_2702237"
+    }
+  ]
+}

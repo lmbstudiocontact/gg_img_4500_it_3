@@ -1,0 +1,226 @@
+{
+  "english": "roll",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi xe hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bay vòng tròn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cán kim loại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cuốn giấy lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làmm mõng kim loại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quay cuộn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rung chữ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sấm động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trái banh lăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở mình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy vòng tròn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi xe lửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lăn thùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trợt mắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bản danh sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộn bằng sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xoắn ốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồi trống đánh mau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ bánh mì nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ru lô của máy cán cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sóng biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn phim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lắc lư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lăn của trái banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trồng trành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng sấm động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or cause to move in a particular direction by turning over and over on an axis.",
+      "definitions_ex_en": "the car rolled down into a ditch",
+      "definitions_ex_vn": "Chiếc xe lăn xuống một cái mương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a vehicle) move or run on wheels.",
+      "definitions_ex_en": "the van was rolling along the highway",
+      "definitions_ex_vn": "chiếc xe đang lăn dọc đường cao tốc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "turn (something flexible) over and over on itself to form a cylinder, tube, or ball.",
+      "definitions_ex_en": "he rolled the handkerchief into a ball",
+      "definitions_ex_vn": "Anh ta lăn khăn tay vào một quả bóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "flatten or spread (something) by using a roller or by passing it between rollers.",
+      "definitions_ex_en": "roll out the dough on a floured surface",
+      "definitions_ex_vn": "lăn bột trên một bề mặt bột",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a loud, deep sound such as that of thunder or drums) reverberate.",
+      "definitions_ex_en": "the first peals of thunder rolled across the sky",
+      "definitions_ex_vn": "những tiếng sấm sét đầu tiên lăn trên bầu trời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rob (someone, typically when they are intoxicated or asleep).",
+      "definitions_ex_en": "if you don't get drunk, you don't get rolled",
+      "definitions_ex_vn": "Nếu bạn không say, bạn không bị lăn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a cylinder formed by winding flexible material around a tube or by turning it over and over on itself without folding.",
+      "definitions_ex_en": "a roll of carpet",
+      "definitions_ex_vn": "một cuộn thảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a movement in which someone or something turns or is turned over on itself.",
+      "definitions_ex_en": "a roll of the dice",
+      "definitions_ex_vn": "một cuộn súc sắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a prolonged, deep, reverberating sound, typically made by thunder or a drum.",
+      "definitions_ex_en": "thunder exploded, roll after roll",
+      "definitions_ex_vn": "sấm sét nổ tung, lăn sau cuộn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very small loaf of bread, to be eaten by one person.",
+      "definitions_ex_en": "soup with a roll",
+      "definitions_ex_vn": "súp với một cuộn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an official list or register of names.",
+      "definitions_ex_en": "the school had no one by his name on its roll",
+      "definitions_ex_vn": "Trường không có ai bằng tên của mình trên cuộn của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "undulation of the landscape.",
+      "definitions_ex_en": "hidden by the roll of the land was a refinery",
+      "definitions_ex_vn": "bị ẩn bởi cuộn đất là một nhà máy lọc dầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a roller for flattening something, especially one used to shape metal in a rolling mill.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080965_0ca7eba83a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080965_db278577b5_o.png",
+      "id_image": "roll_168640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458218_0c5500842a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458218_4fe12be5eb_o.png",
+      "id_image": "roll_2797804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343506_a53d44b883_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343506_705b9e0f7a_o.png",
+      "id_image": "roll_4809552"
+    }
+  ]
+}

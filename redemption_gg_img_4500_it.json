@@ -1,0 +1,38 @@
+{
+  "english": "redemption",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chuộc lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mua lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of saving or being saved from sin, error, or evil.",
+      "definitions_ex_en": "God's plans for the redemption of his world",
+      "definitions_ex_vn": "Kế hoạch của Chúa để cứu chuộc thế giới của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of regaining or gaining possession of something in exchange for payment, or clearing a debt.",
+      "definitions_ex_en": "the peasants found the terms of redemption unattractive",
+      "definitions_ex_vn": "Nông dân tìm thấy các điều khoản cứu chuộc không hấp dẫn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333211_24524b1caf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333211_f3c546d08b_o.png",
+      "id_image": "redemption_2927865"
+    }
+  ]
+}

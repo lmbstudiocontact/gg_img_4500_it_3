@@ -1,0 +1,48 @@
+{
+  "english": "sculpture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bức tượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuật điêu khắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điêu khắc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster.",
+      "definitions_ex_en": "the boundary between painting and sculpture is displaced",
+      "definitions_ex_vn": "ranh giới giữa tranh và điêu khắc được di dời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or represent (a form) by carving, casting, or other shaping techniques.",
+      "definitions_ex_en": "the choir stalls were each carefully sculptured",
+      "definitions_ex_vn": "Các quầy hàng hợp xướng đã được điêu khắc cẩn thận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680934_84fc5d264f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680934_5d87b098cc_o.png",
+      "id_image": "sculpture_4341099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370552_9b11776b0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370552_94c6495f82_o.png",
+      "id_image": "sculpture_5830701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325776_4ac22c14af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325776_5261122724_o.png",
+      "id_image": "sculpture_647689"
+    }
+  ]
+}

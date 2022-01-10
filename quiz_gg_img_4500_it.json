@@ -1,0 +1,111 @@
+{
+  "english": "quiz",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu hỏi khó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dể tức cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gạt chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phỉnh lừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thi hạch miệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khẩu thi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay chế nhạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay đùa cợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay lố bịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế giểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chế nhạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn với vẻ chế nhạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho thi hạch miệng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "ask (someone) questions.",
+      "definitions_ex_en": "four men have been quizzed about the murder",
+      "definitions_ex_vn": "Bốn người đàn ông đã được hỏi về vụ giết người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "look curiously or intently at (someone) through or as if through an eyeglass.",
+      "definitions_ex_en": "deep-set eyes quizzed her in the candlelight",
+      "definitions_ex_vn": "Đôi mắt sâu đặt cô ấy trong nến",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make fun of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a practical joke or hoax; a piece of banter or ridicule.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who is odd or eccentric in character or appearance.",
+      "definitions_ex_en": "she means to marry that quiz for the sake of his thousands",
+      "definitions_ex_vn": "cô ấy có nghĩa là kết hôn với bài kiểm tra đó vì hàng ngàn người của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080240_11b6ce0c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080240_2125124a29_o.png",
+      "id_image": "quiz_2727183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457513_b0a246c41b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457513_9311b4e3ed_o.png",
+      "id_image": "quiz_5678443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457483_3a6e15d5b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457483_ef5d8fbab5_o.png",
+      "id_image": "quiz_5678509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387682_3a2afd7dc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387682_da48f0f6cd_o.png",
+      "id_image": "quiz_5732146"
+    }
+  ]
+}

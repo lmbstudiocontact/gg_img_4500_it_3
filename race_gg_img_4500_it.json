@@ -1,0 +1,160 @@
+{
+  "english": "race",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đua xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy đua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy hết tốc lực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đua ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy mau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ganh đua tốc lực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chủng tộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con cháu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dòng dỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giòng nước chảy mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "củ gừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sông đào dẩn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vận chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đua chạy bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đua ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đua xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đua xe đạp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a competition between runners, horses, vehicles, boats, etc., to see which is the fastest in covering a set course.",
+      "definitions_ex_en": "I won the first 50-lap race",
+      "definitions_ex_vn": "Tôi đã thắng cuộc đua 50 vòng đầu tiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strong or rapid current flowing through a narrow channel in the sea or a river.",
+      "definitions_ex_en": "angling for tuna in turbulent tidal races",
+      "definitions_ex_vn": "Angling cho cá ngừ trong các cuộc đua thủy triều hỗn loạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a water channel, especially one built to lead water to or from a point where its energy is utilized, as in a mill or mine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a smooth ring-shaped groove or guide in which a ball bearing or roller bearing runs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the major groupings into which humankind is considered (in various theories or contexts) to be divided on the basis of physical characteristics or shared ancestry.",
+      "definitions_ex_en": "people of all races, colors, and creeds",
+      "definitions_ex_vn": "người dân tất cả các chủng tộc, màu sắc và tín ngưỡng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ginger root.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "compete with another or others to see who is fastest at covering a set course or achieving an objective.",
+      "definitions_ex_en": "the vet took blood samples from the horses before they raced",
+      "definitions_ex_vn": "VET lấy mẫu máu từ những con ngựa trước khi chúng chạy đua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or progress swiftly or at full speed.",
+      "definitions_ex_en": "I raced into the house",
+      "definitions_ex_vn": "Tôi chạy vào nhà",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697454_bb8611ec27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697454_b5f044ca88_o.png",
+      "id_image": "race_3667346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810118380_31746161fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810118380_7895346bba_o.png",
+      "id_image": "race_3708060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079645_ae903d8b6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079645_b29d04aff0_o.png",
+      "id_image": "race_4539828"
+    }
+  ]
+}

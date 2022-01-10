@@ -1,0 +1,33 @@
+{
+  "english": "perfusion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự rảy nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tưới nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the passage of blood, a blood substitute, or other fluid through the blood vessels or other natural channels in an organ or tissue.",
+      "definitions_ex_en": "decreased cerebral perfusion may cause impaired consciousness",
+      "definitions_ex_vn": "Giảm tưới máu não có thể gây suy giảm ý thức bị suy giảm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435743_06f090e1a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435743_d8cf7c8e25_o.png",
+      "id_image": "perfusion_392952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675539_d4eb3c0793_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675539_482a314d81_o.png",
+      "id_image": "perfusion_4005432"
+    }
+  ]
+}

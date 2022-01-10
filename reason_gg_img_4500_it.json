@@ -1,0 +1,73 @@
+{
+  "english": "reason",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "duyên cớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý lẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "suy đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "suy luận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cause, explanation, or justification for an action or event.",
+      "definitions_ex_en": "the minister resigned for personal reasons",
+      "definitions_ex_vn": "Bộ trưởng đã từ chức vì lý do cá nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the power of the mind to think, understand, and form judgments by a process of logic.",
+      "definitions_ex_en": "there is a close connection between reason and emotion",
+      "definitions_ex_vn": "Có một kết nối chặt chẽ giữa lý do và cảm xúc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "think, understand, and form judgments by a process of logic.",
+      "definitions_ex_en": "humans do not reason entirely from facts",
+      "definitions_ex_vn": "Con người không lý do hoàn toàn từ sự thật",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381597_0776666f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381597_e5b8f9dd31_o.png",
+      "id_image": "reason_2106612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451473_a61debf025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451473_4a287e7109_o.png",
+      "id_image": "reason_4525477"
+    }
+  ]
+}

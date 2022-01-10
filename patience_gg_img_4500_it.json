@@ -1,0 +1,46 @@
+{
+  "english": "patience",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bền lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiên nhẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh bền chí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh nhẩn nại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372587_1884c268e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372587_7a5886a2ec_o.png",
+      "id_image": "patience_2244708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682889_8dd5971b6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682889_9b697ccf65_o.png",
+      "id_image": "patience_5201548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442933_66261f1635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442933_5ca04151d8_o.png",
+      "id_image": "patience_708653"
+    }
+  ]
+}

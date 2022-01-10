@@ -1,0 +1,28 @@
+{
+  "english": "riparian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở trên bờ sông",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bờ sông",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or situated on the banks of a river.",
+      "definitions_ex_en": "all the riparian states must sign an agreement",
+      "definitions_ex_vn": "tất cả các quốc gia ven sông phải ký một thỏa thuận",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700904_5fc214ee99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700904_9eb5153e49_o.png",
+      "id_image": "riparian_3075118"
+    }
+  ]
+}

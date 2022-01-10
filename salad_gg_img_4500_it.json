@@ -1,0 +1,37 @@
+{
+  "english": "salad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cải để ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cải xà lách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xà lách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cold dish of various mixtures of raw or cooked vegetables, usually seasoned with oil, vinegar, or other dressing and sometimes accompanied by meat, fish, or other ingredients.",
+      "definitions_ex_en": "a green salad",
+      "definitions_ex_vn": "một món salad xanh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692369_e6fa99b823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692369_9209d5c4c3_o.png",
+      "id_image": "salad_557811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074020_6bf24b9526_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074020_0ce764d2cf_o.png",
+      "id_image": "salad_590721"
+    }
+  ]
+}

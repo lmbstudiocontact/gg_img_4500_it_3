@@ -1,0 +1,58 @@
+{
+  "english": "price",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giải thưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "định giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả giá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the amount of money expected, required, or given in payment for something.",
+      "definitions_ex_en": "land could be sold for a high price",
+      "definitions_ex_vn": "Đất có thể được bán với giá cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unwelcome experience, event, or action involved as a condition of achieving a desired end.",
+      "definitions_ex_en": "the price of their success was an entire day spent in discussion",
+      "definitions_ex_vn": "Giá thành công của họ là một ngày dành cho cuộc thảo luận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decide the amount required as payment for (something offered for sale).",
+      "definitions_ex_en": "the watches in this range are priced at $14.50",
+      "definitions_ex_vn": "Các đồng hồ trong phạm vi này có giá $ 14,50",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063365_d283541640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063365_a662460250_o.png",
+      "id_image": "price_4005506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326461_839ecf75f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326461_d6c72b9557_o.png",
+      "id_image": "price_6203324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681459_f25cd3691a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681459_518916f175_o.png",
+      "id_image": "price_6203339"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "punk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đói rách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghèo hèn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tồi tàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật xấu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gỗ mục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gái giang hồ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a loud, fast-moving, and aggressive form of rock music, popular in the late 1970s and early 1980s.",
+      "definitions_ex_en": "punk had turned pop music and its attendant culture on its head",
+      "definitions_ex_vn": "Punk đã biến nhạc Pop và văn hóa tiếp viên của nó trên đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to punk rock and its associated subculture.",
+      "definitions_ex_en": "a punk band",
+      "definitions_ex_vn": "một ban nhạc punk.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084835_5b9e347657_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084835_435ecabb1c_o.png",
+      "id_image": "punk_169905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084820_009b486370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084820_8a414f308e_o.png",
+      "id_image": "punk_1881095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462218_ed8b757664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462218_b2fc7395a2_o.png",
+      "id_image": "punk_1901115"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "scrum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc đánh nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an ordered formation of players, used to restart play, in which the forwards of a team form up with arms interlocked and heads down, and push forward against a similar group from the opposing side. The ball is thrown into the scrum and the players try to gain possession of it by kicking it backward toward their own side.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of practices used in agile project management that emphasize daily communication and the flexible reassessment of plans that are carried out in short, iterative phases of work.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form or take part in a scrum.",
+      "definitions_ex_en": "the two men scrummed down together for University College, Dublin",
+      "definitions_ex_vn": "Hai người đàn ông sải sát xuống cùng nhau cho trường đại học, Dublin",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062910_60109c80cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062910_429d509f0c_o.png",
+      "id_image": "scrum_1933991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370862_b89daeaf63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370862_18fb3d26f2_o.png",
+      "id_image": "scrum_1933998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062840_3592aee804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062840_a16833ba97_o.png",
+      "id_image": "scrum_2620481"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "english": "produce",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "năng xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sản phẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sản vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế tạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho xuất bản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sản xuất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình bày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or manufacture from components or raw materials.",
+      "definitions_ex_en": "the company has just produced a luxury version of the aircraft",
+      "definitions_ex_vn": "Công ty vừa sản xuất một phiên bản sang trọng của máy bay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a particular result or situation) to happen or come into existence.",
+      "definitions_ex_en": "no conventional drugs had produced any significant change",
+      "definitions_ex_vn": "Không có thuốc thông thường đã tạo ra bất kỳ thay đổi đáng kể",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "show or provide (something) for consideration, inspection, or use.",
+      "definitions_ex_en": "he produced a sheet of paper from his pocket",
+      "definitions_ex_vn": "ông đã sản xuất một tờ giấy từ túi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "administer the financial and managerial aspects of (a movie or broadcast) or the staging of (a play, opera, etc.).",
+      "definitions_ex_en": "the video was produced and directed by filmmaker Neil Campbell",
+      "definitions_ex_vn": "Video được sản xuất và đạo diễn bởi nhà làm phim Neil Campbell",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extend or continue (a line).",
+      "definitions_ex_en": "one side of the triangle was produced",
+      "definitions_ex_vn": "một bên của tam giác đã được sản xuất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "things that have been produced or grown, especially by farming.",
+      "definitions_ex_en": "dairy produce",
+      "definitions_ex_vn": "sản phẩm từ sữa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437708_fc42dcdd36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437708_afa162d0bd_o.png",
+      "id_image": "produce_1659483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322411_358452cc46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322411_70c15b0ed4_o.png",
+      "id_image": "produce_3967358"
+    }
+  ]
+}

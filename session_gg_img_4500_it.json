@@ -1,0 +1,58 @@
+{
+  "english": "session",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buổi họp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hội nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chủ trì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tam cá nguyệt của niên học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a meeting of a deliberative or judicial body to conduct its business.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a period devoted to a particular activity.",
+      "definitions_ex_en": "gym is followed by a training session",
+      "definitions_ex_vn": "phòng tập thể dục được theo sau bởi một buổi đào tạo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the governing body of a Presbyterian Church.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348816_4e69b3770a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348816_603d15c1ec_o.png",
+      "id_image": "session_2037757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703549_85ee5a77a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703549_28fdfe5ec6_o.png",
+      "id_image": "session_2472213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463528_8e87657791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463528_9e250eaeb5_o.png",
+      "id_image": "session_5458572"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "pray",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cầu khẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cầu nguyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khẩn nguyện",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "address a solemn request or expression of thanks to a deity or other object of worship.",
+      "definitions_ex_en": "the whole family is praying for Michael",
+      "definitions_ex_vn": "Cả gia đình đang cầu nguyện cho Michael",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used as a preface to polite requests or instructions.",
+      "definitions_ex_en": "pray continue",
+      "definitions_ex_vn": "cầu nguyện tiếp tục",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067340_9a9113053e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067340_676b224e4b_o.png",
+      "id_image": "pray_1396575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067405_5b167f0d69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067405_3a656d6373_o.png",
+      "id_image": "pray_509931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330521_bc0bca16fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330521_c86e598452_o.png",
+      "id_image": "pray_734889"
+    }
+  ]
+}

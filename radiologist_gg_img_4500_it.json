@@ -1,0 +1,29 @@
+{
+  "english": "radiologist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "môn học quang tuyến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who uses X-rays or other high-energy radiation, especially a doctor specializing in radiology.",
+      "definitions_ex_en": "the radiologist said he could see no cause for concern",
+      "definitions_ex_vn": "Bác sĩ X quang nói rằng anh ta không thể thấy không có nguyên nhân quan tâm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341016_cbfd689de7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341016_ef8a830606_o.png",
+      "id_image": "radiologist_3461777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455763_7c96d7f9b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455763_5bbe51bde4_o.png",
+      "id_image": "radiologist_3468101"
+    }
+  ]
+}

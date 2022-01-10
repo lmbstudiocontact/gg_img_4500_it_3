@@ -1,0 +1,71 @@
+{
+  "english": "reader",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giảng sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người coi chỉ tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đọc kinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đọc lớn tiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đọc sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách tập đọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy giảng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who reads or who is fond of reading.",
+      "definitions_ex_en": "she's an avid reader",
+      "definitions_ex_vn": "Cô ấy là một độc giả cuồng nhiệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who inspects and records the figure indicated on a measuring instrument.",
+      "definitions_ex_en": "a meter reader",
+      "definitions_ex_vn": "một người đọc đồng hồ.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a book containing extracts of a particular author's work or passages of text designed to give learners of a language practice in reading.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a machine for producing on a screen a magnified, readable image of any desired part of a microfiche or microfilm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451773_ced84f860a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451773_2a041db382_o.png",
+      "id_image": "reader_1476624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692219_9dfa85452e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692219_884dc58a90_o.png",
+      "id_image": "reader_4021945"
+    }
+  ]
+}

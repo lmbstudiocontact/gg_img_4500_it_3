@@ -1,0 +1,24 @@
+{
+  "english": "prefect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trưởng ban",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a chief officer, magistrate, or regional governor in certain countries.",
+      "definitions_ex_en": "the prefect of police",
+      "definitions_ex_vn": "Thành phố của cảnh sát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444598_de1c16d8a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444598_2cf0ac88d6_o.png",
+      "id_image": "prefect_1122752"
+    }
+  ]
+}

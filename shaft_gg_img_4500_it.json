@@ -1,0 +1,70 @@
+{
+  "english": "shaft",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thân cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buồng thang máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cán giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây láp của máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường chớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hầm mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lới châm biến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia sáng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, narrow part or section forming the handle of a tool or club, the body of a spear or arrow, or a similar implement.",
+      "definitions_ex_en": "the shaft of a golf club",
+      "definitions_ex_vn": "Trục câu lạc bộ golf",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ray of light or bolt of lightning.",
+      "definitions_ex_en": "a shaft of sunlight",
+      "definitions_ex_vn": "một trục ánh sáng mặt trời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, narrow, typically vertical hole that gives access to a mine, accommodates an elevator in a building, or provides ventilation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of light) shine in beams.",
+      "definitions_ex_en": "brilliant sunshine shafted through the skylight",
+      "definitions_ex_vn": "Ánh nắng mặt trời rực rỡ xuyên qua giếng trời",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462598_45edf2c331_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462598_d948d88761_o.png",
+      "id_image": "shaft_3903067"
+    }
+  ]
+}

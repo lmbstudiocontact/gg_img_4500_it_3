@@ -1,0 +1,92 @@
+{
+  "english": "receive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứa vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lãnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp đãi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp đón",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be given, presented with, or paid (something).",
+      "definitions_ex_en": "she received her prize from the manager",
+      "definitions_ex_vn": "Cô nhận được giải thưởng của mình từ người quản lý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suffer, experience, or be subject to (specified treatment).",
+      "definitions_ex_en": "the event received wide press coverage",
+      "definitions_ex_vn": "Sự kiện nhận được bảo hiểm báo chí rộng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "greet or welcome (a visitor) formally.",
+      "definitions_ex_en": "representatives of the club will be received by the Mayor",
+      "definitions_ex_vn": "Đại diện của câu lạc bộ sẽ được thị trưởng đón nhận",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "form (an idea or impression) as a result of perception or experience.",
+      "definitions_ex_en": "the impression she received was one of unhurried leisure",
+      "definitions_ex_vn": "ấn tượng cô ấy nhận được là một trong những giải trí chưa được hạnh phúc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "detect or pick up (broadcast signals).",
+      "definitions_ex_en": "Turkish television began to be received in Tashkent",
+      "definitions_ex_vn": "Truyền hình Thổ Nhĩ Kỳ đã bắt đầu được nhận tại Tashkent",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "serve as a receptacle for.",
+      "definitions_ex_en": "the basin that receives your blood",
+      "definitions_ex_vn": "lưu vực nhận được máu của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in tennis and similar games) be the player to whom the server serves (the ball).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in Christian services) eat or drink (the Eucharistic bread or wine).",
+      "definitions_ex_en": "he received Communion and left",
+      "definitions_ex_vn": "Ông nhận được hiệp thông và rời đi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381302_0fa1cc33ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381302_11b7d17f7b_o.png",
+      "id_image": "receive_1324126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451198_2fd4bfb8df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451198_6fcc4c6a57_o.png",
+      "id_image": "receive_1652597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381212_18bd5d4a70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381212_2d6b61d903_o.png",
+      "id_image": "receive_6272646"
+    }
+  ]
+}

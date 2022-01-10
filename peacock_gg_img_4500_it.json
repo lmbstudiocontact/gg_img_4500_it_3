@@ -1,0 +1,39 @@
+{
+  "english": "peacock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi vênh vang",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a male peafowl, which has very long tail feathers that have eye-like markings and can be erected and fanned out in display.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "display oneself ostentatiously.",
+      "definitions_ex_en": "he peacocks in front of the full-length mirror",
+      "definitions_ex_vn": "Anh Peacocks trước gương đầy đủ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061990_0bc55e3a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061990_1586f6fc7d_o.png",
+      "id_image": "peacock_1984343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370002_a7b8801c2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370002_64e2f51c4f_o.png",
+      "id_image": "peacock_2683160"
+    }
+  ]
+}

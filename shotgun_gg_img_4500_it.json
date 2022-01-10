@@ -1,0 +1,45 @@
+{
+  "english": "shotgun",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loại súng đi săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng săn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a smoothbore gun for firing small shot at short range.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an offensive formation in which the quarterback receives the snap while standing several yards behind the line of scrimmage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "shoot at or kill with a shotgun.",
+      "definitions_ex_en": "he had been shotgunned by drug dealers",
+      "definitions_ex_vn": "anh ta đã bị săn bắn bởi những kẻ buôn bán ma túy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387647_270c0a739f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387647_1856c4a386_o.png",
+      "id_image": "shotgun_1485085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457388_277af2399f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457388_14dde9ce8a_o.png",
+      "id_image": "shotgun_4321463"
+    }
+  ]
+}

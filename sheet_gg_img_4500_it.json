@@ -1,0 +1,114 @@
+{
+  "english": "sheet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lớp nước bọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm ra vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vài tấm sạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tớ báo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tớ giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trùm lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large rectangular piece of cotton or other fabric, used on a bed to cover the mattress and as a layer beneath blankets when these are used.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rectangular piece of paper, especially one of a standard size produced commercially and used for writing and printing on.",
+      "definitions_ex_en": "a sheet of unmarked paper",
+      "definitions_ex_vn": "một tờ giấy không đánh dấu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a broad flat piece of material such as metal or glass.",
+      "definitions_ex_en": "the small pipe has been formed from a flat sheet of bronze",
+      "definitions_ex_vn": "Các ống nhỏ đã được hình thành từ một tấm phẳng bằng đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an extensive unbroken surface area of something.",
+      "definitions_ex_en": "a sheet of ice",
+      "definitions_ex_vn": "một tấm băng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rope attached to the lower corner of a sail for securing or extending the sail or for altering its direction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the space at the bow or stern of an open boat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with or wrap in a sheet or sheets.",
+      "definitions_ex_en": "we sheeted a narrow bed",
+      "definitions_ex_vn": "Chúng tôi tờ một chiếc giường hẹp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of rain) fall in large quantities.",
+      "definitions_ex_en": "rain sheeted down",
+      "definitions_ex_vn": "Mưa Tấm xuống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a sail more or less taut.",
+      "definitions_ex_en": "notice also how he is sheeting in the sail",
+      "definitions_ex_vn": "thông báo rõ làm cách anh ta đang trải qua trong buồm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083345_ba82b4ecc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083345_6cdff3d21c_o.png",
+      "id_image": "sheet_4780313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390822_dea9e754b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390822_e8f0026329_o.png",
+      "id_image": "sheet_6342027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460568_c61cf3d7f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460568_45a838a560_o.png",
+      "id_image": "sheet_6396262"
+    }
+  ]
+}

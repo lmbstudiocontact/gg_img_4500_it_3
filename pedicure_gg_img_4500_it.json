@@ -1,0 +1,40 @@
+{
+  "english": "pedicure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chăm sóc chân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cosmetic treatment of the feet and toenails.",
+      "definitions_ex_en": "a pedicure will make sure your feet look their best",
+      "definitions_ex_vn": "Một móng chân sẽ đảm bảo bàn chân của bạn trông đẹp nhất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a pedicure to (the feet and toenails).",
+      "definitions_ex_en": "I soaked and pedicured my feet",
+      "definitions_ex_vn": "Tôi ướt sũng và mang lại bàn chân của tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323851_7b1483852d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323851_33d406055e_o.png",
+      "id_image": "pedicure_3461895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438898_245a14d29e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438898_9e8654b4f1_o.png",
+      "id_image": "pedicure_4614271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679089_95ee49edb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679089_893255e7d0_o.png",
+      "id_image": "pedicure_843866"
+    }
+  ]
+}

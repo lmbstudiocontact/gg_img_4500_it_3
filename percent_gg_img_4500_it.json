@@ -1,0 +1,40 @@
+{
+  "english": "percent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phần trăm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "by a specified amount in or for every hundred.",
+      "definitions_ex_en": "new car sales may be down nineteen percent",
+      "definitions_ex_vn": "Doanh số bán xe mới có thể giảm mười chín phần trăm",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "one part in every hundred.",
+      "definitions_ex_en": "a reduction of half a percent or so in price",
+      "definitions_ex_vn": "giảm nửa phần trăm hoặc hơn giá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321421_943b525564_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321421_ecda132858_o.png",
+      "id_image": "percent_1011549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676479_5985ed6d96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676479_8ba909978a_o.png",
+      "id_image": "percent_1553573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676419_369516a2f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676419_d465aec8ba_o.png",
+      "id_image": "percent_4685472"
+    }
+  ]
+}

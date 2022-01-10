@@ -1,0 +1,63 @@
+{
+  "english": "sad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âu sầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buồn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buồn bả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buồn rầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đáng thương tâm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling or showing sorrow; unhappy.",
+      "definitions_ex_en": "I was sad and subdued",
+      "definitions_ex_vn": "Tôi buồn và khuất phục",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "pathetically inadequate or unfashionable.",
+      "definitions_ex_en": "the show is tongue-in-cheek—anyone who takes it seriously is a bit sad",
+      "definitions_ex_vn": "chương trình là lưỡi trong má-bất cứ ai coi nó là một chút buồn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of dough) heavy through having failed to rise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "seasonal affective disorder.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693139_7e052024e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693139_42d905b77f_o.png",
+      "id_image": "sad_1128885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382877_790f765923_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382877_83884b3c74_o.png",
+      "id_image": "sad_599625"
+    }
+  ]
+}

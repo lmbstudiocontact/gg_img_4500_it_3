@@ -1,0 +1,64 @@
+{
+  "english": "query",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu chất vấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "câu hỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ còn biết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chấm dấu hỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chất vấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem ra thảo luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a question, especially one addressed to an official or organization.",
+      "definitions_ex_en": "a spokeswoman said queries could not be answered until Monday",
+      "definitions_ex_vn": "Một phát ngôn viên cho biết các thắc mắc không thể được trả lời cho đến thứ Hai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ask a question about something, especially in order to express one's doubts about it or to check its validity or accuracy.",
+      "definitions_ex_en": "many people queried whether any harm had been done",
+      "definitions_ex_vn": "Nhiều người truy vấn xem bất kỳ tác hại nào đã được thực hiện",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459033_16282a5b31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459033_639665c5a9_o.png",
+      "id_image": "query_2286643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699374_99087f2d39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699374_ec3596937b_o.png",
+      "id_image": "query_2620611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389187_bcae038a67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389187_0f15e7ba95_o.png",
+      "id_image": "query_6109187"
+    }
+  ]
+}

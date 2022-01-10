@@ -1,0 +1,47 @@
+{
+  "english": "prison",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giam",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở, tù",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà tù",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building in which people are legally held as a punishment for a crime they have committed or while awaiting trial.",
+      "definitions_ex_en": "he died in prison",
+      "definitions_ex_vn": "Ông chết trong tù",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "imprison.",
+      "definitions_ex_en": "the young man prisoned behind the doors",
+      "definitions_ex_vn": "Chàng trai đang ở đằng sau cánh cửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439178_9102c1b9b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439178_5db1c77c34_o.png",
+      "id_image": "prison_2861299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324161_2928d1ef15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324161_00c3f36b4c_o.png",
+      "id_image": "prison_382273"
+    }
+  ]
+}

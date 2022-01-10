@@ -1,0 +1,200 @@
+{
+  "english": "round",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung quanh",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "xung quanh",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vòng tròn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vòng vòng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc kinh lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc thị sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắt tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi tuần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật hình tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng của trận đấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thanh ngang tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xung quanh",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "chuyến khứ hồi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khiêu vũ quay tròn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mặt tròn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tròn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "văn thể lưu loát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi vòng quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho tròn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm giàu thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở nên tròn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "shaped like or approximately like a circle or cylinder.",
+      "definitions_ex_en": "she was seated at a small, round table",
+      "definitions_ex_vn": "Cô đang ngồi ở một cái bàn nhỏ, tròn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "shaped like or approximately like a sphere.",
+      "definitions_ex_en": "a round glass ball",
+      "definitions_ex_vn": "một quả bóng thủy tinh tròn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a voice) rich and mellow; not harsh.",
+      "definitions_ex_en": "his rich, round voice went down well with the listeners",
+      "definitions_ex_vn": "Giọng nói nặng nề của anh ấy đã đi xuống tốt với những người nghe",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a number) altered for convenience of expression or calculation, for example to the nearest whole number or multiple of ten or five.",
+      "definitions_ex_en": "the size of the fleet is given in round numbers",
+      "definitions_ex_vn": "Kích thước của đội tàu được đưa ra trong số vòng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person or their manner of speaking) not omitting or disguising anything; frank and truthful.",
+      "definitions_ex_en": "she berated him in good round terms",
+      "definitions_ex_vn": "Cô mắng anh ta trong những điều khoản vòng tốt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a circular piece of a particular substance.",
+      "definitions_ex_en": "cut the pastry into rounds",
+      "definitions_ex_vn": "Cắt bánh ngọt thành các vòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of visiting each of a number of people or places.",
+      "definitions_ex_en": "she did the rounds of her family to say goodbye",
+      "definitions_ex_vn": "Cô ấy đã làm những vòng của gia đình để nói lời tạm biệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of a sequence of sessions or groups of related actions or events, typically such that development or progress can be seen between one group and another.",
+      "definitions_ex_en": "the two sides held three rounds of talks",
+      "definitions_ex_vn": "Hai bên tổ chức ba vòng đàm phán",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a regularly recurring sequence of activities or functions.",
+      "definitions_ex_en": "their lives were a daily round of housework and laundry",
+      "definitions_ex_vn": "Cuộc sống của họ là một vòng công việc nhà hàng ngày và giặt ủi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a song for three or more unaccompanied voices or parts, each singing the same theme but starting one after another, at the same pitch or in octaves; a simple canon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the amount of ammunition needed to fire one shot.",
+      "definitions_ex_en": "the gun can fire 30 rounds a second",
+      "definitions_ex_vn": "Súng có thể bắn 30 vòng một giây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pass and go around (something) so as to move on in a changed direction.",
+      "definitions_ex_en": "the ship rounded the cape and sailed north",
+      "definitions_ex_vn": "Con tàu làm tròn Cape và đi về phía bắc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "alter (a number) to one less exact but more convenient for calculations.",
+      "definitions_ex_en": "we'll round the weight up to the nearest pound",
+      "definitions_ex_vn": "Chúng tôi sẽ làm tròn trọng lượng lên đến bảng Anh gần nhất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give a round shape to.",
+      "definitions_ex_en": "a lathe that rounded chair legs",
+      "definitions_ex_vn": "một máy tiện hai chân ghế tròn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456168_7ccd0f87e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456168_49f61be415_o.png",
+      "id_image": "round_2421597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386292_fd36e0edf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386292_38bb491ef8_o.png",
+      "id_image": "round_2736128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078655_08b3e8aea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078655_6d3f9a0089_o.png",
+      "id_image": "round_6006261"
+    }
+  ]
+}

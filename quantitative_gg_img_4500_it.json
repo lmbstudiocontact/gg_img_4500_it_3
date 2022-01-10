@@ -1,0 +1,34 @@
+{
+  "english": "quantitative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân lượng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to, measuring, or measured by the quantity of something rather than its quality.",
+      "definitions_ex_en": "quantitative analysis",
+      "definitions_ex_vn": "Phân tích định lượng.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390147_8195cd4f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390147_9dba3586bb_o.png",
+      "id_image": "quantitative_1465900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082625_c4f15d5025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082625_fd9cf1e391_o.png",
+      "id_image": "quantitative_2503749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459953_25fe950d33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459953_66ae29def8_o.png",
+      "id_image": "quantitative_2620512"
+    }
+  ]
+}

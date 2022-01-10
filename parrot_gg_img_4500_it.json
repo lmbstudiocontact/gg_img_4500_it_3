@@ -1,0 +1,38 @@
+{
+  "english": "parrot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con két",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lặp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhắc lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bird, often vividly colored, with a short down-curved hooked bill, grasping feet, and a raucous voice, found especially in the tropics and feeding on fruits and seeds. Many are popular as cage birds, and some are able to mimic the human voice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "repeat mechanically.",
+      "definitions_ex_en": "encouraging students to parrot back information",
+      "definitions_ex_vn": "khuyến khích sinh viên vẹt lùi thông tin",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068315_6308b1c6e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068315_fd457b626a_o.png",
+      "id_image": "parrot_1355972"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "rectification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự luyện tinh rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa lại cho đúng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of putting something right.",
+      "definitions_ex_en": "rectification of common errors in letter writing",
+      "definitions_ex_vn": "chỉnh sửa các lỗi phổ biến trong văn bản thư",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the conversion of an alternating current to a direct current.",
+      "definitions_ex_en": "the inward rectification of single-channel currents",
+      "definitions_ex_vn": "chỉnh lưu bên trong dòng điện một kênh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the purification or refinement of a substance by repeated or continuous distillation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333706_0282e642ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333706_26be371374_o.png",
+      "id_image": "rectification_1076335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448748_cbde42ba6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448748_fd609ec4e9_o.png",
+      "id_image": "rectification_2720583"
+    }
+  ]
+}

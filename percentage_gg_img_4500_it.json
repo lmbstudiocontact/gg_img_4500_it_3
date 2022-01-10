@@ -1,0 +1,37 @@
+{
+  "english": "percentage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "suất bách phân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỷ lệ bách phân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỷ lệ phần trăm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rate, number, or amount in each hundred.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321236_5c37770c30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321236_ac7fd63e9d_o.png",
+      "id_image": "percentage_3103219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436563_db502f85f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436563_571fa4713b_o.png",
+      "id_image": "percentage_563190"
+    }
+  ]
+}

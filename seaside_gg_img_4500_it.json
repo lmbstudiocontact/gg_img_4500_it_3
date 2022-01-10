@@ -1,0 +1,28 @@
+{
+  "english": "seaside",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bải biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bờ biển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place by the sea, especially a beach area or vacation resort.",
+      "definitions_ex_en": "a day at the seaside",
+      "definitions_ex_vn": "một ngày ở bờ biển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061695_9cd80b4f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061695_3e4ffedcb6_o.png",
+      "id_image": "seaside_3038974"
+    }
+  ]
+}

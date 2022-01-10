@@ -1,0 +1,100 @@
+{
+  "english": "principal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quang trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chủ yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giám đốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiệu trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chánh phạm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "first in order of importance; main.",
+      "definitions_ex_en": "the country's principal cities",
+      "definitions_ex_vn": "Các thành phố chính của đất nước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of money) denoting an original sum invested or lent.",
+      "definitions_ex_en": "the principal amount of your investment",
+      "definitions_ex_vn": "số tiền đầu tư của bạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the person with the highest authority or most important position in an organization, institution, or group.",
+      "definitions_ex_en": "a design consultancy whose principal is based in San Francisco",
+      "definitions_ex_vn": "Một tư vấn thiết kế có hiệu trưởng có trụ sở tại San Francisco",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sum of money lent or invested, on which interest is paid.",
+      "definitions_ex_en": "the winners are paid from the interest without even touching the principal",
+      "definitions_ex_vn": "Những người chiến thắng được trả tiền từ sự quan tâm mà không cần chạm vào hiệu trưởng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person for whom another acts as an agent or representative.",
+      "definitions_ex_en": "stockbrokers in Tokyo act as agents rather than as principals",
+      "definitions_ex_vn": "Doombrokers ở Tokyo đóng vai trò là đại lý hơn là hiệu trưởng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the person directly responsible for a crime.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a main rafter supporting purlins.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an organ stop sounding a main register of open flue pipes typically an octave above the diapason.",
+      "definitions_ex_en": "all the principals are on one manual",
+      "definitions_ex_vn": "tất cả các hiệu trưởng là trên một hướng dẫn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440288_960baea935_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440288_faa268282b_o.png",
+      "id_image": "principal_2141396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440243_2b75862086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440243_b9f1a0c877_o.png",
+      "id_image": "principal_4711047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440208_3ba27f939d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440208_21163fed7c_o.png",
+      "id_image": "principal_6032224"
+    }
+  ]
+}

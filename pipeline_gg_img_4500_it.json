@@ -1,0 +1,75 @@
+{
+  "english": "pipeline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường dẩn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường dẩn hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dẩn nước bằng ống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẩn hơi bằng ống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long pipe, typically underground, for conveying oil, gas, etc. over long distances.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a linear sequence of specialized modules used for pipelining.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the hollow formed by the breaking of a large wave.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convey (a substance) by a pipeline.",
+      "definitions_ex_en": "oil and gas were pipelined to refineries in Toronto",
+      "definitions_ex_vn": "Dầu khí được đường ống dẫn đến các nhà máy lọc dầu ở Toronto",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "design or execute (a computer or instruction) using the technique of pipelining.",
+      "definitions_ex_en": "chip designers pipeline the instructions given to the hardware",
+      "definitions_ex_vn": "Các nhà thiết kế chip đường ống dẫn hướng dẫn cho phần cứng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700654_0e96af5dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700654_05e59d6fe7_o.png",
+      "id_image": "pipeline_1280956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345451_7023ce8846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345451_14a08be550_o.png",
+      "id_image": "pipeline_1486201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700549_bfafb36cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700549_fcdf3b6221_o.png",
+      "id_image": "pipeline_2933945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082840_f2fec17473_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082840_2aa22b5a49_o.png",
+      "id_image": "pipeline_3716766"
+    }
+  ]
+}

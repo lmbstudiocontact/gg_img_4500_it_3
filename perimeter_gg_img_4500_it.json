@@ -1,0 +1,38 @@
+{
+  "english": "perimeter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chu vi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "châu vi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuộc về chu vi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the continuous line forming the boundary of a closed geometric figure.",
+      "definitions_ex_en": "the perimeter of a rectangle",
+      "definitions_ex_vn": "chu vi của một hình chữ nhật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instrument for measuring the extent and characteristics of a person's field of vision.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320511_8e03820144_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320511_1b00724a42_o.png",
+      "id_image": "perimeter_390048"
+    }
+  ]
+}

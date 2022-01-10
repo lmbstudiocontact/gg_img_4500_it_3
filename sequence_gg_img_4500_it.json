@@ -1,0 +1,58 @@
+{
+  "english": "sequence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự liên tục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nối tiếp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular order in which related events, movements, or things follow each other.",
+      "definitions_ex_en": "the content of the program should follow a logical sequence",
+      "definitions_ex_vn": "Nội dung của chương trình nên tuân theo một chuỗi logic",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of related events, movements, or things that follow each other in a particular order.",
+      "definitions_ex_en": "a grueling sequence of exercises",
+      "definitions_ex_vn": "một chuỗi các bài tập mệt mỏi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of a film dealing with one particular event or topic.",
+      "definitions_ex_en": "the famous underwater sequence",
+      "definitions_ex_vn": "trình tự dưới nước nổi tiếng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Eucharist) a hymn said or sung after the Gradual or Alleluia that precedes the Gospel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange in a particular order.",
+      "definitions_ex_en": "trainee librarians decide how a set of misfiled cards could be sequenced",
+      "definitions_ex_vn": "Thủ thư thực tập quyết định cách một bộ thẻ bị sai có thể được giải trình tự",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play or record (music) with a sequencer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464403_bb16daacc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464403_3dafa3386e_o.png",
+      "id_image": "sequence_5485976"
+    }
+  ]
+}

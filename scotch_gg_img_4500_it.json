@@ -1,0 +1,97 @@
+{
+  "english": "scotch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rượu whisky tô Cách lan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật chận bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để kê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dùng để canh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "canh bánh xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chận bánh xe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "decisively put an end to.",
+      "definitions_ex_en": "a spokesman has scotched the rumors",
+      "definitions_ex_vn": "Một phát ngôn viên đã bao trùm những tin đồn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wedge (someone or something) somewhere.",
+      "definitions_ex_en": "he soon scotched himself against a wall",
+      "definitions_ex_vn": "Anh ấy đã sớm trút mình vào một bức tường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut or score the skin or surface of.",
+      "definitions_ex_en": "scotch with your knife the back of the Carp",
+      "definitions_ex_vn": "scotch với con dao của bạn phía sau của cá chép",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a wedge placed under a wheel or other rolling object to prevent it moving or slipping.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cut or score in skin or another surface.",
+      "definitions_ex_en": "a scotch in his face",
+      "definitions_ex_vn": "một scotch trên mặt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for Scotch whisky.",
+      "definitions_ex_en": "a bottle of Scotch",
+      "definitions_ex_vn": "một chai scotch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the people of Scotland.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the form of English spoken in Scotland.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Scottish.",
+      "definitions_ex_en": "a Scotch plaid scarf",
+      "definitions_ex_vn": "một chiếc khăn kẻ sọc scotch",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065210_44609c1971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065210_0788eb7446_o.png",
+      "id_image": "scotch_282734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328351_982f9f3171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328351_408566919f_o.png",
+      "id_image": "scotch_645750"
+    }
+  ]
+}

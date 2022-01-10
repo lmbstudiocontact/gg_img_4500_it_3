@@ -1,0 +1,132 @@
+{
+  "english": "rest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ tạm trú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuẩn bị kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi nghĩ ngơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ quyết toán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nằm nghĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghĩ ngơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạm nghĩ trên xa lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật còn thừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc còn thừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "còn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt trên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nằm nghĩ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nằm ngũ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để cho nghĩ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cease work or movement in order to relax, refresh oneself, or recover strength.",
+      "definitions_ex_en": "he needed to rest after the feverish activity",
+      "definitions_ex_vn": "anh cần nghỉ ngơi sau hoạt động sốt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be placed or supported so as to stay in a specified position.",
+      "definitions_ex_en": "her elbow was resting on the arm of the sofa",
+      "definitions_ex_vn": "khuỷu tay của cô đang nghỉ ngơi trên cánh tay của ghế sofa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be based on or grounded in; depend on.",
+      "definitions_ex_en": "the country's security rested on its alliances",
+      "definitions_ex_vn": "An ninh của đất nước nằm trên các liên minh của nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remain or be left in a specified condition.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance or period of relaxing or ceasing to engage in strenuous or stressful activity.",
+      "definitions_ex_en": "you look as though you need a rest",
+      "definitions_ex_vn": "bạn trông như thể bạn cần nghỉ ngơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an interval of silence of a specified duration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an object that is used to support something.",
+      "definitions_ex_en": "a chin-rest",
+      "definitions_ex_vn": "một cằm nghỉ ngơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the remaining part of something.",
+      "definitions_ex_en": "what do you want to do for the rest of your life?",
+      "definitions_ex_vn": "Bạn muốn làm gì cho đến hết đời?",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087710_bb364d01fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087710_b61a1d65a7_o.png",
+      "id_image": "rest_2332059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350491_eb6cf8e979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350491_8bbd9216cb_o.png",
+      "id_image": "rest_2773120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705019_9e943f2a03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705019_1fbe3ea42c_o.png",
+      "id_image": "rest_5776062"
+    }
+  ]
+}

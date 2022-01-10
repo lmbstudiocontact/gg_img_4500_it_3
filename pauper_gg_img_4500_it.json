@@ -1,0 +1,32 @@
+{
+  "english": "pauper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ăn xin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bần cùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nghèo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very poor person.",
+      "definitions_ex_en": "he died a pauper",
+      "definitions_ex_vn": "anh ấy đã chết một pauper",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682124_c299cfb50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682124_3061d0b44c_o.png",
+      "id_image": "pauper_1396219"
+    }
+  ]
+}

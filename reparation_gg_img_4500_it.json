@@ -1,0 +1,43 @@
+{
+  "english": "reparation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân chia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân phối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the making of amends for a wrong one has done, by paying money to or otherwise helping those who have been wronged.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of repairing something.",
+      "definitions_ex_en": "the old hall was pulled down to avoid the cost of reparation",
+      "definitions_ex_vn": "Hội trường cũ đã bị kéo xuống để tránh chi phí bồi thường",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060760_cafc6bce4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060760_002aa76ff1_o.png",
+      "id_image": "reparation_329853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060685_52147320cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060685_6c9aaae137_o.png",
+      "id_image": "reparation_351862"
+    }
+  ]
+}

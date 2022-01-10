@@ -1,0 +1,68 @@
+{
+  "english": "shave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái bào gọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao cạo râu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bào từng lát mõng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cạo râu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi phớt qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cut the hair off one's face with a razor.",
+      "definitions_ex_en": "he washed, shaved, and had breakfast",
+      "definitions_ex_vn": "Anh rửa sạch, cạo râu và ăn sáng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut (a thin slice or slices) from the surface of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass or send something close to (something else), missing it narrowly.",
+      "definitions_ex_en": "Scott shaved the post in the 29th minute",
+      "definitions_ex_vn": "Scott cạo bài đăng vào phút thứ 29",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of shaving hair from the face or a part of the body.",
+      "definitions_ex_en": "you need a shave",
+      "definitions_ex_vn": "Bạn cần cạo râu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346446_a1ac40361f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346446_4afca6e07d_o.png",
+      "id_image": "shave_1686014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346391_33f9128c49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346391_88488f7c95_o.png",
+      "id_image": "shave_3959124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461228_f07a24fb21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461228_450dc2703e_o.png",
+      "id_image": "shave_538016"
+    }
+  ]
+}

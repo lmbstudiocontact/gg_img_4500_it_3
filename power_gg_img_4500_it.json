@@ -1,0 +1,129 @@
+{
+  "english": "power",
+  "list_translation_mean": [
+    {
+      "translate_mean": "năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn điện lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền chi phối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền thay mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số đông người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số lủy thừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability to do something or act in a particular way, especially as a faculty or quality.",
+      "definitions_ex_en": "the power of speech",
+      "definitions_ex_vn": "Sức mạnh của lời nói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the capacity or ability to direct or influence the behavior of others or the course of events.",
+      "definitions_ex_en": "she had me under her power",
+      "definitions_ex_vn": "Cô ấy đã có tôi dưới sức mạnh của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "physical strength and force exerted by something or someone.",
+      "definitions_ex_en": "the power of the storm",
+      "definitions_ex_vn": "Sức mạnh của cơn bão",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "energy that is produced by mechanical, electrical, or other means and used to operate a device.",
+      "definitions_ex_en": "generating power from waste",
+      "definitions_ex_vn": "tạo ra sức mạnh từ chất thải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the time-rate of doing work, measured in watts or less frequently horsepower.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the number of times a certain number is to be multiplied by itself.",
+      "definitions_ex_en": "2 to the power of 4 equals 16",
+      "definitions_ex_vn": "2 đến sức mạnh của 4 bằng 16",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "supply (a device) with mechanical or electrical energy.",
+      "definitions_ex_en": "the car is powered by a fuel-injected 3.0-liter engine",
+      "definitions_ex_vn": "Chiếc xe được cung cấp bởi một động cơ 3.0 lít phun nhiên liệu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or travel with great speed or force.",
+      "definitions_ex_en": "they powered past the dock toward the mouth of the creek",
+      "definitions_ex_vn": "Họ cung cấp năng lượng qua bến tàu về phía miệng của con lạch",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067965_e04d4b1e0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067965_aabdafb76b_o.png",
+      "id_image": "power_123756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067915_6fec2e3884_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067915_216e3dfec6_o.png",
+      "id_image": "power_1606161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375852_854d780e7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375852_15a337fa01_o.png",
+      "id_image": "power_2137491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686154_8457efb6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686154_41cd18d3d4_o.png",
+      "id_image": "power_4760770"
+    }
+  ]
+}

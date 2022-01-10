@@ -1,0 +1,80 @@
+{
+  "english": "reflection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chiếu lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chỉ trích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khiển trách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghĩ ngợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phản chiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phản xạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy nghĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the throwing back by a body or surface of light, heat, or sound without absorbing it.",
+      "definitions_ex_en": "the reflection of light",
+      "definitions_ex_vn": "sự phản chiếu của ánh sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "serious thought or consideration.",
+      "definitions_ex_en": "he doesn't get much time for reflection",
+      "definitions_ex_vn": "Anh ta không nhận được nhiều thời gian để phản ánh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the conceptual operation of inverting a system or event with respect to a plane, each element being transferred perpendicularly through the plane to a point the same distance the other side of it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446653_4689e908bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446653_6321bf24d4_o.png",
+      "id_image": "reflection_1466572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068340_233f8f294e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068340_722e5e402a_o.png",
+      "id_image": "reflection_2210689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068305_952a7b7741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068305_f8a4273d72_o.png",
+      "id_image": "reflection_4542655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376472_2a167347f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376472_cb01e24351_o.png",
+      "id_image": "reflection_473675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331711_7feeabb865_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331711_987e102d9f_o.png",
+      "id_image": "reflection_593472"
+    }
+  ]
+}

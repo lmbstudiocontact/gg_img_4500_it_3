@@ -1,0 +1,78 @@
+{
+  "english": "reservation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ ngồi để dành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự để dành chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giới hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hạn chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lưu giử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng để dành riêng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of reserving something.",
+      "definitions_ex_en": "the reservation of positions for non-Americans",
+      "definitions_ex_vn": "đặt phòng vị trí cho người không phải người Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a qualification to an expression of agreement or approval; a doubt.",
+      "definitions_ex_en": "some generals voiced reservations about making air strikes",
+      "definitions_ex_vn": "Một số vị tướng lồng tiếng đặt chỗ về việc tạo không khí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area of land set aside for occupation by North American Indians or Australian Aboriginal people.",
+      "definitions_ex_en": "the boy's family live on a reservation",
+      "definitions_ex_vn": "Gia đình của cậu bé sống trên một đặt phòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a right or interest retained in an estate being conveyed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Roman Catholic Church) the action of a superior of reserving to himself the power of absolution.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437323_9db311786f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437323_62fdd4eddc_o.png",
+      "id_image": "reservation_2481894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437288_7ef043eea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437288_9eceaf23eb_o.png",
+      "id_image": "reservation_5569637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367017_ac6253b797_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367017_978f807cd7_o.png",
+      "id_image": "reservation_6213954"
+    }
+  ]
+}

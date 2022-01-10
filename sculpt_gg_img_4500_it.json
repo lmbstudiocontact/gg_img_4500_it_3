@@ -1,0 +1,33 @@
+{
+  "english": "sculpt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chạm trổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điêu khắc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "create or represent (something) by carving, casting, or other shaping techniques.",
+      "definitions_ex_en": "sculpting human figures from ivory",
+      "definitions_ex_vn": "điêu khắc số liệu con người từ ngà",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680984_0797c1e946_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680984_5c9aea3c61_o.png",
+      "id_image": "sculpt_1142549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440823_7da27e278d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440823_049603ddb0_o.png",
+      "id_image": "sculpt_1748892"
+    }
+  ]
+}

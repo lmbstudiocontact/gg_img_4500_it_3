@@ -1,0 +1,38 @@
+{
+  "english": "refuel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "châm cho đầy bình xăng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổ xăng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "supply (a vehicle) with more fuel.",
+      "definitions_ex_en": "the authorities agreed to refuel the plane",
+      "definitions_ex_vn": "Các cơ quan chức năng đồng ý tiếp nhiên liệu cho máy bay",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375142_46b1ceaa64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375142_86058044b3_o.png",
+      "id_image": "refuel_4259390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375112_d5079fc59c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375112_9e9bc2960a_o.png",
+      "id_image": "refuel_4607453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330476_ff59e10a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330476_eca2d0e343_o.png",
+      "id_image": "refuel_976012"
+    }
+  ]
+}

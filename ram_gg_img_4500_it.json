@@ -1,0 +1,73 @@
+{
+  "english": "ram",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bề dài của tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bít tông của máy bơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy đem nước lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trừu đực chưa thiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái chầy vồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiến hạm có mũi nhọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng cọc xuống đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng mạnh vào người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nện bằng chày vồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an uncastrated male sheep.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "roughly force (something) into place.",
+      "definitions_ex_en": "he rammed his stick into the ground",
+      "definitions_ex_vn": "Anh đâm cây gậy xuống đất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "random-access memory.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076420_3f8b112694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076420_e398d768fe_o.png",
+      "id_image": "ram_2164987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076485_1210d50546_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076485_2589c25291_o.png",
+      "id_image": "ram_616716"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "politic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khôn ngoan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đứng đắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khéo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lanh lợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chánh sách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chính trị",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an action) seeming sensible and judicious under the circumstances.",
+      "definitions_ex_en": "I did not think it politic to express my reservations",
+      "definitions_ex_vn": "Tôi đã không nghĩ rằng nó chính trị để bày tỏ việc đặt phòng của tôi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452128_848d8c06de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452128_6418c165c8_o.png",
+      "id_image": "politic_2529708"
+    }
+  ]
+}

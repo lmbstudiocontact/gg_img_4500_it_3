@@ -1,0 +1,50 @@
+{
+  "english": "piano",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chậm rải",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nhẹ nhàng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "dương cầm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings, which are struck by hammers when the keys are depressed. The strings' vibration is stopped by dampers when the keys are released and can be regulated for length and volume by two or three pedals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a passage marked to be performed softly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially as a direction) softly.",
+      "definitions_ex_en": "the choir addresses the saint piano in Polish, then fortissimo in Latin",
+      "definitions_ex_vn": "Congol giải quyết các Saint Piano trong tiếng Ba Lan, sau đó là Fortissimo ở Latin",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "performed softly.",
+      "definitions_ex_en": "in piano singing her tone remains pure",
+      "definitions_ex_vn": "Trong piano hát giọng điệu của cô ấy vẫn còn tinh khiết",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348646_f4ce9c3796_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348646_12ef2929db_o.png",
+      "id_image": "piano_1238802"
+    }
+  ]
+}

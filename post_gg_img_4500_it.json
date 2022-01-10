@@ -1,0 +1,211 @@
+{
+  "english": "post",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây chống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ đóng đồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy bay chở thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị trí đóng quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu chở thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyến xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thơ đem lại nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chức việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công bố tên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dán thông cáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dán yến thị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "du lịch bằng ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt lính gác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uỷ thác cho người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ thơ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, sturdy piece of timber or metal set upright in the ground and used to support something or as a marker.",
+      "definitions_ex_en": "follow the blue posts until the track meets a forestry road",
+      "definitions_ex_vn": "Thực hiện theo các bài viết màu xanh cho đến khi theo dõi gặp một con đường lâm nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of writing, image, or other item of content published online, typically on a blog or social media website.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of a series of couriers who carried mail on horseback between fixed stages.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a position of paid employment; a job.",
+      "definitions_ex_en": "he resigned from the post of Foreign Minister",
+      "definitions_ex_vn": "Ông đã từ chức từ Bưu điện Ngoại giao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place where someone is on duty or where a particular activity is carried out.",
+      "definitions_ex_en": "a worker asleep at his post",
+      "definitions_ex_vn": "một công nhân đang ngủ tại bài viết của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the status or rank of full-grade captain in the Royal Navy.",
+      "definitions_ex_en": "Captain Miller was made post in 1796",
+      "definitions_ex_vn": "Thuyền trưởng Miller đã được đăng vào năm 1796",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work done on a film or recording after filming or recording has taken place.",
+      "definitions_ex_en": "the rest of the effects were added in post",
+      "definitions_ex_vn": "phần còn lại của các hiệu ứng đã được thêm vào trong bài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "display (a notice) in a public place.",
+      "definitions_ex_en": "a curt notice had been posted on the door",
+      "definitions_ex_vn": "Một thông báo curt đã được đăng trên cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "announce or publish (something, especially a financial result).",
+      "definitions_ex_en": "the company posted a $460,000 loss",
+      "definitions_ex_vn": "Công ty đã đăng một khoản lỗ 460.000 đô la",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a player or team) achieve or record (a particular score or result).",
+      "definitions_ex_en": "he posted a victory in Japan to lead the series",
+      "definitions_ex_vn": "Ông đã đăng một chiến thắng tại Nhật Bản để lãnh đạo bộ truyện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in bookkeeping) enter (an item) in a ledger.",
+      "definitions_ex_en": "post the transaction in the second column",
+      "definitions_ex_vn": "Đăng giao dịch trong cột thứ hai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "travel with relays of horses.",
+      "definitions_ex_en": "we posted in an open carriage",
+      "definitions_ex_vn": "Chúng tôi đã đăng trong một cỗ xe mở",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "send (someone) to a particular place to take up an appointment.",
+      "definitions_ex_en": "he was posted to Washington as military attaché",
+      "definitions_ex_vn": "Ông đã được đăng lên Washington là Đính kèm quân sự",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "with haste.",
+      "definitions_ex_en": "come now, come post",
+      "definitions_ex_vn": "đến ngay bây giờ, hãy đến bài",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "subsequent to; after.",
+      "definitions_ex_en": "American poetry post the 1950s hasn't had the same impact",
+      "definitions_ex_vn": "Bài thơ Mỹ Bài đăng những năm 1950 đã không có tác động tương tự",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "after in time or order.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    },
+    {
+      "definitions_word_en": "behind in position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333741_a14b581cb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333741_4e069eac34_o.png",
+      "id_image": "post_1041990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688804_63213a24e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688804_ba66fe45f3_o.png",
+      "id_image": "post_5354158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333701_8d81213080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333701_68106f9f95_o.png",
+      "id_image": "post_5853785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688874_d6e1bd34b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688874_3c2974e10a_o.png",
+      "id_image": "post_951444"
+    }
+  ]
+}

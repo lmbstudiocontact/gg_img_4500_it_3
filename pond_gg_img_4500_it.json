@@ -1,0 +1,65 @@
+{
+  "english": "pond",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vũng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đắp bờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thành ao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thành vũng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn lại dòng nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small body of still water formed naturally or by hollowing or embanking.",
+      "definitions_ex_en": "a garden pond",
+      "definitions_ex_vn": "một ao vườn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hold back or dam up (flowing water or another liquid) to form a small lake.",
+      "definitions_ex_en": "the lava can't flow away and gets ponded up in the crater",
+      "definitions_ex_vn": "Lava không thể chảy trốn và bị ao ao trong miệng núi lửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451148_f7634c80d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451148_cf90f91a2d_o.png",
+      "id_image": "pond_1312012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073085_31584202e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073085_8b4e82dced_o.png",
+      "id_image": "pond_3038834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451103_2be50eb8fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451103_c1f715251d_o.png",
+      "id_image": "pond_4146240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451048_9081db9a6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451048_f92a33dc61_o.png",
+      "id_image": "pond_4251881"
+    }
+  ]
+}

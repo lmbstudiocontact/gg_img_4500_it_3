@@ -1,0 +1,37 @@
+{
+  "english": "reliability",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chắc chắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đáng tin cậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xác thực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being trustworthy or of performing consistently well.",
+      "definitions_ex_en": "the car's background gives me every confidence in its reliability",
+      "definitions_ex_vn": "Nền của chiếc xe mang lại cho tôi mọi sự tự tin về độ tin cậy của nó",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682179_4727746550_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682179_c92a30db04_o.png",
+      "id_image": "reliability_4371287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371677_1e2ba99d78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371677_35ab425327_o.png",
+      "id_image": "reliability_5267473"
+    }
+  ]
+}

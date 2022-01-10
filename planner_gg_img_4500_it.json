@@ -1,0 +1,53 @@
+{
+  "english": "planner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người hoạch định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trù liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dự định",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who makes plans.",
+      "definitions_ex_en": "economic planners",
+      "definitions_ex_vn": "Các nhà hoạch định kinh tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a list or chart with information that is an aid to planning.",
+      "definitions_ex_en": "my day planner",
+      "definitions_ex_vn": "kế hoạch ngày của tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388097_395774d8dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388097_0919a0af45_o.png",
+      "id_image": "planner_1876791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457873_fbb93e5c2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457873_b24199aed1_o.png",
+      "id_image": "planner_1876941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080560_09150c9e50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080560_e237da33b0_o.png",
+      "id_image": "planner_3380787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457798_50a48264eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457798_d0a8e85329_o.png",
+      "id_image": "planner_4016157"
+    }
+  ]
+}

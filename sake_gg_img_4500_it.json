@@ -1,0 +1,47 @@
+{
+  "english": "sake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm việc gì cho",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "for the purpose of; in the interest of; in order to achieve or preserve.",
+      "definitions_ex_en": "the couple moved to the coast for the sake of her health",
+      "definitions_ex_vn": "Cặp vợ chồng chuyển đến bờ biển vì sức khỏe của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "out of consideration for or in order to help someone.",
+      "definitions_ex_en": "I have to make an effort for John's sake",
+      "definitions_ex_vn": "Tôi phải nỗ lực vì lợi ích của John",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to express impatience, annoyance, urgency, or desperation.",
+      "definitions_ex_en": "“Oh, for God's sake!” snarled Dyson",
+      "definitions_ex_vn": "\"Ồ, vì lợi ích của Chúa!\"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a Japanese alcoholic drink made from fermented rice, traditionally drunk warm in small porcelain cups.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074130_478c621d77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074130_8345e4c6fd_o.png",
+      "id_image": "sake_2700273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692394_7927c0cfd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692394_c8231ff4ed_o.png",
+      "id_image": "sake_2721385"
+    }
+  ]
+}

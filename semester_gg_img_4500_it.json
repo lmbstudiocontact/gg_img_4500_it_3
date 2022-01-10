@@ -1,0 +1,29 @@
+{
+  "english": "semester",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sáu tháng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a half-year term in a school or college, typically lasting fifteen to eighteen weeks.",
+      "definitions_ex_en": "the opening week of Harvard's autumn semester",
+      "definitions_ex_vn": "Tuần lễ khai mạc của học kỳ mùa thu của Harvard",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350601_40c4dfb988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350601_d806dee001_o.png",
+      "id_image": "semester_4776087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705144_c7c67f3170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705144_ef2f3bd322_o.png",
+      "id_image": "semester_5330238"
+    }
+  ]
+}

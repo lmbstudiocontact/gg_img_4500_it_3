@@ -1,0 +1,118 @@
+{
+  "english": "peg",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái chốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục dây đờn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái mộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái ngạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bền gan",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cương quyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng mộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gài chốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi điểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bền lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "móc lên dây phơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ráp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short cylindrical piece of wood, metal, or plastic, typically tapered at one end, that is used for holding things together, hanging things on, or marking a position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a point or limit on a scale, especially of exchange rates.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's leg.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strong throw, especially in baseball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fix or make fast with a peg or pegs.",
+      "definitions_ex_en": "drape individual plants with nets, pegging down the edges",
+      "definitions_ex_vn": "Trồng cây cá nhân với lưới, chốt xuống các cạnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fix (a price, rate, or amount) at a particular level.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "throw (a ball) hard and low, especially in baseball.",
+      "definitions_ex_en": "the catcher pegs the ball to the first baseman",
+      "definitions_ex_vn": "The Catcher chốt bóng cho Baseman đầu tiên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "polyethylene glycol.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438323_f5c95fd20c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438323_c66af93a9b_o.png",
+      "id_image": "peg_4636779"
+    }
+  ]
+}

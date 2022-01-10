@@ -1,0 +1,35 @@
+{
+  "english": "propaganda",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự truyền giáo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view.",
+      "definitions_ex_en": "he was charged with distributing enemy propaganda",
+      "definitions_ex_vn": "Anh ta bị buộc tội phân phối tuyên truyền của kẻ thù",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a committee of cardinals of the Roman Catholic Church responsible for foreign missions, founded in 1622 by Pope Gregory XV.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395672_e80422ffb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395672_3fed4acb81_o.png",
+      "id_image": "propaganda_1610500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705489_4293f50784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705489_2fd8393b63_o.png",
+      "id_image": "propaganda_4410276"
+    }
+  ]
+}

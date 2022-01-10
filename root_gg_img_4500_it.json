@@ -1,0 +1,136 @@
+{
+  "english": "root",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căn nguyên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căn số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn gốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rể cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuyến khích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ăn sâu vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủi đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho bén rể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho bền chặt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the part of a plant which attaches it to the ground or to a support, typically underground, conveying water and nourishment to the rest of the plant via numerous branches and fibers.",
+      "definitions_ex_en": "cacti have deep and spreading roots",
+      "definitions_ex_vn": "Cacti có rễ sâu và lan rộng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the basic cause, source, or origin of something.",
+      "definitions_ex_en": "love of money is the root of all evil",
+      "definitions_ex_vn": "Tình yêu tiền là gốc rễ của mọi tội lỗi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a number or quantity that when multiplied by itself, typically a specified number of times, gives a specified number or quantity.",
+      "definitions_ex_en": "find the cube root of the result",
+      "definitions_ex_vn": "Tìm rễ khối của kết quả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a user account with full and unrestricted access to a system.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of rooting.",
+      "definitions_ex_en": "I have a root through the open drawers",
+      "definitions_ex_vn": "Tôi có một gốc thông qua các ngăn kéo mở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (a plant or cutting) to grow roots.",
+      "definitions_ex_en": "root your own cuttings from stock plants",
+      "definitions_ex_vn": "root giâm cành của riêng bạn từ thực vật chứng khoán",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "establish deeply and firmly.",
+      "definitions_ex_en": "vegetarianism is rooted in Indian culture",
+      "definitions_ex_vn": "Ăn chay bắt nguồn từ văn hóa Ấn Độ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (someone) to stand immobile through fear or amazement.",
+      "definitions_ex_en": "George was rooted to the spot in disbelief",
+      "definitions_ex_vn": "George đã rễ vào vị trí trong sự hoài nghi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "gain access to the root account of (a smartphone or computer).",
+      "definitions_ex_en": "we explained how to manually root almost any Android device",
+      "definitions_ex_vn": "Chúng tôi đã giải thích cách thực hiện root thủ công hầu hết mọi thiết bị Android",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an animal) turn up the ground with its snout in search of food.",
+      "definitions_ex_en": "stray dogs rooting around for bones and scraps",
+      "definitions_ex_vn": "Những con chó đi lạc rễ xung quanh cho xương và phế liệu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387442_114d9a6dc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387442_253d5a768c_o.png",
+      "id_image": "root_1407904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342391_c2f5401034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342391_92ccea07af_o.png",
+      "id_image": "root_3239326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697704_95d371d158_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697704_dfee168966_o.png",
+      "id_image": "root_969361"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "see",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưu ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trông thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem xét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "perceive with the eyes; discern visually.",
+      "definitions_ex_en": "in the distance she could see the blue sea",
+      "definitions_ex_vn": "Ở khoảng cách cô có thể nhìn thấy biển xanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "discern or deduce mentally after reflection or from information; understand.",
+      "definitions_ex_en": "I can't see any other way to treat it",
+      "definitions_ex_vn": "Tôi không thể nhìn thấy bất kỳ cách nào khác để đối xử với nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "experience or witness (an event or situation).",
+      "definitions_ex_en": "I shall not live to see it",
+      "definitions_ex_vn": "Tôi sẽ không sống để nhìn thấy nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "meet (someone one knows) socially or by chance.",
+      "definitions_ex_en": "I saw Colin last night",
+      "definitions_ex_vn": "Tôi đã thấy Colin đêm qua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "escort or conduct (someone) to a specified place.",
+      "definitions_ex_en": "don't bother seeing me out",
+      "definitions_ex_vn": "Đừng bận tâm nhìn thấy tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ensure.",
+      "definitions_ex_en": "Lucy saw to it that everyone got enough to eat",
+      "definitions_ex_vn": "Lucy thấy rằng mọi người đều đủ ăn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in poker or brag) equal the bet of (an opponent).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the place in which a cathedral church stands, identified as the seat of authority of a bishop or archbishop.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368182_673312ff6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368182_edab76979b_o.png",
+      "id_image": "see_3855262"
+    }
+  ]
+}

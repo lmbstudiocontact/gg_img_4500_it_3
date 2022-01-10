@@ -1,0 +1,66 @@
+{
+  "english": "player",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chơi đùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chơi nhà nghề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cờ bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đánh bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người diển tuồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài tử nhà nghề",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person taking part in a sport or game.",
+      "definitions_ex_en": "a tennis player",
+      "definitions_ex_vn": "một tay chơi quần vượt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who plays a musical instrument.",
+      "definitions_ex_en": "a guitar player",
+      "definitions_ex_vn": "một người chơi guitar",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an actor.",
+      "definitions_ex_en": "there are moments of tenderness beautifully expressed by the players",
+      "definitions_ex_vn": "Có những khoảnh khắc dịu dàng được các cầu thủ thể hiện một cách đẹp mắt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386247_1e34598631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386247_6f719ef2f3_o.png",
+      "id_image": "player_1485080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386277_439db8c8c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386277_126707998a_o.png",
+      "id_image": "player_188978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696479_77e09e7093_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696479_081a03d53c_o.png",
+      "id_image": "player_3429456"
+    }
+  ]
+}

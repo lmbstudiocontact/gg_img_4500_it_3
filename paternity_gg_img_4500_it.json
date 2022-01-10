@@ -1,0 +1,38 @@
+{
+  "english": "paternity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa vị làm cha",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư cách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially in legal contexts) the state of being someone's father.",
+      "definitions_ex_en": "he refused to admit paternity of the child",
+      "definitions_ex_vn": "Anh từ chối thừa nhận quan hệ cha con của đứa trẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "paternal origin.",
+      "definitions_ex_en": "his enemies made great play of the supposed dubiety of his paternity",
+      "definitions_ex_vn": "Kẻ thù của anh ta đã chơi tuyệt vời về sự ngờ vực được cho là của quan hệ cha con của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065105_c8f8b5eb56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065105_9733ff7230_o.png",
+      "id_image": "paternity_5904087"
+    }
+  ]
+}

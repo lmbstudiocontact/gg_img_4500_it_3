@@ -1,0 +1,44 @@
+{
+  "english": "pipette",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống nhỏ dùng chuyền nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyền nước bằng ống nhỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a slender tube attached to or incorporating a bulb, for transferring or measuring out small quantities of liquid, especially in a laboratory.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pour, convey, or draw off using a pipette.",
+      "definitions_ex_en": "pipette the cells onto the coverslips",
+      "definitions_ex_vn": "pipet các tế bào lên các lớp phủ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390177_a6e517ed91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390177_5e01b4b7bf_o.png",
+      "id_image": "pipette_2176852"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082665_6c26a1f6d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082665_7b6e9c9ae3_o.png",
+      "id_image": "pipette_3380541"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082630_1ce0a361e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082630_f6be969df2_o.png",
+      "id_image": "pipette_4172848"
+    }
+  ]
+}

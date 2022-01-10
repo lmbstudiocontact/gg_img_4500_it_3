@@ -1,0 +1,85 @@
+{
+  "english": "scatter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiêu tan",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy tán loạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy tứ tán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tan mây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rải rác khắp nơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tản mát",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "throw in various random directions.",
+      "definitions_ex_en": "scatter the coconut over the icing",
+      "definitions_ex_vn": "phân tán dừa qua icing",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a group of people or animals) separate and move off quickly in different directions.",
+      "definitions_ex_en": "the roar made the dogs scatter",
+      "definitions_ex_vn": "tiếng gầm làm cho những con chó phân tán",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deflect or diffuse (electromagnetic radiation or particles).",
+      "definitions_ex_en": "the light is scattered as it strikes particles suspended in the air",
+      "definitions_ex_vn": "Ánh sáng nằm rải rác khi nó tấn công các hạt lơ lửng trong không khí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a pitcher) allow (several hits) at intervals so as to result in little or no scoring.",
+      "definitions_ex_en": "Fernandez struck out 14 while scattering three hits over eight scoreless innings",
+      "definitions_ex_vn": "Fernandez đánh ra 14 trong khi phân tán ba lượt truy cập trên tám hiệp không có điểm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a small, dispersed amount of something.",
+      "definitions_ex_en": "a scatter of houses on the north shore",
+      "definitions_ex_vn": "một ngôi nhà rải rác trên bờ phía bắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the degree to which repeated measurements or observations of a quantity differ.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the scattering of light, other electromagnetic radiation, or particles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068540_dab0499636_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068540_24f47934bf_o.png",
+      "id_image": "scatter_1809506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446898_acc45614b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446898_00f066c1ee_o.png",
+      "id_image": "scatter_6001160"
+    }
+  ]
+}

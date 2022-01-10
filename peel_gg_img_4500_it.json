@@ -1,0 +1,95 @@
+{
+  "english": "peel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái sẻng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tháp vuông nhỏ thế kỷ 16",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ trái cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái xuổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bốc vỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gót vỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột da",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tróc da",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột vỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remove the outer covering or skin from (a fruit or vegetable).",
+      "definitions_ex_en": "she watched him peel an apple with deliberate care",
+      "definitions_ex_vn": "Cô nhìn anh bóc một quả táo với sự chăm sóc có chủ ý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a surface or object) lose parts of its outer layer or covering in small strips or pieces.",
+      "definitions_ex_en": "the walls are peeling",
+      "definitions_ex_vn": "Các bức tường đang bong tróc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "send (another player's ball) through a wicket.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the outer covering or rind of a fruit or vegetable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat implement like a shovel, especially one used by a baker for carrying loaves or similar items of food into or out of an oven.",
+      "definitions_ex_en": "a wooden pizza peel",
+      "definitions_ex_vn": "một vỏ bánh pizza bằng gỗ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small square defensive tower of a kind built in the 16th century in the border counties of England and Scotland.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368467_d3040b409b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368467_180d93269d_o.png",
+      "id_image": "peel_5660227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438608_1f6d8163ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438608_33b067f28e_o.png",
+      "id_image": "peel_5675485"
+    }
+  ]
+}

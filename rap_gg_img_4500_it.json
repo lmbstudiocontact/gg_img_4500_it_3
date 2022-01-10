@@ -1,0 +1,90 @@
+{
+  "english": "rap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đánh lẹ tay và đau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú vào đầu người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ không có giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không có gì cả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọn len 120 yards",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một loại nhạc ở mỹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quở trách",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strike (a hard surface) with a series of rapid audible blows, especially in order to attract attention.",
+      "definitions_ex_en": "he stood up and rapped the table",
+      "definitions_ex_vn": "Anh đứng dậy và đánh vào cái bàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "perform rap music.",
+      "definitions_ex_en": "he raps under the name of Mr. T",
+      "definitions_ex_vn": "anh ta rap dưới tên của ông T",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a quick, sharp knock or blow.",
+      "definitions_ex_en": "there was a confident rap at the door",
+      "definitions_ex_vn": "Có một bản Rap tự tin ở cửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of popular music of US black origin in which words are recited rapidly and rhythmically over a prerecorded, typically electronic instrumental backing.",
+      "definitions_ex_en": "the label specializes in rap and modern soul",
+      "definitions_ex_vn": "Nhãn chuyên về RAP và linh hồn hiện đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the smallest amount (used to add emphasis to a statement).",
+      "definitions_ex_en": "he doesn't care a rap whether it's true or not",
+      "definitions_ex_vn": "anh ấy không quan tâm đến một rap cho dù đó có đúng hay không",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453688_e119213d7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453688_d221590d0d_o.png",
+      "id_image": "rap_122845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453668_bf0fe56e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453668_9077bcea44_o.png",
+      "id_image": "rap_1804741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075665_31aa6e51ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075665_60641432e4_o.png",
+      "id_image": "rap_5294840"
+    }
+  ]
+}

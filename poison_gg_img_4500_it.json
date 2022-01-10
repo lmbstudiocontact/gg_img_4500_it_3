@@ -1,0 +1,63 @@
+{
+  "english": "poison",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất độc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc độc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật độc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị nhiểm độc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ thuốc độc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance that is capable of causing the illness or death of a living organism when introduced or absorbed.",
+      "definitions_ex_en": "he killed himself with poison",
+      "definitions_ex_vn": "Anh ta tự sát với chất độc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a substance that reduces the activity of a catalyst.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "administer poison to (a person or animal), either deliberately or accidentally.",
+      "definitions_ex_en": "someone had tried to poison me",
+      "definitions_ex_vn": "ai đó đã cố gắng để đầu độc tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a substance) reduce the activity of (a catalyst).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075285_e710e187ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075285_73264105bc_o.png",
+      "id_image": "poison_1033004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383222_416c17b8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383222_a0246c55b0_o.png",
+      "id_image": "poison_921807"
+    }
+  ]
+}

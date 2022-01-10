@@ -1,0 +1,29 @@
+{
+  "english": "rural",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về nhà quê",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in, relating to, or characteristic of the countryside rather than the town.",
+      "definitions_ex_en": "remote rural areas",
+      "definitions_ex_vn": "Khu vực nông thôn xa xôi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693829_5bd885603b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693829_a5d57d2fe4_o.png",
+      "id_image": "rural_1703523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383537_10010db080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383537_6c43608d2f_o.png",
+      "id_image": "rural_3038937"
+    }
+  ]
+}

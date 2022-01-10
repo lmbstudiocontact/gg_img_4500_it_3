@@ -1,0 +1,24 @@
+{
+  "english": "salutation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gesture or utterance made as a greeting or acknowledgment of another's arrival or departure.",
+      "definitions_ex_en": "we greeted them but no one returned our salutations",
+      "definitions_ex_vn": "Chúng tôi chào đón họ nhưng không ai trả lại lời salutations của chúng tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450828_7598576147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450828_3d0a7db414_o.png",
+      "id_image": "salutation_4891280"
+    }
+  ]
+}

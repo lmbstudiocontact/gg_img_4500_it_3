@@ -1,0 +1,50 @@
+{
+  "english": "quarantine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thời gian 40 ngày",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a state, period, or place of isolation in which people or animals that have arrived from elsewhere or been exposed to infectious or contagious disease are placed.",
+      "definitions_ex_en": "many animals die in quarantine",
+      "definitions_ex_vn": "nhiều động vật chết trong kiểm dịch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "impose isolation on (a person, animal, or place); put in quarantine.",
+      "definitions_ex_en": "I quarantine all new fish for one month",
+      "definitions_ex_vn": "Tôi cách ly tất cả cá mới trong một tháng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459748_5d8c2f2705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459748_97acf4f574_o.png",
+      "id_image": "quarantine_2622439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344941_ac6b05c61a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344941_258e4ce196_o.png",
+      "id_image": "quarantine_3027591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344916_bf216e218c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344916_2374cd1fc1_o.png",
+      "id_image": "quarantine_3159977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389802_97535d7e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389802_55dc635be8_o.png",
+      "id_image": "quarantine_3590584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389757_d80f27b105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389757_aac4eee2af_o.png",
+      "id_image": "quarantine_4600898"
+    }
+  ]
+}

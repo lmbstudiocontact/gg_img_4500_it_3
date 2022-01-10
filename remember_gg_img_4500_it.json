@@ -1,0 +1,41 @@
+{
+  "english": "remember",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hồi tưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưu ý đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩ đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhớ lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have in or be able to bring to one's mind an awareness of (someone or something that one has seen, known, or experienced in the past).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325956_83ffa68625_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325956_55933543a3_o.png",
+      "id_image": "remember_5822099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681029_c4b53462ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681029_4e6bbc6398_o.png",
+      "id_image": "remember_5860861"
+    }
+  ]
+}

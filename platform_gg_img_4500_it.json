@@ -1,0 +1,75 @@
+{
+  "english": "platform",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chương trình chánh trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đế dày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diển đàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nền đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân bằng mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân ở trên cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân ga xe lửa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a raised level surface on which people or things can stand.",
+      "definitions_ex_en": "there are viewing platforms where visitors may gape at the chasm",
+      "definitions_ex_vn": "Có những nền tảng đang xem nơi du khách có thể gape vào vực thẳm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the declared policy of a political party or group.",
+      "definitions_ex_en": "seeking election on a platform of low taxes",
+      "definitions_ex_vn": "tìm kiếm bầu cử trên một nền tảng của thuế thấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shoe with very thick soles.",
+      "definitions_ex_en": "a pair of chunky platforms",
+      "definitions_ex_vn": "một cặp nền tảng chunky",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386742_1b5d06e514_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386742_40596d885c_o.png",
+      "id_image": "platform_2437181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456573_96bda23665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456573_facf755cb8_o.png",
+      "id_image": "platform_373008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456483_8185beb167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456483_87d894d8a0_o.png",
+      "id_image": "platform_3901483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696839_9ee8a466ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696839_6249506598_o.png",
+      "id_image": "platform_6213821"
+    }
+  ]
+}

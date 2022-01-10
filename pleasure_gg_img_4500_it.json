@@ -1,0 +1,68 @@
+{
+  "english": "pleasure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều vui thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiêu khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bằng lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vui vẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vui lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vừa lòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of happy satisfaction and enjoyment.",
+      "definitions_ex_en": "she smiled with pleasure at being praised",
+      "definitions_ex_vn": "Cô mỉm cười với niềm vui khi được ca ngợi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used or intended for entertainment rather than business.",
+      "definitions_ex_en": "pleasure boats",
+      "definitions_ex_vn": "Thuyền khoái cảm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "give sexual enjoyment or satisfaction to.",
+      "definitions_ex_en": "tell me what will pleasure you",
+      "definitions_ex_vn": "cho tôi biết những gì sẽ làm bạn vui",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695814_9fe877a422_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695814_3f5008deb0_o.png",
+      "id_image": "pleasure_6213834"
+    }
+  ]
+}

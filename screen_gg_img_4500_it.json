@@ -1,0 +1,128 @@
+{
+  "english": "screen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màn ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màn bạc chiếu bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màn che chụp ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "minh tinh màn bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm bình phong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật che khuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che bằng bình phong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "che bằng màn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "che chở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem chuyện quay thành phim",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fixed or movable upright partition used to divide a room, give shelter from drafts, heat, or light, or to provide concealment or privacy.",
+      "definitions_ex_en": "a room with a red carpet and screens with oriental decorations",
+      "definitions_ex_vn": "một căn phòng có thảm đỏ và màn hình với đồ trang trí phương Đông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat panel or area on an electronic device such as a television, computer, or smartphone, on which images and data are displayed.",
+      "definitions_ex_en": "a television screen",
+      "definitions_ex_vn": "một màn hình tivi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a transparent, finely ruled plate or film used in halftone reproduction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a detachment of troops or ships detailed to cover the movements of the main body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large sieve or riddle, especially one for sorting substances such as grain or coal into different sizes.",
+      "definitions_ex_en": "the material retained on each sieve screen is weighed in turn",
+      "definitions_ex_vn": "vật liệu được giữ lại trên mỗi màn hình rây được cân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "conceal, protect, or shelter (someone or something) with a screen or something forming a screen.",
+      "definitions_ex_en": "her hair swung across to screen her face",
+      "definitions_ex_vn": "Tóc cô vung lên để sàng lọc khuôn mặt của cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "show (a movie or video) or broadcast (a television program).",
+      "definitions_ex_en": "the show is to be screened by HBO later this year",
+      "definitions_ex_vn": "Chương trình sẽ được sàng lọc bởi HBO vào cuối năm nay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "test (a person or substance) for the presence or absence of a disease or contaminant.",
+      "definitions_ex_en": "outpatients were screened for cervical cancer",
+      "definitions_ex_vn": "Bệnh nhân ngoại trú đã được sàng lọc ung thư cổ tử cung",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass (a substance such as grain or coal) through a large sieve or screen, especially so as to sort it into different sizes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "project (a photograph or other image) through a transparent ruled plate so as to be able to reproduce it as a halftone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682389_0d024304db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682389_63e85373ca_o.png",
+      "id_image": "screen_2123759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327156_e5d5544869_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327156_2c2f3d226d_o.png",
+      "id_image": "screen_5223608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327291_99d8aea046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327291_6b44a748ef_o.png",
+      "id_image": "screen_588239"
+    }
+  ]
+}

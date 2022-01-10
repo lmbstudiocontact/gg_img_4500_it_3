@@ -1,0 +1,34 @@
+{
+  "english": "procession",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuốc diển binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc diển hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a number of people or vehicles moving forward in an orderly fashion, especially as part of a ceremony or festival.",
+      "definitions_ex_en": "a funeral procession",
+      "definitions_ex_vn": "một đám rạn tang lễ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the emanation of the Holy Spirit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438013_a43eeae1e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438013_46f9e5a055_o.png",
+      "id_image": "procession_6000883"
+    }
+  ]
+}

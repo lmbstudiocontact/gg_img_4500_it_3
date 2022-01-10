@@ -1,0 +1,30 @@
+{
+  "english": "parsnip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây phòng phong",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long tapering cream-colored root with a sweet flavor.",
+      "definitions_ex_en": "roasted parsnips",
+      "definitions_ex_vn": "rang parsnips.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the widely cultivated Eurasian plant of the parsley family that yields this root.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446423_1c329b6ff7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446423_ed886614f8_o.png",
+      "id_image": "parsnip_6108568"
+    }
+  ]
+}

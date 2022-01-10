@@ -1,0 +1,69 @@
+{
+  "english": "promotion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đề xướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thăng cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thăng chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thăng trật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "activity that supports or provides active encouragement for the furtherance of a cause, venture, or aim.",
+      "definitions_ex_en": "disease prevention and health promotion",
+      "definitions_ex_vn": "Khuyến mãi phòng chống dịch bệnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the publicization of a product, organization, or venture so as to increase sales or public awareness.",
+      "definitions_ex_en": "a sales promotion company",
+      "definitions_ex_vn": "một công ty xúc tiến bán hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of raising someone to a higher position or rank or the fact of being so raised.",
+      "definitions_ex_en": "majors designated for promotion to lieutenant colonel",
+      "definitions_ex_vn": "chuyên ngành được chỉ định để thúc đẩy cho Đại tá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of promoting a catalyst.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395782_7c1aa7afb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395782_f54e8bf385_o.png",
+      "id_image": "promotion_1077170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465598_c04e76b9d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465598_f78209931f_o.png",
+      "id_image": "promotion_2344653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465678_eb3fc7fe75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465678_8a35233680_o.png",
+      "id_image": "promotion_296909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705639_aa7af72b25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705639_d134a5de90_o.png",
+      "id_image": "promotion_562548"
+    }
+  ]
+}

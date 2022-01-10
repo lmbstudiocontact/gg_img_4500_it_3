@@ -1,0 +1,29 @@
+{
+  "english": "pyrometer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hỏa kế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instrument for measuring high temperatures, especially in furnaces and kilns.",
+      "definitions_ex_en": "radiation pyrometer",
+      "definitions_ex_vn": "bức xạ pyrometer.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083410_4784ae3dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083410_fe1b13190c_o.png",
+      "id_image": "pyrometer_1230723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345891_db14f74cec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345891_70017f449f_o.png",
+      "id_image": "pyrometer_4539363"
+    }
+  ]
+}

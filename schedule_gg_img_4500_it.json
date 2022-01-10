@@ -1,0 +1,88 @@
+{
+  "english": "schedule",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản kê khai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh biểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lịch trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân hạng đánh thuế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phụ lục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời khắc biểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghi vào danh biểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi vào thời khắc biểu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plan for carrying out a process or procedure, giving lists of intended events and times.",
+      "definitions_ex_en": "we have drawn up an engineering schedule",
+      "definitions_ex_vn": "Chúng tôi đã rút ra một lịch trình kỹ thuật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an appendix to a formal document or statute, especially as a list, table, or inventory.",
+      "definitions_ex_en": "they need a clear schedule of fixtures and fittings",
+      "definitions_ex_vn": "Họ cần một lịch trình rõ ràng về đồ đạc và phụ kiện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(with reference to an income tax system) any of the forms (named “A,” “B,” etc.) issued for completion and relating to the various classes into which taxable income is divided.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange or plan (an event) to take place at a particular time.",
+      "definitions_ex_en": "the release of the single is scheduled for April",
+      "definitions_ex_vn": "Bản phát hành của đĩa đơn được lên kế hoạch cho tháng tư",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375627_f2f8a8225c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375627_103f474b0e_o.png",
+      "id_image": "schedule_1652892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445963_3dd27be57a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445963_d3a14a3efa_o.png",
+      "id_image": "schedule_313078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445928_827bbc6e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445928_3de1ddf35c_o.png",
+      "id_image": "schedule_735204"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "question",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu chất vấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "câu hỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghi ngờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vấn đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất vấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem ra khảo sát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thảo luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghi ngờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sentence worded or expressed so as to elicit information.",
+      "definitions_ex_en": "we hope this leaflet has been helpful in answering your questions",
+      "definitions_ex_vn": "Chúng tôi hy vọng tờ rơi này hữu ích trong việc trả lời câu hỏi của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ask questions of (someone), especially in an official context.",
+      "definitions_ex_en": "four men were being questioned about the killings",
+      "definitions_ex_vn": "Bốn người đàn ông đã được hỏi về những vụ giết người",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388967_45f1813395_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388967_34a515c3ce_o.png",
+      "id_image": "question_2016404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081510_412455f618_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081510_6e0262df1b_o.png",
+      "id_image": "question_745209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344046_664e584ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344046_a24a5d8c98_o.png",
+      "id_image": "question_943641"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "prospect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tương lai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hy vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viển cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phong cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấy trước khoáng chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông mong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tìm khoáng chất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the possibility or likelihood of some future event occurring.",
+      "definitions_ex_en": "there was no prospect of a reconciliation",
+      "definitions_ex_vn": "không có triển vọng của một sự hòa giải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person regarded as likely to succeed or as a potential customer, client, etc.",
+      "definitions_ex_en": "clients deemed likely prospects for active party membership",
+      "definitions_ex_vn": "Khách hàng được coi là có triển vọng cho các thành viên của bên tích cực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an extensive view of landscape.",
+      "definitions_ex_en": "a viewpoint commanding a magnificent prospect of the estuary",
+      "definitions_ex_vn": "Một quan điểm chỉ huy một triển vọng tuyệt vời của cửa sông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "search for mineral deposits in a place, especially by means of experimental drilling and excavation.",
+      "definitions_ex_en": "the company is also prospecting for gold",
+      "definitions_ex_vn": "Công ty cũng đang triển vọng về vàng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350501_918d5d1ee4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350501_97681ed83f_o.png",
+      "id_image": "prospect_2464345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705039_6f89b4e2e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705039_47cc18ed9d_o.png",
+      "id_image": "prospect_2471430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395267_5bcefb7c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395267_555fdc518e_o.png",
+      "id_image": "prospect_4497223"
+    }
+  ]
+}

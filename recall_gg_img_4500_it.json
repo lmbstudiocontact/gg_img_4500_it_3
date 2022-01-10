@@ -1,0 +1,95 @@
+{
+  "english": "recall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chịu thiếu thốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đòi về",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gọi về",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kêu về",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thủ tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự triệu hồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gọi về",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hồi tưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thủ tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "triệu hồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu về",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xóa bỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring (a fact, event, or situation) back into one's mind; remember.",
+      "definitions_ex_en": "I can still vaguely recall being taken to the hospital",
+      "definitions_ex_vn": "Tôi vẫn có thể mơ hồ nhớ lại được đưa đến bệnh viện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "officially order (someone) to return to a place.",
+      "definitions_ex_en": "the Panamanian ambassador was recalled from Peru",
+      "definitions_ex_vn": "Đại sứ Panamanian được gọi lại từ Peru",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or instance of officially recalling someone or something.",
+      "definitions_ex_en": "a recall of Parliament",
+      "definitions_ex_vn": "nhớ lại quốc hội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or faculty of remembering something learned or experienced.",
+      "definitions_ex_en": "he has amazing recall",
+      "definitions_ex_vn": "anh ấy đã nhớ lại tuyệt vời",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381427_754d0bf178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381427_d3b951bac8_o.png",
+      "id_image": "recall_5822121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451333_d90403cb70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451333_1c3972965f_o.png",
+      "id_image": "recall_5865159"
+    }
+  ]
+}

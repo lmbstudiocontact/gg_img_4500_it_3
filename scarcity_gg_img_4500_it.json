@@ -1,0 +1,36 @@
+{
+  "english": "scarcity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hiếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hiếm có",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hiếm hoi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ít có",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being scarce or in short supply; shortage.",
+      "definitions_ex_en": "a time of scarcity",
+      "definitions_ex_vn": "một thời điểm khan hiếm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447258_3940735937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447258_6f6fdb6741_o.png",
+      "id_image": "scarcity_6203109"
+    }
+  ]
+}

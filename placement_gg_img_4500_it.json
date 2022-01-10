@@ -1,0 +1,32 @@
+{
+  "english": "placement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sắp đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xếp chổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of putting someone or something in a particular place or the fact of being placed.",
+      "definitions_ex_en": "the proper placement of microphones",
+      "definitions_ex_vn": "vị trí thích hợp của micro",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344181_0b0d159f51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344181_4cbde04c4a_o.png",
+      "id_image": "placement_5781873"
+    }
+  ]
+}

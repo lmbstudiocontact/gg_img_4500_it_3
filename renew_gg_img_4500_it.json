@@ -1,0 +1,61 @@
+{
+  "english": "renew",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đổi mới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay bộ phận của máy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay mới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắt lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "resume (an activity) after an interruption.",
+      "definitions_ex_en": "the parents renewed their campaign to save the school",
+      "definitions_ex_vn": "Cha mẹ đổi mới chiến dịch của họ để cứu trường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extend for a further period the validity of (a license, subscription, or contract).",
+      "definitions_ex_en": "her contract had not been renewed",
+      "definitions_ex_vn": "Hợp đồng của cô đã không được đổi mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "replace (something that is broken or worn out).",
+      "definitions_ex_en": "a generator was replaced and filters were renewed",
+      "definitions_ex_vn": "một máy phát điện đã được thay thế và các bộ lọc đã được gia hạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370037_ed8a2e223c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370037_e1a0a26970_o.png",
+      "id_image": "renew_3906457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370007_df21ee6cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370007_4b070e14e9_o.png",
+      "id_image": "renew_5965841"
+    }
+  ]
+}

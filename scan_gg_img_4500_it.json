@@ -1,0 +1,81 @@
+{
+  "english": "scan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xem qua loa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngâm thơ từng vận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngâm thơ từng vế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dò xét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thăm dò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem vật gì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "look at all parts of (something) carefully in order to detect some feature.",
+      "definitions_ex_en": "he raised his binoculars to scan the coast",
+      "definitions_ex_vn": "Ông nâng Ống nhòm của mình để quét bờ biển",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a surface, object, or part of the body) to be traversed by a detector or an electromagnetic beam.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "analyze the meter of (a line of verse) by reading with the emphasis on its rhythm or by examining the pattern of feet or syllables.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of scanning someone or something.",
+      "definitions_ex_en": "a quick scan of the sports page",
+      "definitions_ex_vn": "Quét nhanh trang thể thao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377297_25a2f423f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377297_326121e10e_o.png",
+      "id_image": "scan_2992104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332491_f889d41aaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332491_7057317e85_o.png",
+      "id_image": "scan_4542169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447453_10a32e0783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447453_b0cef6191a_o.png",
+      "id_image": "scan_4636236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332531_b65f256884_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332531_2efe721a29_o.png",
+      "id_image": "scan_802784"
+    }
+  ]
+}

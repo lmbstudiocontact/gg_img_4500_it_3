@@ -1,0 +1,48 @@
+{
+  "english": "pastor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "linh mục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục sư",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a minister in charge of a Christian church or congregation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be pastor of (a church or congregation).",
+      "definitions_ex_en": "he pastored Peninsula Bible Church in Palo Alto",
+      "definitions_ex_vn": "anh ấy chuyên viên nhà thờ kinh thánh bán đảo ở Palo Alto",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065845_e255c315fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065845_fb6b2c02be_o.png",
+      "id_image": "pastor_1775683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684004_024e8ed446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684004_661b4c1fc5_o.png",
+      "id_image": "pastor_3768710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065775_8f46fbc781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065775_5bc957aee0_o.png",
+      "id_image": "pastor_4159213"
+    }
+  ]
+}

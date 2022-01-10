@@ -1,0 +1,28 @@
+{
+  "english": "pronunciation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách đọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép đọc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the way in which a word is pronounced.",
+      "definitions_ex_en": "spelling does not determine pronunciation",
+      "definitions_ex_vn": "Chính tả không xác định cách phát âm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351026_6d5638f3fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351026_7bc09cefdf_o.png",
+      "id_image": "pronunciation_6091264"
+    }
+  ]
+}

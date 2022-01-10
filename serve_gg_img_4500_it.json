@@ -1,0 +1,97 @@
+{
+  "english": "serve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giao banh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có lợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cư xử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phục dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cú giao banh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "perform duties or services for (another person or an organization).",
+      "definitions_ex_en": "Malcolm has served the church very faithfully",
+      "definitions_ex_vn": "Malcolm đã phục vụ nhà thờ rất trung thành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "present (food or drink) to someone.",
+      "definitions_ex_en": "they serve wine instead of beer",
+      "definitions_ex_vn": "họ phục vụ rượu thay vì bia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deliver (a document such as a summons or writ) in a formal manner to the person to whom it is addressed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be of use in achieving or satisfying.",
+      "definitions_ex_en": "this book will serve a useful purpose",
+      "definitions_ex_vn": "Cuốn sách này sẽ phục vụ một mục đích hữu ích",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in tennis and other racket sports) hit the ball or shuttlecock to begin play.",
+      "definitions_ex_en": "he tossed the ball up to serve",
+      "definitions_ex_vn": "Anh ta ném bóng lên để phục vụ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bind (a rope) with thin cord to protect or strengthen it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "operate (a gun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in tennis and other racket sports) an act of hitting the ball or shuttlecock to start play.",
+      "definitions_ex_en": "he was let down by an erratic serve",
+      "definitions_ex_vn": "anh ta đã buông xuống bởi một phục vụ thất thường",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086560_e1a78cb3d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086560_f055fb6319_o.png",
+      "id_image": "serve_1147916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394042_62ccc58a4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394042_a062849f07_o.png",
+      "id_image": "serve_1711995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394022_bae5fa6016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394022_76b3ba2f23_o.png",
+      "id_image": "serve_3827646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394072_21e1b54806_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394072_e99b99db1a_o.png",
+      "id_image": "serve_649236"
+    }
+  ]
+}

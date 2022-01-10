@@ -1,0 +1,80 @@
+{
+  "english": "presentation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách nằm của hài nhi khi sanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giới thiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trao tặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trình bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật kỷ niệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the giving of something to someone, especially as part of a formal ceremony.",
+      "definitions_ex_en": "the presentation of certificates to new members",
+      "definitions_ex_vn": "bài thuyết trình cho các thành viên mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a speech or talk in which a new product, idea, or piece of work is shown and explained to an audience.",
+      "definitions_ex_en": "a sales presentation",
+      "definitions_ex_vn": "một bài thuyết trình bán hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal introduction of someone, especially at court.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the position of a fetus in relation to the cervix at the time of delivery.",
+      "definitions_ex_en": "breech presentation",
+      "definitions_ex_vn": "trình bày groch.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the coming forward of a patient for initial examination and diagnosis.",
+      "definitions_ex_en": "all patients in this group were symptomatic at initial presentation",
+      "definitions_ex_vn": "Tất cả bệnh nhân trong nhóm này là triệu chứng tại trình bày ban đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for Candlemas.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328231_b3aa01af1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328231_cc9a91f848_o.png",
+      "id_image": "presentation_287514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064975_b77a76342c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064975_f202d38995_o.png",
+      "id_image": "presentation_439299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328166_88fa768f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328166_573f7e031b_o.png",
+      "id_image": "presentation_562522"
+    }
+  ]
+}

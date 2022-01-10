@@ -1,0 +1,51 @@
+{
+  "english": "sale",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bán trả góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán trả tiền mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán hạ giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the exchange of a commodity for money; the action of selling something.",
+      "definitions_ex_en": "we withdrew it from sale",
+      "definitions_ex_vn": "Chúng tôi đã rút nó từ việc bán hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a period during which a retailer sells goods at reduced prices.",
+      "definitions_ex_en": "a clearance sale",
+      "definitions_ex_vn": "Bán giải phóng mặt bằng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073745_9b34d7bed7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073745_71492f6a79_o.png",
+      "id_image": "sale_1027976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381702_71cb0fcdf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381702_65d0cfe0bf_o.png",
+      "id_image": "sale_2273409"
+    }
+  ]
+}

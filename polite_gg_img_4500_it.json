@@ -1,0 +1,32 @@
+{
+  "english": "polite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có học thức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lể phép",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lịch sự",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing behavior that is respectful and considerate of other people.",
+      "definitions_ex_en": "they thought she was wrong but were too polite to say so",
+      "definitions_ex_vn": "Họ nghĩ rằng cô ấy đã sai nhưng quá lịch sự để nói như vậy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692639_52da457bfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692639_2f3485aa1b_o.png",
+      "id_image": "polite_708662"
+    }
+  ]
+}

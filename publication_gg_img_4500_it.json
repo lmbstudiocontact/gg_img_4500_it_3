@@ -1,0 +1,50 @@
+{
+  "english": "publication",
+  "list_translation_mean": [
+    {
+      "translate_mean": "báo xuất bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ban hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự báo cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự công bố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đăng trên báo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the preparation and issuing of a book, journal, piece of music, or other work for public sale.",
+      "definitions_ex_en": "the publication of her first novel",
+      "definitions_ex_vn": "Ấn phẩm tiểu thuyết đầu tiên của cô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393627_0bf9836945_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393627_ac4089d00e_o.png",
+      "id_image": "publication_4615679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703539_e8c24cd008_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703539_823053f99e_o.png",
+      "id_image": "publication_4949232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463533_30c2bc38ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463533_e9a7eaa7d4_o.png",
+      "id_image": "publication_6159445"
+    }
+  ]
+}

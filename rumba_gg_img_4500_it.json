@@ -1,0 +1,44 @@
+{
+  "english": "rumba",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điệu nhạc rum ba",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy theo điệu rum ba",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rhythmic dance with Spanish and African elements, originating in Cuba.",
+      "definitions_ex_en": "to see an authentic rumba you must go to Havana",
+      "definitions_ex_vn": "để xem một rumba đích thực, bạn phải đến havana",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dance the rumba.",
+      "definitions_ex_en": "you once taught two boys to rumba",
+      "definitions_ex_vn": "Bạn đã từng dạy hai chàng trai đến Rumba",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384202_0a10a1eef6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384202_0507fbcc66_o.png",
+      "id_image": "rumba_1425384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694379_8135f7147c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694379_cc0ac2d0a9_o.png",
+      "id_image": "rumba_2566241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339196_21e5b317a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339196_32491312d9_o.png",
+      "id_image": "rumba_2566245"
+    }
+  ]
+}

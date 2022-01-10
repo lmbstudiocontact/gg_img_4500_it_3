@@ -1,0 +1,50 @@
+{
+  "english": "rehabilitation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hồi phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khôi phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấy lại quyền hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phục hồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phục quyền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of restoring someone to health or normal life through training and therapy after imprisonment, addiction, or illness.",
+      "definitions_ex_en": "she underwent rehabilitation and was walking within three weeks",
+      "definitions_ex_vn": "Cô đã trải qua phục hồi chức năng và đang đi bộ trong vòng ba tuần",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329356_b98d05aa5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329356_7287f5e7a1_o.png",
+      "id_image": "rehabilitation_2742148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329331_8c293b3fb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329331_8517afec51_o.png",
+      "id_image": "rehabilitation_4812386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684229_f46d4bb6c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684229_200651c241_o.png",
+      "id_image": "rehabilitation_5255872"
+    }
+  ]
+}

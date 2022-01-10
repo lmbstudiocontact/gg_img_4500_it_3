@@ -1,0 +1,39 @@
+{
+  "english": "playoff",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự vô chung kết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an additional game or period of play that decides the outcome of a tied contest.",
+      "definitions_ex_en": "a sudden-death playoff was required to settle the tournament",
+      "definitions_ex_vn": "Một trận play-off bất ngờ là cần thiết để giải quyết giải đấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696039_fc79de36d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696039_7a5fa1843d_o.png",
+      "id_image": "playoff_2690433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078040_9c9d1aee4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078040_c0b197c4f9_o.png",
+      "id_image": "playoff_3824070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078115_710bfd14dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078115_be6b8f4d74_o.png",
+      "id_image": "playoff_571257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340691_84e9525fa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340691_1504689fac_o.png",
+      "id_image": "playoff_6224063"
+    }
+  ]
+}

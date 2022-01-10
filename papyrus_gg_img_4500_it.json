@@ -1,0 +1,40 @@
+{
+  "english": "papyrus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây chỉ thảo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a material prepared in ancient Egypt from the pithy stem of a water plant, used in sheets throughout the ancient Mediterranean world for writing or painting on and also for making rope, sandals, and boats.",
+      "definitions_ex_en": "the text was preserved, probably on papyrus",
+      "definitions_ex_vn": "Văn bản được bảo tồn, có thể là trên giấy cói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the tall aquatic sedge from which papyrus is obtained, native to central Africa and the Nile valley.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688989_02e2538f98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688989_09be1d610b_o.png",
+      "id_image": "papyrus_207330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378732_28f58230b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378732_256aabb086_o.png",
+      "id_image": "papyrus_499282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070830_a0d59e0466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070830_1b53390090_o.png",
+      "id_image": "papyrus_506955"
+    }
+  ]
+}

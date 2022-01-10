@@ -1,0 +1,78 @@
+{
+  "english": "professional",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về chức nghiệp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về nghề nghiệp",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or belonging to a profession.",
+      "definitions_ex_en": "young professional people",
+      "definitions_ex_vn": "Những người trẻ chuyên nghiệp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "engaged in a specified activity as one's main paid occupation rather than as a pastime.",
+      "definitions_ex_en": "a professional boxer",
+      "definitions_ex_vn": "một võ sĩ chuyên nghiệp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "worthy of or appropriate to a professional person; competent, skillful, or assured.",
+      "definitions_ex_en": "their music is both memorable and professional",
+      "definitions_ex_vn": "Âm nhạc của họ là cả đáng nhớ và chuyên nghiệp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person engaged or qualified in a profession.",
+      "definitions_ex_en": "professionals such as lawyers and surveyors",
+      "definitions_ex_vn": "các chuyên gia như luật sư và nhà khảo sát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person engaged in a specified activity, especially a sport or branch of the performing arts, as a main paid occupation rather than as a pastime.",
+      "definitions_ex_en": "his first season as a professional",
+      "definitions_ex_vn": "mùa đầu tiên của anh ấy là một chuyên gia",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person competent or skilled in a particular activity.",
+      "definitions_ex_en": "she was a real professional on stage",
+      "definitions_ex_vn": "cô ấy là một chuyên gia thực sự trên sân khấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436763_fd85ba4da3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436763_fb0614f78a_o.png",
+      "id_image": "professional_1425426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321531_669ee2a0db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321531_80a7b499c9_o.png",
+      "id_image": "professional_1900272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436678_2c6250a148_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436678_81d3bd09e2_o.png",
+      "id_image": "professional_2767735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676514_55304829fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676514_35df329cbe_o.png",
+      "id_image": "professional_3098048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676504_2e8246e8ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676504_784e6e958e_o.png",
+      "id_image": "professional_4832775"
+    }
+  ]
+}

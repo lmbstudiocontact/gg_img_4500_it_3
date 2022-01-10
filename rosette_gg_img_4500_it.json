@@ -1,0 +1,34 @@
+{
+  "english": "rosette",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơ thắt hình hoa hồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nút thắt hình hoa hồng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rose-shaped decoration, typically made of ribbon and awarded to winners of a competition.",
+      "definitions_ex_en": "the showjumping rosettes Samantha had accumulated",
+      "definitions_ex_vn": "Các rosettes samantha đã tích lũy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a design, arrangement, or growth resembling a rose.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387002_8e7d51ba37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387002_b2b8e1891b_o.png",
+      "id_image": "rosette_4633944"
+    }
+  ]
+}

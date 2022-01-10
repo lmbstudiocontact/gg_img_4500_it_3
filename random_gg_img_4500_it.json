@@ -1,0 +1,38 @@
+{
+  "english": "random",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngẫu nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tình cờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự tình cờ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "made, done, happening, or chosen without method or conscious decision.",
+      "definitions_ex_en": "a random sample of 100 households",
+      "definitions_ex_vn": "một mẫu ngẫu nhiên 100 hộ gia đình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an unknown, unspecified, or odd person.",
+      "definitions_ex_en": "I just sat down by myself and talked to some randoms",
+      "definitions_ex_vn": "Tôi chỉ ngồi xuống một mình và nói chuyện với một số randoms",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694194_97c83de985_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694194_15880b47df_o.png",
+      "id_image": "random_5835728"
+    }
+  ]
+}

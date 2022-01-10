@@ -1,0 +1,48 @@
+{
+  "english": "poverty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghèo nàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng thiếu thốn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being extremely poor.",
+      "definitions_ex_en": "thousands of families are living in abject poverty",
+      "definitions_ex_vn": "Hàng ngàn gia đình đang sống trong nghèo đói",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068275_6420cc3e5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068275_5cc34b2c82_o.png",
+      "id_image": "poverty_4244631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331491_27019a53de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331491_42bac1560c_o.png",
+      "id_image": "poverty_4797116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686474_81513146e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686474_0f7bce7663_o.png",
+      "id_image": "poverty_5256487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376172_11f0252f26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376172_cf46183e7a_o.png",
+      "id_image": "poverty_5256571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376097_3ddcbf2f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376097_beb001052a_o.png",
+      "id_image": "poverty_5256607"
+    }
+  ]
+}

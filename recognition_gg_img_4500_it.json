@@ -1,0 +1,62 @@
+{
+  "english": "recognition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chấp nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự công nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhìn nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thừa nhận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "identification of someone or something or person from previous encounters or knowledge.",
+      "definitions_ex_en": "she saw him pass by without a sign of recognition",
+      "definitions_ex_vn": "Cô thấy anh ta đi qua mà không có dấu hiệu công nhận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "acknowledgment of something's existence, validity, or legality.",
+      "definitions_ex_en": "the unions must receive proper recognition",
+      "definitions_ex_vn": "Các đoàn thể phải nhận được sự công nhận thích hợp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690354_304569783a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690354_46ab59ba94_o.png",
+      "id_image": "recognition_2910055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072075_5894dd7a5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072075_a6fa741b53_o.png",
+      "id_image": "recognition_3199500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450143_f9a80ae6e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450143_d4eb4a403d_o.png",
+      "id_image": "recognition_4060757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335071_0854b5dfd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335071_478993a983_o.png",
+      "id_image": "recognition_4493082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380112_57bba76ea7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380112_0f40122d4e_o.png",
+      "id_image": "recognition_5977980"
+    }
+  ]
+}

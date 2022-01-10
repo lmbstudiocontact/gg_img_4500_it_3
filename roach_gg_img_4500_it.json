@@ -1,0 +1,49 @@
+{
+  "english": "roach",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống cá chép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại cá ở nước ngọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hớt như bàn chải",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the butt of a marijuana cigarette.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an edible Eurasian freshwater fish of the minnow family, popular with anglers. It can hybridize with related fishes, notably rudd and bream.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a curve, in or out, in the edge of a sail, especially in the leech of a fore-and-aft sail.",
+      "definitions_ex_en": "full-length battens permit a more pronounced roach",
+      "definitions_ex_vn": "Battens đầy đủ cho phép một con gián rõ rệt hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082500_bd299b0a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082500_4bca38948f_o.png",
+      "id_image": "roach_406469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344996_f45032192c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344996_0e3ddc8271_o.png",
+      "id_image": "roach_4677780"
+    }
+  ]
+}

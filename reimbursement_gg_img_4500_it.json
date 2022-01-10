@@ -1,0 +1,24 @@
+{
+  "english": "reimbursement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bồi thường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of repaying a person who has spent or lost money.",
+      "definitions_ex_en": "reimbursement of everyday medical costs",
+      "definitions_ex_vn": "Hoàn trả chi phí y tế hàng ngày",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066000_3ddf5eb7eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066000_c4a8618972_o.png",
+      "id_image": "reimbursement_2419677"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "postscript",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phần viết thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tái bút",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an additional remark at the end of a letter, after the signature and introduced by “P.S.”.",
+      "definitions_ex_en": "he added a postscript: “Leaving tomorrow.”",
+      "definitions_ex_vn": "Ông đã thêm một bài viết: \"rời khỏi ngày mai.\"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a page description language that is an industry standard for outputting high-resolution text and graphics.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448203_85bf84a2fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448203_003647616d_o.png",
+      "id_image": "postscript_2620509"
+    }
+  ]
+}

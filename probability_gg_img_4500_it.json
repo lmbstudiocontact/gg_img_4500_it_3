@@ -1,0 +1,33 @@
+{
+  "english": "probability",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lẻ đúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính có thể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the extent to which something is probable; the likelihood of something happening or being the case.",
+      "definitions_ex_en": "the rain will make the probability of their arrival even greater",
+      "definitions_ex_vn": "Mưa sẽ làm cho xác suất sự xuất hiện của họ thậm chí còn lớn hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368427_db727b99f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368427_7b877ffc1a_o.png",
+      "id_image": "probability_2103687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368357_caac54fa7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368357_592102d03c_o.png",
+      "id_image": "probability_5052209"
+    }
+  ]
+}

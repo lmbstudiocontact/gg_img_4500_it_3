@@ -1,0 +1,74 @@
+{
+  "english": "personal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhân xưng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cá nhân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự do cá nhân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về cá nhân",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, affecting, or belonging to a particular person rather than to anyone else.",
+      "definitions_ex_en": "her personal fortune was recently estimated at $37 million",
+      "definitions_ex_vn": "Vận may cá nhân của cô gần đây ước tính khoảng 37 triệu đô la",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or concerning one's private life, relationships, and emotions rather than matters connected with one's public or professional career.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to a person's body.",
+      "definitions_ex_en": "personal hygiene",
+      "definitions_ex_vn": "vệ sinh cá nhân",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or denoting one of the three persons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "existing as a self-aware entity, not as an abstraction or an impersonal force.",
+      "definitions_ex_en": "he rejected the notion of a personal God",
+      "definitions_ex_vn": "Ông từ chối quan niệm về một vị thần cá nhân",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057045_a653ef888a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057045_1ba4901ff6_o.png",
+      "id_image": "personal_1471063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365192_682fec68b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365192_28d432c362_o.png",
+      "id_image": "personal_2596477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365152_67b290612c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365152_cd9227ed91_o.png",
+      "id_image": "personal_3306801"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "prepare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuẩn bị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đồ ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "soạn văn kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa soạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thảo văn kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dự bị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (something) ready for use or consideration.",
+      "definitions_ex_en": "prepare a brief summary of the article",
+      "definitions_ex_vn": "chuẩn bị một bản tóm tắt ngắn gọn về bài viết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (someone) ready or able to do or deal with something.",
+      "definitions_ex_en": "schools should prepare children for life",
+      "definitions_ex_vn": "Các trường nên chuẩn bị cho trẻ em suốt đời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in conventional harmony) lead up to (a discord) by means of preparation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443558_b6220ce5a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443558_ed57116476_o.png",
+      "id_image": "prepare_1768900"
+    }
+  ]
+}

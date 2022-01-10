@@ -1,0 +1,121 @@
+{
+  "english": "rake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái bừa cào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái cào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ nghiêng của mái nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ nghiêng của mũi tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ăn chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chơi bời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái cào tiền ở sòng bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phóng túng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghiêng của cột buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cào bằng bừa cào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cào lá cây lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nghiêng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiêng cột buồm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiêng mái nhà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiêng mũi tàu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an implement consisting of a pole with a crossbar toothed like a comb at the end, or with several tines held together by a crosspiece, used especially for drawing together cut grass or fallen leaves, or smoothing loose soil or gravel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fashionable or wealthy man of dissolute or promiscuous habits.",
+      "definitions_ex_en": "a merry Restoration rake",
+      "definitions_ex_vn": "Một cái cào phục hồi vui vẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the angle at which a thing slopes.",
+      "definitions_ex_en": "you can adjust the rake of the backrests",
+      "definitions_ex_vn": "Bạn có thể điều chỉnh cào của tựa lưng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the angle of the edge or face of a cutting tool.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a herd of colts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "collect, gather, or move with a rake or similar implement.",
+      "definitions_ex_en": "I was the one who raked the leaves and cut the grass",
+      "definitions_ex_vn": "Tôi là người cào lá và cắt cỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "set (something, especially a stage or the floor of an auditorium) at a sloping angle.",
+      "definitions_ex_en": "the floor is steeply raked",
+      "definitions_ex_vn": "sàn nhà được cào dốc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076555_84c8c24cdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076555_7ca7113498_o.png",
+      "id_image": "rake_1283670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694604_363c8abc7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694604_9406678577_o.png",
+      "id_image": "rake_809016"
+    }
+  ]
+}

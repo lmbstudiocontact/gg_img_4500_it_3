@@ -1,0 +1,44 @@
+{
+  "english": "polka",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm nhạc polka",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một điệu khiêu vũ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a lively dance of Bohemian origin in duple time.",
+      "definitions_ex_en": "they finished off by dancing the polka",
+      "definitions_ex_vn": "Họ kết thúc bằng cách nhảy polka",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dance the polka.",
+      "definitions_ex_en": "a man and wife polkaing are easy to spot",
+      "definitions_ex_vn": "một người đàn ông và vợ polkaing rất dễ phát hiện",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337016_980e7aa3eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337016_af21308484_o.png",
+      "id_image": "polka_122864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074010_45dbbf2bbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074010_33a3a14aa2_o.png",
+      "id_image": "polka_1425365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382012_dce9c7883a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382012_6f06d2d4d0_o.png",
+      "id_image": "polka_1902295"
+    }
+  ]
+}

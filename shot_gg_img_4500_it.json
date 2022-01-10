@@ -1,0 +1,114 @@
+{
+  "english": "shot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cú sút banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạn của súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngụm rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắn súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quăng lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tay thiện xạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc chì vào dây câu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nạp súng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the firing of a gun or cannon.",
+      "definitions_ex_en": "he brought down a caribou with a single shot to the neck",
+      "definitions_ex_vn": "Anh ta đưa một caribou xuống với một cú bắn vào cổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hit, stroke, or kick of the ball in sports such as basketball, tennis, or golf.",
+      "definitions_ex_en": "his partner pulled off a winning backhand shot",
+      "definitions_ex_vn": "Đối tác của anh ta rút ra một cú sút ba tay chiến thắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ball of stone or metal used as a missile fired from a large gun or cannon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a photograph.",
+      "definitions_ex_en": "she took a shot of me holding a lamp near my face",
+      "definitions_ex_vn": "Cô ấy chụp tôi cầm một cái đèn gần mặt tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small drink, especially of distilled liquor.",
+      "definitions_ex_en": "he took a shot of whiskey",
+      "definitions_ex_vn": "Anh ta chụp một miếng rượu whisky",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the launch of a space rocket.",
+      "definitions_ex_en": "a moon shot",
+      "definitions_ex_vn": "một cú sút mặt trăng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "past and past participle of shoot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of colored cloth) woven with a warp and weft of different colors, giving a contrasting iridescent effect when looked at from different angles.",
+      "definitions_ex_en": "a dress of shot silk",
+      "definitions_ex_vn": "Một chiếc váy lụa bắn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "ruined or worn out.",
+      "definitions_ex_en": "a completely shot engine will put you out of the race",
+      "definitions_ex_vn": "Một động cơ hoàn toàn bắn sẽ đưa bạn ra khỏi cuộc đua",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697949_fa28aeb63d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697949_dfe9241ca5_o.png",
+      "id_image": "shot_1651815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457458_601ed3ebc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457458_0d11c9d80e_o.png",
+      "id_image": "shot_3564467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080210_d8f8a6a6c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080210_4963217b19_o.png",
+      "id_image": "shot_572307"
+    }
+  ]
+}

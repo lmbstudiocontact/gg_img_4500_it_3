@@ -1,0 +1,43 @@
+{
+  "english": "pilgrim",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đi cúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi hành hương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi lể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who journeys to a sacred place for religious reasons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel or wander like a pilgrim.",
+      "definitions_ex_en": "he pilgrimed to his old sporting places",
+      "definitions_ex_vn": "anh ta hành hương đến những nơi thể thao cũ của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084515_9b9ab89e01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084515_d35b5db5f5_o.png",
+      "id_image": "pilgrim_2052305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392047_7f97777e6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392047_5ec7308035_o.png",
+      "id_image": "pilgrim_2069379"
+    }
+  ]
+}

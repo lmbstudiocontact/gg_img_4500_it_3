@@ -1,0 +1,47 @@
+{
+  "english": "pharmacy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiệu thuốc tây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bào chế thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiệm thuốc tây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a store where medicinal drugs are dispensed and sold.",
+      "definitions_ex_en": "the local pharmacy",
+      "definitions_ex_vn": "Nhà thuốc địa phương",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704894_1c916683d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704894_c594cf89e8_o.png",
+      "id_image": "pharmacy_1152749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395107_8f4cc50083_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395107_1c8ac65f94_o.png",
+      "id_image": "pharmacy_3974939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704854_9e6b782d1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704854_2c6980ce48_o.png",
+      "id_image": "pharmacy_4534978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350251_ea2a881694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350251_4acf3381f5_o.png",
+      "id_image": "pharmacy_5880158"
+    }
+  ]
+}

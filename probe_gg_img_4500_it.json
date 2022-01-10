@@ -1,0 +1,51 @@
+{
+  "english": "probe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái xông để dò vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự điều tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thẫm vấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dò xét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thăm dò",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a blunt-ended surgical instrument used for exploring a wound or part of the body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "physically explore or examine (something) with the hands or an instrument.",
+      "definitions_ex_en": "researchers probing the digestive glands of mollusks",
+      "definitions_ex_vn": "Các nhà nghiên cứu thăm dò các tuyến tiêu hóa của động vật thân mềm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323411_b8b06b0ec7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323411_d1fac20fd3_o.png",
+      "id_image": "probe_3212653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368297_2b45b3e8ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368297_49d6d52e19_o.png",
+      "id_image": "probe_3739688"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "rotation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hồi chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay phiên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of rotating around an axis or center.",
+      "definitions_ex_en": "the moon moves in the same direction as the earth's rotation",
+      "definitions_ex_vn": "Mặt trăng di chuyển theo cùng một hướng với vòng quay của Trái đất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341561_b4797e6a1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341561_18da5ecc6c_o.png",
+      "id_image": "rotation_1558175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386592_4cc89ec4bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386592_ff72f3561a_o.png",
+      "id_image": "rotation_1791994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341601_6048ed0277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341601_e14b23ddeb_o.png",
+      "id_image": "rotation_556718"
+    }
+  ]
+}

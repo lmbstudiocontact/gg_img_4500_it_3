@@ -1,0 +1,71 @@
+{
+  "english": "rope",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc bằng dây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo ngựa lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "may nẹp buồm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a length of strong cord made by twisting together strands of natural fibers such as hemp or artificial fibers such as polypropylene.",
+      "definitions_ex_en": "there was no way down, even with a rope",
+      "definitions_ex_vn": "Không có cách nào xuống, ngay cả với một sợi dây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quantity of roughly spherical objects such as onions or pearls strung together.",
+      "definitions_ex_en": "a rope of pearls",
+      "definitions_ex_vn": "một sợi ngọc trai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the established procedures in an organization or area of activity.",
+      "definitions_ex_en": "I want you to show her the ropes",
+      "definitions_ex_vn": "Tôi muốn bạn cho cô ấy thấy những sợi dây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "catch, fasten, or secure with rope.",
+      "definitions_ex_en": "the calves must be roped and led out of the stockade",
+      "definitions_ex_vn": "Những con bê phải được roped và dẫn ra khỏi stockade",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387312_679808dac1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387312_5ce076afbc_o.png",
+      "id_image": "rope_3531806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342301_b72b17720f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342301_8953950102_o.png",
+      "id_image": "rope_4020425"
+    }
+  ]
+}

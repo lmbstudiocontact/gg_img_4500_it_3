@@ -1,0 +1,56 @@
+{
+  "english": "raspberry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mâm xôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dâu rừng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an edible soft fruit related to the blackberry, consisting of a cluster of reddish-pink drupelets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the plant that yields the raspberry, forming tall, stiff, prickly stems (canes).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a deep reddish-pink color like that of a ripe raspberry.",
+      "definitions_ex_en": "a raspberry tweed jacket",
+      "definitions_ex_vn": "một chiếc áo khoác raspberry tweed",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sound made with the tongue and lips in order to express derision or contempt.",
+      "definitions_ex_en": "Clare blew a raspberry and stood up",
+      "definitions_ex_vn": "Clare thổi một quả mâm xôi và đứng lên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338281_7ee1cb16de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338281_c99f02c1d6_o.png",
+      "id_image": "raspberry_2358317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075330_1aba3de696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075330_b79c68be9b_o.png",
+      "id_image": "raspberry_5848581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338311_031b5bee92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338311_c6c1c235a5_o.png",
+      "id_image": "raspberry_952034"
+    }
+  ]
+}

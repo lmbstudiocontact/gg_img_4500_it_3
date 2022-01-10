@@ -1,0 +1,50 @@
+{
+  "english": "powerful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có công hiệu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có nghị lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có quyền thế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có sức mạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thế lực",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having great power or strength.",
+      "definitions_ex_en": "a fast, powerful car",
+      "definitions_ex_vn": "một chiếc xe nhanh, mạnh mẽ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very.",
+      "definitions_ex_en": "walking in this weather is powerful hot work",
+      "definitions_ex_vn": "Đi bộ trong thời tiết này là công việc nóng mạnh mẽ",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331061_90dbd7bea9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331061_a1cb765d1f_o.png",
+      "id_image": "powerful_2767753"
+    }
+  ]
+}

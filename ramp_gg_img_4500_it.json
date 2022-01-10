@@ -1,0 +1,88 @@
+{
+  "english": "ramp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoạn đường lài nhài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lên giá quá cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứng hai chân chồm lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giận dữ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổi giận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xây lài nhài",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a slope or inclined plane for joining two different levels, as at the entrance or between floors of a building.",
+      "definitions_ex_en": "a wheelchair ramp",
+      "definitions_ex_vn": "một chiếc xe lăn dốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an upward bend in a stair rail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electrical waveform in which the voltage increases or decreases linearly with time.",
+      "definitions_ex_en": "a voltage ramp",
+      "definitions_ex_vn": "một đoạn đường điện áp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with a ramp.",
+      "definitions_ex_en": "we have purposefully ramped the entrance to make it easier access",
+      "definitions_ex_vn": "Chúng tôi đã cố tình lan can vào lối vào để làm cho nó dễ dàng hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an animal) rear up on its hind legs in a threatening posture.",
+      "definitions_ex_en": "they roared and ramped in cages",
+      "definitions_ex_vn": "họ gầm lên và tràn ngập trong lồng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an electrical waveform) increase or decrease voltage linearly with time.",
+      "definitions_ex_en": "the integrated circuit's output then ramps in the negative direction",
+      "definitions_ex_vn": "Đầu ra của mạch tích hợp sau đó dốc theo hướng âm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454163_ecfdde2aec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454163_db0820a2c1_o.png",
+      "id_image": "ramp_1413103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454128_3b1563fa24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454128_75007e4f17_o.png",
+      "id_image": "ramp_5612956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076285_76a32bdf60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076285_2e83401078_o.png",
+      "id_image": "ramp_6245887"
+    }
+  ]
+}

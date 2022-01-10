@@ -1,0 +1,98 @@
+{
+  "english": "project",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều dự định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kế hoạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trù hoạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trù liệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vạch một đường thẳng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
+      "definitions_ex_en": "a research project",
+      "definitions_ex_vn": "một dự án nghiên cứu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "estimate or forecast (something) on the basis of present trends or data.",
+      "definitions_ex_en": "spending was projected at $72 million",
+      "definitions_ex_vn": "Chi tiêu đã được dự kiến ở mức 72 triệu đô la",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extend outward beyond something else; protrude.",
+      "definitions_ex_en": "I noticed a slip of paper projecting from the book",
+      "definitions_ex_vn": "Tôi nhận thấy một tờ giấy dự bị từ cuốn sách",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "throw or cause to move forward or outward.",
+      "definitions_ex_en": "seeds are projected from the tree",
+      "definitions_ex_vn": "Hạt giống được chiếu từ cây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "present or promote (a particular view or image).",
+      "definitions_ex_en": "he strives to project an image of youth",
+      "definitions_ex_vn": "Anh phấn đấu để chiếu một hình ảnh của tuổi trẻ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "draw straight lines from a center of or parallel lines through every point of (a given figure) to produce a corresponding figure on a surface or a line by intersecting the surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a projection of (the earth, sky, etc.) on a plane surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706294_61a6572f98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706294_9ed3f0454c_o.png",
+      "id_image": "project_1285367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396547_0cac0de6e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396547_80c3601918_o.png",
+      "id_image": "project_4698464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396507_a88f7b445f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396507_964cac7dd6_o.png",
+      "id_image": "project_4698487"
+    }
+  ]
+}

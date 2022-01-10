@@ -1,0 +1,37 @@
+{
+  "english": "reset",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để lại chổ củ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp chữ lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "set again or differently.",
+      "definitions_ex_en": "I must reset the alarm",
+      "definitions_ex_vn": "Tôi phải đặt lại báo thức",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437128_6af7e72e25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437128_634b9fb41f_o.png",
+      "id_image": "reset_5359842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321901_919f3d587a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321901_fbdfb9ed49_o.png",
+      "id_image": "reset_5650756"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "porter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bia đen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cu li",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người gác cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giử cừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hầu bàn trên xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khiêng vác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phụ việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân viên khuân vác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phu khiêng vác",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person employed to carry luggage and other loads, especially in a railroad station, airport, or hotel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dark brown bitter beer brewed from malt partly charred or browned by drying at a high temperature.",
+      "definitions_ex_en": "the company produces a bottle-conditioned porter",
+      "definitions_ex_vn": "Công ty sản xuất một khuân vác có hiệu lực chai",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689879_ec9098ec8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689879_1559ab7983_o.png",
+      "id_image": "porter_2323796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071735_f319cc62ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071735_447b9989fb_o.png",
+      "id_image": "porter_2534062"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "saloon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ca bin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng hạng nhứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng hớt tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng trưng bày hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng uốn tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quán rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tửu quán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a public room or building used for a specified purpose.",
+      "definitions_ex_en": "a billiard saloon",
+      "definitions_ex_vn": "một saloon bida",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691329_3ec5588529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691329_e89ac8eb86_o.png",
+      "id_image": "saloon_1353835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450953_66c5705d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450953_a07b576ef3_o.png",
+      "id_image": "saloon_2396819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381082_bc5dba0965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381082_27805f73d3_o.png",
+      "id_image": "saloon_683819"
+    }
+  ]
+}

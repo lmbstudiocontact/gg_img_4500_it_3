@@ -1,0 +1,117 @@
+{
+  "english": "pound",
+  "list_translation_mean": [
+    {
+      "translate_mean": "pao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh ngộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ nhốt súc vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng bảng Anh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đơn vị cân anh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoàn cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thoi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giả nát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiểm tra sức nặng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền nát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhốt súc vật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rào lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán nhỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a unit of weight in general use equal to 16 oz. avoirdupois (0.4536 kg).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the basic monetary unit of the UK, equal to 100 pence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place where stray animals, especially dogs, may be officially taken and kept until claimed by their owners or otherwise disposed of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "strike or hit heavily and repeatedly.",
+      "definitions_ex_en": "Patrick pounded the couch with his fists",
+      "definitions_ex_vn": "Patrick đập chiếc ghế dài bằng nắm đấm của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shut (an animal) in a pound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446793_bbc568cb65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446793_cf6cd8d0e9_o.png",
+      "id_image": "pound_2349360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686829_77ced42d1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686829_30bdc612a6_o.png",
+      "id_image": "pound_506129"
+    }
+  ]
+}

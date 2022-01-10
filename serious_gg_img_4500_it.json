@@ -1,0 +1,55 @@
+{
+  "english": "serious",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hệ trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghiêm trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguy hiểm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a subject, state, or activity) demanding careful consideration or application.",
+      "definitions_ex_en": "marriage is a serious matter",
+      "definitions_ex_vn": "Hôn nhân là một vấn đề nghiêm trọng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "acting or speaking sincerely and in earnest, rather than in a joking or halfhearted manner.",
+      "definitions_ex_en": "actors who are serious about their work",
+      "definitions_ex_vn": "diễn viên nghiêm túc về công việc của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "significant or worrying because of possible danger or risk; not slight or negligible.",
+      "definitions_ex_en": "she escaped serious injury",
+      "definitions_ex_vn": "Cô ấy đã thoát khỏi chấn thương nghiêm trọng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "substantial in terms of size, number, or quality.",
+      "definitions_ex_en": "he suddenly had serious money to spend",
+      "definitions_ex_vn": "anh ta đột nhiên có tiền nghiêm túc để chi tiêu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464293_553ccdf0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464293_3e11fc7dc6_o.png",
+      "id_image": "serious_260249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704264_ef04634fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704264_89828db962_o.png",
+      "id_image": "serious_312243"
+    }
+  ]
+}

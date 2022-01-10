@@ -1,0 +1,28 @@
+{
+  "english": "playful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vui tươi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui vẻ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fond of games and amusement; lighthearted.",
+      "definitions_ex_en": "a playful tomboy who loves to dress up",
+      "definitions_ex_vn": "Một tomboy vui tươi thích mặc quần áo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078435_f944a25af8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078435_d0582f8ae5_o.png",
+      "id_image": "playful_1612468"
+    }
+  ]
+}

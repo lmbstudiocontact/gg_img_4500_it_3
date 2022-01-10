@@ -1,0 +1,45 @@
+{
+  "english": "scooter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe hai bánh có bàn trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe máy dầu có bánh nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light two-wheeled open motor vehicle on which the driver sits over an enclosed engine with legs together and feet resting on a floorboard.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vehicle typically ridden as a recreation, consisting of a footboard mounted on two wheels and a long steering handle, propelled by resting one foot on the footboard and pushing the other against the ground.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel or ride on a scooter.",
+      "definitions_ex_en": "scootering is the most economical and practical form of transportation",
+      "definitions_ex_vn": "Sóng xe là hình thức vận chuyển kinh tế và thực tế nhất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444293_82069eef52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444293_f405634bf7_o.png",
+      "id_image": "scooter_440346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066050_321102e317_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066050_029db14560_o.png",
+      "id_image": "scooter_911297"
+    }
+  ]
+}

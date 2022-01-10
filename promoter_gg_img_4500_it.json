@@ -1,0 +1,48 @@
+{
+  "english": "promoter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đề nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đề xướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khởi xướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sáng lập",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or company that finances or organizes a sporting event or theatrical production.",
+      "definitions_ex_en": "a boxing promoter",
+      "definitions_ex_vn": "một nhà quảng bá đấm bốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a supporter of a cause or aim.",
+      "definitions_ex_en": "Mitterrand was a fierce promoter of European integration",
+      "definitions_ex_vn": "Mitterrand là một nhà quảng bá quyết liệt của sự hội nhập châu Âu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an additive that increases the activity of a catalyst.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088410_70fcdebf77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088410_a2ee0cba03_o.png",
+      "id_image": "promoter_2037836"
+    }
+  ]
+}

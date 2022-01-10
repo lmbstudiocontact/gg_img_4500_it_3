@@ -1,0 +1,33 @@
+{
+  "english": "pimple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mụt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhọt mọc trên da",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small hard inflamed spot on the skin.",
+      "definitions_ex_en": "he had a pimple at the corner of his mouth",
+      "definitions_ex_vn": "anh ta có một mụn nhọt ở khóe miệng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391527_1d23e3be80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391527_09daf82da8_o.png",
+      "id_image": "pimple_4236818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084000_23b6542561_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084000_684bb06b68_o.png",
+      "id_image": "pimple_5221080"
+    }
+  ]
+}

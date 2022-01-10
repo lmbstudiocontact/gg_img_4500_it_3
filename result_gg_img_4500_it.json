@@ -1,0 +1,52 @@
+{
+  "english": "result",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đưa đến kết quả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết quả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a consequence, effect, or outcome of something.",
+      "definitions_ex_en": "the tower collapsed as a result of safety violations",
+      "definitions_ex_vn": "tòa tháp sụp đổ do vi phạm an toàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "occur or follow as the consequence of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464598_8ff6a1d6cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464598_08cd32ca9a_o.png",
+      "id_image": "result_2720876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464578_aab9b2c77b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464578_5995f6edaf_o.png",
+      "id_image": "result_2720920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349891_eac7104e43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349891_3d6e565bfc_o.png",
+      "id_image": "result_3974900"
+    }
+  ]
+}

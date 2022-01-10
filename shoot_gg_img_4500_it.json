@@ -1,0 +1,141 @@
+{
+  "english": "shoot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cành non",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chồi cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm nhức nhối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thác nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc săn bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc thi bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn súng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhức nhối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nẩy chồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xông vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "kill or wound (a person or animal) with a bullet or arrow.",
+      "definitions_ex_en": "he was shot in the leg during an armed robbery",
+      "definitions_ex_vn": "Anh ta bị bắn vào chân trong một vụ cướp có vũ trang",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move suddenly and rapidly in a particular direction.",
+      "definitions_ex_en": "the car shot forward",
+      "definitions_ex_vn": "Chiếc xe bắn về phía trước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in soccer, hockey, basketball, etc.) kick, hit, or throw the ball or puck in an attempt to score a goal.",
+      "definitions_ex_en": "Williams twice shot wide",
+      "definitions_ex_vn": "Williams hai lần bắn rộng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "film or photograph (a scene, film, etc.).",
+      "definitions_ex_en": "she has just been commissioned to shoot a video",
+      "definitions_ex_vn": "cô ấy vừa được ủy thác để quay video",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a plant or seed) send out buds or shoots; germinate.",
+      "definitions_ex_en": "some years one or other plant fails to shoot",
+      "definitions_ex_vn": "một số năm một hoặc nhà máy khác không bắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "inject oneself or another person with (a narcotic drug).",
+      "definitions_ex_en": "he shot dope into his arm",
+      "definitions_ex_vn": "Anh bắn dope vào tay anh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "plane (the edge of a board) accurately.",
+      "definitions_ex_en": "I shot the longer edge down on the planer",
+      "definitions_ex_vn": "Tôi bắn cạnh dài hơn trên máy bào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a young branch or sucker springing from the main stock of a tree or other plant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an occasion when a group of people hunt and shoot game for sport.",
+      "definitions_ex_en": "a grouse shoot",
+      "definitions_ex_vn": "một buổi chụp giáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an occasion when a professional photographer takes photographs or when a film or video is being made.",
+      "definitions_ex_en": "a photo shoot",
+      "definitions_ex_vn": "Một bức ảnh chụp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of chute1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rapid in a stream.",
+      "definitions_ex_en": "follow the portages that skirt all nine shoots of whitewater",
+      "definitions_ex_vn": "Theo dõi các portagages váy tất cả chín chồi nước trắng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343426_13bb0a8c1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343426_a31050fe83_o.png",
+      "id_image": "shoots_6041496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343621_8fc338a423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343621_558e6d48b1_o.png",
+      "id_image": "shoot_2121075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081045_192d28bac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081045_5570225a6f_o.png",
+      "id_image": "shoot_305503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458303_72db8bc174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458303_496cd9443b_o.png",
+      "id_image": "shoot_4357009"
+    }
+  ]
+}

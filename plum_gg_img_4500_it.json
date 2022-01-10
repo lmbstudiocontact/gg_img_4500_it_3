@@ -1,0 +1,68 @@
+{
+  "english": "plum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nho khô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây mận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật lựa chọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật tốt nhứt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an oval fleshy fruit that is purple, reddish, or yellow when ripe and contains a flattish pointed pit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the deciduous tree that bears the plum.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a reddish-purple color.",
+      "definitions_ex_en": "a plum blazer",
+      "definitions_ex_vn": "một blazer mận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a highly desirable attainment, accomplishment, or acquisition, typically a job.",
+      "definitions_ex_en": "he landed a plum assistant producer's job",
+      "definitions_ex_vn": "Ông đã hạ cánh một công việc của nhà sản xuất trợ lý mận",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695159_ebde6e93c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695159_18626501f2_o.png",
+      "id_image": "plum_1135500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384792_92894c629e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384792_23b3b85500_o.png",
+      "id_image": "plum_2358295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339881_7402211e3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339881_5f339d33ba_o.png",
+      "id_image": "plum_3800523"
+    }
+  ]
+}

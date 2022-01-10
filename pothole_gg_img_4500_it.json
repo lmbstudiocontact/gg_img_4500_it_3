@@ -1,0 +1,30 @@
+{
+  "english": "pothole",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ổ gà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a deep natural underground cavity formed by the erosion of rock, especially by the action of water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "produce potholes in (the ground).",
+      "definitions_ex_en": "the road is being torn up and potholed by passing trucks",
+      "definitions_ex_vn": "Con đường đang bị xé toạc và nhìn trộm xe tải",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377467_0abf2da105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377467_b65e0b945a_o.png",
+      "id_image": "pothole_4351774"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "scripture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài thánh kinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài thánh thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh kinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sacred writings of Christianity contained in the Bible.",
+      "definitions_ex_en": "passages of scripture",
+      "definitions_ex_vn": "đoạn văn của Kinh thánh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371247_decdf7ef2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371247_fe21348053_o.png",
+      "id_image": "scripture_2015200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441458_b9c3cd00b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441458_50291525b9_o.png",
+      "id_image": "scripture_5234455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441418_0a49f52aa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441418_dd6eaf0ab7_o.png",
+      "id_image": "scripture_6315142"
+    }
+  ]
+}

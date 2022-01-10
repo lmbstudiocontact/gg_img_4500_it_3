@@ -1,0 +1,77 @@
+{
+  "english": "revolution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc cách mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc khởi nghĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc nổi dậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bạo động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến thiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quay của trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vòng quanh của trái đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a forcible overthrow of a government or social order, in favor of a new system.",
+      "definitions_ex_en": "the country has had a socialist revolution",
+      "definitions_ex_vn": "Đất nước đã có một cuộc cách mạng xã hội chủ nghĩa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of revolving.",
+      "definitions_ex_en": "one revolution a second",
+      "definitions_ex_vn": "một cuộc cách mạng một giây",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085370_b0c83050a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085370_068ce47432_o.png",
+      "id_image": "revolution_1610502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702774_652e860bce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702774_99f34e702f_o.png",
+      "id_image": "revolution_2229972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702749_175735f957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702749_e6681978a0_o.png",
+      "id_image": "revolution_2529759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085290_aa73a614c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085290_9deffc055f_o.png",
+      "id_image": "revolution_3919324"
+    }
+  ]
+}

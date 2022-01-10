@@ -1,0 +1,29 @@
+{
+  "english": "recycle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ phế thải làm lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "convert (waste) into reusable material.",
+      "definitions_ex_en": "car hulks were recycled into new steel",
+      "definitions_ex_vn": "Xe Hulks được tái chế vào thép mới",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688619_fb1c799b70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688619_d235f0203e_o.png",
+      "id_image": "recycle_147432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688579_42a018bf83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688579_67fd2f37d3_o.png",
+      "id_image": "recycle_2385459"
+    }
+  ]
+}

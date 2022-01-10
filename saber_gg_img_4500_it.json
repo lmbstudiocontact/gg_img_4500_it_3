@@ -1,0 +1,39 @@
+{
+  "english": "saber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiếm kỵ binh lưỡi cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bị thương bằng kiếm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heavy cavalry sword with a curved blade and a single cutting edge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut down or wound with a saber.",
+      "definitions_ex_en": "the people were fired on and sabered",
+      "definitions_ex_vn": "Người dân đã bị sa thải và sabered",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693614_42f6d6809e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693614_ef966d86f3_o.png",
+      "id_image": "saber_123991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383332_02cb3102ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383332_558e9bea42_o.png",
+      "id_image": "saber_1862059"
+    }
+  ]
+}

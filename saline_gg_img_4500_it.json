@@ -1,0 +1,60 @@
+{
+  "english": "saline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có muối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tính chất như muối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mặn như muối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "muối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước muối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ruộng muối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "containing or impregnated with salt.",
+      "definitions_ex_en": "saline alluvial soils",
+      "definitions_ex_vn": "Đất phù sa mặn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a solution of salt in water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073335_a7a4766e1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073335_cf15760820_o.png",
+      "id_image": "saline_2941513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691714_9797c0998e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691714_56da76f613_o.png",
+      "id_image": "saline_469426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073375_66657408ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073375_3606c121fb_o.png",
+      "id_image": "saline_813604"
+    }
+  ]
+}

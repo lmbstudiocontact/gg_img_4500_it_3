@@ -1,0 +1,46 @@
+{
+  "english": "shame",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều hổ thẹn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều ô nhục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xấu hổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm xấu hổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xấu hổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.",
+      "definitions_ex_en": "she was hot with shame",
+      "definitions_ex_vn": "cô ấy nóng bỏng với sự xấu hổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person, action, or situation) make (someone) feel ashamed.",
+      "definitions_ex_en": "I tried to shame him into giving some away",
+      "definitions_ex_vn": "Tôi đã cố gắng xấu hổ anh ta đưa ra một số",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084780_bf47b6bf73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084780_a9f32ce169_o.png",
+      "id_image": "shame_708695"
+    }
+  ]
+}

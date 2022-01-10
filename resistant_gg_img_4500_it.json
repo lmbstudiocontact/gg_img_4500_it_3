@@ -1,0 +1,39 @@
+{
+  "english": "resistant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chịu đựng được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chống lại",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "offering resistance to something or someone.",
+      "definitions_ex_en": "some of the old Churches are resistant to change",
+      "definitions_ex_vn": "Một số nhà thờ cũ kháng thuốc thay đổi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting starch that is not easily broken down by enzymes within the body and is therefore minimally absorbed during digestion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351756_9bdcc83957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351756_d08f0ae4ab_o.png",
+      "id_image": "resistant_4176816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396357_0ff2099d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396357_fc0eb62cab_o.png",
+      "id_image": "resistant_5830766"
+    }
+  ]
+}

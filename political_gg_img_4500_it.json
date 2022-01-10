@@ -1,0 +1,42 @@
+{
+  "english": "political",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về chánh phủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chính trị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về quốc gia",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the government or the public affairs of a country.",
+      "definitions_ex_en": "a period of political and economic stability",
+      "definitions_ex_vn": "một thời kỳ ổn định chính trị và kinh tế",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452098_b5a23697e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452098_b1452bb964_o.png",
+      "id_image": "political_1610497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382267_3cb9914288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382267_2709e0d606_o.png",
+      "id_image": "political_4201547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382227_9d5ae2f57e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382227_794db625d7_o.png",
+      "id_image": "political_5978879"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "river",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large natural stream of water flowing in a channel to the sea, a lake, or another such stream.",
+      "definitions_ex_en": "the River Danube",
+      "definitions_ex_vn": "sông Danube.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390037_9b8c9f608d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390037_a6ea879636_o.png",
+      "id_image": "river_1566600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700279_bd9d8a2e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700279_da0bb8e644_o.png",
+      "id_image": "river_390815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082550_44dd058088_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082550_f07362e112_o.png",
+      "id_image": "river_5132879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390072_feea7bba21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390072_77dd075d25_o.png",
+      "id_image": "river_642120"
+    }
+  ]
+}

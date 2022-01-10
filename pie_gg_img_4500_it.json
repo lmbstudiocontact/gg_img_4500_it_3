@@ -1,0 +1,57 @@
+{
+  "english": "pie",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh pa-tê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chả cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chả thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chim gỏ kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt bằm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a baked dish of fruit, or meat and vegetables, typically with a top and base of pastry.",
+      "definitions_ex_en": "a meat pie",
+      "definitions_ex_vn": "một chiếc bánh thịt.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for magpie.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a former monetary unit of India and Pakistan, equal to one twelfth of an anna.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347876_52f4b4dc76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347876_8f2cf73640_o.png",
+      "id_image": "pie_1139835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702594_af07d01e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702594_e2184924af_o.png",
+      "id_image": "pie_817295"
+    }
+  ]
+}

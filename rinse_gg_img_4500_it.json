@@ -1,0 +1,65 @@
+{
+  "english": "rinse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự súc chai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giặt đồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "súc chai",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "wash (something) with clean water to remove soap, detergent, dirt, or impurities.",
+      "definitions_ex_en": "always rinse your hair thoroughly",
+      "definitions_ex_vn": "Luôn rửa sạch tóc của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of rinsing something.",
+      "definitions_ex_en": "I gave my hands a quick rinse",
+      "definitions_ex_vn": "Tôi đã đưa tay lên một nước rửa nhanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an antiseptic solution for cleansing the mouth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a preparation for conditioning or temporarily tinting the hair.",
+      "definitions_ex_en": "a colored rinse",
+      "definitions_ex_vn": "một cái rửa màu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391092_78299711d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391092_b789ea5763_o.png",
+      "id_image": "rinse_1415738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083520_c16ae1c5ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083520_0c434e17e9_o.png",
+      "id_image": "rinse_2654602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460808_24b15537b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460808_7fe8b024c4_o.png",
+      "id_image": "rinse_2780619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346136_566b4059d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346136_00c3bbc148_o.png",
+      "id_image": "rinse_525824"
+    }
+  ]
+}

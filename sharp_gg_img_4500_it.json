@@ -1,0 +1,149 @@
+{
+  "english": "sharp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khôn ngoan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bén",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kịch liệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xảo quyệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tinh quái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lanh lợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thình lình",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "dấu cao nữa âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thông thạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà chuyên môn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lường gạt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an object) having an edge or point that is able to cut or pierce something.",
+      "definitions_ex_en": "cut the cake with a very sharp knife",
+      "definitions_ex_vn": "Cắt bánh với một con dao rất sắc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "producing a sudden, piercing physical sensation or effect.",
+      "definitions_ex_en": "I suddenly felt a sharp pain in my back",
+      "definitions_ex_vn": "Tôi đột nhiên cảm thấy một cơn đau nhói ở lưng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "distinct in outline or detail; clearly defined.",
+      "definitions_ex_en": "the job was a sharp contrast from her past life",
+      "definitions_ex_vn": "Công việc này là một sự tương phản mạnh mẽ từ cuộc sống trong quá khứ của cô ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an action or change) sudden and marked.",
+      "definitions_ex_en": "there was a sharp increase in interest rates",
+      "definitions_ex_vn": "Có sự gia tăng mạnh về lãi suất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having or showing speed of perception, comprehension, or response.",
+      "definitions_ex_en": "her sharp eyes missed nothing",
+      "definitions_ex_vn": "Đôi mắt sắc bén của cô không bỏ lỡ gì cả",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of musical sound) above true or normal pitch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "precisely (used after an expression of time).",
+      "definitions_ex_en": "the meeting starts at 7:30 sharp",
+      "definitions_ex_vn": "Cuộc họp bắt đầu lúc 7:30",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in a sudden or abrupt way.",
+      "definitions_ex_en": "he was brought up sharp by Helen's voice",
+      "definitions_ex_vn": "Anh ta đã được đưa lên SHARP bởi giọng nói của Helen",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "above the true or normal pitch of musical sound.",
+      "definitions_ex_en": "he heard him playing a little sharp on the high notes",
+      "definitions_ex_vn": "Anh nghe thấy anh chơi một chút về những nốt cao",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a musical note raised a semitone above natural pitch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, sharply pointed needle used for general sewing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a swindler or cheat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cheat or swindle (someone), especially at cards.",
+      "definitions_ex_en": "the fellow is drunk, let's sharp him",
+      "definitions_ex_vn": "Các đồng bào đang say, hãy sắc bén.",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701504_f075cf2073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701504_3786df5168_o.png",
+      "id_image": "sharpen_648411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391647_bf8155c0be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391647_9212de4c26_o.png",
+      "id_image": "sharp_215046"
+    }
+  ]
+}

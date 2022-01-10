@@ -1,0 +1,110 @@
+{
+  "english": "roast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phơi khô",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chế giểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cười nhạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để gần lửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nung kim loại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nướng kim khoáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nướng thịt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quay thịt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rang cà phê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự nướng thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quay thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt nướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt quay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire.",
+      "definitions_ex_en": "she was going to roast a leg of lamb for Sunday dinner",
+      "definitions_ex_vn": "Cô ấy sẽ nướng thịt cừu cho bữa tối chủ nhật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "criticize or reprimand severely.",
+      "definitions_ex_en": "if you waste his time he'll roast you",
+      "definitions_ex_vn": "Nếu bạn lãng phí thời gian anh ấy sẽ nướng bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of food) having been roasted.",
+      "definitions_ex_en": "a plate of cold roast beef",
+      "definitions_ex_vn": "một đĩa thịt bò nướng lạnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a cut of meat that has been roasted or that is intended for roasting.",
+      "definitions_ex_en": "carving the Sunday roast",
+      "definitions_ex_vn": "khắc chủ nhật nướng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344711_eafcab6204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344711_6db39b7527_o.png",
+      "id_image": "roast_3005202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699799_59e288145a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699799_629e2286bd_o.png",
+      "id_image": "roast_5158601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699759_9a98bf851e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699759_a0d252c22b_o.png",
+      "id_image": "roast_5181408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344781_b5f09b799c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344781_b310e33540_o.png",
+      "id_image": "roast_532368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699854_9b2e18a280_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699854_54c81ae51f_o.png",
+      "id_image": "roast_782265"
+    }
+  ]
+}

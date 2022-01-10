@@ -1,0 +1,54 @@
+{
+  "english": "protocol",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biên bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghi lể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghi thức ngoại giao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyết nghị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the official procedure or system of rules governing affairs of state or diplomatic occasions.",
+      "definitions_ex_en": "protocol forbids the prince from making any public statement in his defense",
+      "definitions_ex_vn": "Nghị định thư cấm hoàng tử thực hiện bất kỳ tuyên bố công khai nào trong phòng thủ của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the original draft of a diplomatic document, especially of the terms of a treaty agreed to in conference and signed by the parties.",
+      "definitions_ex_en": "signatories to the Montreal Protocol",
+      "definitions_ex_vn": "Người ký đến Nghị định thư Montreal",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal or official record of scientific experimental observations.",
+      "definitions_ex_en": "protocols of published cases frequently lack this vital information",
+      "definitions_ex_vn": "Nghị định thư của các trường hợp được công bố thường xuyên thiếu thông tin quan trọng này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of rules governing the exchange or transmission of data between devices.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394407_1d767faedb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394407_906db5838d_o.png",
+      "id_image": "protocol_3104016"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "public",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "công khai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "công nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "công cộng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "công chúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giữa công chúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi công cộng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or concerning the people as a whole.",
+      "definitions_ex_en": "public concern",
+      "definitions_ex_vn": "quan tâm công khai",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "done, perceived, or existing in open view.",
+      "definitions_ex_en": "he wanted a public apology in the Wall Street Journal",
+      "definitions_ex_vn": "Anh ấy muốn một lời xin lỗi công khai trong Tạp chí Phố Wall",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or provided by the government rather than an independent, commercial company.",
+      "definitions_ex_en": "public benefits",
+      "definitions_ex_vn": "Lợi ích công cộng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "ordinary people in general; the community.",
+      "definitions_ex_en": "the library is open to the public",
+      "definitions_ex_vn": "Thư viện mở cửa cho công chúng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348911_816e42b0e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348911_bc46aef582_o.png",
+      "id_image": "public_1163403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463663_bd0e5e36b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463663_5baf47a72c_o.png",
+      "id_image": "public_1719640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348871_e2c3278e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348871_e546532839_o.png",
+      "id_image": "public_2529726"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703594_30c09babf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703594_ff5db182e4_o.png",
+      "id_image": "public_5605980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703709_0c01915598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703709_45121cd154_o.png",
+      "id_image": "public_984451"
+    }
+  ]
+}

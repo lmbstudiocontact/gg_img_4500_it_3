@@ -1,0 +1,40 @@
+{
+  "english": "perm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự uốn tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho tóc có dợn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hairstyle produced by setting the hair in waves or curls and then treating it with chemicals so that the style lasts for several months.",
+      "definitions_ex_en": "I had a perm on Friday",
+      "definitions_ex_vn": "Tôi đã có một perm vào thứ Sáu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "set (the hair) in a perm.",
+      "definitions_ex_en": "her hair was permed and then set",
+      "definitions_ex_vn": "Tóc của cô ấy được phép và sau đó đặt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "permanent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320426_c9a49b8871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320426_c40cfccf46_o.png",
+      "id_image": "perm_3125044"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "english": "rhythm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhịp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận tiết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strong, regular, repeated pattern of movement or sound.",
+      "definitions_ex_en": "Ruth listened to the rhythm of his breathing",
+      "definitions_ex_vn": "Ruth lắng nghe nhịp thở của anh ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462433_86db1d706c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462433_cc9355bf5f_o.png",
+      "id_image": "rhythm_2620560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347631_61290bf0e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347631_ecd0616c7a_o.png",
+      "id_image": "rhythm_3475357"
+    }
+  ]
+}

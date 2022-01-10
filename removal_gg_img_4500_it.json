@@ -1,0 +1,40 @@
+{
+  "english": "removal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ám sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bãi chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi chổ ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dời đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tẩy vết dơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of taking away or abolishing something unwanted.",
+      "definitions_ex_en": "the removal of the brain tumor",
+      "definitions_ex_vn": "loại bỏ khối u não",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062400_daf4f17776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062400_833e18d156_o.png",
+      "id_image": "removal_5715018"
+    }
+  ]
+}

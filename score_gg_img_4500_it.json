@@ -1,0 +1,133 @@
+{
+  "english": "score",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái khắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu ghi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên văn bản nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái khía",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường cắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỷ số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường gạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trả hết nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết sướt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết trầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghi điểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm trầy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the number of points, goals, runs, etc. achieved in a game or by a team or an individual.",
+      "definitions_ex_en": "the final score was 25–16 in favor of Washington",
+      "definitions_ex_vn": "Điểm cuối cùng là 25-16 ủng hộ Washington",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group or set of twenty or about twenty.",
+      "definitions_ex_en": "a score of men lost their lives in the battle",
+      "definitions_ex_vn": "Một số điểm của những người đàn ông mất mạng trong trận chiến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a written representation of a musical composition showing all the vocal and instrumental parts arranged one below the other.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a notch or line cut or scratched into a surface.",
+      "definitions_ex_en": "check the shaft for scratches and scores",
+      "definitions_ex_vn": "Kiểm tra trục cho trầy xước và điểm số",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "gain (a point, goal, run, etc.) in a competitive game.",
+      "definitions_ex_en": "Penn State scored two touchdowns in the fourth quarter",
+      "definitions_ex_vn": "Nhà nước Penn được ghi hai lần chạm vào quý IV",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "orchestrate or arrange (a piece of music), typically for a specified instrument or instruments.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut or scratch a notch or line on (a surface).",
+      "definitions_ex_en": "score the card until you cut through",
+      "definitions_ex_vn": "Ghi thẻ cho đến khi bạn cắt qua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "examine (experimentally treated cells, bacterial colonies, etc.), making a record of the number showing a particular character.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065805_887b69d9b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065805_f0f498d461_o.png",
+      "id_image": "score_2927869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684029_f5b69a8214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684029_7fbc016a89_o.png",
+      "id_image": "score_464517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328931_971d982bab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328931_93bffb727e_o.png",
+      "id_image": "score_6245941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328911_31f7e5b371_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328911_60303d4c45_o.png",
+      "id_image": "score_6267256"
+    }
+  ]
+}

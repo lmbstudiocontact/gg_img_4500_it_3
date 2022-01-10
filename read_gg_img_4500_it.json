@@ -1,0 +1,104 @@
+{
+  "english": "read",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đã đọc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự đọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi chép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giãng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giảng nghĩa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiên cứu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "look at and comprehend the meaning of (written or printed matter) by mentally interpreting the characters or symbols of which it is composed.",
+      "definitions_ex_en": "it's the best novel I've ever read",
+      "definitions_ex_vn": "Đó là cuốn tiểu thuyết tốt nhất tôi từng đọc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "discover (information) by reading it in a written or printed source.",
+      "definitions_ex_en": "he was arrested yesterday—I read it in the paper",
+      "definitions_ex_vn": "Anh ấy đã bị bắt hôm qua, tôi đọc nó trong bài báo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "understand or interpret the nature or significance of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "inspect and record the figure indicated on (a measuring instrument).",
+      "definitions_ex_en": "I've come to read the gas meter",
+      "definitions_ex_vn": "Tôi đã đến để đọc đồng hồ khí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a computer) copy, transfer, or interpret (data).",
+      "definitions_ex_en": "it attempts to read a floppy disk without regard to its format",
+      "definitions_ex_vn": "Nó cố gắng đọc một đĩa mềm mà không liên quan đến định dạng của nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hear and understand the words of (someone speaking on a radio transmitter).",
+      "definitions_ex_en": "“Do you read me? Over.”",
+      "definitions_ex_vn": "Bạn có đọc tôi không?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "having a specified level of knowledge as a result of reading.",
+      "definitions_ex_en": "Ada was well read in French literature",
+      "definitions_ex_vn": "Ada đã đọc tốt trong văn học Pháp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a readership of a specified extent.",
+      "definitions_ex_en": "it is still a widely read newspaper",
+      "definitions_ex_vn": "Nó vẫn là một tờ báo được đọc rộng rãi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074050_206d9108de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074050_974c3fa585_o.png",
+      "id_image": "read_2991637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451833_599740f068_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451833_477fe17051_o.png",
+      "id_image": "read_5020618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073980_570eaf0a47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073980_66fb0f4c43_o.png",
+      "id_image": "read_5318836"
+    }
+  ]
+}

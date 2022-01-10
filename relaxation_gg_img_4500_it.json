@@ -1,0 +1,69 @@
+{
+  "english": "relaxation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự dản ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giãm bớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm nhẹ bớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nới ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghĩ ngơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhuận trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy nhược",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being free from tension and anxiety.",
+      "definitions_ex_en": "I guided my patient into a state of hypnotic relaxation",
+      "definitions_ex_vn": "Tôi đã hướng bệnh nhân của mình vào trạng thái thư giãn thôi miên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of making a rule or restriction less strict.",
+      "definitions_ex_en": "relaxation of censorship rules",
+      "definitions_ex_vn": "Thư giãn các quy tắc kiểm duyệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the restoration of equilibrium following disturbance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442698_ef31647887_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442698_76cdf46035_o.png",
+      "id_image": "relaxation_5265911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372317_d6c59867f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372317_ac0fbe80dc_o.png",
+      "id_image": "relaxation_5778178"
+    }
+  ]
+}

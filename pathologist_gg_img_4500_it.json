@@ -1,0 +1,24 @@
+{
+  "english": "pathologist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà bịnh lý học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a scientist who studies the causes and effects of diseases, especially one who examines laboratory samples of body tissue for diagnostic or forensic purposes.",
+      "definitions_ex_en": "a pathologist carried out a postmortem examination",
+      "definitions_ex_vn": "một nhà nghiên cứu bệnh học đã thực hiện một kỳ thi hậu kỳ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064890_4d747083df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064890_47fb724db1_o.png",
+      "id_image": "pathologist_3468037"
+    }
+  ]
+}
